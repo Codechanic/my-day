@@ -1,0 +1,18 @@
+<ons-dialog style="width: 100px;" var="loginDialog" ng-controller="LoginDialogController" cancelable>
+    
+    <div class="center" style="padding: 5px; text-align: center;">
+        Connect with one of this services
+    </div>
+        <ons-list style="font-size: 12px;">
+            <ons-list-item ng-click="fbConnect(true)">
+                <ons-icon icon="fa-facebook" size="30px"></ons-icon> Connect with FB
+            </ons-list-item>
+            <ons-list-item ng-click="twConnect(true)">
+                <ons-icon icon="fa-twitter" size="30px"></ons-icon> Connect with Twitter
+            </ons-list-item>
+            <ons-list-item ng-click="">
+                <ons-icon icon="fa-instagram" size="30px"></ons-icon> Connect with Instagram
+            </ons-list-item>
+        </ons-list>
+
+</ons-dialog>

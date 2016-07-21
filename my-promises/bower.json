@@ -1,0 +1,39 @@
+{
+  "name": "MessengerAPP",
+  "homepage": "http://onsen.io/",
+  "authors": [
+    "Alepht <alepht@gmail.com>"
+  ],
+  "description": "MessengerAPP repo",
+  "main": "",
+  "moduleType": [],
+  "license": "Apache-2.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular-input-masks": "*",
+    "angular-messages": "*",
+    "angular-moment": "*",
+    "angular-touch": "1.4.8",
+    "angular-translate": "*",
+    "angular-ui-router": "*",
+    "angulartics": "*",
+    "decimal.js": "4.0.2",
+    "firebase": "*",
+    "jquery": "*",
+    "lodash": "*",
+    "moment": "*",
+    "ngstorage": "*"
+  },
+  "resolutions": {
+    "angular": "1.4.8"
+  },
+  "dependencies": {
+    "angular-lazy-img": "^1.2.2"
+  }
+}

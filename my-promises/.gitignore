@@ -1,0 +1,9 @@
+**/.idea
+**/*.iml
+**/.gradle
+**/build
+**/out
+**/node_modules
+**/.asscache
+**/DO_NOT_COMMIT.md
+**/.monaca
