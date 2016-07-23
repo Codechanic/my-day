@@ -4,9 +4,9 @@
     <meta charset="utf-8" />
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="mobile-web-app-capable" content="yes" />
-    <link rel="shortcut icon" href="../favicon.ico" type="image/x-icon" />
-    <link href='https://fonts.googleapis.com/css?family=Roboto:400,300italic,300,400italic,500,700,700italic,500italic' rel='stylesheet' type='text/css'>
-    <title>Messages</title>
+    <link rel="shortcut icon" href="assets/img/favicon.ico" type="image/x-icon" />
+    <!--<link href='https://fonts.googleapis.com/css?family=Roboto:400,300italic,300,400italic,500,700,700italic,500italic' rel='stylesheet' type='text/css'>-->
+    <title>My Day</title>
     
     
     <script src="components/loader.js"></script>
@@ -22,7 +22,7 @@
 
     <!-- Dependencies -->
     
-    <script src="bower_components/firebase/firebase.js"></script>
+    <!--<script src="bower_components/firebase/firebase.js"></script>-->
     <script src="bower_components/jquery/dist/jquery.min.js"></script>
     <script src="bower_components/lodash/dist/lodash.min.js"></script>
     <script src="bower_components/decimal.js/decimal.min.js"></script>
@@ -54,15 +54,12 @@
     
     <script src="app/app.routes.js"></script>
     <script src="app/app.module.js"></script>
-    
-    <script src="app/shared/location/locationService.js"></script>
-    <script src="app/shared/user/userService.js"></script>
 
-    <script src="app/components/login/loginDialogController.js"></script>
-    <script src="app/components/messages/messagesController.js"></script>
+<!--Controllers-->
     <script src="app/components/main/principalController.js"></script>
-
-
+    <script src="app/components/promise/promiseController.js"></script>
+<!--Services-->
+    <script src="app/shared/data/factory.js"></script>
     <!-- Styles -->
     <link rel="stylesheet" href="components/loader.css">
     <link rel="stylesheet" href="lib/onsenui/css/onsenui.css" type="text/css" media="all" />
@@ -78,8 +75,8 @@
     <ons-modal var="locationModal" onclick="locationModal.hide()">
         <ons-icon icon="ion-load-c" spin="true"></ons-icon>
         <br>
-        <br> Please wait..
-        <br> Loading...
+        <br> Por favor espere..
+        <br> Cargando...
     </ons-modal>
     
     <ons-navigator title="Navigator" var="myNav">
