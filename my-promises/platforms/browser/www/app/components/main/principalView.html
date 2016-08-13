@@ -1,0 +1,30 @@
+<ons-page ng-controller="PrincipalController">
+
+    <ons-modal var="modal" ng-click="modal.hide()" style="z-index: 999">
+      <ons-icon icon="ion-load-c" spin="true"></ons-icon>
+      <br>
+      <br> Please wait.
+      <br> Loading...
+    </ons-modal>
+        
+        <ons-toolbar>
+            <div class="left">
+              <ons-toolbar-button ng-click="app.menu.toggleMenu()" style="font-size: 24px;">
+                <ons-icon icon="md-menu"></ons-icon>
+              </ons-toolbar-button>
+            </div>
+            <div class="center">Promesas</div>
+
+        </ons-toolbar>
+        
+        <ons-tabbar position="bottom">
+          <ons-tab page="app/components/promise/promiseView.html" label="Home" icon="fa-home" active="true" style="width: 55px; top: 10px" persistent>
+              <ons-icon icon="fa-home" style="font-size: 26px;"><div style="font-size: 10px;">Inicio</div></ons-icon>
+              <span class="smallNotification" style="left: -10px;" ng-show="newCheckins > 0"></span>
+          </ons-tab>
+            
+
+          
+        </ons-tabbar>
+        
+</ons-page>

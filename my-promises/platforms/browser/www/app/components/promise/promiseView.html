@@ -1,0 +1,20 @@
+<ons-page ng-controller="PromiseController">
+   <ons-toolbar>
+      <div class="center">
+         <ons-toolbar-button data-ng-click="reloadPromise()">
+            <ons-icon icon="ion-load-c" ></ons-icon> Recargar
+         </ons-toolbar-button>
+      </div>
+   </ons-toolbar>
+   <ons-row>
+      <ons-col>
+
+           <div data-ng-show="!isLoadind">
+              <ons-icon icon="ion-ios-lightbulb-outline"></ons-icon>
+              <span><em>{{promise.text}}</em></span>
+           </div>
+         <div class="center" data-ng-show="isLoadind"><ons-icon icon="ion-load-c" spin="true" ></ons-icon></div>
+      </ons-col>
+   </ons-row>
+
+</ons-page>
