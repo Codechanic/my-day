@@ -1,0 +1,114 @@
+/**
+ * Created by ASUS on 15/08/2016.
+ */
+angular.module('app.services').factory('Category',Category);
+
+function Category() {
+    return [
+        {
+            "name":"Alabanzas",
+            "children":[
+                {
+                    "title":"General",
+                    "items":[32,46,66,91,111,112,116,133,134,135,144,145,146,148,149,150]
+                },
+                {
+                    "title":"Naturaleza",
+                    "items":[8,18,28,64,76,92,103,148]
+                },
+                {
+                    "title":"Historia",
+                    "items":[75,80,104,105,106]
+                },
+                {
+                    "title":"Ley",
+                    "items":[1,13,36,118]
+                },
+                {
+                    "title":"A Dios Rey",
+                    "items":[46,92,95,96,97,98]
+                }
+
+            ]
+
+        },
+        {
+            "name":"Fiestas y tiempos liturgicos",
+            "children":[
+                {
+                    "title":"Mesianicos",
+                     "items":[2,44,71,88,109,117,131]
+                },
+                {
+                    "title":"Adviento",
+                    "items":[23,84,95,97]
+                },
+                {
+                    "title":"Parusia",
+                    "items":[10,57,74,75,81,93,95,97]
+                },
+                {
+                    "title":"Navidad",
+                    "items":[2,84,101,102,109]
+                },
+                {
+                    "title":"Epifania",
+                    "items":[23,44,71,79,92,97,131]
+                },
+                {
+                    "title":"Pasion",
+                    "items":[21,30,34,39,54,68,87]
+                },
+                {
+                    "title":"Resurreccion",
+                    "items":[44,56,67,103,113,114,117,125,135]
+                },
+                {
+                    "title":"Ascension",
+                    "items":[46,56,67]
+                },
+                {
+                    "title":"Pentecostes",
+                    "items":[28,45,47,98,103,118,145]
+                },
+                {
+                    "title":"Iglesia",
+                    "items":[66,83,86,121,124,132,146,147]
+                },
+                {
+                    "title":"Peregrinacion",
+                    "items":[67,83,121]
+                },
+                {
+                    "title":"Procesion",
+                    "items":[67,99]
+                },
+                {
+                    "title":"Entrada",
+                    "items":[14,23,94]
+                },
+                {
+                    "title":"Sacramento",
+                    "items":[4,22,61,103]
+                },
+                {
+                    "title":"Bendicion",
+                    "items":[66,117,133]
+                },
+                {
+                    "title":"Templo",
+                    "items":[45,47,56,62,120,131]
+                },
+                {
+                    "title":"Mañana",
+                    "items":[5,62,89,102,142]
+                },
+                {
+                    "title":"Noche",
+                    "items":[3,4,90,133,140]
+                }
+            ]
+
+        }
+    ]
+}
