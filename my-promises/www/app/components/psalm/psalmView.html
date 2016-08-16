@@ -1,0 +1,30 @@
+<ons-page ng-controller="PsalmController">
+    <ons-toolbar>
+        <div class="center">
+            <ons-toolbar-button data-ng-click="reloadPromise()">
+                <ons-icon icon="ion-load-c" ></ons-icon> Orar con salmos
+            </ons-toolbar-button>
+        </div>
+    </ons-toolbar>
+    <ons-row>
+        <ons-col>
+
+            <div data-ng-show="!isLoadind">
+                <ons-icon icon="ion-ios-lightbulb-outline"></ons-icon>
+                <span><em>{{promise.text}}</em></span>
+            </div>
+            <div class="center" data-ng-show="isLoadind"><ons-icon icon="ion-load-c" spin="true" ></ons-icon></div>
+        </ons-col>
+    </ons-row>
+    <ons-row>
+        <ons-col>
+            <ons-row>
+                <!-- todo Buscar la manera de compartir-->
+                <ons-col><ons-icon icon="ion-social-facebook"></ons-icon></ons-col>
+                <ons-col><ons-icon icon="ion-social-google"></ons-icon></ons-col>
+                <ons-col><ons-icon icon="ion-paper-airplane"></ons-icon></ons-col>
+            </ons-row>
+        </ons-col>
+    </ons-row>
+
+</ons-page>
