@@ -1,0 +1,36 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "com.lttstudio.ame"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "com.lttstudio.ame"
+        },
+        "cordova-plugin-x-socialsharing": {
+            "PACKAGE_NAME": "com.lttstudio.ame"
+        }
+    },
+    "dependent_plugins": {},
+    "modules": [
+        {
+            "file": "plugins/cordova-plugin-x-socialsharing/www/SocialSharing.js",
+            "id": "cordova-plugin-x-socialsharing.SocialSharing",
+            "pluginId": "cordova-plugin-x-socialsharing",
+            "clobbers": [
+                "window.plugins.socialsharing"
+            ]
+        }
+    ],
+    "plugin_metadata": {
+        "cordova-plugin-compat": "1.0.0",
+        "cordova-plugin-geolocation": "2.1.1-dev",
+        "cordova-plugin-x-socialsharing": "5.1.2"
+    }
+}

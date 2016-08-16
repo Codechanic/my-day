@@ -1,0 +1,14 @@
+
+    <ons-sliding-menu var="app.menu"
+            main-page="page"
+            menu-page="app/components/main/menuView.html"
+            side="left" type="reveal" max-slide-distance="80%" swipeable="false">
+    </ons-sliding-menu>
+    
+    <ons-template id="page">
+        <ons-sliding-menu var="app.messages"
+                main-page="app/components/main/principalView.html"
+                menu-page="app/components/promise/promiseView.html"
+                side="right" type="reveal" max-slide-distance="80%" swipeable="false">
+        </ons-sliding-menu>
+    </ons-template>
