@@ -1,7 +1,7 @@
 angular.module('app.controllers').controller('PromiseController',PromiseController);
 
 
-function PromiseController($scope, $rootScope,Promises,$timeout,$cordovaSocialSharing){
+function PromiseController($scope,Promises,$timeout,$cordovaSocialSharing){
 
     var promises = Promises.filter(function(el){
         return el.text!="\r";

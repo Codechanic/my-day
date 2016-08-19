@@ -3,9 +3,11 @@
  */
 angular.module('app.controllers').controller('PsalmController',PsalmController);
 
-function PsalmController($scope,$rootScope,PsalmsTree,Book) {
+function PsalmController($scope,PsalmsTree,Book) {
     $scope.PsalmTree = PsalmsTree;
     $scope.category= {};
+    $scope.chapter= {};
+    $scope.psalm= -1;
     var Book = Book;
 
     $scope.toOpen = function (category) {
@@ -20,5 +22,28 @@ function PsalmController($scope,$rootScope,PsalmsTree,Book) {
 
     $scope.isOpen = function (category) {
         return category.title==$scope.category.title;
+    };
+    
+    $scope.showCategory=function () {
+
+        return $scope.psalm==-1;
+    };
+    
+    $scope.showPsalm=function () {
+      return  $scope.psalm!=-1;
+    };
+    
+    $scope.Reset=function () {
+        $scope.psalm=-1;
+        $scope.chapter={};
+    };
+    $scope.openPsalm = function (psalm) {
+        if (psalm == $scope.psalm) {
+            $scope.psalm=-1;
+        }  
+        else{
+            $scope.psalm = psalm;
+            $scope.chapter = Book.chapters[$scope.psalm-1];
+        }
     }
 }
