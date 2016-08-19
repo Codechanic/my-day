@@ -1,30 +1,32 @@
 <ons-page ng-controller="PsalmController">
     <ons-toolbar>
         <div class="center">
-            <ons-toolbar-button data-ng-click="reloadPromise()">
-                <ons-icon icon="ion-load-c" ></ons-icon> Orar con salmos
+            <ons-toolbar-button >
+                <ons-icon icon="ion-android-list" ></ons-icon> Orar con salmos
             </ons-toolbar-button>
         </div>
     </ons-toolbar>
-    <ons-row>
-        <ons-col>
-
-            <div data-ng-show="!isLoadind">
-                <ons-icon icon="ion-ios-lightbulb-outline"></ons-icon>
-                <span><em>{{promise.text}}</em></span>
-            </div>
-            <div class="center" data-ng-show="isLoadind"><ons-icon icon="ion-load-c" spin="true" ></ons-icon></div>
-        </ons-col>
-    </ons-row>
-    <ons-row>
-        <ons-col>
+    <ons-list class="person-list" ng-repeat="cat in PsalmTree">
+        <ons-list-header class="person-list-header">{{cat.name}}</ons-list-header>
+        <ons-list-item class="person" modifier="tappable" ng-repeat="i in cat.children">
             <ons-row>
-                <!-- todo Buscar la manera de compartir-->
-                <ons-col><ons-icon icon="ion-social-facebook"></ons-icon></ons-col>
-                <ons-col><ons-icon icon="ion-social-google"></ons-icon></ons-col>
-                <ons-col><ons-icon icon="ion-paper-airplane"></ons-icon></ons-col>
+                <ons-col width="40px">
+                    <img src="https://www.gravatar.com/avatar/e15547719d80f1a93a4c3a037a76935a?s=128&d=identicon&r=PG" class="person-image">
+                </ons-col>
+                <ons-col class="person-name">
+                    <span data-ng-click="toOpen(i)">{{i.title}}</span>
+                    <ons-list class="person-list" data-ng-show="isOpen(i)">
+                        <ons-list-item data-ng-repeat="c in i.items" modifier="tappable">
+                            <ons-row>
+                                <ons-col>
+                                    {{c}}
+                                </ons-col>
+                            </ons-row>
+                        </ons-list-item>
+                    </ons-list>
+                </ons-col>
             </ons-row>
-        </ons-col>
-    </ons-row>
+        </ons-list-item>
+    </ons-list>
 
 </ons-page>
