@@ -5,10 +5,15 @@
                 <ons-icon icon="ion-android-list" ></ons-icon> Orar con salmos
             </ons-toolbar-button>
         </div>
+        <div class="right" data-ng-show="showPsalm()">
+            <ons-toolbar-button data-ng-click="Reset()">
+                <ons-icon icon="ion-reply" ></ons-icon> Atrás
+            </ons-toolbar-button>
+        </div>
     </ons-toolbar>
-    <ons-list class="person-list" ng-repeat="cat in PsalmTree">
+    <ons-list class="person-list" ng-repeat="cat in PsalmTree" data-ng-show="showCategory()">
         <ons-list-header class="person-list-header">{{cat.name}}</ons-list-header>
-        <ons-list-item class="person" modifier="tappable" ng-repeat="i in cat.children">
+        <ons-list-item class="person" ng-repeat="i in cat.children">
             <ons-row>
                 <ons-col width="40px">
                     <img src="https://www.gravatar.com/avatar/e15547719d80f1a93a4c3a037a76935a?s=128&d=identicon&r=PG" class="person-image">
@@ -19,7 +24,8 @@
                         <ons-list-item data-ng-repeat="c in i.items" modifier="tappable">
                             <ons-row>
                                 <ons-col>
-                                    {{c}}
+                                   <span data-ng-click="openPsalm(c)"> {{c}} </span>
+
                                 </ons-col>
                             </ons-row>
                         </ons-list-item>
@@ -28,5 +34,10 @@
             </ons-row>
         </ons-list-item>
     </ons-list>
-
+    <ons-list class="person-list" data-ng-show="showPsalm()">
+        <ons-list-header class="person-list-header">Psalm {{psaml}}</ons-list-header>
+        <ons-list-item class="person" data-ng-repeat="verse in chapter.verses track by $index">
+            {{verse}}
+        </ons-list-item>
+    </ons-list>
 </ons-page>
