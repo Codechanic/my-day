@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<widget xmlns="http://www.w3.org/ns/widgets" id="com.lttstudio.ame" version="1.0.0">
-  <name>aMe</name>
+<widget xmlns="http://www.w3.org/ns/widgets" id="chanic.myday.praises" version="1.0.0">
+  <name>MyDay</name>
   <description/>
   <author/>
   <content src="index.html"/>

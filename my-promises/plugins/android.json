@@ -8,15 +8,15 @@
     },
     "installed_plugins": {
         "cordova-plugin-x-socialsharing": {
-            "PACKAGE_NAME": "com.lttstudio.ame"
+            "PACKAGE_NAME": "chanic.myday.praises"
         }
     },
     "dependent_plugins": {
         "cordova-plugin-compat": {
-            "PACKAGE_NAME": "com.lttstudio.ame"
+            "PACKAGE_NAME": "chanic.myday.praises"
         },
         "cordova-plugin-geolocation": {
-            "PACKAGE_NAME": "com.lttstudio.ame"
+            "PACKAGE_NAME": "chanic.myday.praises"
         }
     }
 }

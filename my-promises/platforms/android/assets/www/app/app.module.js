@@ -102,6 +102,6 @@ var app = angular.module('app', [
     }]);
 //});
 
-angular.module('app.controllers', []);
+angular.module('app.controllers', ['ngCordova']);
 angular.module('app.services', []);
 angular.module('app.filters', []);

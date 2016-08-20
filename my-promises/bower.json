@@ -1,10 +1,11 @@
 {
-  "name": "MessengerAPP",
+  "name": "MyDay",
   "homepage": "http://onsen.io/",
   "authors": [
-    "Alepht <alepht@gmail.com>"
+    "Felyvaix Ivan Romero Rodriguez <firomerorom4@gmail.com>"
+    "Osmany Torres Le <manytosao@gmail.com>"
   ],
-  "description": "MessengerAPP repo",
+  "description": "MyDay praise and promises application",
   "main": "",
   "moduleType": [],
   "license": "Apache-2.0",

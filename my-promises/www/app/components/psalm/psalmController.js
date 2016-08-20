@@ -44,6 +44,9 @@ function PsalmController($scope,PsalmsTree,Book) {
         else{
             $scope.psalm = psalm;
             $scope.chapter = Book.chapters[$scope.psalm-1];
+            $scope.chapter.verses = $scope.chapter.verses.map(function (el) {
+               return Object.keys(el)[0] +"-" +  el[Object.keys(el)[0]];
+            });
         }
     }
 }
