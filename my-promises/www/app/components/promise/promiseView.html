@@ -2,7 +2,7 @@
    <ons-toolbar>
       <div class="center">
          <ons-toolbar-button data-ng-click="reloadPromise()">
-            <ons-icon icon="ion-load-c" ></ons-icon> Promesas
+            <ons-icon icon="ion-refresh" ></ons-icon> Promesas
          </ons-toolbar-button>
       </div>
    </ons-toolbar>
@@ -20,9 +20,7 @@
      <ons-col>
         <ons-row>
            <!-- todo Buscar la manera de compartir-->
-           <ons-col><ons-icon icon="ion-social-facebook" data-ng-click="Share('fb')"></ons-icon></ons-col>
-           <ons-col><ons-icon icon="ion-social-twitter" data-ng-click="Share('tw')"></ons-icon></ons-col>
-           <ons-col><ons-icon icon="ion-paper-airplane" data-ng-click="Share('sms')"></ons-icon></ons-col>
+           <ons-col><ons-icon icon="ion-android-share-alt" data-ng-click="ShareNative(promise.text)"></ons-icon></ons-col>
         </ons-row>
      </ons-col>
    </ons-row>

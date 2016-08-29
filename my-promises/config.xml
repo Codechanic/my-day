@@ -29,6 +29,9 @@
   <feature name="LocalStorage">
     <param name="ios-package" value="CDVLocalStorage"/>
   </feature>
+  <feature name="SocialSharing">
+    <param name="android-package" value="nl.xservices.plugins.SocialSharing" />
+  </feature>
   <preference name="UIWebViewDecelerationSpeed" value="normal"/>
   <preference name="monaca:AndroidIsPackageNameSeparate" value="false"/>
   <preference name="monaca:targetFamilyiPhone" value="1"/>

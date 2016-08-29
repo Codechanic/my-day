@@ -3,15 +3,13 @@ angular.module('app.controllers').controller('PromiseController',PromiseControll
 
 function PromiseController($scope,Promises,$timeout,$cordovaSocialSharing){
 
+   
     var promises = Promises.filter(function(el){
         return el.text!="\r";
     });
 
-    var index = Math.random()*100;
-    while (index>promises.length-1 || index<0){
-        index = Math.random()*100;
-    }
-    index=Math.round(index);
+
+    var index  = Math.floor(Math.random()*(promises.length-1)) + 1;
 
     $scope.promise = promises[index];
     $scope.isLoadind = false;
@@ -21,11 +19,7 @@ function PromiseController($scope,Promises,$timeout,$cordovaSocialSharing){
         $scope.isLoadind = true;
        $timeout(function(){
 
-           do{
-               index = Math.random()*100;
-           }
-           while (index>promises.length-1 || index<0);
-           index=Math.round(index);
+           index  = Math.floor(Math.random()*(promises.length-1)) + 1;
            $scope.promise = promises[index];
            $scope.isLoadind = false;
        },500);
@@ -35,7 +29,7 @@ function PromiseController($scope,Promises,$timeout,$cordovaSocialSharing){
     $scope.Share = function (via) {
         switch (via){
             case 'fb':
-                $cordovaSocialSharing.shareViaFacebook(promises).then(function (result) {
+                $cordovaSocialSharing.shareViaFacebook($scope.promise).then(function (result) {
                     ons.notification.alert({message: 'Share accomplish' });
 
                 },function (reason) {
@@ -43,7 +37,7 @@ function PromiseController($scope,Promises,$timeout,$cordovaSocialSharing){
                 }   );
                 break;
             case 'tw':
-                $cordovaSocialSharing.shareViaTwitter(promises).then(function (result) {
+                $cordovaSocialSharing.shareViaTwitter($scope.promise).then(function (result) {
                     ons.notification.alert({message: 'Share accomplish' });
 
                 },function (reason) {
@@ -51,7 +45,7 @@ function PromiseController($scope,Promises,$timeout,$cordovaSocialSharing){
                 }   );
                 break;
             default:
-                $cordovaSocialSharing.shareViaSMS(promises).then(function (result) {
+                $cordovaSocialSharing.shareViaSMS($scope.promise).then(function (result) {
                     ons.notification.alert({message: 'Share accomplish' });
 
                 },function (reason) {
@@ -62,6 +56,16 @@ function PromiseController($scope,Promises,$timeout,$cordovaSocialSharing){
 
         }
 
+    };
+    
+    $scope.ShareNative = function (promise) {
+        $cordovaSocialSharing
+            .share(promise, "Promesas", undefined, undefined) // Share via native share sheet
+            .then(function(result) {
+                // ons.notification.alert({message: 'Error while sharing out user: ' + reason.message })
+            }, function(err) {
+                ons.notification.alert({message: 'Error while sharing out user: ' + reason.message })
+            });
     }
 
 
