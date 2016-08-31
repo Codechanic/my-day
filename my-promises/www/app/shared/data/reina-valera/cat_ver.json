@@ -1,0 +1,2018 @@
+[
+  {
+    "_id": 1,
+    "cve_id_categorias": 1,
+    "cve_id_biblia": 16875,
+    "cve_versos": "17"
+  },
+  {
+    "_id": 2,
+    "cve_id_categorias": 1,
+    "cve_id_biblia": 25390,
+    "cve_versos": "25-37"
+  },
+  {
+    "_id": 3,
+    "cve_id_categorias": 1,
+    "cve_id_biblia": 26712,
+    "cve_versos": "11-17"
+  },
+  {
+    "_id": 4,
+    "cve_id_categorias": 1,
+    "cve_id_biblia": 28339,
+    "cve_versos": "1-2"
+  },
+  {
+    "_id": 5,
+    "cve_id_categorias": 2,
+    "cve_id_biblia": 17887,
+    "cve_versos": "1-9"
+  },
+  {
+    "_id": 6,
+    "cve_id_categorias": 2,
+    "cve_id_biblia": 18261,
+    "cve_versos": "1-8"
+  },
+  {
+    "_id": 7,
+    "cve_id_categorias": 2,
+    "cve_id_biblia": 29734,
+    "cve_versos": "1-7"
+  },
+  {
+    "_id": 8,
+    "cve_id_categorias": 2,
+    "cve_id_biblia": 29843,
+    "cve_versos": "14-26"
+  },
+  {
+    "_id": 9,
+    "cve_id_categorias": 2,
+    "cve_id_biblia": 29899,
+    "cve_versos": "5-9"
+  },
+  {
+    "_id": 10,
+    "cve_id_categorias": 3,
+    "cve_id_biblia": 1422,
+    "cve_versos": "1-12"
+  },
+  {
+    "_id": 11,
+    "cve_id_categorias": 3,
+    "cve_id_biblia": 7129,
+    "cve_versos": "1-22"
+  },
+  {
+    "_id": 12,
+    "cve_id_categorias": 3,
+    "cve_id_biblia": 17051,
+    "cve_versos": "22"
+  },
+  {
+    "_id": 13,
+    "cve_id_categorias": 3,
+    "cve_id_biblia": 29768,
+    "cve_versos": "3-8"
+  },
+  {
+    "_id": 14,
+    "cve_id_categorias": 4,
+    "cve_id_biblia": 15511,
+    "cve_versos": "1-5"
+  },
+  {
+    "_id": 15,
+    "cve_id_categorias": 4,
+    "cve_id_biblia": 17006,
+    "cve_versos": "6"
+  },
+  {
+    "_id": 16,
+    "cve_id_categorias": 4,
+    "cve_id_biblia": 25705,
+    "cve_versos": "15-17"
+  },
+  {
+    "_id": 17,
+    "cve_id_categorias": 4,
+    "cve_id_biblia": 26744,
+    "cve_versos": "16-22"
+  },
+  {
+    "_id": 18,
+    "cve_id_categorias": 5,
+    "cve_id_biblia": 16005,
+    "cve_versos": "105"
+  },
+  {
+    "_id": 19,
+    "cve_id_categorias": 5,
+    "cve_id_biblia": 16634,
+    "cve_versos": "10-12"
+  },
+  {
+    "_id": 20,
+    "cve_id_categorias": 5,
+    "cve_id_biblia": 29180,
+    "cve_versos": "16-26"
+  },
+  {
+    "_id": 21,
+    "cve_id_categorias": 5,
+    "cve_id_biblia": 29448,
+    "cve_versos": "4-9"
+  },
+  {
+    "_id": 22,
+    "cve_id_categorias": 6,
+    "cve_id_biblia": 49,
+    "cve_versos": "18-24"
+  },
+  {
+    "_id": 23,
+    "cve_id_categorias": 6,
+    "cve_id_biblia": 17648,
+    "cve_versos": "6-7"
+  },
+  {
+    "_id": 24,
+    "cve_id_categorias": 6,
+    "cve_id_biblia": 29327,
+    "cve_versos": "21-33"
+  },
+  {
+    "_id": 25,
+    "cve_id_categorias": 6,
+    "cve_id_biblia": 29502,
+    "cve_versos": "6-7"
+  },
+  {
+    "_id": 26,
+    "cve_id_categorias": 7,
+    "cve_id_biblia": 15511,
+    "cve_versos": "1-5"
+  },
+  {
+    "_id": 27,
+    "cve_id_categorias": 7,
+    "cve_id_biblia": 28668,
+    "cve_versos": "1-13"
+  },
+  {
+    "_id": 28,
+    "cve_id_categorias": 8,
+    "cve_id_biblia": 16774,
+    "cve_versos": "17"
+  },
+  {
+    "_id": 29,
+    "cve_id_categorias": 8,
+    "cve_id_biblia": 16786,
+    "cve_versos": "29"
+  },
+  {
+    "_id": 30,
+    "cve_id_categorias": 8,
+    "cve_id_biblia": 16810,
+    "cve_versos": "18"
+  },
+  {
+    "_id": 31,
+    "cve_id_categorias": 8,
+    "cve_id_biblia": 16921,
+    "cve_versos": "11"
+  },
+  {
+    "_id": 32,
+    "cve_id_categorias": 8,
+    "cve_id_biblia": 17231,
+    "cve_versos": "22"
+  },
+  {
+    "_id": 33,
+    "cve_id_categorias": 8,
+    "cve_id_biblia": 29180,
+    "cve_versos": "16-26"
+  },
+  {
+    "_id": 34,
+    "cve_id_categorias": 9,
+    "cve_id_biblia": 14068,
+    "cve_versos": "1-8"
+  },
+  {
+    "_id": 35,
+    "cve_id_categorias": 9,
+    "cve_id_biblia": 14183,
+    "cve_versos": "14"
+  },
+  {
+    "_id": 36,
+    "cve_id_categorias": 9,
+    "cve_id_biblia": 16687,
+    "cve_versos": "13"
+  },
+  {
+    "_id": 37,
+    "cve_id_categorias": 9,
+    "cve_id_biblia": 17146,
+    "cve_versos": "20"
+  },
+  {
+    "_id": 38,
+    "cve_id_categorias": 9,
+    "cve_id_biblia": 29679,
+    "cve_versos": "16-17"
+  },
+  {
+    "_id": 39,
+    "cve_id_categorias": 9,
+    "cve_id_biblia": 30322,
+    "cve_versos": "1-12"
+  },
+  {
+    "_id": 40,
+    "cve_id_categorias": 10,
+    "cve_id_biblia": 14089,
+    "cve_versos": "1-5"
+  },
+  {
+    "_id": 41,
+    "cve_id_categorias": 10,
+    "cve_id_biblia": 22656,
+    "cve_versos": "6-8"
+  },
+  {
+    "_id": 42,
+    "cve_id_categorias": 10,
+    "cve_id_biblia": 23250,
+    "cve_versos": "14-16"
+  },
+  {
+    "_id": 43,
+    "cve_id_categorias": 10,
+    "cve_id_biblia": 25324,
+    "cve_versos": "21-27"
+  },
+  {
+    "_id": 44,
+    "cve_id_categorias": 10,
+    "cve_id_biblia": 28276,
+    "cve_versos": "8-14"
+  },
+  {
+    "_id": 45,
+    "cve_id_categorias": 10,
+    "cve_id_biblia": 30484,
+    "cve_versos": "3-9"
+  },
+  {
+    "_id": 46,
+    "cve_id_categorias": 10,
+    "cve_id_biblia": 30612,
+    "cve_versos": "7-21"
+  },
+  {
+    "_id": 47,
+    "cve_id_categorias": 11,
+    "cve_id_biblia": 23333,
+    "cve_versos": "15-20"
+  },
+  {
+    "_id": 48,
+    "cve_id_categorias": 11,
+    "cve_id_biblia": 30503,
+    "cve_versos": "1-22"
+  },
+  {
+    "_id": 49,
+    "cve_id_categorias": 11,
+    "cve_id_biblia": 30606,
+    "cve_versos": "1-6"
+  },
+  {
+    "_id": 50,
+    "cve_id_categorias": 11,
+    "cve_id_biblia": 30676,
+    "cve_versos": "1-25"
+  },
+  {
+    "_id": 51,
+    "cve_id_categorias": 12,
+    "cve_id_biblia": 16409,
+    "cve_versos": "7-19"
+  },
+  {
+    "_id": 52,
+    "cve_id_categorias": 12,
+    "cve_id_biblia": 28248,
+    "cve_versos": "1-2"
+  },
+  {
+    "_id": 53,
+    "cve_id_categorias": 12,
+    "cve_id_biblia": 29191,
+    "cve_versos": "1-5"
+  },
+  {
+    "_id": 54,
+    "cve_id_categorias": 12,
+    "cve_id_biblia": 29307,
+    "cve_versos": "1-20"
+  },
+  {
+    "_id": 55,
+    "cve_id_categorias": 13,
+    "cve_id_biblia": 16436,
+    "cve_versos": "1-8"
+  },
+  {
+    "_id": 56,
+    "cve_id_categorias": 13,
+    "cve_id_biblia": 16442,
+    "cve_versos": "1-18"
+  },
+  {
+    "_id": 57,
+    "cve_id_categorias": 13,
+    "cve_id_biblia": 16477,
+    "cve_versos": "1-27"
+  },
+  {
+    "_id": 58,
+    "cve_id_categorias": 13,
+    "cve_id_biblia": 17041,
+    "cve_versos": "12"
+  },
+  {
+    "_id": 59,
+    "cve_id_categorias": 13,
+    "cve_id_biblia": 28119,
+    "cve_versos": "1-17"
+  },
+  {
+    "_id": 60,
+    "cve_id_categorias": 13,
+    "cve_id_biblia": 28383,
+    "cve_versos": "18-31"
+  },
+  {
+    "_id": 61,
+    "cve_id_categorias": 14,
+    "cve_id_biblia": 8605,
+    "cve_versos": "2-51"
+  },
+  {
+    "_id": 62,
+    "cve_id_categorias": 14,
+    "cve_id_biblia": 15398,
+    "cve_versos": "1-16"
+  },
+  {
+    "_id": 63,
+    "cve_id_categorias": 14,
+    "cve_id_biblia": 29349,
+    "cve_versos": "10-20"
+  },
+  {
+    "_id": 64,
+    "cve_id_categorias": 14,
+    "cve_id_biblia": 29830,
+    "cve_versos": "1-13"
+  },
+  {
+    "_id": 65,
+    "cve_id_categorias": 15,
+    "cve_id_biblia": 13323,
+    "cve_versos": "25-27"
+  },
+  {
+    "_id": 66,
+    "cve_id_categorias": 15,
+    "cve_id_biblia": 26550,
+    "cve_versos": "25-27"
+  },
+  {
+    "_id": 67,
+    "cve_id_categorias": 15,
+    "cve_id_biblia": 26671,
+    "cve_versos": "1-7"
+  },
+  {
+    "_id": 68,
+    "cve_id_categorias": 15,
+    "cve_id_biblia": 28149,
+    "cve_versos": "31-39"
+  },
+  {
+    "_id": 69,
+    "cve_id_categorias": 15,
+    "cve_id_biblia": 28289,
+    "cve_versos": "7-9"
+  },
+  {
+    "_id": 70,
+    "cve_id_categorias": 15,
+    "cve_id_biblia": 29618,
+    "cve_versos": "13-18"
+  },
+  {
+    "_id": 71,
+    "cve_id_categorias": 16,
+    "cve_id_biblia": 14237,
+    "cve_versos": "1-6"
+  },
+  {
+    "_id": 72,
+    "cve_id_categorias": 16,
+    "cve_id_biblia": 24246,
+    "cve_versos": "29-34"
+  },
+  {
+    "_id": 73,
+    "cve_id_categorias": 16,
+    "cve_id_biblia": 24462,
+    "cve_versos": "53-56"
+  },
+  {
+    "_id": 74,
+    "cve_id_categorias": 16,
+    "cve_id_biblia": 30370,
+    "cve_versos": "14-16"
+  },
+  {
+    "_id": 75,
+    "cve_id_categorias": 17,
+    "cve_id_biblia": 15758,
+    "cve_versos": "1-31"
+  },
+  {
+    "_id": 76,
+    "cve_id_categorias": 17,
+    "cve_id_biblia": 16053,
+    "cve_versos": "153-160"
+  },
+  {
+    "_id": 77,
+    "cve_id_categorias": 17,
+    "cve_id_biblia": 23239,
+    "cve_versos": "3-12"
+  },
+  {
+    "_id": 78,
+    "cve_id_categorias": 17,
+    "cve_id_biblia": 26719,
+    "cve_versos": "18-27"
+  },
+  {
+    "_id": 79,
+    "cve_id_categorias": 17,
+    "cve_id_biblia": 26729,
+    "cve_versos": "1-4"
+  },
+  {
+    "_id": 80,
+    "cve_id_categorias": 17,
+    "cve_id_biblia": 28136,
+    "cve_versos": "18-30"
+  },
+  {
+    "_id": 81,
+    "cve_id_categorias": 17,
+    "cve_id_biblia": 28862,
+    "cve_versos": "1-15"
+  },
+  {
+    "_id": 82,
+    "cve_id_categorias": 17,
+    "cve_id_biblia": 30215,
+    "cve_versos": "1-11"
+  },
+  {
+    "_id": 83,
+    "cve_id_categorias": 17,
+    "cve_id_biblia": 30460,
+    "cve_versos": "12-19"
+  },
+  {
+    "_id": 84,
+    "cve_id_categorias": 18,
+    "cve_id_biblia": 8818,
+    "cve_versos": "1-28"
+  },
+  {
+    "_id": 85,
+    "cve_id_categorias": 18,
+    "cve_id_biblia": 12764,
+    "cve_versos": "1-17"
+  },
+  {
+    "_id": 86,
+    "cve_id_categorias": 18,
+    "cve_id_biblia": 12781,
+    "cve_versos": "1-14"
+  },
+  {
+    "_id": 87,
+    "cve_id_categorias": 18,
+    "cve_id_biblia": 12795,
+    "cve_versos": "1-14"
+  },
+  {
+    "_id": 88,
+    "cve_id_categorias": 18,
+    "cve_id_biblia": 12809,
+    "cve_versos": "1-10"
+  },
+  {
+    "_id": 89,
+    "cve_id_categorias": 18,
+    "cve_id_biblia": 16242,
+    "cve_versos": "1-24"
+  },
+  {
+    "_id": 90,
+    "cve_id_categorias": 18,
+    "cve_id_biblia": 21774,
+    "cve_versos": "14-23"
+  },
+  {
+    "_id": 91,
+    "cve_id_categorias": 18,
+    "cve_id_biblia": 29508,
+    "cve_versos": "12-17"
+  },
+  {
+    "_id": 92,
+    "cve_id_categorias": 19,
+    "cve_id_biblia": 14253,
+    "cve_versos": "1-22"
+  },
+  {
+    "_id": 93,
+    "cve_id_categorias": 19,
+    "cve_id_biblia": 23765,
+    "cve_versos": "1-9"
+  },
+  {
+    "_id": 94,
+    "cve_id_categorias": 19,
+    "cve_id_biblia": 29424,
+    "cve_versos": "1-11"
+  },
+  {
+    "_id": 95,
+    "cve_id_categorias": 20,
+    "cve_id_biblia": 15381,
+    "cve_versos": "1-2"
+  },
+  {
+    "_id": 96,
+    "cve_id_categorias": 20,
+    "cve_id_biblia": 18915,
+    "cve_versos": "17-25"
+  },
+  {
+    "_id": 97,
+    "cve_id_categorias": 20,
+    "cve_id_biblia": 20375,
+    "cve_versos": "19-24"
+  },
+  {
+    "_id": 98,
+    "cve_id_categorias": 20,
+    "cve_id_biblia": 25360,
+    "cve_versos": "57-62"
+  },
+  {
+    "_id": 99,
+    "cve_id_categorias": 20,
+    "cve_id_biblia": 31057,
+    "cve_versos": "1-4"
+  },
+  {
+    "_id": 100,
+    "cve_id_categorias": 21,
+    "cve_id_biblia": 20390,
+    "cve_versos": "34-36"
+  },
+  {
+    "_id": 101,
+    "cve_id_categorias": 21,
+    "cve_id_biblia": 24041,
+    "cve_versos": "31-46"
+  },
+  {
+    "_id": 102,
+    "cve_id_categorias": 21,
+    "cve_id_biblia": 25081,
+    "cve_versos": "16-21"
+  },
+  {
+    "_id": 103,
+    "cve_id_categorias": 22,
+    "cve_id_biblia": 28514,
+    "cve_versos": "25-38"
+  },
+  {
+    "_id": 104,
+    "cve_id_categorias": 22,
+    "cve_id_biblia": 28637,
+    "cve_versos": "1-31"
+  },
+  {
+    "_id": 105,
+    "cve_id_categorias": 23,
+    "cve_id_biblia": 185,
+    "cve_versos": "1-22"
+  },
+  {
+    "_id": 106,
+    "cve_id_categorias": 23,
+    "cve_id_biblia": 207,
+    "cve_versos": "1-17"
+  },
+  {
+    "_id": 107,
+    "cve_id_categorias": 23,
+    "cve_id_biblia": 13759,
+    "cve_versos": "22-33"
+  },
+  {
+    "_id": 108,
+    "cve_id_categorias": 23,
+    "cve_id_biblia": 13771,
+    "cve_versos": "1-13"
+  },
+  {
+    "_id": 109,
+    "cve_id_categorias": 23,
+    "cve_id_biblia": 14310,
+    "cve_versos": "1-11"
+  },
+  {
+    "_id": 110,
+    "cve_id_categorias": 23,
+    "cve_id_biblia": 14444,
+    "cve_versos": "5-9"
+  },
+  {
+    "_id": 111,
+    "cve_id_categorias": 23,
+    "cve_id_biblia": 16105,
+    "cve_versos": "1-8"
+  },
+  {
+    "_id": 112,
+    "cve_id_categorias": 23,
+    "cve_id_biblia": 19728,
+    "cve_versos": "35-37"
+  },
+  {
+    "_id": 113,
+    "cve_id_categorias": 23,
+    "cve_id_biblia": 28149,
+    "cve_versos": "31-39"
+  },
+  {
+    "_id": 114,
+    "cve_id_categorias": 23,
+    "cve_id_biblia": 30379,
+    "cve_versos": "3-12"
+  },
+  {
+    "_id": 115,
+    "cve_id_categorias": 24,
+    "cve_id_biblia": 14275,
+    "cve_versos": "1-12"
+  },
+  {
+    "_id": 116,
+    "cve_id_categorias": 24,
+    "cve_id_biblia": 18667,
+    "cve_versos": "4-11"
+  },
+  {
+    "_id": 117,
+    "cve_id_categorias": 24,
+    "cve_id_biblia": 23261,
+    "cve_versos": "25-26"
+  },
+  {
+    "_id": 118,
+    "cve_id_categorias": 24,
+    "cve_id_biblia": 25691,
+    "cve_versos": "1-8"
+  },
+  {
+    "_id": 119,
+    "cve_id_categorias": 25,
+    "cve_id_biblia": 19647,
+    "cve_versos": "10-14"
+  },
+  {
+    "_id": 120,
+    "cve_id_categorias": 25,
+    "cve_id_biblia": 25623,
+    "cve_versos": "1-13"
+  },
+  {
+    "_id": 121,
+    "cve_id_categorias": 25,
+    "cve_id_biblia": 29454,
+    "cve_versos": "10-13"
+  },
+  {
+    "_id": 122,
+    "cve_id_categorias": 26,
+    "cve_id_biblia": 12883,
+    "cve_versos": "13-22"
+  },
+  {
+    "_id": 123,
+    "cve_id_categorias": 26,
+    "cve_id_biblia": 13930,
+    "cve_versos": "7-17"
+  },
+  {
+    "_id": 124,
+    "cve_id_categorias": 26,
+    "cve_id_biblia": 18237,
+    "cve_versos": "19-26"
+  },
+  {
+    "_id": 125,
+    "cve_id_categorias": 26,
+    "cve_id_biblia": 18469,
+    "cve_versos": "17-20"
+  },
+  {
+    "_id": 126,
+    "cve_id_categorias": 26,
+    "cve_id_biblia": 28136,
+    "cve_versos": "18-39"
+  },
+  {
+    "_id": 127,
+    "cve_id_categorias": 27,
+    "cve_id_biblia": 16715,
+    "cve_versos": "11"
+  },
+  {
+    "_id": 128,
+    "cve_id_categorias": 27,
+    "cve_id_biblia": 17200,
+    "cve_versos": "19"
+  },
+  {
+    "_id": 129,
+    "cve_id_categorias": 27,
+    "cve_id_biblia": 24751,
+    "cve_versos": "32-37"
+  },
+  {
+    "_id": 130,
+    "cve_id_categorias": 27,
+    "cve_id_biblia": 25862,
+    "cve_versos": "34-36"
+  },
+  {
+    "_id": 131,
+    "cve_id_categorias": 27,
+    "cve_id_biblia": 29760,
+    "cve_versos": "11-16"
+  },
+  {
+    "_id": 132,
+    "cve_id_categorias": 27,
+    "cve_id_biblia": 29933,
+    "cve_versos": "8-14"
+  },
+  {
+    "_id": 133,
+    "cve_id_categorias": 28,
+    "cve_id_biblia": 16124,
+    "cve_versos": "1-2"
+  },
+  {
+    "_id": 134,
+    "cve_id_categorias": 28,
+    "cve_id_biblia": 17067,
+    "cve_versos": "3-4"
+  },
+  {
+    "_id": 135,
+    "cve_id_categorias": 28,
+    "cve_id_biblia": 26671,
+    "cve_versos": "1-7"
+  },
+  {
+    "_id": 136,
+    "cve_id_categorias": 28,
+    "cve_id_biblia": 29267,
+    "cve_versos": "14-21"
+  },
+  {
+    "_id": 137,
+    "cve_id_categorias": 28,
+    "cve_id_biblia": 30740,
+    "cve_versos": "20-21"
+  },
+  {
+    "_id": 138,
+    "cve_id_categorias": 29,
+    "cve_id_biblia": 14527,
+    "cve_versos": "1-5"
+  },
+  {
+    "_id": 139,
+    "cve_id_categorias": 29,
+    "cve_id_biblia": 14537,
+    "cve_versos": "11-17"
+  },
+  {
+    "_id": 140,
+    "cve_id_categorias": 29,
+    "cve_id_biblia": 15851,
+    "cve_versos": "1-7"
+  },
+  {
+    "_id": 141,
+    "cve_id_categorias": 29,
+    "cve_id_biblia": 17058,
+    "cve_versos": "29-35"
+  },
+  {
+    "_id": 142,
+    "cve_id_categorias": 29,
+    "cve_id_biblia": 28895,
+    "cve_versos": "16-21"
+  },
+  {
+    "_id": 143,
+    "cve_id_categorias": 29,
+    "cve_id_biblia": 29296,
+    "cve_versos": "22-24"
+  },
+  {
+    "_id": 144,
+    "cve_id_categorias": 30,
+    "cve_id_biblia": 3299,
+    "cve_versos": "17-18"
+  },
+  {
+    "_id": 145,
+    "cve_id_categorias": 30,
+    "cve_id_biblia": 23259,
+    "cve_versos": "23-26"
+  },
+  {
+    "_id": 146,
+    "cve_id_categorias": 30,
+    "cve_id_biblia": 25175,
+    "cve_versos": "27-36"
+  },
+  {
+    "_id": 147,
+    "cve_id_categorias": 30,
+    "cve_id_biblia": 29299,
+    "cve_versos": "25-32"
+  },
+  {
+    "_id": 148,
+    "cve_id_categorias": 31,
+    "cve_id_biblia": 23319,
+    "cve_versos": "1-5"
+  },
+  {
+    "_id": 149,
+    "cve_id_categorias": 31,
+    "cve_id_biblia": 27295,
+    "cve_versos": "34-36"
+  },
+  {
+    "_id": 150,
+    "cve_id_categorias": 31,
+    "cve_id_biblia": 29130,
+    "cve_versos": "26-29"
+  },
+  {
+    "_id": 151,
+    "cve_id_categorias": 31,
+    "cve_id_biblia": 29285,
+    "cve_versos": "11-12"
+  },
+  {
+    "_id": 152,
+    "cve_id_categorias": 31,
+    "cve_id_biblia": 29501,
+    "cve_versos": "5-11"
+  },
+  {
+    "_id": 153,
+    "cve_id_categorias": 31,
+    "cve_id_biblia": 30296,
+    "cve_versos": "1-13"
+  },
+  {
+    "_id": 154,
+    "cve_id_categorias": 32,
+    "cve_id_biblia": 24573,
+    "cve_versos": "33-37"
+  },
+  {
+    "_id": 155,
+    "cve_id_categorias": 32,
+    "cve_id_biblia": 25562,
+    "cve_versos": "7-11"
+  },
+  {
+    "_id": 156,
+    "cve_id_categorias": 32,
+    "cve_id_biblia": 25699,
+    "cve_versos": "9-14"
+  },
+  {
+    "_id": 157,
+    "cve_id_categorias": 32,
+    "cve_id_biblia": 25890,
+    "cve_versos": "24-27"
+  },
+  {
+    "_id": 158,
+    "cve_id_categorias": 32,
+    "cve_id_biblia": 28261,
+    "cve_versos": "14-16"
+  },
+  {
+    "_id": 159,
+    "cve_id_categorias": 32,
+    "cve_id_biblia": 28383,
+    "cve_versos": "18-31"
+  },
+  {
+    "_id": 160,
+    "cve_id_categorias": 32,
+    "cve_id_biblia": 29025,
+    "cve_versos": "1-10"
+  },
+  {
+    "_id": 161,
+    "cve_id_categorias": 33,
+    "cve_id_biblia": 23875,
+    "cve_versos": "1-14"
+  },
+  {
+    "_id": 162,
+    "cve_id_categorias": 33,
+    "cve_id_biblia": 24011,
+    "cve_versos": "1-13"
+  },
+  {
+    "_id": 163,
+    "cve_id_categorias": 33,
+    "cve_id_biblia": 28901,
+    "cve_versos": "1-2"
+  },
+  {
+    "_id": 164,
+    "cve_id_categorias": 34,
+    "cve_id_biblia": 17006,
+    "cve_versos": "6"
+  },
+  {
+    "_id": 165,
+    "cve_id_categorias": 34,
+    "cve_id_biblia": 29343,
+    "cve_versos": "4"
+  },
+  {
+    "_id": 166,
+    "cve_id_categorias": 34,
+    "cve_id_biblia": 29540,
+    "cve_versos": "21"
+  },
+  {
+    "_id": 167,
+    "cve_id_categorias": 35,
+    "cve_id_biblia": 24688,
+    "cve_versos": "13-17"
+  },
+  {
+    "_id": 168,
+    "cve_id_categorias": 35,
+    "cve_id_biblia": 28269,
+    "cve_versos": "1-7"
+  },
+  {
+    "_id": 169,
+    "cve_id_categorias": 35,
+    "cve_id_biblia": 29926,
+    "cve_versos": "1-2"
+  },
+  {
+    "_id": 170,
+    "cve_id_categorias": 35,
+    "cve_id_biblia": 30414,
+    "cve_versos": "13-17"
+  },
+  {
+    "_id": 171,
+    "cve_id_categorias": 36,
+    "cve_id_biblia": 2064,
+    "cve_versos": "12"
+  },
+  {
+    "_id": 172,
+    "cve_id_categorias": 36,
+    "cve_id_biblia": 17051,
+    "cve_versos": "22"
+  },
+  {
+    "_id": 173,
+    "cve_id_categorias": 36,
+    "cve_id_biblia": 29340,
+    "cve_versos": "1-3"
+  },
+  {
+    "_id": 174,
+    "cve_id_categorias": 36,
+    "cve_id_biblia": 29539,
+    "cve_versos": "20"
+  },
+  {
+    "_id": 175,
+    "cve_id_categorias": 37,
+    "cve_id_biblia": 3848,
+    "cve_versos": "24-26"
+  },
+  {
+    "_id": 176,
+    "cve_id_categorias": 37,
+    "cve_id_biblia": 16323,
+    "cve_versos": "1-21"
+  },
+  {
+    "_id": 177,
+    "cve_id_categorias": 37,
+    "cve_id_biblia": 24041,
+    "cve_versos": "31-46"
+  },
+  {
+    "_id": 178,
+    "cve_id_categorias": 37,
+    "cve_id_biblia": 28248,
+    "cve_versos": "1-2"
+  },
+  {
+    "_id": 179,
+    "cve_id_categorias": 37,
+    "cve_id_biblia": 29435,
+    "cve_versos": "12-21"
+  },
+  {
+    "_id": 180,
+    "cve_id_categorias": 37,
+    "cve_id_biblia": 30483,
+    "cve_versos": "2"
+  },
+  {
+    "_id": 181,
+    "cve_id_categorias": 38,
+    "cve_id_biblia": 14357,
+    "cve_versos": "1-5"
+  },
+  {
+    "_id": 182,
+    "cve_id_categorias": 38,
+    "cve_id_biblia": 14694,
+    "cve_versos": "1-19"
+  },
+  {
+    "_id": 183,
+    "cve_id_categorias": 38,
+    "cve_id_biblia": 17194,
+    "cve_versos": "13"
+  },
+  {
+    "_id": 184,
+    "cve_id_categorias": 38,
+    "cve_id_biblia": 22325,
+    "cve_versos": "12-17"
+  },
+  {
+    "_id": 185,
+    "cve_id_categorias": 38,
+    "cve_id_biblia": 23298,
+    "cve_versos": "14-15"
+  },
+  {
+    "_id": 186,
+    "cve_id_categorias": 38,
+    "cve_id_biblia": 25591,
+    "cve_versos": "1-32"
+  },
+  {
+    "_id": 187,
+    "cve_id_categorias": 38,
+    "cve_id_biblia": 29941,
+    "cve_versos": "1-25"
+  },
+  {
+    "_id": 188,
+    "cve_id_categorias": 38,
+    "cve_id_biblia": 30030,
+    "cve_versos": "14-16"
+  },
+  {
+    "_id": 189,
+    "cve_id_categorias": 38,
+    "cve_id_biblia": 30547,
+    "cve_versos": "5-10"
+  },
+  {
+    "_id": 190,
+    "cve_id_categorias": 39,
+    "cve_id_biblia": 13975,
+    "cve_versos": "1-12"
+  },
+  {
+    "_id": 191,
+    "cve_id_categorias": 39,
+    "cve_id_biblia": 14771,
+    "cve_versos": "1-11"
+  },
+  {
+    "_id": 192,
+    "cve_id_categorias": 39,
+    "cve_id_biblia": 15287,
+    "cve_versos": "1-17"
+  },
+  {
+    "_id": 193,
+    "cve_id_categorias": 39,
+    "cve_id_biblia": 16084,
+    "cve_versos": "1-8"
+  },
+  {
+    "_id": 194,
+    "cve_id_categorias": 39,
+    "cve_id_biblia": 16143,
+    "cve_versos": "1-8"
+  },
+  {
+    "_id": 195,
+    "cve_id_categorias": 39,
+    "cve_id_biblia": 16069,
+    "cve_versos": "169-176"
+  },
+  {
+    "_id": 196,
+    "cve_id_categorias": 39,
+    "cve_id_biblia": 23325,
+    "cve_versos": "7-12"
+  },
+  {
+    "_id": 197,
+    "cve_id_categorias": 40,
+    "cve_id_biblia": 14043,
+    "cve_versos": "1-18"
+  },
+  {
+    "_id": 198,
+    "cve_id_categorias": 40,
+    "cve_id_biblia": 14105,
+    "cve_versos": "1-15"
+  },
+  {
+    "_id": 199,
+    "cve_id_categorias": 40,
+    "cve_id_biblia": 15074,
+    "cve_versos": "1-10"
+  },
+  {
+    "_id": 200,
+    "cve_id_categorias": 40,
+    "cve_id_biblia": 15434,
+    "cve_versos": "1-23"
+  },
+  {
+    "_id": 201,
+    "cve_id_categorias": 40,
+    "cve_id_biblia": 18482,
+    "cve_versos": "1-7"
+  },
+  {
+    "_id": 202,
+    "cve_id_categorias": 40,
+    "cve_id_biblia": 18845,
+    "cve_versos": "1-9"
+  },
+  {
+    "_id": 203,
+    "cve_id_categorias": 40,
+    "cve_id_biblia": 22446,
+    "cve_versos": "21-24"
+  },
+  {
+    "_id": 204,
+    "cve_id_categorias": 40,
+    "cve_id_biblia": 22734,
+    "cve_versos": "1-17"
+  },
+  {
+    "_id": 205,
+    "cve_id_categorias": 40,
+    "cve_id_biblia": 22751,
+    "cve_versos": "1-4"
+  },
+  {
+    "_id": 206,
+    "cve_id_categorias": 41,
+    "cve_id_biblia": 26123,
+    "cve_versos": "1-21"
+  },
+  {
+    "_id": 207,
+    "cve_id_categorias": 41,
+    "cve_id_biblia": 27948,
+    "cve_versos": "16-17"
+  },
+  {
+    "_id": 208,
+    "cve_id_categorias": 41,
+    "cve_id_biblia": 28014,
+    "cve_versos": "21-31"
+  },
+  {
+    "_id": 209,
+    "cve_id_categorias": 41,
+    "cve_id_biblia": 28050,
+    "cve_versos": "1-11"
+  },
+  {
+    "_id": 210,
+    "cve_id_categorias": 41,
+    "cve_id_biblia": 28195,
+    "cve_versos": "5-13"
+  },
+  {
+    "_id": 211,
+    "cve_id_categorias": 41,
+    "cve_id_biblia": 29211,
+    "cve_versos": "3-14"
+  },
+  {
+    "_id": 212,
+    "cve_id_categorias": 41,
+    "cve_id_biblia": 29232,
+    "cve_versos": "1-10"
+  },
+  {
+    "_id": 213,
+    "cve_id_categorias": 42,
+    "cve_id_biblia": 14616,
+    "cve_versos": "1-11"
+  },
+  {
+    "_id": 214,
+    "cve_id_categorias": 42,
+    "cve_id_biblia": 16234,
+    "cve_versos": "1-8"
+  },
+  {
+    "_id": 215,
+    "cve_id_categorias": 42,
+    "cve_id_biblia": 18448,
+    "cve_versos": "27-31"
+  },
+  {
+    "_id": 216,
+    "cve_id_categorias": 42,
+    "cve_id_biblia": 18686,
+    "cve_versos": "12-16"
+  },
+  {
+    "_id": 217,
+    "cve_id_categorias": 42,
+    "cve_id_biblia": 29349,
+    "cve_versos": "10-20"
+  },
+  {
+    "_id": 218,
+    "cve_id_categorias": 42,
+    "cve_id_biblia": 29679,
+    "cve_versos": "16-17"
+  },
+  {
+    "_id": 219,
+    "cve_id_categorias": 43,
+    "cve_id_biblia": 16053,
+    "cve_versos": "153-160"
+  },
+  {
+    "_id": 220,
+    "cve_id_categorias": 43,
+    "cve_id_biblia": 26414,
+    "cve_versos": "31-47"
+  },
+  {
+    "_id": 221,
+    "cve_id_categorias": 43,
+    "cve_id_biblia": 26676,
+    "cve_versos": "6-14"
+  },
+  {
+    "_id": 222,
+    "cve_id_categorias": 43,
+    "cve_id_biblia": 26732,
+    "cve_versos": "4-15"
+  },
+  {
+    "_id": 223,
+    "cve_id_categorias": 43,
+    "cve_id_biblia": 29719,
+    "cve_versos": "1-7"
+  },
+  {
+    "_id": 224,
+    "cve_id_categorias": 44,
+    "cve_id_biblia": 2552,
+    "cve_versos": "20-29"
+  },
+  {
+    "_id": 225,
+    "cve_id_categorias": 44,
+    "cve_id_biblia": 23128,
+    "cve_versos": "6-12"
+  },
+  {
+    "_id": 226,
+    "cve_id_categorias": 44,
+    "cve_id_biblia": 25829,
+    "cve_versos": "1-4"
+  },
+  {
+    "_id": 227,
+    "cve_id_categorias": 44,
+    "cve_id_biblia": 26994,
+    "cve_versos": "43-47"
+  },
+  {
+    "_id": 228,
+    "cve_id_categorias": 44,
+    "cve_id_biblia": 27056,
+    "cve_versos": "32-37"
+  },
+  {
+    "_id": 229,
+    "cve_id_categorias": 44,
+    "cve_id_biblia": 28256,
+    "cve_versos": "9-13"
+  },
+  {
+    "_id": 230,
+    "cve_id_categorias": 44,
+    "cve_id_biblia": 28779,
+    "cve_versos": "1-4"
+  },
+  {
+    "_id": 231,
+    "cve_id_categorias": 44,
+    "cve_id_biblia": 28935,
+    "cve_versos": "1-15"
+  },
+  {
+    "_id": 232,
+    "cve_id_categorias": 44,
+    "cve_id_biblia": 28964,
+    "cve_versos": "6-15"
+  },
+  {
+    "_id": 233,
+    "cve_id_categorias": 45,
+    "cve_id_biblia": 16677,
+    "cve_versos": "3"
+  },
+  {
+    "_id": 234,
+    "cve_id_categorias": 45,
+    "cve_id_biblia": 17029,
+    "cve_versos": "29"
+  },
+  {
+    "_id": 235,
+    "cve_id_categorias": 45,
+    "cve_id_biblia": 28250,
+    "cve_versos": "3-11"
+  },
+  {
+    "_id": 236,
+    "cve_id_categorias": 45,
+    "cve_id_biblia": 29635,
+    "cve_versos": "12-18"
+  },
+  {
+    "_id": 237,
+    "cve_id_categorias": 45,
+    "cve_id_biblia": 29686,
+    "cve_versos": "6-13"
+  },
+  {
+    "_id": 238,
+    "cve_id_categorias": 45,
+    "cve_id_biblia": 30455,
+    "cve_versos": "7-11"
+  },
+  {
+    "_id": 239,
+    "cve_id_categorias": 46,
+    "cve_id_biblia": 5055,
+    "cve_versos": "1-22"
+  },
+  {
+    "_id": 240,
+    "cve_id_categorias": 46,
+    "cve_id_biblia": 16242,
+    "cve_versos": "1-24"
+  },
+  {
+    "_id": 241,
+    "cve_id_categorias": 46,
+    "cve_id_biblia": 26702,
+    "cve_versos": "1-17"
+  },
+  {
+    "_id": 242,
+    "cve_id_categorias": 46,
+    "cve_id_biblia": 28050,
+    "cve_versos": "1-11"
+  },
+  {
+    "_id": 243,
+    "cve_id_categorias": 46,
+    "cve_id_biblia": 28119,
+    "cve_versos": "1-17"
+  },
+  {
+    "_id": 244,
+    "cve_id_categorias": 47,
+    "cve_id_biblia": 5070,
+    "cve_versos": "16-21"
+  },
+  {
+    "_id": 245,
+    "cve_id_categorias": 47,
+    "cve_id_biblia": 16468,
+    "cve_versos": "27-35"
+  },
+  {
+    "_id": 246,
+    "cve_id_categorias": 47,
+    "cve_id_biblia": 23744,
+    "cve_versos": "15-17"
+  },
+  {
+    "_id": 247,
+    "cve_id_categorias": 47,
+    "cve_id_biblia": 23750,
+    "cve_versos": "21-35"
+  },
+  {
+    "_id": 248,
+    "cve_id_categorias": 47,
+    "cve_id_biblia": 28295,
+    "cve_versos": "13-23"
+  },
+  {
+    "_id": 249,
+    "cve_id_categorias": 47,
+    "cve_id_biblia": 28306,
+    "cve_versos": "1-6"
+  },
+  {
+    "_id": 250,
+    "cve_id_categorias": 47,
+    "cve_id_biblia": 29191,
+    "cve_versos": "1-10"
+  },
+  {
+    "_id": 251,
+    "cve_id_categorias": 47,
+    "cve_id_biblia": 29531,
+    "cve_versos": "12-17"
+  },
+  {
+    "_id": 252,
+    "cve_id_categorias": 47,
+    "cve_id_biblia": 30612,
+    "cve_versos": "7-12"
+  },
+  {
+    "_id": 253,
+    "cve_id_categorias": 48,
+    "cve_id_biblia": 18322,
+    "cve_versos": "1-10"
+  },
+  {
+    "_id": 254,
+    "cve_id_categorias": 48,
+    "cve_id_biblia": 18823,
+    "cve_versos": "1-22"
+  },
+  {
+    "_id": 255,
+    "cve_id_categorias": 48,
+    "cve_id_biblia": 19647,
+    "cve_versos": "10-14"
+  },
+  {
+    "_id": 256,
+    "cve_id_categorias": 48,
+    "cve_id_biblia": 30379,
+    "cve_versos": "3-5"
+  },
+  {
+    "_id": 257,
+    "cve_id_categorias": 48,
+    "cve_id_biblia": 31057,
+    "cve_versos": "1-8"
+  },
+  {
+    "_id": 258,
+    "cve_id_categorias": 49,
+    "cve_id_biblia": 14474,
+    "cve_versos": "23-29"
+  },
+  {
+    "_id": 259,
+    "cve_id_categorias": 49,
+    "cve_id_biblia": 18590,
+    "cve_versos": "3-4"
+  },
+  {
+    "_id": 260,
+    "cve_id_categorias": 50,
+    "cve_id_biblia": 16681,
+    "cve_versos": "7"
+  },
+  {
+    "_id": 261,
+    "cve_id_categorias": 50,
+    "cve_id_biblia": 17409,
+    "cve_versos": "10-20"
+  },
+  {
+    "_id": 262,
+    "cve_id_categorias": 50,
+    "cve_id_biblia": 23308,
+    "cve_versos": "24-34"
+  },
+  {
+    "_id": 263,
+    "cve_id_categorias": 50,
+    "cve_id_biblia": 25474,
+    "cve_versos": "13-21"
+  },
+  {
+    "_id": 264,
+    "cve_id_categorias": 50,
+    "cve_id_biblia": 29796,
+    "cve_versos": "6-10"
+  },
+  {
+    "_id": 265,
+    "cve_id_categorias": 51,
+    "cve_id_biblia": 14287,
+    "cve_versos": "1-14"
+  },
+  {
+    "_id": 266,
+    "cve_id_categorias": 51,
+    "cve_id_biblia": 15398,
+    "cve_versos": "1-16"
+  },
+  {
+    "_id": 267,
+    "cve_id_categorias": 51,
+    "cve_id_biblia": 18457,
+    "cve_versos": "5-13"
+  },
+  {
+    "_id": 268,
+    "cve_id_categorias": 51,
+    "cve_id_biblia": 24360,
+    "cve_versos": "35-41"
+  },
+  {
+    "_id": 269,
+    "cve_id_categorias": 51,
+    "cve_id_biblia": 30248,
+    "cve_versos": "5-6"
+  },
+  {
+    "_id": 270,
+    "cve_id_categorias": 51,
+    "cve_id_biblia": 30618,
+    "cve_versos": "13-18"
+  },
+  {
+    "_id": 271,
+    "cve_id_categorias": 52,
+    "cve_id_biblia": 14237,
+    "cve_versos": "1-6"
+  },
+  {
+    "_id": 272,
+    "cve_id_categorias": 52,
+    "cve_id_biblia": 14842,
+    "cve_versos": "1-8"
+  },
+  {
+    "_id": 273,
+    "cve_id_categorias": 52,
+    "cve_id_biblia": 26294,
+    "cve_versos": "35-40"
+  },
+  {
+    "_id": 274,
+    "cve_id_categorias": 52,
+    "cve_id_biblia": 28136,
+    "cve_versos": "18-39"
+  },
+  {
+    "_id": 275,
+    "cve_id_categorias": 52,
+    "cve_id_biblia": 28755,
+    "cve_versos": "35-57"
+  },
+  {
+    "_id": 276,
+    "cve_id_categorias": 52,
+    "cve_id_biblia": 28880,
+    "cve_versos": "1-10"
+  },
+  {
+    "_id": 277,
+    "cve_id_categorias": 52,
+    "cve_id_biblia": 29819,
+    "cve_versos": "8-10"
+  },
+  {
+    "_id": 278,
+    "cve_id_categorias": 53,
+    "cve_id_biblia": 16793,
+    "cve_versos": "1"
+  },
+  {
+    "_id": 279,
+    "cve_id_categorias": 53,
+    "cve_id_biblia": 23257,
+    "cve_versos": "21-24"
+  },
+  {
+    "_id": 280,
+    "cve_id_categorias": 53,
+    "cve_id_biblia": 28264,
+    "cve_versos": "17-21"
+  },
+  {
+    "_id": 281,
+    "cve_id_categorias": 53,
+    "cve_id_biblia": 29300,
+    "cve_versos": "26-32"
+  },
+  {
+    "_id": 282,
+    "cve_id_categorias": 53,
+    "cve_id_biblia": 30287,
+    "cve_versos": "19-21"
+  },
+  {
+    "_id": 283,
+    "cve_id_categorias": 54,
+    "cve_id_biblia": 14253,
+    "cve_versos": "1-22"
+  },
+  {
+    "_id": 284,
+    "cve_id_categorias": 54,
+    "cve_id_biblia": 23308,
+    "cve_versos": "24-34"
+  },
+  {
+    "_id": 285,
+    "cve_id_categorias": 54,
+    "cve_id_biblia": 23445,
+    "cve_versos": "26-31"
+  },
+  {
+    "_id": 286,
+    "cve_id_categorias": 54,
+    "cve_id_biblia": 30379,
+    "cve_versos": "3-5"
+  },
+  {
+    "_id": 287,
+    "cve_id_categorias": 54,
+    "cve_id_biblia": 30474,
+    "cve_versos": "7"
+  },
+  {
+    "_id": 288,
+    "cve_id_categorias": 55,
+    "cve_id_biblia": 14094,
+    "cve_versos": "1-11"
+  },
+  {
+    "_id": 289,
+    "cve_id_categorias": 55,
+    "cve_id_biblia": 14568,
+    "cve_versos": "1-5"
+  },
+  {
+    "_id": 290,
+    "cve_id_categorias": 55,
+    "cve_id_biblia": 16143,
+    "cve_versos": "1-8"
+  },
+  {
+    "_id": 291,
+    "cve_id_categorias": 55,
+    "cve_id_biblia": 18845,
+    "cve_versos": "1-4"
+  },
+  {
+    "_id": 292,
+    "cve_id_categorias": 55,
+    "cve_id_biblia": 19327,
+    "cve_versos": "10-21"
+  },
+  {
+    "_id": 293,
+    "cve_id_categorias": 55,
+    "cve_id_biblia": 20411,
+    "cve_versos": "55-57"
+  },
+  {
+    "_id": 294,
+    "cve_id_categorias": 55,
+    "cve_id_biblia": 26136,
+    "cve_versos": "14-17"
+  },
+  {
+    "_id": 295,
+    "cve_id_categorias": 55,
+    "cve_id_biblia": 29267,
+    "cve_versos": "14-21"
+  },
+  {
+    "_id": 296,
+    "cve_id_categorias": 56,
+    "cve_id_biblia": 14735,
+    "cve_versos": "1-23"
+  },
+  {
+    "_id": 297,
+    "cve_id_categorias": 56,
+    "cve_id_biblia": 14830,
+    "cve_versos": "1-8"
+  },
+  {
+    "_id": 298,
+    "cve_id_categorias": 56,
+    "cve_id_biblia": 19431,
+    "cve_versos": "7-18"
+  },
+  {
+    "_id": 299,
+    "cve_id_categorias": 57,
+    "cve_id_biblia": 14390,
+    "cve_versos": "1-22"
+  },
+  {
+    "_id": 300,
+    "cve_id_categorias": 57,
+    "cve_id_biblia": 17903,
+    "cve_versos": "1-6"
+  },
+  {
+    "_id": 301,
+    "cve_id_categorias": 57,
+    "cve_id_biblia": 28318,
+    "cve_versos": "13"
+  },
+  {
+    "_id": 302,
+    "cve_id_categorias": 57,
+    "cve_id_biblia": 28877,
+    "cve_versos": "16-18"
+  },
+  {
+    "_id": 303,
+    "cve_id_categorias": 57,
+    "cve_id_biblia": 29454,
+    "cve_versos": "10-13"
+  },
+  {
+    "_id": 304,
+    "cve_id_categorias": 57,
+    "cve_id_biblia": 29476,
+    "cve_versos": "9-14"
+  },
+  {
+    "_id": 305,
+    "cve_id_categorias": 57,
+    "cve_id_biblia": 30055,
+    "cve_versos": "9-12"
+  },
+  {
+    "_id": 306,
+    "cve_id_categorias": 58,
+    "cve_id_biblia": 14014,
+    "cve_versos": "1-9"
+  },
+  {
+    "_id": 307,
+    "cve_id_categorias": 58,
+    "cve_id_biblia": 16344,
+    "cve_versos": "1-10"
+  },
+  {
+    "_id": 308,
+    "cve_id_categorias": 58,
+    "cve_id_biblia": 17241,
+    "cve_versos": "5"
+  },
+  {
+    "_id": 309,
+    "cve_id_categorias": 58,
+    "cve_id_biblia": 23325,
+    "cve_versos": "7-12"
+  },
+  {
+    "_id": 310,
+    "cve_id_categorias": 58,
+    "cve_id_biblia": 25658,
+    "cve_versos": "5-6"
+  },
+  {
+    "_id": 311,
+    "cve_id_categorias": 58,
+    "cve_id_biblia": 26893,
+    "cve_versos": "24-31"
+  },
+  {
+    "_id": 312,
+    "cve_id_categorias": 58,
+    "cve_id_biblia": 28037,
+    "cve_versos": "13-25"
+  },
+  {
+    "_id": 313,
+    "cve_id_categorias": 58,
+    "cve_id_biblia": 30175,
+    "cve_versos": "1-40"
+  },
+  {
+    "_id": 314,
+    "cve_id_categorias": 58,
+    "cve_id_biblia": 30639,
+    "cve_versos": "13-15"
+  },
+  {
+    "_id": 315,
+    "cve_id_categorias": 59,
+    "cve_id_biblia": 13357,
+    "cve_versos": "1-16"
+  },
+  {
+    "_id": 316,
+    "cve_id_categorias": 59,
+    "cve_id_biblia": 13438,
+    "cve_versos": "1-17"
+  },
+  {
+    "_id": 317,
+    "cve_id_categorias": 59,
+    "cve_id_biblia": 13738,
+    "cve_versos": "1-26"
+  },
+  {
+    "_id": 318,
+    "cve_id_categorias": 59,
+    "cve_id_biblia": 23331,
+    "cve_versos": "13-14"
+  },
+  {
+    "_id": 319,
+    "cve_id_categorias": 60,
+    "cve_id_biblia": 14076,
+    "cve_versos": "1-6"
+  },
+  {
+    "_id": 320,
+    "cve_id_categorias": 60,
+    "cve_id_biblia": 14452,
+    "cve_versos": "1-7"
+  },
+  {
+    "_id": 321,
+    "cve_id_categorias": 60,
+    "cve_id_biblia": 14527,
+    "cve_versos": "1-5"
+  },
+  {
+    "_id": 322,
+    "cve_id_categorias": 60,
+    "cve_id_biblia": 17362,
+    "cve_versos": "1-15"
+  },
+  {
+    "_id": 323,
+    "cve_id_categorias": 60,
+    "cve_id_biblia": 20381,
+    "cve_versos": "25-33"
+  },
+  {
+    "_id": 324,
+    "cve_id_categorias": 60,
+    "cve_id_biblia": 30059,
+    "cve_versos": "13-20"
+  },
+  {
+    "_id": 325,
+    "cve_id_categorias": 60,
+    "cve_id_biblia": 30363,
+    "cve_versos": "7-11"
+  },
+  {
+    "_id": 326,
+    "cve_id_categorias": 61,
+    "cve_id_biblia": 5730,
+    "cve_versos": "1-8"
+  },
+  {
+    "_id": 327,
+    "cve_id_categorias": 61,
+    "cve_id_biblia": 15043,
+    "cve_versos": "21-26"
+  },
+  {
+    "_id": 328,
+    "cve_id_categorias": 61,
+    "cve_id_biblia": 15745,
+    "cve_versos": "1-13"
+  },
+  {
+    "_id": 329,
+    "cve_id_categorias": 61,
+    "cve_id_biblia": 29454,
+    "cve_versos": "10-20"
+  },
+  {
+    "_id": 330,
+    "cve_id_categorias": 61,
+    "cve_id_biblia": 30600,
+    "cve_versos": "19-24"
+  },
+  {
+    "_id": 331,
+    "cve_id_categorias": 62,
+    "cve_id_biblia": 14651,
+    "cve_versos": "1-20"
+  },
+  {
+    "_id": 332,
+    "cve_id_categorias": 62,
+    "cve_id_biblia": 17046,
+    "cve_versos": "17"
+  },
+  {
+    "_id": 333,
+    "cve_id_categorias": 62,
+    "cve_id_biblia": 30334,
+    "cve_versos": "13-18"
+  },
+  {
+    "_id": 334,
+    "cve_id_categorias": 63,
+    "cve_id_biblia": 14206,
+    "cve_versos": "1-31"
+  },
+  {
+    "_id": 335,
+    "cve_id_categorias": 63,
+    "cve_id_biblia": 14557,
+    "cve_versos": "1-11"
+  },
+  {
+    "_id": 336,
+    "cve_id_categorias": 63,
+    "cve_id_biblia": 26685,
+    "cve_versos": "15-31"
+  }
+]

@@ -1,0 +1,821 @@
+[
+  {
+    "_id": 17540,
+    "bib_libro": 22,
+    "bib_capitulo": 1,
+    "bib_versiculo": 1,
+    "bib_escritura": " Cantar de los cantares, el cual es de Salomón."
+  },
+  {
+    "_id": 17541,
+    "bib_libro": 22,
+    "bib_capitulo": 1,
+    "bib_versiculo": 2,
+    "bib_escritura": " ¡Oh, si él me besara con besos de su boca! Porque mejores son tus amores que el vino. "
+  },
+  {
+    "_id": 17542,
+    "bib_libro": 22,
+    "bib_capitulo": 1,
+    "bib_versiculo": 3,
+    "bib_escritura": " A más del olor de tus suaves ungüentos, Tu nombre es como ungüento derramado; Por eso las doncellas te aman. "
+  },
+  {
+    "_id": 17543,
+    "bib_libro": 22,
+    "bib_capitulo": 1,
+    "bib_versiculo": 4,
+    "bib_escritura": " Atráeme; en pos de ti correremos. El rey me ha metido en sus cámaras; Nos gozaremos y alegraremos en ti; Nos acordaremos de tus amores más que del vino; Con razón te aman. "
+  },
+  {
+    "_id": 17544,
+    "bib_libro": 22,
+    "bib_capitulo": 1,
+    "bib_versiculo": 5,
+    "bib_escritura": " Morena soy, oh hijas de Jerusalén, pero codiciable Como las tiendas de Cedar, Como las cortinas de Salomón. "
+  },
+  {
+    "_id": 17545,
+    "bib_libro": 22,
+    "bib_capitulo": 1,
+    "bib_versiculo": 6,
+    "bib_escritura": " No reparéis en que soy morena, Porque el sol me miró. Los hijos de mi madre se airaron contra mí; Me pusieron a guardar las viñas; Y mi viña, que era mía, no guardé. "
+  },
+  {
+    "_id": 17546,
+    "bib_libro": 22,
+    "bib_capitulo": 1,
+    "bib_versiculo": 7,
+    "bib_escritura": " Hazme saber, oh tú a quien ama mi alma, Dónde apacientas, dónde sesteas al mediodía; Pues ¿por qué había de estar yo como errante Junto a los rebaños de tus compañeros? "
+  },
+  {
+    "_id": 17547,
+    "bib_libro": 22,
+    "bib_capitulo": 1,
+    "bib_versiculo": 8,
+    "bib_escritura": " Si tú no lo sabes, oh hermosa entre las mujeres, Ve, sigue las huellas del rebaño, Y apacienta tus cabritas junto a las cabañas de los pastores."
+  },
+  {
+    "_id": 17548,
+    "bib_libro": 22,
+    "bib_capitulo": 1,
+    "bib_versiculo": 9,
+    "bib_escritura": " A yegua de los carros de Faraón Te he comparado, amiga mía. "
+  },
+  {
+    "_id": 17549,
+    "bib_libro": 22,
+    "bib_capitulo": 1,
+    "bib_versiculo": 10,
+    "bib_escritura": " Hermosas son tus mejillas entre los pendientes, Tu cuello entre los collares. "
+  },
+  {
+    "_id": 17550,
+    "bib_libro": 22,
+    "bib_capitulo": 1,
+    "bib_versiculo": 11,
+    "bib_escritura": " Zarcillos de oro te haremos, Tachonados de plata. "
+  },
+  {
+    "_id": 17551,
+    "bib_libro": 22,
+    "bib_capitulo": 1,
+    "bib_versiculo": 12,
+    "bib_escritura": " Mientras el rey estaba en su reclinatorio, Mi nardo dio su olor. "
+  },
+  {
+    "_id": 17552,
+    "bib_libro": 22,
+    "bib_capitulo": 1,
+    "bib_versiculo": 13,
+    "bib_escritura": " Mi amado es para mí un manojito de mirra, Que reposa entre mis pechos. "
+  },
+  {
+    "_id": 17553,
+    "bib_libro": 22,
+    "bib_capitulo": 1,
+    "bib_versiculo": 14,
+    "bib_escritura": " Racimo de flores de alheña en las viñas de En-gadi Es para mí mi amado. "
+  },
+  {
+    "_id": 17554,
+    "bib_libro": 22,
+    "bib_capitulo": 1,
+    "bib_versiculo": 15,
+    "bib_escritura": " He aquí que tú eres hermosa, amiga mía;He aquí eres bella; tus ojos son como palomas. "
+  },
+  {
+    "_id": 17555,
+    "bib_libro": 22,
+    "bib_capitulo": 1,
+    "bib_versiculo": 16,
+    "bib_escritura": " He aquí que tú eres hermoso, amado mío, y dulce; Nuestro lecho es de flores. "
+  },
+  {
+    "_id": 17556,
+    "bib_libro": 22,
+    "bib_capitulo": 1,
+    "bib_versiculo": 17,
+    "bib_escritura": " Las vigas de nuestra casa son de cedro, Y de ciprés los artesonados. "
+  },
+  {
+    "_id": 17557,
+    "bib_libro": 22,
+    "bib_capitulo": 2,
+    "bib_versiculo": 1,
+    "bib_escritura": " Yo soy la rosa de Sarón, Y el lirio de los valles. "
+  },
+  {
+    "_id": 17558,
+    "bib_libro": 22,
+    "bib_capitulo": 2,
+    "bib_versiculo": 2,
+    "bib_escritura": " Como el lirio entre los espinos, Así es mi amiga entre las doncellas. "
+  },
+  {
+    "_id": 17559,
+    "bib_libro": 22,
+    "bib_capitulo": 2,
+    "bib_versiculo": 3,
+    "bib_escritura": " Como el manzano entre los árboles silvestres, Así es mi amado entre los jóvenes; Bajo la sombra del deseado me senté, Y su fruto fue dulce a mi paladar. "
+  },
+  {
+    "_id": 17560,
+    "bib_libro": 22,
+    "bib_capitulo": 2,
+    "bib_versiculo": 4,
+    "bib_escritura": " Me llevó a la casa del banquete, Y su bandera sobre mí fue amor. "
+  },
+  {
+    "_id": 17561,
+    "bib_libro": 22,
+    "bib_capitulo": 2,
+    "bib_versiculo": 5,
+    "bib_escritura": " Sustentadme con pasas, confortadme con manzanas; Porque estoy enferma de amor. "
+  },
+  {
+    "_id": 17562,
+    "bib_libro": 22,
+    "bib_capitulo": 2,
+    "bib_versiculo": 6,
+    "bib_escritura": " Su izquierda esté debajo de mi cabeza, Y su derecha me abrace. "
+  },
+  {
+    "_id": 17563,
+    "bib_libro": 22,
+    "bib_capitulo": 2,
+    "bib_versiculo": 7,
+    "bib_escritura": " Yo os conjuro, oh doncellas de Jerusalén, Por los corzos y por las ciervas del campo, Que no despertéis ni hagáis velar al amor, Hasta que quiera. "
+  },
+  {
+    "_id": 17564,
+    "bib_libro": 22,
+    "bib_capitulo": 2,
+    "bib_versiculo": 8,
+    "bib_escritura": " ¡La voz de mi amado! He aquí él viene Saltando sobre los montes, Brincando sobre los collados. "
+  },
+  {
+    "_id": 17565,
+    "bib_libro": 22,
+    "bib_capitulo": 2,
+    "bib_versiculo": 9,
+    "bib_escritura": " Mi amado es semejante al corzo, O al cervatillo. Helo aquí, está tras nuestra pared, Mirando por las ventanas, Atisbando por las celosías. "
+  },
+  {
+    "_id": 17566,
+    "bib_libro": 22,
+    "bib_capitulo": 2,
+    "bib_versiculo": 10,
+    "bib_escritura": " Mi amado habló, y me dijo: Levántate, oh amiga mía, hermosa mía, y ven. "
+  },
+  {
+    "_id": 17567,
+    "bib_libro": 22,
+    "bib_capitulo": 2,
+    "bib_versiculo": 11,
+    "bib_escritura": " Porque he aquí ha pasado el invierno, Se ha mudado, la lluvia se fue; "
+  },
+  {
+    "_id": 17568,
+    "bib_libro": 22,
+    "bib_capitulo": 2,
+    "bib_versiculo": 12,
+    "bib_escritura": " Se han mostrado las flores en la tierra, El tiempo de la canción ha venido, Y en nuestro país se ha oído la voz de la tórtola. "
+  },
+  {
+    "_id": 17569,
+    "bib_libro": 22,
+    "bib_capitulo": 2,
+    "bib_versiculo": 13,
+    "bib_escritura": " La higuera ha echado sus higos, Y las vides en cierne dieron olor; Levántate, oh amiga mía, hermosa mía, y ven. "
+  },
+  {
+    "_id": 17570,
+    "bib_libro": 22,
+    "bib_capitulo": 2,
+    "bib_versiculo": 14,
+    "bib_escritura": " Paloma mía, que estás en los agujeros de la peña, en lo escondido de escarpados parajes, Muéstrame tu rostro, hazme oír tu voz; Porque dulce es la voz tuya, y hermoso tu aspecto. "
+  },
+  {
+    "_id": 17571,
+    "bib_libro": 22,
+    "bib_capitulo": 2,
+    "bib_versiculo": 15,
+    "bib_escritura": " Cazadnos las zorras, las zorras pequeñas, que echan a perder las viñas; Porque nuestras viñas están en cierne. "
+  },
+  {
+    "_id": 17572,
+    "bib_libro": 22,
+    "bib_capitulo": 2,
+    "bib_versiculo": 16,
+    "bib_escritura": " Mi amado es mío, y yo suya; El apacienta entre lirios. "
+  },
+  {
+    "_id": 17573,
+    "bib_libro": 22,
+    "bib_capitulo": 2,
+    "bib_versiculo": 17,
+    "bib_escritura": " Hasta que apunte el día, y huyan las sombras, Vuélvete, amado mío; sé semejante al corzo, o como el cervatillo Sobre los montes de Beter."
+  },
+  {
+    "_id": 17574,
+    "bib_libro": 22,
+    "bib_capitulo": 3,
+    "bib_versiculo": 1,
+    "bib_escritura": " Por las noches busqué en mi lecho al que ama mi alma; Lo busqué, y no lo hallé. "
+  },
+  {
+    "_id": 17575,
+    "bib_libro": 22,
+    "bib_capitulo": 3,
+    "bib_versiculo": 2,
+    "bib_escritura": " Y dije: Me levantaré ahora, y rodearé por la ciudad; Por las calles y por las plazas Buscaré al que ama mi alma;Lo busqué, y no lo hallé. "
+  },
+  {
+    "_id": 17576,
+    "bib_libro": 22,
+    "bib_capitulo": 3,
+    "bib_versiculo": 3,
+    "bib_escritura": " Me hallaron los guardas que rondan la ciudad, Y les dije: ¿Habéis visto al que ama mi alma? "
+  },
+  {
+    "_id": 17577,
+    "bib_libro": 22,
+    "bib_capitulo": 3,
+    "bib_versiculo": 4,
+    "bib_escritura": " Apenas hube pasado de ellos un poco, Hallé luego al que ama mi alma; Lo así, y no lo dejé, Hasta que lo metí en casa de mi madre, Y en la cámara de la que me dio a luz. "
+  },
+  {
+    "_id": 17578,
+    "bib_libro": 22,
+    "bib_capitulo": 3,
+    "bib_versiculo": 5,
+    "bib_escritura": " Yo os conjuro, oh doncellas de Jerusalén, Por los corzos y por las ciervas del campo, Que no despertéis ni hagáis velar al amor, Hasta que quiera."
+  },
+  {
+    "_id": 17579,
+    "bib_libro": 22,
+    "bib_capitulo": 3,
+    "bib_versiculo": 6,
+    "bib_escritura": " ¿Quién es ésta que sube del desierto como columna de humo, Sahumada de mirra y de incienso Y de todo polvo aromático? "
+  },
+  {
+    "_id": 17580,
+    "bib_libro": 22,
+    "bib_capitulo": 3,
+    "bib_versiculo": 7,
+    "bib_escritura": " He aquí es la litera de Salomón; Sesenta valientes la rodean, De los fuertes de Israel. "
+  },
+  {
+    "_id": 17581,
+    "bib_libro": 22,
+    "bib_capitulo": 3,
+    "bib_versiculo": 8,
+    "bib_escritura": " Todos ellos tienen espadas, diestros en la guerra;Cada uno su espada sobre su muslo, Por los temores de la noche. "
+  },
+  {
+    "_id": 17582,
+    "bib_libro": 22,
+    "bib_capitulo": 3,
+    "bib_versiculo": 9,
+    "bib_escritura": " El rey Salomón se hizo una carroza De madera del Líbano. "
+  },
+  {
+    "_id": 17583,
+    "bib_libro": 22,
+    "bib_capitulo": 3,
+    "bib_versiculo": 10,
+    "bib_escritura": " Hizo sus columnas de plata, Su respaldo de oro, Su asiento de grana, Su interior recamado de amor Por las doncellas de Jerusalén. "
+  },
+  {
+    "_id": 17584,
+    "bib_libro": 22,
+    "bib_capitulo": 3,
+    "bib_versiculo": 11,
+    "bib_escritura": " Salid, oh doncellas de Sion, y ved al rey Salomón Con la corona con que le coronó su madre en el día de su desposorio, Y el día del gozo de su corazón. "
+  },
+  {
+    "_id": 17585,
+    "bib_libro": 22,
+    "bib_capitulo": 4,
+    "bib_versiculo": 1,
+    "bib_escritura": " He aquí que tú eres hermosa, amiga mía; he aquí que tú eres hermosa; Tus ojos entre tus guedejas como de paloma; Tus cabellos como manada de cabras Que se recuestan en las laderas de Galaad. "
+  },
+  {
+    "_id": 17586,
+    "bib_libro": 22,
+    "bib_capitulo": 4,
+    "bib_versiculo": 2,
+    "bib_escritura": " Tus dientes como manadas de ovejas trasquiladas, Que suben del lavadero, Todas con crías gemelas, Y ninguna entre ellas estéril. "
+  },
+  {
+    "_id": 17587,
+    "bib_libro": 22,
+    "bib_capitulo": 4,
+    "bib_versiculo": 3,
+    "bib_escritura": " Tus labios como hilo de grana, Y tu habla hermosa; Tus mejillas, como cachos de granada detrás de tu velo. "
+  },
+  {
+    "_id": 17588,
+    "bib_libro": 22,
+    "bib_capitulo": 4,
+    "bib_versiculo": 4,
+    "bib_escritura": " Tu cuello, como la torre de David, edificada para armería; Mil escudos están colgados en ella, Todos escudos de valientes. "
+  },
+  {
+    "_id": 17589,
+    "bib_libro": 22,
+    "bib_capitulo": 4,
+    "bib_versiculo": 5,
+    "bib_escritura": " Tus dos pechos, como gemelos de gacela, Que se apacientan entre lirios. "
+  },
+  {
+    "_id": 17590,
+    "bib_libro": 22,
+    "bib_capitulo": 4,
+    "bib_versiculo": 6,
+    "bib_escritura": " Hasta que apunte el día y huyan las sombras, Me iré al monte de la mirra, Y al collado del incienso. "
+  },
+  {
+    "_id": 17591,
+    "bib_libro": 22,
+    "bib_capitulo": 4,
+    "bib_versiculo": 7,
+    "bib_escritura": " Toda tú eres hermosa, amiga mía, Y en ti no hay mancha. "
+  },
+  {
+    "_id": 17592,
+    "bib_libro": 22,
+    "bib_capitulo": 4,
+    "bib_versiculo": 8,
+    "bib_escritura": " Ven conmigo desde el Líbano, oh esposa mía; Ven conmigo desde el Líbano. Mira desde la cumbre de Amana, Desde la cumbre de Senir y de Hermón, Desde las guaridas de los leones, Desde los montes de los leopardos. "
+  },
+  {
+    "_id": 17593,
+    "bib_libro": 22,
+    "bib_capitulo": 4,
+    "bib_versiculo": 9,
+    "bib_escritura": " Prendiste mi corazón, hermana, esposa mía; Has apresado mi corazón con uno de tus ojos, Con una gargantilla de tu cuello. "
+  },
+  {
+    "_id": 17594,
+    "bib_libro": 22,
+    "bib_capitulo": 4,
+    "bib_versiculo": 10,
+    "bib_escritura": " ¡Cuán hermosos son tus amores, hermana, esposa mía! ¡Cuánto mejores que el vino tus amores, Y el olor de tus ungüentos que todas las especias aromáticas!"
+  },
+  {
+    "_id": 17595,
+    "bib_libro": 22,
+    "bib_capitulo": 4,
+    "bib_versiculo": 11,
+    "bib_escritura": " Como panal de miel destilan tus labios, oh esposa; Miel y leche hay debajo de tu lengua; Y el olor de tus vestidos como el olor del Líbano. "
+  },
+  {
+    "_id": 17596,
+    "bib_libro": 22,
+    "bib_capitulo": 4,
+    "bib_versiculo": 12,
+    "bib_escritura": " Huerto cerrado eres, hermana mía, esposa mía; Fuente cerrada, fuente sellada. "
+  },
+  {
+    "_id": 17597,
+    "bib_libro": 22,
+    "bib_capitulo": 4,
+    "bib_versiculo": 13,
+    "bib_escritura": " Tus renuevos son paraíso de granados, con frutos suaves, De flores de alheña y nardos; "
+  },
+  {
+    "_id": 17598,
+    "bib_libro": 22,
+    "bib_capitulo": 4,
+    "bib_versiculo": 14,
+    "bib_escritura": " Nardo y azafrán, caña aromática y canela, Con todos los árboles de incienso; Mirra y áloes, con todas las principales especias aromáticas. "
+  },
+  {
+    "_id": 17599,
+    "bib_libro": 22,
+    "bib_capitulo": 4,
+    "bib_versiculo": 15,
+    "bib_escritura": " Fuente de huertos, Pozo de aguas vivas, Que corren del Líbano. "
+  },
+  {
+    "_id": 17600,
+    "bib_libro": 22,
+    "bib_capitulo": 4,
+    "bib_versiculo": 16,
+    "bib_escritura": " Levántate, Aquilón, y ven, Austro; Soplad en mi huerto, despréndanse sus aromas. Venga mi amado a su huerto, Y coma de su dulce fruta. "
+  },
+  {
+    "_id": 17601,
+    "bib_libro": 22,
+    "bib_capitulo": 5,
+    "bib_versiculo": 1,
+    "bib_escritura": " Yo vine a mi huerto, oh hermana, esposa mía; He recogido mi mirra y mis aromas; He comido mi panal y mi miel, Mi vino y mi leche he bebido. Comed, amigos; bebed en abundancia, oh amados. "
+  },
+  {
+    "_id": 17602,
+    "bib_libro": 22,
+    "bib_capitulo": 5,
+    "bib_versiculo": 2,
+    "bib_escritura": " Yo dormía, pero mi corazón velaba. Es la voz de mi amado que llama: Abreme, hermana mía, amiga mía, paloma mía, perfecta mía, Porque mi cabeza está llena de rocío, Mis cabellos de las gotas de la noche. "
+  },
+  {
+    "_id": 17603,
+    "bib_libro": 22,
+    "bib_capitulo": 5,
+    "bib_versiculo": 3,
+    "bib_escritura": " Me he desnudado de mi ropa; ¿cómo me he de vestir? He lavado mis pies; ¿cómo los he de ensuciar? "
+  },
+  {
+    "_id": 17604,
+    "bib_libro": 22,
+    "bib_capitulo": 5,
+    "bib_versiculo": 4,
+    "bib_escritura": " Mi amado metió su mano por la ventanilla, Y mi corazón se conmovió dentro de mí. "
+  },
+  {
+    "_id": 17605,
+    "bib_libro": 22,
+    "bib_capitulo": 5,
+    "bib_versiculo": 5,
+    "bib_escritura": " Yo me levanté para abrir a mi amado, Y mis manos gotearon mirra, Y mis dedos mirra, que corría Sobre la manecilla del cerrojo. "
+  },
+  {
+    "_id": 17606,
+    "bib_libro": 22,
+    "bib_capitulo": 5,
+    "bib_versiculo": 6,
+    "bib_escritura": " Abrí yo a mi amado; Pero mi amado se había ido, había ya pasado; Y tras su hablar salió mi alma. Lo busqué, y no lo hallé; Lo llamé, y no me respondió. "
+  },
+  {
+    "_id": 17607,
+    "bib_libro": 22,
+    "bib_capitulo": 5,
+    "bib_versiculo": 7,
+    "bib_escritura": " Me hallaron los guardas que rondan la ciudad; Me golpearon, me hirieron; Me quitaron mi manto de encima los guardas de los muros. "
+  },
+  {
+    "_id": 17608,
+    "bib_libro": 22,
+    "bib_capitulo": 5,
+    "bib_versiculo": 8,
+    "bib_escritura": " Yo os conjuro, oh doncellas de Jerusalén, si halláis a mi amado, Que le hagáis saber que estoy enferma de amor. "
+  },
+  {
+    "_id": 17609,
+    "bib_libro": 22,
+    "bib_capitulo": 5,
+    "bib_versiculo": 9,
+    "bib_escritura": " ¿Qué es tu amado más que otro amado, Oh la más hermosa de todas las mujeres? ¿Qué es tu amado más que otro amado, Que así nos conjuras? "
+  },
+  {
+    "_id": 17610,
+    "bib_libro": 22,
+    "bib_capitulo": 5,
+    "bib_versiculo": 10,
+    "bib_escritura": " Mi amado es blanco y rubio, Señalado entre diez mil. "
+  },
+  {
+    "_id": 17611,
+    "bib_libro": 22,
+    "bib_capitulo": 5,
+    "bib_versiculo": 11,
+    "bib_escritura": " Su cabeza como oro finísimo; Sus cabellos crespos, negros como el cuervo. "
+  },
+  {
+    "_id": 17612,
+    "bib_libro": 22,
+    "bib_capitulo": 5,
+    "bib_versiculo": 12,
+    "bib_escritura": " Sus ojos, como palomas junto a los arroyos de las aguas, Que se lavan con leche, y a la perfección colocados. "
+  },
+  {
+    "_id": 17613,
+    "bib_libro": 22,
+    "bib_capitulo": 5,
+    "bib_versiculo": 13,
+    "bib_escritura": " Sus mejillas, como una era de especias aromáticas, como fragantes flores; Sus labios, como lirios que destilan mirra fragante. "
+  },
+  {
+    "_id": 17614,
+    "bib_libro": 22,
+    "bib_capitulo": 5,
+    "bib_versiculo": 14,
+    "bib_escritura": " Sus manos, como anillos de oro engastados de jacintos; Su cuerpo, como claro marfil cubierto de zafiros. "
+  },
+  {
+    "_id": 17615,
+    "bib_libro": 22,
+    "bib_capitulo": 5,
+    "bib_versiculo": 15,
+    "bib_escritura": " Sus piernas, como columnas de mármol fundadas sobre basas de oro fino; Su aspecto como el Líbano, escogido como los cedros. "
+  },
+  {
+    "_id": 17616,
+    "bib_libro": 22,
+    "bib_capitulo": 5,
+    "bib_versiculo": 16,
+    "bib_escritura": " Su paladar, dulcísimo, y todo él codiciable. Tal es mi amado, tal es mi amigo, Oh doncellas de Jerusalén.  "
+  },
+  {
+    "_id": 17617,
+    "bib_libro": 22,
+    "bib_capitulo": 6,
+    "bib_versiculo": 1,
+    "bib_escritura": " ¿A dónde se ha ido tu amado, oh la más hermosa de todas las mujeres? ¿A dónde se apartó tu amado, Y lo buscaremos contigo? "
+  },
+  {
+    "_id": 17618,
+    "bib_libro": 22,
+    "bib_capitulo": 6,
+    "bib_versiculo": 2,
+    "bib_escritura": " Mi amado descendió a su huerto, a las eras de las especias, Para apacentar en los huertos, y para recoger los lirios. "
+  },
+  {
+    "_id": 17619,
+    "bib_libro": 22,
+    "bib_capitulo": 6,
+    "bib_versiculo": 3,
+    "bib_escritura": " Yo soy de mi amado, y mi amado es mío; El apacienta entre los lirios. "
+  },
+  {
+    "_id": 17620,
+    "bib_libro": 22,
+    "bib_capitulo": 6,
+    "bib_versiculo": 4,
+    "bib_escritura": " Hermosa eres tú, oh amiga mía, como Tirsa; De desear, como Jerusalén; Imponente como ejércitos en orden. "
+  },
+  {
+    "_id": 17621,
+    "bib_libro": 22,
+    "bib_capitulo": 6,
+    "bib_versiculo": 5,
+    "bib_escritura": " Aparta tus ojos de delante de mí, Porque ellos me vencieron. Tu cabello es como manada de cabras Que se recuestan en las laderas de Galaad. "
+  },
+  {
+    "_id": 17622,
+    "bib_libro": 22,
+    "bib_capitulo": 6,
+    "bib_versiculo": 6,
+    "bib_escritura": " Tus dientes, como manadas de ovejas que suben del lavadero, Todas con crías gemelas, Y estéril no hay entre ellas. "
+  },
+  {
+    "_id": 17623,
+    "bib_libro": 22,
+    "bib_capitulo": 6,
+    "bib_versiculo": 7,
+    "bib_escritura": " Como cachos de granada son tus mejillas Detrás de tu velo. "
+  },
+  {
+    "_id": 17624,
+    "bib_libro": 22,
+    "bib_capitulo": 6,
+    "bib_versiculo": 8,
+    "bib_escritura": " Sesenta son las reinas, y ochenta las concubinas, Y las doncellas sin número; "
+  },
+  {
+    "_id": 17625,
+    "bib_libro": 22,
+    "bib_capitulo": 6,
+    "bib_versiculo": 9,
+    "bib_escritura": " Mas una es la paloma mía, la perfecta mía; Es la única de su madre, La escogida de la que la dio a luz. La vieron las doncellas, y la llamaron bienaventurada; Las reinas y las concubinas, y la alabaron. "
+  },
+  {
+    "_id": 17626,
+    "bib_libro": 22,
+    "bib_capitulo": 6,
+    "bib_versiculo": 10,
+    "bib_escritura": " ¿Quién es ésta que se muestra como el alba, Hermosa como la luna, Esclarecida como el sol, Imponente como ejércitos en orden? "
+  },
+  {
+    "_id": 17627,
+    "bib_libro": 22,
+    "bib_capitulo": 6,
+    "bib_versiculo": 11,
+    "bib_escritura": " Al huerto de los nogales descendí A ver los frutos del valle, Y para ver si brotaban las vides, Si florecían los granados. "
+  },
+  {
+    "_id": 17628,
+    "bib_libro": 22,
+    "bib_capitulo": 6,
+    "bib_versiculo": 12,
+    "bib_escritura": " Antes que lo supiera, mi alma me puso Entre los carros de Aminadab. "
+  },
+  {
+    "_id": 17629,
+    "bib_libro": 22,
+    "bib_capitulo": 6,
+    "bib_versiculo": 13,
+    "bib_escritura": " Vuélvete, vuélvete, oh sulamita; Vuélvete, vuélvete, y te miraremos. ¿Qué veréis en la sulamita? Algo como la reunión de dos campamentos."
+  },
+  {
+    "_id": 17630,
+    "bib_libro": 22,
+    "bib_capitulo": 7,
+    "bib_versiculo": 1,
+    "bib_escritura": " ¡Cuán hermosos son tus pies en las sandalias, Oh hija de príncipe! Los contornos de tus muslos son como joyas, Obra de mano de excelente maestro. "
+  },
+  {
+    "_id": 17631,
+    "bib_libro": 22,
+    "bib_capitulo": 7,
+    "bib_versiculo": 2,
+    "bib_escritura": " Tu ombligo como una taza redonda Que no le falta bebida. Tu vientre como montón de trigo Cercado de lirios. "
+  },
+  {
+    "_id": 17632,
+    "bib_libro": 22,
+    "bib_capitulo": 7,
+    "bib_versiculo": 3,
+    "bib_escritura": " Tus dos pechos, como gemelos de gacela. "
+  },
+  {
+    "_id": 17633,
+    "bib_libro": 22,
+    "bib_capitulo": 7,
+    "bib_versiculo": 4,
+    "bib_escritura": " Tu cuello, como torre de marfil; Tus ojos, como los estanques de Hesbón junto a la puerta de Bat-rabim; Tu nariz, como la torre del Líbano, Que mira hacia Damasco. "
+  },
+  {
+    "_id": 17634,
+    "bib_libro": 22,
+    "bib_capitulo": 7,
+    "bib_versiculo": 5,
+    "bib_escritura": " Tu cabeza encima de ti, como el Carmelo; Y el cabello de tu cabeza, como la púrpura del rey Suspendida en los corredores."
+  },
+  {
+    "_id": 17635,
+    "bib_libro": 22,
+    "bib_capitulo": 7,
+    "bib_versiculo": 6,
+    "bib_escritura": " ¡Qué hermosa eres, y cuán suave, Oh amor deleitoso! "
+  },
+  {
+    "_id": 17636,
+    "bib_libro": 22,
+    "bib_capitulo": 7,
+    "bib_versiculo": 7,
+    "bib_escritura": " Tu estatura es semejante a la palmera, Y tus pechos a los racimos. "
+  },
+  {
+    "_id": 17637,
+    "bib_libro": 22,
+    "bib_capitulo": 7,
+    "bib_versiculo": 8,
+    "bib_escritura": " Yo dije: Subiré a la palmera, Asiré sus ramas. Deja que tus pechos sean como racimos de vid, Y el olor de tu boca como de manzanas, "
+  },
+  {
+    "_id": 17638,
+    "bib_libro": 22,
+    "bib_capitulo": 7,
+    "bib_versiculo": 9,
+    "bib_escritura": " Y tu paladar como el buen vino, Que se entra a mi amado suavemente, Y hace hablar los labios de los viejos. "
+  },
+  {
+    "_id": 17639,
+    "bib_libro": 22,
+    "bib_capitulo": 7,
+    "bib_versiculo": 10,
+    "bib_escritura": " Yo soy de mi amado, Y conmigo tiene su contentamiento. "
+  },
+  {
+    "_id": 17640,
+    "bib_libro": 22,
+    "bib_capitulo": 7,
+    "bib_versiculo": 11,
+    "bib_escritura": " Ven, oh amado mío, salgamos al campo, Moremos en las aldeas. "
+  },
+  {
+    "_id": 17641,
+    "bib_libro": 22,
+    "bib_capitulo": 7,
+    "bib_versiculo": 12,
+    "bib_escritura": " Levantémonos de mañana a las viñas; Veamos si brotan las vides, si están en cierne, Si han florecido los granados; Allí te daré mis amores. "
+  },
+  {
+    "_id": 17642,
+    "bib_libro": 22,
+    "bib_capitulo": 7,
+    "bib_versiculo": 13,
+    "bib_escritura": " Las mandrágoras han dado olor, Y a nuestras puertas hay toda suerte de dulces frutas, Nuevas y añejas, que para ti, oh amado mío, he guardado."
+  },
+  {
+    "_id": 17643,
+    "bib_libro": 22,
+    "bib_capitulo": 8,
+    "bib_versiculo": 1,
+    "bib_escritura": " ¡Oh, si tú fueras como un hermano mío Que mamó los pechos de mi madre! Entonces, hallándote fuera, te besaría, Y no me menospreciarían. "
+  },
+  {
+    "_id": 17644,
+    "bib_libro": 22,
+    "bib_capitulo": 8,
+    "bib_versiculo": 2,
+    "bib_escritura": " Yo te llevaría, te metería en casa de mi madre; Tú me enseñarías, Y yo te haría beber vino Adobado del mosto de mis granadas. "
+  },
+  {
+    "_id": 17645,
+    "bib_libro": 22,
+    "bib_capitulo": 8,
+    "bib_versiculo": 3,
+    "bib_escritura": " Su izquierda esté debajo de mi cabeza, Y su derecha me abrace. "
+  },
+  {
+    "_id": 17646,
+    "bib_libro": 22,
+    "bib_capitulo": 8,
+    "bib_versiculo": 4,
+    "bib_escritura": " Os conjuro, oh doncellas de Jerusalén, Que no despertéis ni hagáis velar al amor, Hasta que quiera. "
+  },
+  {
+    "_id": 17647,
+    "bib_libro": 22,
+    "bib_capitulo": 8,
+    "bib_versiculo": 5,
+    "bib_escritura": " ¿Quién es ésta que sube del desierto, Recostada sobre su amado? Debajo de un manzano te desperté; Allí tuvo tu madre dolores, Allí tuvo dolores la que te dio a luz. "
+  },
+  {
+    "_id": 17648,
+    "bib_libro": 22,
+    "bib_capitulo": 8,
+    "bib_versiculo": 6,
+    "bib_escritura": " Ponme como un sello sobre tu corazón, como una marca sobre tu brazo; Porque fuerte es como la muerte el amor; Duros como el Seol los celos; Sus brasas, brasas de fuego, fuerte llama. "
+  },
+  {
+    "_id": 17649,
+    "bib_libro": 22,
+    "bib_capitulo": 8,
+    "bib_versiculo": 7,
+    "bib_escritura": " Las muchas aguas no podrán apagar el amor, Ni lo ahogarán los ríos. Si diese el hombre todos los bienes de su casa por este amor, De cierto lo menospreciarían. "
+  },
+  {
+    "_id": 17650,
+    "bib_libro": 22,
+    "bib_capitulo": 8,
+    "bib_versiculo": 8,
+    "bib_escritura": " Tenemos una pequeña hermana, Que no tiene pechos; ¿Qué haremos a nuestra hermana Cuando de ella se hablare? "
+  },
+  {
+    "_id": 17651,
+    "bib_libro": 22,
+    "bib_capitulo": 8,
+    "bib_versiculo": 9,
+    "bib_escritura": " Si ella es muro, Edificaremos sobre él un palacio de plata; Si fuere puerta, La guarneceremos con tablas de cedro. "
+  },
+  {
+    "_id": 17652,
+    "bib_libro": 22,
+    "bib_capitulo": 8,
+    "bib_versiculo": 10,
+    "bib_escritura": " Yo soy muro, y mis pechos como torres, Desde que fui en sus ojos como la que halla paz. "
+  },
+  {
+    "_id": 17653,
+    "bib_libro": 22,
+    "bib_capitulo": 8,
+    "bib_versiculo": 11,
+    "bib_escritura": " Salomón tuvo una viña en Baal-hamón, La cual entregó a guardas, Cada uno de los cuales debía traer mil monedas de plata por su fruto. "
+  },
+  {
+    "_id": 17654,
+    "bib_libro": 22,
+    "bib_capitulo": 8,
+    "bib_versiculo": 12,
+    "bib_escritura": " Mi viña, que es mía, está delante de mí; Las mil serán tuyas, oh Salomón, Y doscientas para los que guardan su fruto. "
+  },
+  {
+    "_id": 17655,
+    "bib_libro": 22,
+    "bib_capitulo": 8,
+    "bib_versiculo": 13,
+    "bib_escritura": " Oh, tú que habitas en los huertos, Los compañeros escuchan tu voz; Házmela oír. "
+  },
+  {
+    "_id": 17656,
+    "bib_libro": 22,
+    "bib_capitulo": 8,
+    "bib_versiculo": 14,
+    "bib_escritura": " Apresúrate, amado mío, Y sé semejante al corzo, o al cervatillo, Sobre las montañas de los aromas"
+  }
+]

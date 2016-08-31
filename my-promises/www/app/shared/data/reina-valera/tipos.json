@@ -1,0 +1,62 @@
+[
+  {
+    "_id": 1,
+    "tip_nombre": "El Pentateuco",
+    "tip_num_inicio": 1,
+    "tip_num_final": 5
+  },
+  {
+    "_id": 2,
+    "tip_nombre": "Libros Históricos",
+    "tip_num_inicio": 6,
+    "tip_num_final": 17
+  },
+  {
+    "_id": 3,
+    "tip_nombre": "Libros Poéticos",
+    "tip_num_inicio": 18,
+    "tip_num_final": 22
+  },
+  {
+    "_id": 4,
+    "tip_nombre": "Libros Proféticos Mayores",
+    "tip_num_inicio": 23,
+    "tip_num_final": 27
+  },
+  {
+    "_id": 5,
+    "tip_nombre": "Libros Proféticos Menores",
+    "tip_num_inicio": 28,
+    "tip_num_final": 39
+  },
+  {
+    "_id": 6,
+    "tip_nombre": "Los Evangelios",
+    "tip_num_inicio": 40,
+    "tip_num_final": 43
+  },
+  {
+    "_id": 7,
+    "tip_nombre": "Historia",
+    "tip_num_inicio": 44,
+    "tip_num_final": 44
+  },
+  {
+    "_id": 8,
+    "tip_nombre": "Epístolas Paulinas",
+    "tip_num_inicio": 45,
+    "tip_num_final": 58
+  },
+  {
+    "_id": 9,
+    "tip_nombre": "Epístolas Generales",
+    "tip_num_inicio": 59,
+    "tip_num_final": 65
+  },
+  {
+    "_id": 10,
+    "tip_nombre": "Profecía",
+    "tip_num_inicio": 66,
+    "tip_num_final": 66
+  }
+]

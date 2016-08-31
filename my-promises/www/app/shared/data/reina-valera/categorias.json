@@ -1,0 +1,254 @@
+[
+  {
+    "_id": 1,
+    "cat_nombre": "Cómo ser un buen amigo"
+  },
+  {
+    "_id": 2,
+    "cat_nombre": "Cómo ser líder"
+  },
+  {
+    "_id": 3,
+    "cat_nombre": "Cómo cuidar a las viudas y a los ancianos"
+  },
+  {
+    "_id": 4,
+    "cat_nombre": "Cómo celebrar el nacimiento o la adopción de un niño"
+  },
+  {
+    "_id": 5,
+    "cat_nombre": "Cómo celebrar una graduación"
+  },
+  {
+    "_id": 6,
+    "cat_nombre": "Cómo celebrar una boda"
+  },
+  {
+    "_id": 7,
+    "cat_nombre": "Cómo celebrar un aniversario de boda"
+  },
+  {
+    "_id": 8,
+    "cat_nombre": "Cómo controlar el temperamento"
+  },
+  {
+    "_id": 9,
+    "cat_nombre": "Cómo controlar la lengua"
+  },
+  {
+    "_id": 10,
+    "cat_nombre": "Cómo descubrir la voluntad de Dios"
+  },
+  {
+    "_id": 11,
+    "cat_nombre": "Cómo enfrentar a los falsos profetas"
+  },
+  {
+    "_id": 12,
+    "cat_nombre": "Cómo enfrentar la presión de los compañeros"
+  },
+  {
+    "_id": 13,
+    "cat_nombre": "Al entrar a la universidad"
+  },
+  {
+    "_id": 14,
+    "cat_nombre": "Al entrar al servicio militar"
+  },
+  {
+    "_id": 15,
+    "cat_nombre": "Cómo confrontar la muerte de un ser querido"
+  },
+  {
+    "_id": 16,
+    "cat_nombre": "Cómo confrontar la enfermedad"
+  },
+  {
+    "_id": 17,
+    "cat_nombre": "Cómo confrontar el sufrimiento y la persecución"
+  },
+  {
+    "_id": 18,
+    "cat_nombre": "Tomando una decisión difícil"
+  },
+  {
+    "_id": 19,
+    "cat_nombre": "Cómo enfrentar el divorcio"
+  },
+  {
+    "_id": 20,
+    "cat_nombre": "Cómo confrontar el desamparo"
+  },
+  {
+    "_id": 21,
+    "cat_nombre": "Cómo enfrentar la cárcel"
+  },
+  {
+    "_id": 22,
+    "cat_nombre": "Ante una vida solitaria"
+  },
+  {
+    "_id": 23,
+    "cat_nombre": "Cómo enfrentar un desastre natural"
+  },
+  {
+    "_id": 24,
+    "cat_nombre": "Ante un juicio o demanda judicial"
+  },
+  {
+    "_id": 25,
+    "cat_nombre": "Ante la pérdida del trabajo"
+  },
+  {
+    "_id": 26,
+    "cat_nombre": "Ante la pérdida de las posesiones"
+  },
+  {
+    "_id": 27,
+    "cat_nombre": "Cómo aprovechar el tiempo"
+  },
+  {
+    "_id": 28,
+    "cat_nombre": "Al mudarse a una nueva casa"
+  },
+  {
+    "_id": 29,
+    "cat_nombre": "Cómo sobreponerse a la adicción"
+  },
+  {
+    "_id": 30,
+    "cat_nombre": "Cómo evitar una rencilla"
+  },
+  {
+    "_id": 31,
+    "cat_nombre": "Cómo superar los prejuicios"
+  },
+  {
+    "_id": 32,
+    "cat_nombre": "Para aplacar el orgullo"
+  },
+  {
+    "_id": 33,
+    "cat_nombre": "No dejes para mañana lo que puedas hacer hoy"
+  },
+  {
+    "_id": 34,
+    "cat_nombre": "Cómo instruir a los niños"
+  },
+  {
+    "_id": 35,
+    "cat_nombre": "El respeto a la autoridad civil"
+  },
+  {
+    "_id": 36,
+    "cat_nombre": "El respeto a los padres"
+  },
+  {
+    "_id": 37,
+    "cat_nombre": "Al jubilarse"
+  },
+  {
+    "_id": 38,
+    "cat_nombre": "Cómo obtener perdón"
+  },
+  {
+    "_id": 39,
+    "cat_nombre": "Cómo encontrar la ayuda de Dios"
+  },
+  {
+    "_id": 40,
+    "cat_nombre": "Dónde encontrar justicia"
+  },
+  {
+    "_id": 41,
+    "cat_nombre": "Dónde encontrar salvación"
+  },
+  {
+    "_id": 42,
+    "cat_nombre": "Dónde encontrar fortaleza"
+  },
+  {
+    "_id": 43,
+    "cat_nombre": "Dónde encontrar la verdad"
+  },
+  {
+    "_id": 44,
+    "cat_nombre": "Cómo compartir los dones"
+  },
+  {
+    "_id": 45,
+    "cat_nombre": "Al comenzar un nuevo trabajo"
+  },
+  {
+    "_id": 46,
+    "cat_nombre": "Para entender la relación con Dios"
+  },
+  {
+    "_id": 47,
+    "cat_nombre": "Para entender la relación con los demás"
+  },
+  {
+    "_id": 48,
+    "cat_nombre": "Confianza en el futuro"
+  },
+  {
+    "_id": 49,
+    "cat_nombre": "Preocupación por la vejez"
+  },
+  {
+    "_id": 50,
+    "cat_nombre": "El afán por el dinero"
+  },
+  {
+    "_id": 51,
+    "cat_nombre": "¿Tiene miedo?"
+  },
+  {
+    "_id": 52,
+    "cat_nombre": "¿Tiene miedo a la muerte?"
+  },
+  {
+    "_id": 53,
+    "cat_nombre": "¿Está enojado?"
+  },
+  {
+    "_id": 54,
+    "cat_nombre": "¿Está ansioso o enojado?"
+  },
+  {
+    "_id": 55,
+    "cat_nombre": "¿Se siente deprimido?"
+  },
+  {
+    "_id": 56,
+    "cat_nombre": "¿Se siente frustrado o engañado?"
+  },
+  {
+    "_id": 57,
+    "cat_nombre": "¿Está desanimado?"
+  },
+  {
+    "_id": 58,
+    "cat_nombre": "¿Duda de su fe en Dios?"
+  },
+  {
+    "_id": 59,
+    "cat_nombre": "¿Está frustrado?"
+  },
+  {
+    "_id": 60,
+    "cat_nombre": "¿Es usted impaciente?"
+  },
+  {
+    "_id": 61,
+    "cat_nombre": "¿Es usted inseguro? ¿Le falta estima propia?"
+  },
+  {
+    "_id": 62,
+    "cat_nombre": "¿Es usted celoso?"
+  },
+  {
+    "_id": 63,
+    "cat_nombre": "¿Se siente solo?"
+  }
+]

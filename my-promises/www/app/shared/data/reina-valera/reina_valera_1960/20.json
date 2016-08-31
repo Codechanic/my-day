@@ -1,0 +1,6407 @@
+[
+  {
+    "_id": 16403,
+    "bib_libro": 20,
+    "bib_capitulo": 1,
+    "bib_versiculo": 1,
+    "bib_escritura": " Los proverbios de Salomón, hijo de David, rey de Israel. "
+  },
+  {
+    "_id": 16404,
+    "bib_libro": 20,
+    "bib_capitulo": 1,
+    "bib_versiculo": 2,
+    "bib_escritura": " Para entender sabiduría y doctrina, Para conocer razones prudentes, "
+  },
+  {
+    "_id": 16405,
+    "bib_libro": 20,
+    "bib_capitulo": 1,
+    "bib_versiculo": 3,
+    "bib_escritura": " Para recibir el consejo de prudencia, Justicia, juicio y equidad; "
+  },
+  {
+    "_id": 16406,
+    "bib_libro": 20,
+    "bib_capitulo": 1,
+    "bib_versiculo": 4,
+    "bib_escritura": " Para dar sagacidad a los simples, Y a los jóvenes inteligencia y cordura. "
+  },
+  {
+    "_id": 16407,
+    "bib_libro": 20,
+    "bib_capitulo": 1,
+    "bib_versiculo": 5,
+    "bib_escritura": " Oirá el sabio, y aumentará el saber, Y el entendido adquirirá consejo, "
+  },
+  {
+    "_id": 16408,
+    "bib_libro": 20,
+    "bib_capitulo": 1,
+    "bib_versiculo": 6,
+    "bib_escritura": " Para entender proverbio y declaración, Palabras de sabios, y sus dichos profundos. "
+  },
+  {
+    "_id": 16409,
+    "bib_libro": 20,
+    "bib_capitulo": 1,
+    "bib_versiculo": 7,
+    "bib_escritura": " El principio de la sabiduría es el temor de Jehová;Los insensatos desprecian la sabiduría y la enseñanza. "
+  },
+  {
+    "_id": 16410,
+    "bib_libro": 20,
+    "bib_capitulo": 1,
+    "bib_versiculo": 8,
+    "bib_escritura": " Oye, hijo mío, la instrucción de tu padre, Y no desprecies la dirección de tu madre; "
+  },
+  {
+    "_id": 16411,
+    "bib_libro": 20,
+    "bib_capitulo": 1,
+    "bib_versiculo": 9,
+    "bib_escritura": " Porque adorno de gracia serán a tu cabeza,Y collares a tu cuello. "
+  },
+  {
+    "_id": 16412,
+    "bib_libro": 20,
+    "bib_capitulo": 1,
+    "bib_versiculo": 10,
+    "bib_escritura": " Hijo mío, si los pecadores te quisieren engañar,No consientas."
+  },
+  {
+    "_id": 16413,
+    "bib_libro": 20,
+    "bib_capitulo": 1,
+    "bib_versiculo": 11,
+    "bib_escritura": " Si dijeren: Ven con nosotros; Pongamos asechanzas para derramar sangre, Acechemos sin motivo al inocente; "
+  },
+  {
+    "_id": 16414,
+    "bib_libro": 20,
+    "bib_capitulo": 1,
+    "bib_versiculo": 12,
+    "bib_escritura": " Los tragaremos vivos como el Seol, Y enteros, como los que caen en un abismo; "
+  },
+  {
+    "_id": 16415,
+    "bib_libro": 20,
+    "bib_capitulo": 1,
+    "bib_versiculo": 13,
+    "bib_escritura": " Hallaremos riquezas de toda clase, Llenaremos nuestras casas de despojos; "
+  },
+  {
+    "_id": 16416,
+    "bib_libro": 20,
+    "bib_capitulo": 1,
+    "bib_versiculo": 14,
+    "bib_escritura": " Echa tu suerte entre nosotros; Tengamos todos una bolsa,— "
+  },
+  {
+    "_id": 16417,
+    "bib_libro": 20,
+    "bib_capitulo": 1,
+    "bib_versiculo": 15,
+    "bib_escritura": " Hijo mío, no andes en camino con ellos. Aparta tu pie de sus veredas, "
+  },
+  {
+    "_id": 16418,
+    "bib_libro": 20,
+    "bib_capitulo": 1,
+    "bib_versiculo": 16,
+    "bib_escritura": " Porque sus pies corren hacia el mal, Y van presurosos a derramar sangre. "
+  },
+  {
+    "_id": 16419,
+    "bib_libro": 20,
+    "bib_capitulo": 1,
+    "bib_versiculo": 17,
+    "bib_escritura": " Porque en vano se tenderá la red Ante los ojos de toda ave;"
+  },
+  {
+    "_id": 16420,
+    "bib_libro": 20,
+    "bib_capitulo": 1,
+    "bib_versiculo": 18,
+    "bib_escritura": " Pero ellos a su propia sangre ponen asechanzas, Y a sus almas tienden lazo. "
+  },
+  {
+    "_id": 16421,
+    "bib_libro": 20,
+    "bib_capitulo": 1,
+    "bib_versiculo": 19,
+    "bib_escritura": " Tales son las sendas de todo el que es dado a la codicia, La cual quita la vida de sus poseedores. "
+  },
+  {
+    "_id": 16422,
+    "bib_libro": 20,
+    "bib_capitulo": 1,
+    "bib_versiculo": 20,
+    "bib_escritura": " La sabiduría clama en las calles, Alza su voz en las plazas; "
+  },
+  {
+    "_id": 16423,
+    "bib_libro": 20,
+    "bib_capitulo": 1,
+    "bib_versiculo": 21,
+    "bib_escritura": " Clama en los principales lugares de reunión; En las entradas de las puertas de la ciudad dice sus razones."
+  },
+  {
+    "_id": 16424,
+    "bib_libro": 20,
+    "bib_capitulo": 1,
+    "bib_versiculo": 22,
+    "bib_escritura": " ¿Hasta cuándo, oh simples, amaréis la simpleza, Y los burladores desearán el burlar, Y los insensatos aborrecerán la ciencia? "
+  },
+  {
+    "_id": 16425,
+    "bib_libro": 20,
+    "bib_capitulo": 1,
+    "bib_versiculo": 23,
+    "bib_escritura": " Volveos a mi reprensión; He aquí yo derramaré mi espíritu sobre vosotros, Y os haré saber mis palabras. "
+  },
+  {
+    "_id": 16426,
+    "bib_libro": 20,
+    "bib_capitulo": 1,
+    "bib_versiculo": 24,
+    "bib_escritura": " Por cuanto llamé, y no quisisteis oír, Extendí mi mano, y no hubo quien atendiese, "
+  },
+  {
+    "_id": 16427,
+    "bib_libro": 20,
+    "bib_capitulo": 1,
+    "bib_versiculo": 25,
+    "bib_escritura": " Sino que desechasteis todo consejo mío Y mi reprensión no quisisteis, "
+  },
+  {
+    "_id": 16428,
+    "bib_libro": 20,
+    "bib_capitulo": 1,
+    "bib_versiculo": 26,
+    "bib_escritura": " También yo me reiré en vuestra calamidad, Y me burlaré cuando os viniere lo que teméis; "
+  },
+  {
+    "_id": 16429,
+    "bib_libro": 20,
+    "bib_capitulo": 1,
+    "bib_versiculo": 27,
+    "bib_escritura": " Cuando viniere como una destrucción lo que teméis, Y vuestra calamidad llegare como un torbellino; Cuando sobre vosotros viniere tribulación y angustia. "
+  },
+  {
+    "_id": 16430,
+    "bib_libro": 20,
+    "bib_capitulo": 1,
+    "bib_versiculo": 28,
+    "bib_escritura": " Entonces me llamarán, y no responderé; Me buscarán de mañana, y no me hallarán. "
+  },
+  {
+    "_id": 16431,
+    "bib_libro": 20,
+    "bib_capitulo": 1,
+    "bib_versiculo": 29,
+    "bib_escritura": " Por cuanto aborrecieron la sabiduría, Y no escogieron el temor de Jehová, "
+  },
+  {
+    "_id": 16432,
+    "bib_libro": 20,
+    "bib_capitulo": 1,
+    "bib_versiculo": 30,
+    "bib_escritura": " Ni quisieron mi consejo, Y menospreciaron toda reprensión mía, "
+  },
+  {
+    "_id": 16433,
+    "bib_libro": 20,
+    "bib_capitulo": 1,
+    "bib_versiculo": 31,
+    "bib_escritura": " Comerán del fruto de su camino, Y serán hastiados de sus propios consejos. "
+  },
+  {
+    "_id": 16434,
+    "bib_libro": 20,
+    "bib_capitulo": 1,
+    "bib_versiculo": 32,
+    "bib_escritura": " Porque el desvío de los ignorantes los matará, Y la prosperidad de los necios los echará a perder; "
+  },
+  {
+    "_id": 16435,
+    "bib_libro": 20,
+    "bib_capitulo": 1,
+    "bib_versiculo": 33,
+    "bib_escritura": " Mas el que me oyere, habitará confiadamente Y vivirá tranquilo, sin temor del mal. "
+  },
+  {
+    "_id": 16436,
+    "bib_libro": 20,
+    "bib_capitulo": 2,
+    "bib_versiculo": 1,
+    "bib_escritura": " Hijo mío, si recibieres mis palabras, Y mis mandamientos guardares dentro de ti, "
+  },
+  {
+    "_id": 16437,
+    "bib_libro": 20,
+    "bib_capitulo": 2,
+    "bib_versiculo": 2,
+    "bib_escritura": " Haciendo estar atento tu oído a la sabiduría; Si inclinares tu corazón a la prudencia, "
+  },
+  {
+    "_id": 16438,
+    "bib_libro": 20,
+    "bib_capitulo": 2,
+    "bib_versiculo": 3,
+    "bib_escritura": " Si clamares a la inteligencia, Y a la prudencia dieres tu voz; "
+  },
+  {
+    "_id": 16439,
+    "bib_libro": 20,
+    "bib_capitulo": 2,
+    "bib_versiculo": 4,
+    "bib_escritura": " Si como a la plata la buscares, Y la escudriñares como a tesoros, "
+  },
+  {
+    "_id": 16440,
+    "bib_libro": 20,
+    "bib_capitulo": 2,
+    "bib_versiculo": 5,
+    "bib_escritura": " Entonces entenderás el temor de Jehová, Y hallarás el conocimiento de Dios. "
+  },
+  {
+    "_id": 16441,
+    "bib_libro": 20,
+    "bib_capitulo": 2,
+    "bib_versiculo": 6,
+    "bib_escritura": " Porque Jehová da la sabiduría, Y de su boca viene el conocimiento y la inteligencia. "
+  },
+  {
+    "_id": 16442,
+    "bib_libro": 20,
+    "bib_capitulo": 3,
+    "bib_versiculo": 1,
+    "bib_escritura": " Hijo mío, no te olvides de mi ley, Y tu corazón guarde mis mandamientos; "
+  },
+  {
+    "_id": 16443,
+    "bib_libro": 20,
+    "bib_capitulo": 3,
+    "bib_versiculo": 2,
+    "bib_escritura": " Porque largura de días y años de vida Y paz te aumentarán. "
+  },
+  {
+    "_id": 16444,
+    "bib_libro": 20,
+    "bib_capitulo": 3,
+    "bib_versiculo": 3,
+    "bib_escritura": " Nunca se aparten de ti la misericordia y la verdad; Atalas a tu cuello, Escríbelas en la tabla de tu corazón; "
+  },
+  {
+    "_id": 16445,
+    "bib_libro": 20,
+    "bib_capitulo": 3,
+    "bib_versiculo": 4,
+    "bib_escritura": " Y hallarás gracia y buena opinión Ante los ojos de Dios y de los hombres."
+  },
+  {
+    "_id": 16446,
+    "bib_libro": 20,
+    "bib_capitulo": 3,
+    "bib_versiculo": 5,
+    "bib_escritura": " Fíate de Jehová de todo tu corazón, Y no te apoyes en tu propia prudencia. "
+  },
+  {
+    "_id": 16447,
+    "bib_libro": 20,
+    "bib_capitulo": 3,
+    "bib_versiculo": 6,
+    "bib_escritura": " Reconócelo en todos tus caminos, Y él enderezará tus veredas. "
+  },
+  {
+    "_id": 16448,
+    "bib_libro": 20,
+    "bib_capitulo": 3,
+    "bib_versiculo": 7,
+    "bib_escritura": " No seas sabio en tu propia opinión;Teme a Jehová, y apártate del mal; "
+  },
+  {
+    "_id": 16449,
+    "bib_libro": 20,
+    "bib_capitulo": 3,
+    "bib_versiculo": 8,
+    "bib_escritura": " Porque será medicina a tu cuerpo, Y refrigerio para tus huesos. "
+  },
+  {
+    "_id": 16450,
+    "bib_libro": 20,
+    "bib_capitulo": 3,
+    "bib_versiculo": 9,
+    "bib_escritura": " Honra a Jehová con tus bienes,Y con las primicias de todos tus frutos; "
+  },
+  {
+    "_id": 16451,
+    "bib_libro": 20,
+    "bib_capitulo": 3,
+    "bib_versiculo": 10,
+    "bib_escritura": " Y serán llenos tus graneros con abundancia, Y tus lagares rebosarán de mosto. "
+  },
+  {
+    "_id": 16452,
+    "bib_libro": 20,
+    "bib_capitulo": 3,
+    "bib_versiculo": 11,
+    "bib_escritura": " No menosprecies, hijo mío, el castigo de Jehová, Ni te fatigues de su corrección;"
+  },
+  {
+    "_id": 16453,
+    "bib_libro": 20,
+    "bib_capitulo": 3,
+    "bib_versiculo": 12,
+    "bib_escritura": " Porque Jehová al que ama castiga,Como el padre al hijo a quien quiere."
+  },
+  {
+    "_id": 16454,
+    "bib_libro": 20,
+    "bib_capitulo": 3,
+    "bib_versiculo": 13,
+    "bib_escritura": " Bienaventurado el hombre que halla la sabiduría, Y que obtiene la inteligencia; "
+  },
+  {
+    "_id": 16455,
+    "bib_libro": 20,
+    "bib_capitulo": 3,
+    "bib_versiculo": 14,
+    "bib_escritura": " Porque su ganancia es mejor que la ganancia de la plata, Y sus frutos más que el oro fino. "
+  },
+  {
+    "_id": 16456,
+    "bib_libro": 20,
+    "bib_capitulo": 3,
+    "bib_versiculo": 15,
+    "bib_escritura": " Más preciosa es que las piedras preciosas; Y todo lo que puedes desear, no se puede comparar a ella. "
+  },
+  {
+    "_id": 16457,
+    "bib_libro": 20,
+    "bib_capitulo": 3,
+    "bib_versiculo": 16,
+    "bib_escritura": " Largura de días está en su mano derecha; En su izquierda, riquezas y honra. "
+  },
+  {
+    "_id": 16458,
+    "bib_libro": 20,
+    "bib_capitulo": 3,
+    "bib_versiculo": 17,
+    "bib_escritura": " Sus caminos son caminos deleitosos, Y todas sus veredas paz. "
+  },
+  {
+    "_id": 16459,
+    "bib_libro": 20,
+    "bib_capitulo": 3,
+    "bib_versiculo": 18,
+    "bib_escritura": " Ella es árbol de vida a los que de ella echan mano, Y bienaventurados son los que la retienen. "
+  },
+  {
+    "_id": 16460,
+    "bib_libro": 20,
+    "bib_capitulo": 3,
+    "bib_versiculo": 19,
+    "bib_escritura": " Jehová con sabiduría fundó la tierra; Afirmó los cielos con inteligencia. "
+  },
+  {
+    "_id": 16461,
+    "bib_libro": 20,
+    "bib_capitulo": 3,
+    "bib_versiculo": 20,
+    "bib_escritura": " Con su ciencia los abismos fueron divididos, Y destilan rocío los cielos. "
+  },
+  {
+    "_id": 16462,
+    "bib_libro": 20,
+    "bib_capitulo": 3,
+    "bib_versiculo": 21,
+    "bib_escritura": " Hijo mío, no se aparten estas cosas de tus ojos; Guarda la ley y el consejo, "
+  },
+  {
+    "_id": 16463,
+    "bib_libro": 20,
+    "bib_capitulo": 3,
+    "bib_versiculo": 22,
+    "bib_escritura": " Y serán vida a tu alma, Y gracia a tu cuello. "
+  },
+  {
+    "_id": 16464,
+    "bib_libro": 20,
+    "bib_capitulo": 3,
+    "bib_versiculo": 23,
+    "bib_escritura": " Entonces andarás por tu camino confiadamente, Y tu pie no tropezará. "
+  },
+  {
+    "_id": 16465,
+    "bib_libro": 20,
+    "bib_capitulo": 3,
+    "bib_versiculo": 24,
+    "bib_escritura": " Cuando te acuestes, no tendrás temor, Sino que te acostarás, y tu sueño será grato. "
+  },
+  {
+    "_id": 16466,
+    "bib_libro": 20,
+    "bib_capitulo": 3,
+    "bib_versiculo": 25,
+    "bib_escritura": " No tendrás temor de pavor repentino, Ni de la ruina de los impíos cuando viniere, "
+  },
+  {
+    "_id": 16467,
+    "bib_libro": 20,
+    "bib_capitulo": 3,
+    "bib_versiculo": 26,
+    "bib_escritura": " Porque Jehová será tu confianza, Y él preservará tu pie de quedar preso. "
+  },
+  {
+    "_id": 16468,
+    "bib_libro": 20,
+    "bib_capitulo": 3,
+    "bib_versiculo": 27,
+    "bib_escritura": " No te niegues a hacer el bien a quien es debido, Cuando tuvieres poder para hacerlo. "
+  },
+  {
+    "_id": 16469,
+    "bib_libro": 20,
+    "bib_capitulo": 3,
+    "bib_versiculo": 28,
+    "bib_escritura": " No digas a tu prójimo: Anda, y vuelve, Y mañana te daré, Cuando tienes contigo qué darle. "
+  },
+  {
+    "_id": 16470,
+    "bib_libro": 20,
+    "bib_capitulo": 3,
+    "bib_versiculo": 29,
+    "bib_escritura": " No intentes mal contra tu prójimo Que habita confiado junto a ti. "
+  },
+  {
+    "_id": 16471,
+    "bib_libro": 20,
+    "bib_capitulo": 3,
+    "bib_versiculo": 30,
+    "bib_escritura": " No tengas pleito con nadie sin razón, Si no te han hecho agravio. "
+  },
+  {
+    "_id": 16472,
+    "bib_libro": 20,
+    "bib_capitulo": 3,
+    "bib_versiculo": 31,
+    "bib_escritura": " No envidies al hombre injusto, Ni escojas ninguno de sus caminos. "
+  },
+  {
+    "_id": 16473,
+    "bib_libro": 20,
+    "bib_capitulo": 3,
+    "bib_versiculo": 32,
+    "bib_escritura": " Porque Jehová abomina al perverso; Mas su comunión íntima es con los justos. "
+  },
+  {
+    "_id": 16474,
+    "bib_libro": 20,
+    "bib_capitulo": 3,
+    "bib_versiculo": 33,
+    "bib_escritura": " La maldición de Jehová está en la casa del impío, Pero bendecirá la morada de los justos. "
+  },
+  {
+    "_id": 16475,
+    "bib_libro": 20,
+    "bib_capitulo": 3,
+    "bib_versiculo": 34,
+    "bib_escritura": " Ciertamente él escarnecerá a los escarnecedores, Y a los humildes dará gracia."
+  },
+  {
+    "_id": 16476,
+    "bib_libro": 20,
+    "bib_capitulo": 3,
+    "bib_versiculo": 35,
+    "bib_escritura": " Los sabios heredarán honra, Mas los necios llevarán ignominia."
+  },
+  {
+    "_id": 16477,
+    "bib_libro": 20,
+    "bib_capitulo": 4,
+    "bib_versiculo": 1,
+    "bib_escritura": " Oíd, hijos, la enseñanza de un padre, Y estad atentos, para que conozcáis cordura. "
+  },
+  {
+    "_id": 16478,
+    "bib_libro": 20,
+    "bib_capitulo": 4,
+    "bib_versiculo": 2,
+    "bib_escritura": " Porque os doy buena enseñanza; No desamparéis mi ley. "
+  },
+  {
+    "_id": 16479,
+    "bib_libro": 20,
+    "bib_capitulo": 4,
+    "bib_versiculo": 3,
+    "bib_escritura": " Porque yo también fui hijo de mi padre, Delicado y único delante de mi madre. "
+  },
+  {
+    "_id": 16480,
+    "bib_libro": 20,
+    "bib_capitulo": 4,
+    "bib_versiculo": 4,
+    "bib_escritura": " Y él me enseñaba, y me decía: Retenga tu corazón mis razones, Guarda mis mandamientos, y vivirás. "
+  },
+  {
+    "_id": 16481,
+    "bib_libro": 20,
+    "bib_capitulo": 4,
+    "bib_versiculo": 5,
+    "bib_escritura": " Adquiere sabiduría, adquiere inteligencia; No te olvides ni te apartes de las razones de mi boca; "
+  },
+  {
+    "_id": 16482,
+    "bib_libro": 20,
+    "bib_capitulo": 4,
+    "bib_versiculo": 6,
+    "bib_escritura": " No la dejes, y ella te guardará; Amala, y te conservará. "
+  },
+  {
+    "_id": 16483,
+    "bib_libro": 20,
+    "bib_capitulo": 4,
+    "bib_versiculo": 7,
+    "bib_escritura": " Sabiduría ante todo; adquiere sabiduría; Y sobre todas tus posesiones adquiere inteligencia. "
+  },
+  {
+    "_id": 16484,
+    "bib_libro": 20,
+    "bib_capitulo": 4,
+    "bib_versiculo": 8,
+    "bib_escritura": " Engrandécela, y ella te engrandecerá; Ella te honrará, cuando tú la hayas abrazado. "
+  },
+  {
+    "_id": 16485,
+    "bib_libro": 20,
+    "bib_capitulo": 4,
+    "bib_versiculo": 9,
+    "bib_escritura": " Adorno de gracia dará a tu cabeza; Corona de hermosura te entregará. "
+  },
+  {
+    "_id": 16486,
+    "bib_libro": 20,
+    "bib_capitulo": 4,
+    "bib_versiculo": 10,
+    "bib_escritura": " Oye, hijo mío, y recibe mis razones, Y se te multiplicarán años de vida. "
+  },
+  {
+    "_id": 16487,
+    "bib_libro": 20,
+    "bib_capitulo": 4,
+    "bib_versiculo": 11,
+    "bib_escritura": " Por el camino de la sabiduría te he encaminado, Y por veredas derechas te he hecho andar. "
+  },
+  {
+    "_id": 16488,
+    "bib_libro": 20,
+    "bib_capitulo": 4,
+    "bib_versiculo": 12,
+    "bib_escritura": " Cuando anduvieres, no se estrecharán tus pasos, Y si corrieres, no tropezarás. "
+  },
+  {
+    "_id": 16489,
+    "bib_libro": 20,
+    "bib_capitulo": 4,
+    "bib_versiculo": 13,
+    "bib_escritura": " Retén el consejo, no lo dejes; Guárdalo, porque eso es tu vida. "
+  },
+  {
+    "_id": 16490,
+    "bib_libro": 20,
+    "bib_capitulo": 4,
+    "bib_versiculo": 14,
+    "bib_escritura": " No entres por la vereda de los impíos, Ni vayas por el camino de los malos. "
+  },
+  {
+    "_id": 16491,
+    "bib_libro": 20,
+    "bib_capitulo": 4,
+    "bib_versiculo": 15,
+    "bib_escritura": " Déjala, no pases por ella; Apártate de ella, pasa. "
+  },
+  {
+    "_id": 16492,
+    "bib_libro": 20,
+    "bib_capitulo": 4,
+    "bib_versiculo": 16,
+    "bib_escritura": " Porque no duermen ellos si no han hecho mal, Y pierden el sueño si no han hecho caer a alguno. "
+  },
+  {
+    "_id": 16493,
+    "bib_libro": 20,
+    "bib_capitulo": 4,
+    "bib_versiculo": 17,
+    "bib_escritura": " Porque comen pan de maldad, y beben vino de robos; "
+  },
+  {
+    "_id": 16494,
+    "bib_libro": 20,
+    "bib_capitulo": 4,
+    "bib_versiculo": 18,
+    "bib_escritura": " Mas la senda de los justos es como la luz de la aurora, Que va en aumento hasta que el día es perfecto. "
+  },
+  {
+    "_id": 16495,
+    "bib_libro": 20,
+    "bib_capitulo": 4,
+    "bib_versiculo": 19,
+    "bib_escritura": " El camino de los impíos es como la oscuridad; No saben en qué tropiezan. "
+  },
+  {
+    "_id": 16496,
+    "bib_libro": 20,
+    "bib_capitulo": 4,
+    "bib_versiculo": 20,
+    "bib_escritura": " Hijo mío, está atento a mis palabras; Inclina tu oído a mis razones. "
+  },
+  {
+    "_id": 16497,
+    "bib_libro": 20,
+    "bib_capitulo": 4,
+    "bib_versiculo": 21,
+    "bib_escritura": " No se aparten de tus ojos; Guárdalas en medio de tu corazón; "
+  },
+  {
+    "_id": 16498,
+    "bib_libro": 20,
+    "bib_capitulo": 4,
+    "bib_versiculo": 22,
+    "bib_escritura": " Porque son vida a los que las hallan, Y medicina a todo su cuerpo. "
+  },
+  {
+    "_id": 16499,
+    "bib_libro": 20,
+    "bib_capitulo": 4,
+    "bib_versiculo": 23,
+    "bib_escritura": " Sobre toda cosa guardada, guarda tu corazón; Porque de él mana la vida. "
+  },
+  {
+    "_id": 16500,
+    "bib_libro": 20,
+    "bib_capitulo": 4,
+    "bib_versiculo": 24,
+    "bib_escritura": " Aparta de ti la perversidad de la boca, Y aleja de ti la iniquidad de los labios. "
+  },
+  {
+    "_id": 16501,
+    "bib_libro": 20,
+    "bib_capitulo": 4,
+    "bib_versiculo": 25,
+    "bib_escritura": " Tus ojos miren lo recto, Y diríjanse tus párpados hacia lo que tienes delante. "
+  },
+  {
+    "_id": 16502,
+    "bib_libro": 20,
+    "bib_capitulo": 4,
+    "bib_versiculo": 26,
+    "bib_escritura": " Examina la senda de tus pies,Y todos tus caminos sean rectos. "
+  },
+  {
+    "_id": 16503,
+    "bib_libro": 20,
+    "bib_capitulo": 4,
+    "bib_versiculo": 27,
+    "bib_escritura": " No te desvíes a la derecha ni a la izquierda; Aparta tu pie del mal.  "
+  },
+  {
+    "_id": 16504,
+    "bib_libro": 20,
+    "bib_capitulo": 5,
+    "bib_versiculo": 1,
+    "bib_escritura": " Hijo mío, está atento a mi sabiduría, Y a mi inteligencia inclina tu oído, "
+  },
+  {
+    "_id": 16505,
+    "bib_libro": 20,
+    "bib_capitulo": 5,
+    "bib_versiculo": 2,
+    "bib_escritura": " Para que guardes consejo, Y tus labios conserven la ciencia. "
+  },
+  {
+    "_id": 16506,
+    "bib_libro": 20,
+    "bib_capitulo": 5,
+    "bib_versiculo": 3,
+    "bib_escritura": " Porque los labios de la mujer extraña destilan miel, Y su paladar es más blando que el aceite; "
+  },
+  {
+    "_id": 16507,
+    "bib_libro": 20,
+    "bib_capitulo": 5,
+    "bib_versiculo": 4,
+    "bib_escritura": " Mas su fin es amargo como el ajenjo, Agudo como espada de dos filos. "
+  },
+  {
+    "_id": 16508,
+    "bib_libro": 20,
+    "bib_capitulo": 5,
+    "bib_versiculo": 5,
+    "bib_escritura": " Sus pies descienden a la muerte; Sus pasos conducen al Seol. "
+  },
+  {
+    "_id": 16509,
+    "bib_libro": 20,
+    "bib_capitulo": 5,
+    "bib_versiculo": 6,
+    "bib_escritura": " Sus caminos son inestables; no los conocerás, Si no considerares el camino de vida. "
+  },
+  {
+    "_id": 16510,
+    "bib_libro": 20,
+    "bib_capitulo": 5,
+    "bib_versiculo": 7,
+    "bib_escritura": " Ahora pues, hijos, oídme, Y no os apartéis de las razones de mi boca. "
+  },
+  {
+    "_id": 16511,
+    "bib_libro": 20,
+    "bib_capitulo": 5,
+    "bib_versiculo": 8,
+    "bib_escritura": " Aleja de ella tu camino, Y no te acerques a la puerta de su casa; "
+  },
+  {
+    "_id": 16512,
+    "bib_libro": 20,
+    "bib_capitulo": 5,
+    "bib_versiculo": 9,
+    "bib_escritura": " Para que no des a los extraños tu honor, Y tus años al cruel; "
+  },
+  {
+    "_id": 16513,
+    "bib_libro": 20,
+    "bib_capitulo": 5,
+    "bib_versiculo": 10,
+    "bib_escritura": " No sea que extraños se sacien de tu fuerza, Y tus trabajos estén en casa del extraño; "
+  },
+  {
+    "_id": 16514,
+    "bib_libro": 20,
+    "bib_capitulo": 5,
+    "bib_versiculo": 11,
+    "bib_escritura": " Y gimas al final, Cuando se consuma tu carne y tu cuerpo, "
+  },
+  {
+    "_id": 16515,
+    "bib_libro": 20,
+    "bib_capitulo": 5,
+    "bib_versiculo": 12,
+    "bib_escritura": " Y digas: ¡Cómo aborrecí el consejo, Y mi corazón menospreció la reprensión; "
+  },
+  {
+    "_id": 16516,
+    "bib_libro": 20,
+    "bib_capitulo": 5,
+    "bib_versiculo": 13,
+    "bib_escritura": " No oí la voz de los que me instruían, Y a los que me enseñaban no incliné mi oído! "
+  },
+  {
+    "_id": 16517,
+    "bib_libro": 20,
+    "bib_capitulo": 5,
+    "bib_versiculo": 14,
+    "bib_escritura": " Casi en todo mal he estado, En medio de la sociedad y de la congregación. "
+  },
+  {
+    "_id": 16518,
+    "bib_libro": 20,
+    "bib_capitulo": 5,
+    "bib_versiculo": 15,
+    "bib_escritura": " Bebe el agua de tu misma cisterna, Y los raudales de tu propio pozo. "
+  },
+  {
+    "_id": 16519,
+    "bib_libro": 20,
+    "bib_capitulo": 5,
+    "bib_versiculo": 16,
+    "bib_escritura": " ¿Se derramarán tus fuentes por las calles, Y tus corrientes de aguas por las plazas? "
+  },
+  {
+    "_id": 16520,
+    "bib_libro": 20,
+    "bib_capitulo": 5,
+    "bib_versiculo": 17,
+    "bib_escritura": " Sean para ti solo, Y no para los extraños contigo. "
+  },
+  {
+    "_id": 16521,
+    "bib_libro": 20,
+    "bib_capitulo": 5,
+    "bib_versiculo": 18,
+    "bib_escritura": " Sea bendito tu manantial, Y alégrate con la mujer de tu juventud, "
+  },
+  {
+    "_id": 16522,
+    "bib_libro": 20,
+    "bib_capitulo": 5,
+    "bib_versiculo": 19,
+    "bib_escritura": " Como cierva amada y graciosa gacela. Sus caricias te satisfagan en todo tiempo, Y en su amor recréate siempre. "
+  },
+  {
+    "_id": 16523,
+    "bib_libro": 20,
+    "bib_capitulo": 5,
+    "bib_versiculo": 20,
+    "bib_escritura": " ¿Y por qué, hijo mío, andarás ciego con la mujer ajena, Y abrazarás el seno de la extraña? "
+  },
+  {
+    "_id": 16524,
+    "bib_libro": 20,
+    "bib_capitulo": 5,
+    "bib_versiculo": 21,
+    "bib_escritura": " Porque los caminos del hombre están ante los ojos de Jehová, Y él considera todas sus veredas. "
+  },
+  {
+    "_id": 16525,
+    "bib_libro": 20,
+    "bib_capitulo": 5,
+    "bib_versiculo": 22,
+    "bib_escritura": " Prenderán al impío sus propias iniquidades, Y retenido será con las cuerdas de su pecado. "
+  },
+  {
+    "_id": 16526,
+    "bib_libro": 20,
+    "bib_capitulo": 5,
+    "bib_versiculo": 23,
+    "bib_escritura": " El morirá por falta de corrección, Y errará por lo inmenso de su locura. "
+  },
+  {
+    "_id": 16527,
+    "bib_libro": 20,
+    "bib_capitulo": 6,
+    "bib_versiculo": 1,
+    "bib_escritura": " Hijo mío, si salieres fiador por tu amigo, Si has empeñado tu palabra a un extraño, "
+  },
+  {
+    "_id": 16528,
+    "bib_libro": 20,
+    "bib_capitulo": 6,
+    "bib_versiculo": 2,
+    "bib_escritura": " Te has enlazado con las palabras de tu boca, Y has quedado preso en los dichos de tus labios. "
+  },
+  {
+    "_id": 16529,
+    "bib_libro": 20,
+    "bib_capitulo": 6,
+    "bib_versiculo": 3,
+    "bib_escritura": " Haz esto ahora, hijo mío, y líbrate, Ya que has caído en la mano de tu prójimo; Ve, humíllate, y asegúrate de tu amigo. "
+  },
+  {
+    "_id": 16530,
+    "bib_libro": 20,
+    "bib_capitulo": 6,
+    "bib_versiculo": 4,
+    "bib_escritura": " No des sueño a tus ojos, Ni a tus párpados adormecimiento; "
+  },
+  {
+    "_id": 16531,
+    "bib_libro": 20,
+    "bib_capitulo": 6,
+    "bib_versiculo": 5,
+    "bib_escritura": " Escápate como gacela de la mano del cazador, Y como ave de la mano del que arma lazos. "
+  },
+  {
+    "_id": 16532,
+    "bib_libro": 20,
+    "bib_capitulo": 6,
+    "bib_versiculo": 6,
+    "bib_escritura": " Ve a la hormiga, oh perezoso, Mira sus caminos, y sé sabio; "
+  },
+  {
+    "_id": 16533,
+    "bib_libro": 20,
+    "bib_capitulo": 6,
+    "bib_versiculo": 7,
+    "bib_escritura": " La cual no teniendo capitán, Ni gobernador, ni señor, "
+  },
+  {
+    "_id": 16534,
+    "bib_libro": 20,
+    "bib_capitulo": 6,
+    "bib_versiculo": 8,
+    "bib_escritura": " Prepara en el verano su comida, Y recoge en el tiempo de la siega su mantenimiento. "
+  },
+  {
+    "_id": 16535,
+    "bib_libro": 20,
+    "bib_capitulo": 6,
+    "bib_versiculo": 9,
+    "bib_escritura": " Perezoso, ¿hasta cuándo has de dormir? ¿Cuándo te levantarás de tu sueño? "
+  },
+  {
+    "_id": 16536,
+    "bib_libro": 20,
+    "bib_capitulo": 6,
+    "bib_versiculo": 10,
+    "bib_escritura": " Un poco de sueño, un poco de dormitar,Y cruzar por un poco las manos para reposo; "
+  },
+  {
+    "_id": 16537,
+    "bib_libro": 20,
+    "bib_capitulo": 6,
+    "bib_versiculo": 11,
+    "bib_escritura": " Así vendrá tu necesidad como caminante, Y tu pobreza como hombre armado."
+  },
+  {
+    "_id": 16538,
+    "bib_libro": 20,
+    "bib_capitulo": 6,
+    "bib_versiculo": 12,
+    "bib_escritura": " El hombre malo, el hombre depravado, Es el que anda en perversidad de boca; "
+  },
+  {
+    "_id": 16539,
+    "bib_libro": 20,
+    "bib_capitulo": 6,
+    "bib_versiculo": 13,
+    "bib_escritura": " Que guiña los ojos, que habla con los pies, Que hace señas con los dedos. "
+  },
+  {
+    "_id": 16540,
+    "bib_libro": 20,
+    "bib_capitulo": 6,
+    "bib_versiculo": 14,
+    "bib_escritura": " Perversidades hay en su corazón; anda pensando el mal en todo tiempo; Siembra las discordias. "
+  },
+  {
+    "_id": 16541,
+    "bib_libro": 20,
+    "bib_capitulo": 6,
+    "bib_versiculo": 15,
+    "bib_escritura": " Por tanto, su calamidad vendrá de repente; Súbitamente será quebrantado, y no habrá remedio. "
+  },
+  {
+    "_id": 16542,
+    "bib_libro": 20,
+    "bib_capitulo": 6,
+    "bib_versiculo": 16,
+    "bib_escritura": " Seis cosas aborrece Jehová, Y aun siete abomina su alma: "
+  },
+  {
+    "_id": 16543,
+    "bib_libro": 20,
+    "bib_capitulo": 6,
+    "bib_versiculo": 17,
+    "bib_escritura": " Los ojos altivos, la lengua mentirosa, Las manos derramadoras de sangre inocente, "
+  },
+  {
+    "_id": 16544,
+    "bib_libro": 20,
+    "bib_capitulo": 6,
+    "bib_versiculo": 18,
+    "bib_escritura": " El corazón que maquina pensamientos inicuos, Los pies presurosos para correr al mal, "
+  },
+  {
+    "_id": 16545,
+    "bib_libro": 20,
+    "bib_capitulo": 6,
+    "bib_versiculo": 19,
+    "bib_escritura": " El testigo falso que habla mentiras, Y el que siembra discordia entre hermanos. Amonestación contra el adulterio "
+  },
+  {
+    "_id": 16546,
+    "bib_libro": 20,
+    "bib_capitulo": 6,
+    "bib_versiculo": 20,
+    "bib_escritura": " Guarda, hijo mío, el mandamiento de tu padre, Y no dejes la enseñanza de tu madre; "
+  },
+  {
+    "_id": 16547,
+    "bib_libro": 20,
+    "bib_capitulo": 6,
+    "bib_versiculo": 21,
+    "bib_escritura": " Atalos siempre en tu corazón, Enlázalos a tu cuello. "
+  },
+  {
+    "_id": 16548,
+    "bib_libro": 20,
+    "bib_capitulo": 6,
+    "bib_versiculo": 22,
+    "bib_escritura": " Te guiarán cuando andes; cuando duermas te guardarán; Hablarán contigo cuando despiertes. "
+  },
+  {
+    "_id": 16549,
+    "bib_libro": 20,
+    "bib_capitulo": 6,
+    "bib_versiculo": 23,
+    "bib_escritura": " Porque el mandamiento es lámpara, y la enseñanza es luz, Y camino de vida las reprensiones que te instruyen, "
+  },
+  {
+    "_id": 16550,
+    "bib_libro": 20,
+    "bib_capitulo": 6,
+    "bib_versiculo": 24,
+    "bib_escritura": " Para que te guarden de la mala mujer, De la blandura de la lengua de la mujer extraña. "
+  },
+  {
+    "_id": 16551,
+    "bib_libro": 20,
+    "bib_capitulo": 6,
+    "bib_versiculo": 25,
+    "bib_escritura": " No codicies su hermosura en tu corazón, Ni ella te prenda con sus ojos; "
+  },
+  {
+    "_id": 16552,
+    "bib_libro": 20,
+    "bib_capitulo": 6,
+    "bib_versiculo": 26,
+    "bib_escritura": " Porque a causa de la mujer ramera el hombre es reducido a un bocado de pan; Y la mujer caza la preciosa alma del varón. "
+  },
+  {
+    "_id": 16553,
+    "bib_libro": 20,
+    "bib_capitulo": 6,
+    "bib_versiculo": 27,
+    "bib_escritura": " ¿Tomará el hombre fuego en su seno Sin que sus vestidos ardan? "
+  },
+  {
+    "_id": 16554,
+    "bib_libro": 20,
+    "bib_capitulo": 6,
+    "bib_versiculo": 28,
+    "bib_escritura": " ¿Andará el hombre sobre brasas Sin que sus pies se quemen? "
+  },
+  {
+    "_id": 16555,
+    "bib_libro": 20,
+    "bib_capitulo": 6,
+    "bib_versiculo": 29,
+    "bib_escritura": " Así es el que se llega a la mujer de su prójimo; No quedará impune ninguno que la tocare. "
+  },
+  {
+    "_id": 16556,
+    "bib_libro": 20,
+    "bib_capitulo": 6,
+    "bib_versiculo": 30,
+    "bib_escritura": " No tienen en poco al ladrón si hurta Para saciar su apetito cuando tiene hambre; "
+  },
+  {
+    "_id": 16557,
+    "bib_libro": 20,
+    "bib_capitulo": 6,
+    "bib_versiculo": 31,
+    "bib_escritura": " Pero si es sorprendido, pagará siete veces; Entregará todo el haber de su casa. "
+  },
+  {
+    "_id": 16558,
+    "bib_libro": 20,
+    "bib_capitulo": 6,
+    "bib_versiculo": 32,
+    "bib_escritura": " Mas el que comete adulterio es falto de entendimiento; Corrompe su alma el que tal hace. "
+  },
+  {
+    "_id": 16559,
+    "bib_libro": 20,
+    "bib_capitulo": 6,
+    "bib_versiculo": 33,
+    "bib_escritura": " Heridas y vergüenza hallará, Y su afrenta nunca será borrada. "
+  },
+  {
+    "_id": 16560,
+    "bib_libro": 20,
+    "bib_capitulo": 6,
+    "bib_versiculo": 34,
+    "bib_escritura": " Porque los celos son el furor del hombre, Y no perdonará en el día de la venganza. "
+  },
+  {
+    "_id": 16561,
+    "bib_libro": 20,
+    "bib_capitulo": 6,
+    "bib_versiculo": 35,
+    "bib_escritura": " No aceptará ningún rescate, Ni querrá perdonar, aunque multipliques los dones."
+  },
+  {
+    "_id": 16562,
+    "bib_libro": 20,
+    "bib_capitulo": 7,
+    "bib_versiculo": 1,
+    "bib_escritura": " Hijo mío, guarda mis razones, Y atesora contigo mis mandamientos. "
+  },
+  {
+    "_id": 16563,
+    "bib_libro": 20,
+    "bib_capitulo": 7,
+    "bib_versiculo": 2,
+    "bib_escritura": " Guarda mis mandamientos y vivirás, Y mi ley como las niñas de tus ojos. "
+  },
+  {
+    "_id": 16564,
+    "bib_libro": 20,
+    "bib_capitulo": 7,
+    "bib_versiculo": 3,
+    "bib_escritura": " Lígalos a tus dedos; Escríbelos en la tabla de tu corazón. "
+  },
+  {
+    "_id": 16565,
+    "bib_libro": 20,
+    "bib_capitulo": 7,
+    "bib_versiculo": 4,
+    "bib_escritura": " Di a la sabiduría: Tú eres mi hermana, Y a la inteligencia llama parienta; "
+  },
+  {
+    "_id": 16566,
+    "bib_libro": 20,
+    "bib_capitulo": 7,
+    "bib_versiculo": 5,
+    "bib_escritura": " Para que te guarden de la mujer ajena, Y de la extraña que ablanda sus palabras. "
+  },
+  {
+    "_id": 16567,
+    "bib_libro": 20,
+    "bib_capitulo": 7,
+    "bib_versiculo": 6,
+    "bib_escritura": " Porque mirando yo por la ventana de mi casa, Por mi celosía, "
+  },
+  {
+    "_id": 16568,
+    "bib_libro": 20,
+    "bib_capitulo": 7,
+    "bib_versiculo": 7,
+    "bib_escritura": " Vi entre los simples, Consideré entre los jóvenes, A un joven falto de entendimiento, "
+  },
+  {
+    "_id": 16569,
+    "bib_libro": 20,
+    "bib_capitulo": 7,
+    "bib_versiculo": 8,
+    "bib_escritura": " El cual pasaba por la calle, junto a la esquina, E iba camino a la casa de ella, "
+  },
+  {
+    "_id": 16570,
+    "bib_libro": 20,
+    "bib_capitulo": 7,
+    "bib_versiculo": 9,
+    "bib_escritura": " A la tarde del día, cuando ya oscurecía,En la oscuridad y tinieblas de la noche. "
+  },
+  {
+    "_id": 16571,
+    "bib_libro": 20,
+    "bib_capitulo": 7,
+    "bib_versiculo": 10,
+    "bib_escritura": " Cuando he aquí, una mujer le sale al encuentro, Con atavío de ramera y astuta de corazón. "
+  },
+  {
+    "_id": 16572,
+    "bib_libro": 20,
+    "bib_capitulo": 7,
+    "bib_versiculo": 11,
+    "bib_escritura": " Alborotadora y rencillosa, Sus pies no pueden estar en casa; "
+  },
+  {
+    "_id": 16573,
+    "bib_libro": 20,
+    "bib_capitulo": 7,
+    "bib_versiculo": 12,
+    "bib_escritura": " Unas veces está en la calle, otras veces en las plazas, Acechando por todas las esquinas. "
+  },
+  {
+    "_id": 16574,
+    "bib_libro": 20,
+    "bib_capitulo": 7,
+    "bib_versiculo": 13,
+    "bib_escritura": " Se asió de él, y le besó. Con semblante descarado le dijo: "
+  },
+  {
+    "_id": 16575,
+    "bib_libro": 20,
+    "bib_capitulo": 7,
+    "bib_versiculo": 14,
+    "bib_escritura": " Sacrificios de paz había prometido, Hoy he pagado mis votos; "
+  },
+  {
+    "_id": 16576,
+    "bib_libro": 20,
+    "bib_capitulo": 7,
+    "bib_versiculo": 15,
+    "bib_escritura": " Por tanto, he salido a encontrarte, Buscando diligentemente tu rostro, y te he hallado. "
+  },
+  {
+    "_id": 16577,
+    "bib_libro": 20,
+    "bib_capitulo": 7,
+    "bib_versiculo": 16,
+    "bib_escritura": " He adornado mi cama con colchas Recamadas con cordoncillo de Egipto; "
+  },
+  {
+    "_id": 16578,
+    "bib_libro": 20,
+    "bib_capitulo": 7,
+    "bib_versiculo": 17,
+    "bib_escritura": " He perfumado mi cámara Con mirra, áloes y canela. "
+  },
+  {
+    "_id": 16579,
+    "bib_libro": 20,
+    "bib_capitulo": 7,
+    "bib_versiculo": 18,
+    "bib_escritura": " Ven, embriaguémonos de amores hasta la mañana; Alegrémonos en amores. "
+  },
+  {
+    "_id": 16580,
+    "bib_libro": 20,
+    "bib_capitulo": 7,
+    "bib_versiculo": 19,
+    "bib_escritura": " Porque el marido no está en casa; Se ha ido a un largo viaje. "
+  },
+  {
+    "_id": 16581,
+    "bib_libro": 20,
+    "bib_capitulo": 7,
+    "bib_versiculo": 20,
+    "bib_escritura": " La bolsa de dinero llevó en su mano; El día señalado volverá a su casa. "
+  },
+  {
+    "_id": 16582,
+    "bib_libro": 20,
+    "bib_capitulo": 7,
+    "bib_versiculo": 21,
+    "bib_escritura": " Lo rindió con la suavidad de sus muchas palabras, Le obligó con la zalamería de sus labios. "
+  },
+  {
+    "_id": 16583,
+    "bib_libro": 20,
+    "bib_capitulo": 7,
+    "bib_versiculo": 22,
+    "bib_escritura": " Al punto se marchó tras ella, Como va el buey al degolladero, Y como el necio a las prisiones para ser castigado; "
+  },
+  {
+    "_id": 16584,
+    "bib_libro": 20,
+    "bib_capitulo": 7,
+    "bib_versiculo": 23,
+    "bib_escritura": " Como el ave que se apresura a la red, Y no sabe que es contra su vida, Hasta que la saeta traspasa su corazón. "
+  },
+  {
+    "_id": 16585,
+    "bib_libro": 20,
+    "bib_capitulo": 7,
+    "bib_versiculo": 24,
+    "bib_escritura": " Ahora pues, hijos, oídme, Y estad atentos a las razones de mi boca. "
+  },
+  {
+    "_id": 16586,
+    "bib_libro": 20,
+    "bib_capitulo": 7,
+    "bib_versiculo": 25,
+    "bib_escritura": " No se aparte tu corazón a sus caminos; No yerres en sus veredas. "
+  },
+  {
+    "_id": 16587,
+    "bib_libro": 20,
+    "bib_capitulo": 7,
+    "bib_versiculo": 26,
+    "bib_escritura": " Porque a muchos ha hecho caer heridos, Y aun los más fuertes han sido muertos por ella. "
+  },
+  {
+    "_id": 16588,
+    "bib_libro": 20,
+    "bib_capitulo": 7,
+    "bib_versiculo": 27,
+    "bib_escritura": " Camino al Seol es su casa, Que conduce a las cámaras de la muerte. "
+  },
+  {
+    "_id": 16589,
+    "bib_libro": 20,
+    "bib_capitulo": 8,
+    "bib_versiculo": 1,
+    "bib_escritura": " ¿No clama la sabiduría, Y da su voz la inteligencia? "
+  },
+  {
+    "_id": 16590,
+    "bib_libro": 20,
+    "bib_capitulo": 8,
+    "bib_versiculo": 2,
+    "bib_escritura": " En las alturas junto al camino, A las encrucijadas de las veredas se para; "
+  },
+  {
+    "_id": 16591,
+    "bib_libro": 20,
+    "bib_capitulo": 8,
+    "bib_versiculo": 3,
+    "bib_escritura": " En el lugar de las puertas, a la entrada de la ciudad, A la entrada de las puertas da voces:"
+  },
+  {
+    "_id": 16592,
+    "bib_libro": 20,
+    "bib_capitulo": 8,
+    "bib_versiculo": 4,
+    "bib_escritura": " Oh hombres, a vosotros clamo; Dirijo mi voz a los hijos de los hombres. "
+  },
+  {
+    "_id": 16593,
+    "bib_libro": 20,
+    "bib_capitulo": 8,
+    "bib_versiculo": 5,
+    "bib_escritura": " Entended, oh simples, discreción; Y vosotros, necios, entrad en cordura. "
+  },
+  {
+    "_id": 16594,
+    "bib_libro": 20,
+    "bib_capitulo": 8,
+    "bib_versiculo": 6,
+    "bib_escritura": " Oíd, porque hablaré cosas excelentes, Y abriré mis labios para cosas rectas."
+  },
+  {
+    "_id": 16595,
+    "bib_libro": 20,
+    "bib_capitulo": 8,
+    "bib_versiculo": 7,
+    "bib_escritura": " Porque mi boca hablará verdad, Y la impiedad abominan mis labios. "
+  },
+  {
+    "_id": 16596,
+    "bib_libro": 20,
+    "bib_capitulo": 8,
+    "bib_versiculo": 8,
+    "bib_escritura": " Justas son todas las razones de mi boca; No hay en ellas cosa perversa ni torcida. "
+  },
+  {
+    "_id": 16597,
+    "bib_libro": 20,
+    "bib_capitulo": 8,
+    "bib_versiculo": 9,
+    "bib_escritura": " Todas ellas son rectas al que entiende, Y razonables a los que han hallado sabiduría. "
+  },
+  {
+    "_id": 16598,
+    "bib_libro": 20,
+    "bib_capitulo": 8,
+    "bib_versiculo": 10,
+    "bib_escritura": " Recibid mi enseñanza, y no plata; Y ciencia antes que el oro escogido. "
+  },
+  {
+    "_id": 16599,
+    "bib_libro": 20,
+    "bib_capitulo": 8,
+    "bib_versiculo": 11,
+    "bib_escritura": " Porque mejor es la sabiduría que las piedras preciosas; Y todo cuanto se puede desear, no es de compararse con ella. "
+  },
+  {
+    "_id": 16600,
+    "bib_libro": 20,
+    "bib_capitulo": 8,
+    "bib_versiculo": 12,
+    "bib_escritura": " Yo, la sabiduría, habito con la cordura, Y hallo la ciencia de los consejos. "
+  },
+  {
+    "_id": 16601,
+    "bib_libro": 20,
+    "bib_capitulo": 8,
+    "bib_versiculo": 13,
+    "bib_escritura": " El temor de Jehová es aborrecer el mal; La soberbia y la arrogancia, el mal camino, Y la boca perversa, aborrezco. "
+  },
+  {
+    "_id": 16602,
+    "bib_libro": 20,
+    "bib_capitulo": 8,
+    "bib_versiculo": 14,
+    "bib_escritura": " Conmigo está el consejo y el buen juicio; Yo soy la inteligencia; mío es el poder. "
+  },
+  {
+    "_id": 16603,
+    "bib_libro": 20,
+    "bib_capitulo": 8,
+    "bib_versiculo": 15,
+    "bib_escritura": " Por mí reinan los reyes, Y los príncipes determinan justicia. "
+  },
+  {
+    "_id": 16604,
+    "bib_libro": 20,
+    "bib_capitulo": 8,
+    "bib_versiculo": 16,
+    "bib_escritura": " Por mí dominan los príncipes, Y todos los gobernadores juzgan la tierra. "
+  },
+  {
+    "_id": 16605,
+    "bib_libro": 20,
+    "bib_capitulo": 8,
+    "bib_versiculo": 17,
+    "bib_escritura": " Yo amo a los que me aman, Y me hallan los que temprano me buscan. "
+  },
+  {
+    "_id": 16606,
+    "bib_libro": 20,
+    "bib_capitulo": 8,
+    "bib_versiculo": 18,
+    "bib_escritura": " Las riquezas y la honra están conmigo; Riquezas duraderas, y justicia. "
+  },
+  {
+    "_id": 16607,
+    "bib_libro": 20,
+    "bib_capitulo": 8,
+    "bib_versiculo": 19,
+    "bib_escritura": " Mejor es mi fruto que el oro, y que el oro refinado; Y mi rédito mejor que la plata escogida. "
+  },
+  {
+    "_id": 16608,
+    "bib_libro": 20,
+    "bib_capitulo": 8,
+    "bib_versiculo": 20,
+    "bib_escritura": " Por vereda de justicia guiaré, Por en medio de sendas de juicio, "
+  },
+  {
+    "_id": 16609,
+    "bib_libro": 20,
+    "bib_capitulo": 8,
+    "bib_versiculo": 21,
+    "bib_escritura": " Para hacer que los que me aman tengan su heredad, Y que yo llene sus tesoros. "
+  },
+  {
+    "_id": 16610,
+    "bib_libro": 20,
+    "bib_capitulo": 8,
+    "bib_versiculo": 22,
+    "bib_escritura": " Jehová me poseía en el principio, Ya de antiguo, antes de sus obras."
+  },
+  {
+    "_id": 16611,
+    "bib_libro": 20,
+    "bib_capitulo": 8,
+    "bib_versiculo": 23,
+    "bib_escritura": " Eternamente tuve el principado, desde el principio, Antes de la tierra. "
+  },
+  {
+    "_id": 16612,
+    "bib_libro": 20,
+    "bib_capitulo": 8,
+    "bib_versiculo": 24,
+    "bib_escritura": " Antes de los abismos fui engendrada; Antes que fuesen las fuentes de las muchas aguas. "
+  },
+  {
+    "_id": 16613,
+    "bib_libro": 20,
+    "bib_capitulo": 8,
+    "bib_versiculo": 25,
+    "bib_escritura": " Antes que los montes fuesen formados, Antes de los collados, ya había sido yo engendrada; "
+  },
+  {
+    "_id": 16614,
+    "bib_libro": 20,
+    "bib_capitulo": 8,
+    "bib_versiculo": 26,
+    "bib_escritura": " No había aún hecho la tierra, ni los campos, Ni el principio del polvo del mundo. "
+  },
+  {
+    "_id": 16615,
+    "bib_libro": 20,
+    "bib_capitulo": 8,
+    "bib_versiculo": 27,
+    "bib_escritura": " Cuando formaba los cielos, allí estaba yo; Cuando trazaba el círculo sobre la faz del abismo; "
+  },
+  {
+    "_id": 16616,
+    "bib_libro": 20,
+    "bib_capitulo": 8,
+    "bib_versiculo": 28,
+    "bib_escritura": " Cuando afirmaba los cielos arriba, Cuando afirmaba las fuentes del abismo; "
+  },
+  {
+    "_id": 16617,
+    "bib_libro": 20,
+    "bib_capitulo": 8,
+    "bib_versiculo": 29,
+    "bib_escritura": " Cuando ponía al mar su estatuto, Para que las aguas no traspasasen su mandamiento; Cuando establecía los fundamentos de la tierra, "
+  },
+  {
+    "_id": 16618,
+    "bib_libro": 20,
+    "bib_capitulo": 8,
+    "bib_versiculo": 30,
+    "bib_escritura": " Con él estaba yo ordenándolo todo, Y era su delicia de día en día, Teniendo solaz delante de él en todo tiempo. "
+  },
+  {
+    "_id": 16619,
+    "bib_libro": 20,
+    "bib_capitulo": 8,
+    "bib_versiculo": 31,
+    "bib_escritura": " Me regocijo en la parte habitable de su tierra; Y mis delicias son con los hijos de los hombres. "
+  },
+  {
+    "_id": 16620,
+    "bib_libro": 20,
+    "bib_capitulo": 8,
+    "bib_versiculo": 32,
+    "bib_escritura": " Ahora, pues, hijos, oídme, Y bienaventurados los que guardan mis caminos. "
+  },
+  {
+    "_id": 16621,
+    "bib_libro": 20,
+    "bib_capitulo": 8,
+    "bib_versiculo": 33,
+    "bib_escritura": " Atended el consejo, y sed sabios, Y no lo menospreciéis. "
+  },
+  {
+    "_id": 16622,
+    "bib_libro": 20,
+    "bib_capitulo": 8,
+    "bib_versiculo": 34,
+    "bib_escritura": " Bienaventurado el hombre que me escucha, Velando a mis puertas cada día, Aguardando a los postes de mis puertas."
+  },
+  {
+    "_id": 16623,
+    "bib_libro": 20,
+    "bib_capitulo": 8,
+    "bib_versiculo": 35,
+    "bib_escritura": " Porque el que me halle, hallará la vida, Y alcanzará el favor de Jehová. "
+  },
+  {
+    "_id": 16624,
+    "bib_libro": 20,
+    "bib_capitulo": 8,
+    "bib_versiculo": 36,
+    "bib_escritura": " Mas el que peca contra mí, defrauda su alma; Todos los que me aborrecen aman la muerte."
+  },
+  {
+    "_id": 16625,
+    "bib_libro": 20,
+    "bib_capitulo": 9,
+    "bib_versiculo": 1,
+    "bib_escritura": " La sabiduría edificó su casa, Labró sus siete columnas. "
+  },
+  {
+    "_id": 16626,
+    "bib_libro": 20,
+    "bib_capitulo": 9,
+    "bib_versiculo": 2,
+    "bib_escritura": " Mató sus víctimas, mezcló su vino, Y puso su mesa. "
+  },
+  {
+    "_id": 16627,
+    "bib_libro": 20,
+    "bib_capitulo": 9,
+    "bib_versiculo": 3,
+    "bib_escritura": " Envió sus criadas; Sobre lo más alto de la ciudad clamó. "
+  },
+  {
+    "_id": 16628,
+    "bib_libro": 20,
+    "bib_capitulo": 9,
+    "bib_versiculo": 4,
+    "bib_escritura": " Dice a cualquier simple: Ven acá. A los faltos de cordura dice: "
+  },
+  {
+    "_id": 16629,
+    "bib_libro": 20,
+    "bib_capitulo": 9,
+    "bib_versiculo": 5,
+    "bib_escritura": " Venid, comed mi pan, Y bebed del vino que yo he mezclado. "
+  },
+  {
+    "_id": 16630,
+    "bib_libro": 20,
+    "bib_capitulo": 9,
+    "bib_versiculo": 6,
+    "bib_escritura": " Dejad las simplezas, y vivid, Y andad por el camino de la inteligencia. "
+  },
+  {
+    "_id": 16631,
+    "bib_libro": 20,
+    "bib_capitulo": 9,
+    "bib_versiculo": 7,
+    "bib_escritura": " El que corrige al escarnecedor, se acarrea afrenta; El que reprende al impío, se atrae mancha. "
+  },
+  {
+    "_id": 16632,
+    "bib_libro": 20,
+    "bib_capitulo": 9,
+    "bib_versiculo": 8,
+    "bib_escritura": " No reprendas al escarnecedor, para que no te aborrezca; Corrige al sabio, y te amará. "
+  },
+  {
+    "_id": 16633,
+    "bib_libro": 20,
+    "bib_capitulo": 9,
+    "bib_versiculo": 9,
+    "bib_escritura": " Da al sabio, y será más sabio; Enseña al justo, y aumentará su saber. "
+  },
+  {
+    "_id": 16634,
+    "bib_libro": 20,
+    "bib_capitulo": 9,
+    "bib_versiculo": 10,
+    "bib_escritura": " El temor de Jehová es el principio de la sabiduría,Y el conocimiento del Santísimo es la inteligencia. "
+  },
+  {
+    "_id": 16635,
+    "bib_libro": 20,
+    "bib_capitulo": 9,
+    "bib_versiculo": 11,
+    "bib_escritura": " Porque por mí se aumentarán tus días, Y años de vida se te añadirán. "
+  },
+  {
+    "_id": 16636,
+    "bib_libro": 20,
+    "bib_capitulo": 9,
+    "bib_versiculo": 12,
+    "bib_escritura": " Si fueres sabio, para ti lo serás; Y si fueres escarnecedor, pagarás tú solo. "
+  },
+  {
+    "_id": 16637,
+    "bib_libro": 20,
+    "bib_capitulo": 9,
+    "bib_versiculo": 13,
+    "bib_escritura": " La mujer insensata es alborotadora; Es simple e ignorante. "
+  },
+  {
+    "_id": 16638,
+    "bib_libro": 20,
+    "bib_capitulo": 9,
+    "bib_versiculo": 14,
+    "bib_escritura": " Se sienta en una silla a la puerta de su casa, En los lugares altos de la ciudad, "
+  },
+  {
+    "_id": 16639,
+    "bib_libro": 20,
+    "bib_capitulo": 9,
+    "bib_versiculo": 15,
+    "bib_escritura": " Para llamar a los que pasan por el camino, Que van por sus caminos derechos. "
+  },
+  {
+    "_id": 16640,
+    "bib_libro": 20,
+    "bib_capitulo": 9,
+    "bib_versiculo": 16,
+    "bib_escritura": " Dice a cualquier simple: Ven acá. A los faltos de cordura dijo: "
+  },
+  {
+    "_id": 16641,
+    "bib_libro": 20,
+    "bib_capitulo": 9,
+    "bib_versiculo": 17,
+    "bib_escritura": " Las aguas hurtadas son dulces, Y el pan comido en oculto es sabroso. "
+  },
+  {
+    "_id": 16642,
+    "bib_libro": 20,
+    "bib_capitulo": 9,
+    "bib_versiculo": 18,
+    "bib_escritura": " Y no saben que allí están los muertos; Que sus convidados están en lo profundo del Seol."
+  },
+  {
+    "_id": 16643,
+    "bib_libro": 20,
+    "bib_capitulo": 10,
+    "bib_versiculo": 1,
+    "bib_escritura": " Los proverbios de Salomón. El hijo sabio alegra al padre, Pero el hijo necio es tristeza de su madre. "
+  },
+  {
+    "_id": 16644,
+    "bib_libro": 20,
+    "bib_capitulo": 10,
+    "bib_versiculo": 2,
+    "bib_escritura": " Los tesoros de maldad no serán de provecho; Mas la justicia libra de muerte. "
+  },
+  {
+    "_id": 16645,
+    "bib_libro": 20,
+    "bib_capitulo": 10,
+    "bib_versiculo": 3,
+    "bib_escritura": " Jehová no dejará padecer hambre al justo; Mas la iniquidad lanzará a los impíos. "
+  },
+  {
+    "_id": 16646,
+    "bib_libro": 20,
+    "bib_capitulo": 10,
+    "bib_versiculo": 4,
+    "bib_escritura": " La mano negligente empobrece; Mas la mano de los diligentes enriquece. "
+  },
+  {
+    "_id": 16647,
+    "bib_libro": 20,
+    "bib_capitulo": 10,
+    "bib_versiculo": 5,
+    "bib_escritura": " El que recoge en el verano es hombre entendido; El que duerme en el tiempo de la siega es hijo que avergüenza. "
+  },
+  {
+    "_id": 16648,
+    "bib_libro": 20,
+    "bib_capitulo": 10,
+    "bib_versiculo": 6,
+    "bib_escritura": " Hay bendiciones sobre la cabeza del justo; Pero violencia cubrirá la boca de los impíos. "
+  },
+  {
+    "_id": 16649,
+    "bib_libro": 20,
+    "bib_capitulo": 10,
+    "bib_versiculo": 7,
+    "bib_escritura": " La memoria del justo será bendita; Mas el nombre de los impíos se pudrirá. "
+  },
+  {
+    "_id": 16650,
+    "bib_libro": 20,
+    "bib_capitulo": 10,
+    "bib_versiculo": 8,
+    "bib_escritura": " El sabio de corazón recibirá los mandamientos; Mas el necio de labios caerá. "
+  },
+  {
+    "_id": 16651,
+    "bib_libro": 20,
+    "bib_capitulo": 10,
+    "bib_versiculo": 9,
+    "bib_escritura": " El que camina en integridad anda confiado; Mas el que pervierte sus caminos será quebrantado. "
+  },
+  {
+    "_id": 16652,
+    "bib_libro": 20,
+    "bib_capitulo": 10,
+    "bib_versiculo": 10,
+    "bib_escritura": " El que guiña el ojo acarrea tristeza; Y el necio de labios será castigado. "
+  },
+  {
+    "_id": 16653,
+    "bib_libro": 20,
+    "bib_capitulo": 10,
+    "bib_versiculo": 11,
+    "bib_escritura": " Manantial de vida es la boca del justo; Pero violencia cubrirá la boca de los impíos. "
+  },
+  {
+    "_id": 16654,
+    "bib_libro": 20,
+    "bib_capitulo": 10,
+    "bib_versiculo": 12,
+    "bib_escritura": " El odio despierta rencillas; Pero el amor cubrirá todas las faltas."
+  },
+  {
+    "_id": 16655,
+    "bib_libro": 20,
+    "bib_capitulo": 10,
+    "bib_versiculo": 13,
+    "bib_escritura": " En los labios del prudente se halla sabiduría; Mas la vara es para las espaldas del falto de cordura. "
+  },
+  {
+    "_id": 16656,
+    "bib_libro": 20,
+    "bib_capitulo": 10,
+    "bib_versiculo": 14,
+    "bib_escritura": " Los sabios guardan la sabiduría; Mas la boca del necio es calamidad cercana. "
+  },
+  {
+    "_id": 16657,
+    "bib_libro": 20,
+    "bib_capitulo": 10,
+    "bib_versiculo": 15,
+    "bib_escritura": " Las riquezas del rico son su ciudad fortificada; Y el desmayo de los pobres es su pobreza. "
+  },
+  {
+    "_id": 16658,
+    "bib_libro": 20,
+    "bib_capitulo": 10,
+    "bib_versiculo": 16,
+    "bib_escritura": " La obra del justo es para vida; Mas el fruto del impío es para pecado. "
+  },
+  {
+    "_id": 16659,
+    "bib_libro": 20,
+    "bib_capitulo": 10,
+    "bib_versiculo": 17,
+    "bib_escritura": " Camino a la vida es guardar la instrucción; Pero quien desecha la reprensión, yerra. "
+  },
+  {
+    "_id": 16660,
+    "bib_libro": 20,
+    "bib_capitulo": 10,
+    "bib_versiculo": 18,
+    "bib_escritura": " El que encubre el odio es de labios mentirosos; Y el que propaga calumnia es necio. "
+  },
+  {
+    "_id": 16661,
+    "bib_libro": 20,
+    "bib_capitulo": 10,
+    "bib_versiculo": 19,
+    "bib_escritura": " En las muchas palabras no falta pecado; Mas el que refrena sus labios es prudente. "
+  },
+  {
+    "_id": 16662,
+    "bib_libro": 20,
+    "bib_capitulo": 10,
+    "bib_versiculo": 20,
+    "bib_escritura": " Plata escogida es la lengua del justo; Mas el corazón de los impíos es como nada. "
+  },
+  {
+    "_id": 16663,
+    "bib_libro": 20,
+    "bib_capitulo": 10,
+    "bib_versiculo": 21,
+    "bib_escritura": " Los labios del justo apacientan a muchos, Mas los necios mueren por falta de entendimiento. "
+  },
+  {
+    "_id": 16664,
+    "bib_libro": 20,
+    "bib_capitulo": 10,
+    "bib_versiculo": 22,
+    "bib_escritura": " La bendición de Jehová es la que enriquece, Y no añade tristeza con ella. "
+  },
+  {
+    "_id": 16665,
+    "bib_libro": 20,
+    "bib_capitulo": 10,
+    "bib_versiculo": 23,
+    "bib_escritura": " El hacer maldad es como una diversión al insensato; Mas la sabiduría recrea al hombre de entendimiento. "
+  },
+  {
+    "_id": 16666,
+    "bib_libro": 20,
+    "bib_capitulo": 10,
+    "bib_versiculo": 24,
+    "bib_escritura": " Lo que el impío teme, eso le vendrá; Pero a los justos les será dado lo que desean. "
+  },
+  {
+    "_id": 16667,
+    "bib_libro": 20,
+    "bib_capitulo": 10,
+    "bib_versiculo": 25,
+    "bib_escritura": " Como pasa el torbellino, así el malo no permanece; Mas el justo permanece para siempre. "
+  },
+  {
+    "_id": 16668,
+    "bib_libro": 20,
+    "bib_capitulo": 10,
+    "bib_versiculo": 26,
+    "bib_escritura": " Como el vinagre a los dientes, y como el humo a los ojos, Así es el perezoso a los que lo envían. "
+  },
+  {
+    "_id": 16669,
+    "bib_libro": 20,
+    "bib_capitulo": 10,
+    "bib_versiculo": 27,
+    "bib_escritura": " El temor de Jehová aumentará los días; Mas los años de los impíos serán acortados. "
+  },
+  {
+    "_id": 16670,
+    "bib_libro": 20,
+    "bib_capitulo": 10,
+    "bib_versiculo": 28,
+    "bib_escritura": " La esperanza de los justos es alegría; Mas la esperanza de los impíos perecerá. "
+  },
+  {
+    "_id": 16671,
+    "bib_libro": 20,
+    "bib_capitulo": 10,
+    "bib_versiculo": 29,
+    "bib_escritura": " El camino de Jehová es fortaleza al perfecto; Pero es destrucción a los que hacen maldad. "
+  },
+  {
+    "_id": 16672,
+    "bib_libro": 20,
+    "bib_capitulo": 10,
+    "bib_versiculo": 30,
+    "bib_escritura": " El justo no será removido jamás; Pero los impíos no habitarán la tierra. "
+  },
+  {
+    "_id": 16673,
+    "bib_libro": 20,
+    "bib_capitulo": 10,
+    "bib_versiculo": 31,
+    "bib_escritura": " La boca del justo producirá sabiduría; Mas la lengua perversa será cortada. "
+  },
+  {
+    "_id": 16674,
+    "bib_libro": 20,
+    "bib_capitulo": 10,
+    "bib_versiculo": 32,
+    "bib_escritura": " Los labios del justo saben hablar lo que agrada; Mas la boca de los impíos habla perversidades."
+  },
+  {
+    "_id": 16675,
+    "bib_libro": 20,
+    "bib_capitulo": 11,
+    "bib_versiculo": 1,
+    "bib_escritura": " El peso falso es abominación a Jehová; Mas la pesa cabal le agrada. "
+  },
+  {
+    "_id": 16676,
+    "bib_libro": 20,
+    "bib_capitulo": 11,
+    "bib_versiculo": 2,
+    "bib_escritura": " Cuando viene la soberbia, viene también la deshonra; Mas con los humildes está la sabiduría. "
+  },
+  {
+    "_id": 16677,
+    "bib_libro": 20,
+    "bib_capitulo": 11,
+    "bib_versiculo": 3,
+    "bib_escritura": " La integridad de los rectos los encaminará; Pero destruirá a los pecadores la perversidad de ellos. "
+  },
+  {
+    "_id": 16678,
+    "bib_libro": 20,
+    "bib_capitulo": 11,
+    "bib_versiculo": 4,
+    "bib_escritura": " No aprovecharán las riquezas en el día de la ira; Mas la justicia librará de muerte. "
+  },
+  {
+    "_id": 16679,
+    "bib_libro": 20,
+    "bib_capitulo": 11,
+    "bib_versiculo": 5,
+    "bib_escritura": " La justicia del perfecto enderezará su camino; Mas el impío por su impiedad caerá. "
+  },
+  {
+    "_id": 16680,
+    "bib_libro": 20,
+    "bib_capitulo": 11,
+    "bib_versiculo": 6,
+    "bib_escritura": " La justicia de los rectos los librará; Mas los pecadores serán atrapados en su pecado. "
+  },
+  {
+    "_id": 16681,
+    "bib_libro": 20,
+    "bib_capitulo": 11,
+    "bib_versiculo": 7,
+    "bib_escritura": " Cuando muere el hombre impío, perece su esperanza; Y la expectación de los malos perecerá. "
+  },
+  {
+    "_id": 16682,
+    "bib_libro": 20,
+    "bib_capitulo": 11,
+    "bib_versiculo": 8,
+    "bib_escritura": " El justo es librado de la tribulación; Mas el impío entra en lugar suyo. "
+  },
+  {
+    "_id": 16683,
+    "bib_libro": 20,
+    "bib_capitulo": 11,
+    "bib_versiculo": 9,
+    "bib_escritura": " El hipócrita con la boca daña a su prójimo; Mas los justos son librados con la sabiduría. "
+  },
+  {
+    "_id": 16684,
+    "bib_libro": 20,
+    "bib_capitulo": 11,
+    "bib_versiculo": 10,
+    "bib_escritura": " En el bien de los justos la ciudad se alegra; Mas cuando los impíos perecen hay fiesta. "
+  },
+  {
+    "_id": 16685,
+    "bib_libro": 20,
+    "bib_capitulo": 11,
+    "bib_versiculo": 11,
+    "bib_escritura": " Por la bendición de los rectos la ciudad será engrandecida; Mas por la boca de los impíos será trastornada. "
+  },
+  {
+    "_id": 16686,
+    "bib_libro": 20,
+    "bib_capitulo": 11,
+    "bib_versiculo": 12,
+    "bib_escritura": " El que carece de entendimiento menosprecia a su prójimo; Mas el hombre prudente calla. "
+  },
+  {
+    "_id": 16687,
+    "bib_libro": 20,
+    "bib_capitulo": 11,
+    "bib_versiculo": 13,
+    "bib_escritura": " El que anda en chismes descubre el secreto; Mas el de espíritu fiel lo guarda todo. "
+  },
+  {
+    "_id": 16688,
+    "bib_libro": 20,
+    "bib_capitulo": 11,
+    "bib_versiculo": 14,
+    "bib_escritura": " Donde no hay dirección sabia, caerá el pueblo; Mas en la multitud de consejeros hay seguridad. "
+  },
+  {
+    "_id": 16689,
+    "bib_libro": 20,
+    "bib_capitulo": 11,
+    "bib_versiculo": 15,
+    "bib_escritura": " Con ansiedad será afligido el que sale por fiador de un extraño; Mas el que aborreciere las fianzas vivirá seguro. "
+  },
+  {
+    "_id": 16690,
+    "bib_libro": 20,
+    "bib_capitulo": 11,
+    "bib_versiculo": 16,
+    "bib_escritura": " La mujer agraciada tendrá honra, Y los fuertes tendrán riquezas. "
+  },
+  {
+    "_id": 16691,
+    "bib_libro": 20,
+    "bib_capitulo": 11,
+    "bib_versiculo": 17,
+    "bib_escritura": " A su alma hace bien el hombre misericordioso; Mas el cruel se atormenta a sí mismo. "
+  },
+  {
+    "_id": 16692,
+    "bib_libro": 20,
+    "bib_capitulo": 11,
+    "bib_versiculo": 18,
+    "bib_escritura": " El impío hace obra falsa; Mas el que siembra justicia tendrá galardón firme. "
+  },
+  {
+    "_id": 16693,
+    "bib_libro": 20,
+    "bib_capitulo": 11,
+    "bib_versiculo": 19,
+    "bib_escritura": " Como la justicia conduce a la vida, Así el que sigue el mal lo hace para su muerte. "
+  },
+  {
+    "_id": 16694,
+    "bib_libro": 20,
+    "bib_capitulo": 11,
+    "bib_versiculo": 20,
+    "bib_escritura": " Abominación son a Jehová los perversos de corazón;Mas los perfectos de camino le son agradables. "
+  },
+  {
+    "_id": 16695,
+    "bib_libro": 20,
+    "bib_capitulo": 11,
+    "bib_versiculo": 21,
+    "bib_escritura": " Tarde o temprano, el malo será castigado; Mas la descendencia de los justos será librada. "
+  },
+  {
+    "_id": 16696,
+    "bib_libro": 20,
+    "bib_capitulo": 11,
+    "bib_versiculo": 22,
+    "bib_escritura": " Como zarcillo de oro en el hocico de un cerdo Es la mujer hermosa y apartada de razón. "
+  },
+  {
+    "_id": 16697,
+    "bib_libro": 20,
+    "bib_capitulo": 11,
+    "bib_versiculo": 23,
+    "bib_escritura": " El deseo de los justos es solamente el bien; Mas la esperanza de los impíos es el enojo. "
+  },
+  {
+    "_id": 16698,
+    "bib_libro": 20,
+    "bib_capitulo": 11,
+    "bib_versiculo": 24,
+    "bib_escritura": " Hay quienes reparten, y les es añadido más; Y hay quienes retienen más de lo que es justo, pero vienen a pobreza. "
+  },
+  {
+    "_id": 16699,
+    "bib_libro": 20,
+    "bib_capitulo": 11,
+    "bib_versiculo": 25,
+    "bib_escritura": " El alma generosa será prosperada; Y el que saciare, él también será saciado. "
+  },
+  {
+    "_id": 16700,
+    "bib_libro": 20,
+    "bib_capitulo": 11,
+    "bib_versiculo": 26,
+    "bib_escritura": " Al que acapara el grano, el pueblo lo maldecirá; Pero bendición será sobre la cabeza del que lo vende. "
+  },
+  {
+    "_id": 16701,
+    "bib_libro": 20,
+    "bib_capitulo": 11,
+    "bib_versiculo": 27,
+    "bib_escritura": " El que procura el bien buscará favor; Mas al que busca el mal, éste le vendrá. "
+  },
+  {
+    "_id": 16702,
+    "bib_libro": 20,
+    "bib_capitulo": 11,
+    "bib_versiculo": 28,
+    "bib_escritura": " El que confía en sus riquezas caerá; Mas los justos reverdecerán como ramas. "
+  },
+  {
+    "_id": 16703,
+    "bib_libro": 20,
+    "bib_capitulo": 11,
+    "bib_versiculo": 29,
+    "bib_escritura": " El que turba su casa heredará viento;Y el necio será siervo del sabio de corazón. "
+  },
+  {
+    "_id": 16704,
+    "bib_libro": 20,
+    "bib_capitulo": 11,
+    "bib_versiculo": 30,
+    "bib_escritura": " El fruto del justo es árbol de vida; Y el que gana almas es sabio. "
+  },
+  {
+    "_id": 16705,
+    "bib_libro": 20,
+    "bib_capitulo": 12,
+    "bib_versiculo": 1,
+    "bib_escritura": " El que ama la instrucción ama la sabiduría; Mas el que aborrece la reprensión es ignorante. "
+  },
+  {
+    "_id": 16706,
+    "bib_libro": 20,
+    "bib_capitulo": 12,
+    "bib_versiculo": 2,
+    "bib_escritura": " El bueno alcanzará favor de Jehová; Mas él condenará al hombre de malos pensamientos. "
+  },
+  {
+    "_id": 16707,
+    "bib_libro": 20,
+    "bib_capitulo": 12,
+    "bib_versiculo": 3,
+    "bib_escritura": " El hombre no se afirmará por medio de la impiedad; Mas la raíz de los justos no será removida. "
+  },
+  {
+    "_id": 16708,
+    "bib_libro": 20,
+    "bib_capitulo": 12,
+    "bib_versiculo": 4,
+    "bib_escritura": " La mujer virtuosa es corona de su marido; Mas la mala, como carcoma en sus huesos. "
+  },
+  {
+    "_id": 16709,
+    "bib_libro": 20,
+    "bib_capitulo": 12,
+    "bib_versiculo": 5,
+    "bib_escritura": " Los pensamientos de los justos son rectitud; Mas los consejos de los impíos, engaño. "
+  },
+  {
+    "_id": 16710,
+    "bib_libro": 20,
+    "bib_capitulo": 12,
+    "bib_versiculo": 6,
+    "bib_escritura": " Las palabras de los impíos son asechanzas para derramar sangre; Mas la boca de los rectos los librará. "
+  },
+  {
+    "_id": 16711,
+    "bib_libro": 20,
+    "bib_capitulo": 12,
+    "bib_versiculo": 7,
+    "bib_escritura": " Dios trastornará a los impíos, y no serán más; Pero la casa de los justos permanecerá firme. "
+  },
+  {
+    "_id": 16712,
+    "bib_libro": 20,
+    "bib_capitulo": 12,
+    "bib_versiculo": 8,
+    "bib_escritura": " Según su sabiduría es alabado el hombre; Mas el perverso de corazón será menospreciado. "
+  },
+  {
+    "_id": 16713,
+    "bib_libro": 20,
+    "bib_capitulo": 12,
+    "bib_versiculo": 9,
+    "bib_escritura": " Más vale el despreciado que tiene servidores, Que el que se jacta, y carece de pan. "
+  },
+  {
+    "_id": 16714,
+    "bib_libro": 20,
+    "bib_capitulo": 12,
+    "bib_versiculo": 10,
+    "bib_escritura": " El justo cuida de la vida de su bestia; Mas el corazón de los impíos es cruel. "
+  },
+  {
+    "_id": 16715,
+    "bib_libro": 20,
+    "bib_capitulo": 12,
+    "bib_versiculo": 11,
+    "bib_escritura": " El que labra su tierra se saciará de pan; Mas el que sigue a los vagabundos es falto de entendimiento. "
+  },
+  {
+    "_id": 16716,
+    "bib_libro": 20,
+    "bib_capitulo": 12,
+    "bib_versiculo": 12,
+    "bib_escritura": " Codicia el impío la red de los malvados; Mas la raíz de los justos dará fruto. "
+  },
+  {
+    "_id": 16717,
+    "bib_libro": 20,
+    "bib_capitulo": 12,
+    "bib_versiculo": 13,
+    "bib_escritura": " El impío es enredado en la prevaricación de sus labios; Mas el justo saldrá de la tribulación. "
+  },
+  {
+    "_id": 16718,
+    "bib_libro": 20,
+    "bib_capitulo": 12,
+    "bib_versiculo": 14,
+    "bib_escritura": " El hombre será saciado de bien del fruto de su boca; Y le será pagado según la obra de sus manos."
+  },
+  {
+    "_id": 16719,
+    "bib_libro": 20,
+    "bib_capitulo": 12,
+    "bib_versiculo": 15,
+    "bib_escritura": " El camino del necio es derecho en su opinión; Mas el que obedece al consejo es sabio. "
+  },
+  {
+    "_id": 16720,
+    "bib_libro": 20,
+    "bib_capitulo": 12,
+    "bib_versiculo": 16,
+    "bib_escritura": " El necio al punto da a conocer su ira; Mas el que no hace caso de la injuria es prudente. "
+  },
+  {
+    "_id": 16721,
+    "bib_libro": 20,
+    "bib_capitulo": 12,
+    "bib_versiculo": 17,
+    "bib_escritura": " El que habla verdad declara justicia; Mas el testigo mentiroso, engaño. "
+  },
+  {
+    "_id": 16722,
+    "bib_libro": 20,
+    "bib_capitulo": 12,
+    "bib_versiculo": 18,
+    "bib_escritura": " Hay hombres cuyas palabras son como golpes de espada; Mas la lengua de los sabios es medicina. "
+  },
+  {
+    "_id": 16723,
+    "bib_libro": 20,
+    "bib_capitulo": 12,
+    "bib_versiculo": 19,
+    "bib_escritura": " El labio veraz permanecerá para siempre; Mas la lengua mentirosa sólo por un momento. "
+  },
+  {
+    "_id": 16724,
+    "bib_libro": 20,
+    "bib_capitulo": 12,
+    "bib_versiculo": 20,
+    "bib_escritura": " Engaño hay en el corazón de los que piensan el mal; Pero alegría en el de los que piensan el bien. "
+  },
+  {
+    "_id": 16725,
+    "bib_libro": 20,
+    "bib_capitulo": 12,
+    "bib_versiculo": 21,
+    "bib_escritura": " Ninguna adversidad acontecerá al justo; Mas los impíos serán colmados de males. "
+  },
+  {
+    "_id": 16726,
+    "bib_libro": 20,
+    "bib_capitulo": 12,
+    "bib_versiculo": 22,
+    "bib_escritura": " Los labios mentirosos son abominación a Jehová; Pero los que hacen verdad son su contentamiento. "
+  },
+  {
+    "_id": 16727,
+    "bib_libro": 20,
+    "bib_capitulo": 12,
+    "bib_versiculo": 23,
+    "bib_escritura": " El hombre cuerdo encubre su saber; Mas el corazón de los necios publica la necedad. "
+  },
+  {
+    "_id": 16728,
+    "bib_libro": 20,
+    "bib_capitulo": 12,
+    "bib_versiculo": 24,
+    "bib_escritura": " La mano de los diligentes señoreará; Mas la negligencia será tributaria. "
+  },
+  {
+    "_id": 16729,
+    "bib_libro": 20,
+    "bib_capitulo": 12,
+    "bib_versiculo": 25,
+    "bib_escritura": " La congoja en el corazón del hombre lo abate; Mas la buena palabra lo alegra. "
+  },
+  {
+    "_id": 16730,
+    "bib_libro": 20,
+    "bib_capitulo": 12,
+    "bib_versiculo": 26,
+    "bib_escritura": " El justo sirve de guía a su prójimo; Mas el camino de los impíos les hace errar. "
+  },
+  {
+    "_id": 16731,
+    "bib_libro": 20,
+    "bib_capitulo": 12,
+    "bib_versiculo": 27,
+    "bib_escritura": " El indolente ni aun asará lo que ha cazado; Pero haber precioso del hombre es la diligencia. "
+  },
+  {
+    "_id": 16732,
+    "bib_libro": 20,
+    "bib_capitulo": 12,
+    "bib_versiculo": 28,
+    "bib_escritura": " En el camino de la justicia está la vida; Y en sus caminos no hay muerte."
+  },
+  {
+    "_id": 16733,
+    "bib_libro": 20,
+    "bib_capitulo": 13,
+    "bib_versiculo": 1,
+    "bib_escritura": " El hijo sabio recibe el consejo del padre; Mas el burlador no escucha las reprensiones. "
+  },
+  {
+    "_id": 16734,
+    "bib_libro": 20,
+    "bib_capitulo": 13,
+    "bib_versiculo": 2,
+    "bib_escritura": " Del fruto de su boca el hombre comerá el bien; Mas el alma de los prevaricadores hallará el mal. "
+  },
+  {
+    "_id": 16735,
+    "bib_libro": 20,
+    "bib_capitulo": 13,
+    "bib_versiculo": 3,
+    "bib_escritura": " El que guarda su boca guarda su alma; Mas el que mucho abre sus labios tendrá calamidad. "
+  },
+  {
+    "_id": 16736,
+    "bib_libro": 20,
+    "bib_capitulo": 13,
+    "bib_versiculo": 4,
+    "bib_escritura": " El alma del perezoso desea, y nada alcanza; Mas el alma de los diligentes será prosperada. "
+  },
+  {
+    "_id": 16737,
+    "bib_libro": 20,
+    "bib_capitulo": 13,
+    "bib_versiculo": 5,
+    "bib_escritura": " El justo aborrece la palabra de mentira; Mas el impío se hace odioso e infame. "
+  },
+  {
+    "_id": 16738,
+    "bib_libro": 20,
+    "bib_capitulo": 13,
+    "bib_versiculo": 6,
+    "bib_escritura": " La justicia guarda al de perfecto camino; Mas la impiedad trastornará al pecador. "
+  },
+  {
+    "_id": 16739,
+    "bib_libro": 20,
+    "bib_capitulo": 13,
+    "bib_versiculo": 7,
+    "bib_escritura": " Hay quienes pretenden ser ricos, y no tienen nada; Y hay quienes pretenden ser pobres, y tienen muchas riquezas. "
+  },
+  {
+    "_id": 16740,
+    "bib_libro": 20,
+    "bib_capitulo": 13,
+    "bib_versiculo": 8,
+    "bib_escritura": " El rescate de la vida del hombre está en sus riquezas; Pero el pobre no oye censuras. "
+  },
+  {
+    "_id": 16741,
+    "bib_libro": 20,
+    "bib_capitulo": 13,
+    "bib_versiculo": 9,
+    "bib_escritura": " La luz de los justos se alegrará; Mas se apagará la lámpara de los impíos. "
+  },
+  {
+    "_id": 16742,
+    "bib_libro": 20,
+    "bib_capitulo": 13,
+    "bib_versiculo": 10,
+    "bib_escritura": " Ciertamente la soberbia concebirá contienda; Mas con los avisados está la sabiduría. "
+  },
+  {
+    "_id": 16743,
+    "bib_libro": 20,
+    "bib_capitulo": 13,
+    "bib_versiculo": 11,
+    "bib_escritura": " Las riquezas de vanidad disminuirán; Pero el que recoge con mano laboriosa las aumenta. "
+  },
+  {
+    "_id": 16744,
+    "bib_libro": 20,
+    "bib_capitulo": 13,
+    "bib_versiculo": 12,
+    "bib_escritura": " La esperanza que se demora es tormento del corazón; Pero árbol de vida es el deseo cumplido. "
+  },
+  {
+    "_id": 16745,
+    "bib_libro": 20,
+    "bib_capitulo": 13,
+    "bib_versiculo": 13,
+    "bib_escritura": " El que menosprecia el precepto perecerá por ello; Mas el que teme el mandamiento será recompensado. "
+  },
+  {
+    "_id": 16746,
+    "bib_libro": 20,
+    "bib_capitulo": 13,
+    "bib_versiculo": 14,
+    "bib_escritura": " La ley del sabio es manantial de vida Para apartarse de los lazos de la muerte. "
+  },
+  {
+    "_id": 16747,
+    "bib_libro": 20,
+    "bib_capitulo": 13,
+    "bib_versiculo": 15,
+    "bib_escritura": " El buen entendimiento da gracia; Mas el camino de los transgresores es duro. "
+  },
+  {
+    "_id": 16748,
+    "bib_libro": 20,
+    "bib_capitulo": 13,
+    "bib_versiculo": 16,
+    "bib_escritura": " Todo hombre prudente procede con sabiduría; Mas el necio manifestará necedad. "
+  },
+  {
+    "_id": 16749,
+    "bib_libro": 20,
+    "bib_capitulo": 13,
+    "bib_versiculo": 17,
+    "bib_escritura": " El mal mensajero acarrea desgracia; Mas el mensajero fiel acarrea salud. "
+  },
+  {
+    "_id": 16750,
+    "bib_libro": 20,
+    "bib_capitulo": 13,
+    "bib_versiculo": 18,
+    "bib_escritura": " Pobreza y vergüenza tendrá el que menosprecia el consejo; Mas el que guarda la corrección recibirá honra. "
+  },
+  {
+    "_id": 16751,
+    "bib_libro": 20,
+    "bib_capitulo": 13,
+    "bib_versiculo": 19,
+    "bib_escritura": " El deseo cumplido regocija el alma; Pero apartarse del mal es abominación a los necios. "
+  },
+  {
+    "_id": 16752,
+    "bib_libro": 20,
+    "bib_capitulo": 13,
+    "bib_versiculo": 20,
+    "bib_escritura": " El que anda con sabios, sabio será; Mas el que se junta con necios será quebrantado. "
+  },
+  {
+    "_id": 16753,
+    "bib_libro": 20,
+    "bib_capitulo": 13,
+    "bib_versiculo": 21,
+    "bib_escritura": " El mal perseguirá a los pecadores, Mas los justos serán premiados con el bien. "
+  },
+  {
+    "_id": 16754,
+    "bib_libro": 20,
+    "bib_capitulo": 13,
+    "bib_versiculo": 22,
+    "bib_escritura": " El bueno dejará herederos a los hijos de sus hijos; Pero la riqueza del pecador está guardada para el justo. "
+  },
+  {
+    "_id": 16755,
+    "bib_libro": 20,
+    "bib_capitulo": 13,
+    "bib_versiculo": 23,
+    "bib_escritura": " En el barbecho de los pobres hay mucho pan; Mas se pierde por falta de juicio. "
+  },
+  {
+    "_id": 16756,
+    "bib_libro": 20,
+    "bib_capitulo": 13,
+    "bib_versiculo": 24,
+    "bib_escritura": " El que detiene el castigo, a su hijo aborrece; Mas el que lo ama, desde temprano lo corrige. "
+  },
+  {
+    "_id": 16757,
+    "bib_libro": 20,
+    "bib_capitulo": 13,
+    "bib_versiculo": 25,
+    "bib_escritura": " El justo come hasta saciar su alma; Mas el vientre de los impíos tendrá necesidad."
+  },
+  {
+    "_id": 16758,
+    "bib_libro": 20,
+    "bib_capitulo": 14,
+    "bib_versiculo": 1,
+    "bib_escritura": " La mujer sabia edifica su casa; Mas la necia con sus manos la derriba. "
+  },
+  {
+    "_id": 16759,
+    "bib_libro": 20,
+    "bib_capitulo": 14,
+    "bib_versiculo": 2,
+    "bib_escritura": " El que camina en su rectitud teme a Jehová; Mas el de caminos pervertidos lo menosprecia. "
+  },
+  {
+    "_id": 16760,
+    "bib_libro": 20,
+    "bib_capitulo": 14,
+    "bib_versiculo": 3,
+    "bib_escritura": " En la boca del necio está la vara de la soberbia; Mas los labios de los sabios los guardarán. "
+  },
+  {
+    "_id": 16761,
+    "bib_libro": 20,
+    "bib_capitulo": 14,
+    "bib_versiculo": 4,
+    "bib_escritura": " Sin bueyes el granero está vacío; Mas por la fuerza del buey hay abundancia de pan. "
+  },
+  {
+    "_id": 16762,
+    "bib_libro": 20,
+    "bib_capitulo": 14,
+    "bib_versiculo": 5,
+    "bib_escritura": " El testigo verdadero no mentirá; Mas el testigo falso hablará mentiras. "
+  },
+  {
+    "_id": 16763,
+    "bib_libro": 20,
+    "bib_capitulo": 14,
+    "bib_versiculo": 6,
+    "bib_escritura": " Busca el escarnecedor la sabiduría y no la halla; Mas al hombre entendido la sabiduría le es fácil. "
+  },
+  {
+    "_id": 16764,
+    "bib_libro": 20,
+    "bib_capitulo": 14,
+    "bib_versiculo": 7,
+    "bib_escritura": " Vete de delante del hombre necio, Porque en él no hallarás labios de ciencia. "
+  },
+  {
+    "_id": 16765,
+    "bib_libro": 20,
+    "bib_capitulo": 14,
+    "bib_versiculo": 8,
+    "bib_escritura": " La ciencia del prudente está en entender su camino; Mas la indiscreción de los necios es engaño. "
+  },
+  {
+    "_id": 16766,
+    "bib_libro": 20,
+    "bib_capitulo": 14,
+    "bib_versiculo": 9,
+    "bib_escritura": " Los necios se mofan del pecado; Mas entre los rectos hay buena voluntad. "
+  },
+  {
+    "_id": 16767,
+    "bib_libro": 20,
+    "bib_capitulo": 14,
+    "bib_versiculo": 10,
+    "bib_escritura": " El corazón conoce la amargura de su alma; Y extraño no se entremeterá en su alegría. "
+  },
+  {
+    "_id": 16768,
+    "bib_libro": 20,
+    "bib_capitulo": 14,
+    "bib_versiculo": 11,
+    "bib_escritura": " La casa de los impíos será asolada; Pero florecerá la tienda de los rectos. "
+  },
+  {
+    "_id": 16769,
+    "bib_libro": 20,
+    "bib_capitulo": 14,
+    "bib_versiculo": 12,
+    "bib_escritura": " Hay camino que al hombre le parece derecho; Pero su fin es camino de muerte."
+  },
+  {
+    "_id": 16770,
+    "bib_libro": 20,
+    "bib_capitulo": 14,
+    "bib_versiculo": 13,
+    "bib_escritura": " Aun en la risa tendrá dolor el corazón; Y el término de la alegría es congoja. "
+  },
+  {
+    "_id": 16771,
+    "bib_libro": 20,
+    "bib_capitulo": 14,
+    "bib_versiculo": 14,
+    "bib_escritura": " De sus caminos será hastiado el necio de corazón; Pero el hombre de bien estará contento del suyo. "
+  },
+  {
+    "_id": 16772,
+    "bib_libro": 20,
+    "bib_capitulo": 14,
+    "bib_versiculo": 15,
+    "bib_escritura": " El simple todo lo cree; Mas el avisado mira bien sus pasos. "
+  },
+  {
+    "_id": 16773,
+    "bib_libro": 20,
+    "bib_capitulo": 14,
+    "bib_versiculo": 16,
+    "bib_escritura": " El sabio teme y se aparta del mal; Mas el insensato se muestra insolente y confiado. "
+  },
+  {
+    "_id": 16774,
+    "bib_libro": 20,
+    "bib_capitulo": 14,
+    "bib_versiculo": 17,
+    "bib_escritura": " El que fácilmente se enoja hará locuras; Y el hombre perverso será aborrecido. "
+  },
+  {
+    "_id": 16775,
+    "bib_libro": 20,
+    "bib_capitulo": 14,
+    "bib_versiculo": 18,
+    "bib_escritura": " Los simples heredarán necedad; Mas los prudentes se coronarán de sabiduría. "
+  },
+  {
+    "_id": 16776,
+    "bib_libro": 20,
+    "bib_capitulo": 14,
+    "bib_versiculo": 19,
+    "bib_escritura": " Los malos se inclinarán delante de los buenos, Y los impíos a las puertas del justo. "
+  },
+  {
+    "_id": 16777,
+    "bib_libro": 20,
+    "bib_capitulo": 14,
+    "bib_versiculo": 20,
+    "bib_escritura": " El pobre es odioso aun a su amigo; Pero muchos son los que aman al rico. "
+  },
+  {
+    "_id": 16778,
+    "bib_libro": 20,
+    "bib_capitulo": 14,
+    "bib_versiculo": 21,
+    "bib_escritura": " Peca el que menosprecia a su prójimo; Mas el que tiene misericordia de los pobres es bienaventurado. "
+  },
+  {
+    "_id": 16779,
+    "bib_libro": 20,
+    "bib_capitulo": 14,
+    "bib_versiculo": 22,
+    "bib_escritura": " ¿No yerran los que piensan el mal? Misericordia y verdad alcanzarán los que piensan el bien. "
+  },
+  {
+    "_id": 16780,
+    "bib_libro": 20,
+    "bib_capitulo": 14,
+    "bib_versiculo": 23,
+    "bib_escritura": " En toda labor hay fruto; Mas las vanas palabras de los labios empobrecen. "
+  },
+  {
+    "_id": 16781,
+    "bib_libro": 20,
+    "bib_capitulo": 14,
+    "bib_versiculo": 24,
+    "bib_escritura": " Las riquezas de los sabios son su corona; Pero la insensatez de los necios es infatuación. "
+  },
+  {
+    "_id": 16782,
+    "bib_libro": 20,
+    "bib_capitulo": 14,
+    "bib_versiculo": 25,
+    "bib_escritura": " El testigo verdadero libra las almas; Mas el engañoso hablará mentiras. "
+  },
+  {
+    "_id": 16783,
+    "bib_libro": 20,
+    "bib_capitulo": 14,
+    "bib_versiculo": 26,
+    "bib_escritura": " En el temor de Jehová está la fuerte confianza; Y esperanza tendrán sus hijos. "
+  },
+  {
+    "_id": 16784,
+    "bib_libro": 20,
+    "bib_capitulo": 14,
+    "bib_versiculo": 27,
+    "bib_escritura": " El temor de Jehová es manantial de vida Para apartarse de los lazos de la muerte. "
+  },
+  {
+    "_id": 16785,
+    "bib_libro": 20,
+    "bib_capitulo": 14,
+    "bib_versiculo": 28,
+    "bib_escritura": " En la multitud del pueblo está la gloria del rey; Y en la falta de pueblo la debilidad del príncipe. "
+  },
+  {
+    "_id": 16786,
+    "bib_libro": 20,
+    "bib_capitulo": 14,
+    "bib_versiculo": 29,
+    "bib_escritura": " El que tarda en airarse es grande de entendimiento; Mas el que es impaciente de espíritu enaltece la necedad. "
+  },
+  {
+    "_id": 16787,
+    "bib_libro": 20,
+    "bib_capitulo": 14,
+    "bib_versiculo": 30,
+    "bib_escritura": " El corazón apacible es vida de la carne; Mas la envidia es carcoma de los huesos. "
+  },
+  {
+    "_id": 16788,
+    "bib_libro": 20,
+    "bib_capitulo": 14,
+    "bib_versiculo": 31,
+    "bib_escritura": " El que oprime al pobre afrenta a su Hacedor; Mas el que tiene misericordia del pobre, lo honra. "
+  },
+  {
+    "_id": 16789,
+    "bib_libro": 20,
+    "bib_capitulo": 14,
+    "bib_versiculo": 32,
+    "bib_escritura": " Por su maldad será lanzado el impío; Mas el justo en su muerte tiene esperanza. "
+  },
+  {
+    "_id": 16790,
+    "bib_libro": 20,
+    "bib_capitulo": 14,
+    "bib_versiculo": 33,
+    "bib_escritura": " En el corazón del prudente reposa la sabiduría; Pero no es conocida en medio de los necios. "
+  },
+  {
+    "_id": 16791,
+    "bib_libro": 20,
+    "bib_capitulo": 14,
+    "bib_versiculo": 34,
+    "bib_escritura": " La justicia engrandece a la nación; Mas el pecado es afrenta de las naciones. "
+  },
+  {
+    "_id": 16792,
+    "bib_libro": 20,
+    "bib_capitulo": 14,
+    "bib_versiculo": 35,
+    "bib_escritura": " La benevolencia del rey es para con el servidor entendido; Mas su enojo contra el que lo avergüenza."
+  },
+  {
+    "_id": 16793,
+    "bib_libro": 20,
+    "bib_capitulo": 15,
+    "bib_versiculo": 1,
+    "bib_escritura": " La blanda respuesta quita la ira; Mas la palabra áspera hace subir el furor. "
+  },
+  {
+    "_id": 16794,
+    "bib_libro": 20,
+    "bib_capitulo": 15,
+    "bib_versiculo": 2,
+    "bib_escritura": " La lengua de los sabios adornará la sabiduría; Mas la boca de los necios hablará sandeces. "
+  },
+  {
+    "_id": 16795,
+    "bib_libro": 20,
+    "bib_capitulo": 15,
+    "bib_versiculo": 3,
+    "bib_escritura": " Los ojos de Jehová están en todo lugar, Mirando a los malos y a los buenos. "
+  },
+  {
+    "_id": 16796,
+    "bib_libro": 20,
+    "bib_capitulo": 15,
+    "bib_versiculo": 4,
+    "bib_escritura": " La lengua apacible es árbol de vida; Mas la perversidad de ella es quebrantamiento de espíritu. "
+  },
+  {
+    "_id": 16797,
+    "bib_libro": 20,
+    "bib_capitulo": 15,
+    "bib_versiculo": 5,
+    "bib_escritura": " El necio menosprecia el consejo de su padre; Mas el que guarda la corrección vendrá a ser prudente. "
+  },
+  {
+    "_id": 16798,
+    "bib_libro": 20,
+    "bib_capitulo": 15,
+    "bib_versiculo": 6,
+    "bib_escritura": " En la casa del justo hay gran provisión; Pero turbación en las ganancias del impío. "
+  },
+  {
+    "_id": 16799,
+    "bib_libro": 20,
+    "bib_capitulo": 15,
+    "bib_versiculo": 7,
+    "bib_escritura": " La boca de los sabios esparce sabiduría; No así el corazón de los necios. "
+  },
+  {
+    "_id": 16800,
+    "bib_libro": 20,
+    "bib_capitulo": 15,
+    "bib_versiculo": 8,
+    "bib_escritura": " El sacrificio de los impíos es abominación a Jehová; Mas la oración de los rectos es su gozo. "
+  },
+  {
+    "_id": 16801,
+    "bib_libro": 20,
+    "bib_capitulo": 15,
+    "bib_versiculo": 9,
+    "bib_escritura": " Abominación es a Jehová el camino del impío; Mas él ama al que sigue justicia. "
+  },
+  {
+    "_id": 16802,
+    "bib_libro": 20,
+    "bib_capitulo": 15,
+    "bib_versiculo": 10,
+    "bib_escritura": " La reconvención es molesta al que deja el camino; Y el que aborrece la corrección morirá. "
+  },
+  {
+    "_id": 16803,
+    "bib_libro": 20,
+    "bib_capitulo": 15,
+    "bib_versiculo": 11,
+    "bib_escritura": " El Seol y el Abadón están delante de Jehová; ¡Cuánto más los corazones de los hombres! "
+  },
+  {
+    "_id": 16804,
+    "bib_libro": 20,
+    "bib_capitulo": 15,
+    "bib_versiculo": 12,
+    "bib_escritura": " El escarnecedor no ama al que le reprende, Ni se junta con los sabios. "
+  },
+  {
+    "_id": 16805,
+    "bib_libro": 20,
+    "bib_capitulo": 15,
+    "bib_versiculo": 13,
+    "bib_escritura": " El corazón alegre hermosea el rostro; Mas por el dolor del corazón el espíritu se abate. "
+  },
+  {
+    "_id": 16806,
+    "bib_libro": 20,
+    "bib_capitulo": 15,
+    "bib_versiculo": 14,
+    "bib_escritura": " El corazón entendido busca la sabiduría; Mas la boca de los necios se alimenta de necedades. "
+  },
+  {
+    "_id": 16807,
+    "bib_libro": 20,
+    "bib_capitulo": 15,
+    "bib_versiculo": 15,
+    "bib_escritura": " Todos los días del afligido son difíciles; Mas el de corazón contento tiene un banquete continuo. "
+  },
+  {
+    "_id": 16808,
+    "bib_libro": 20,
+    "bib_capitulo": 15,
+    "bib_versiculo": 16,
+    "bib_escritura": " Mejor es lo poco con el temor de Jehová, Que el gran tesoro donde hay turbación. "
+  },
+  {
+    "_id": 16809,
+    "bib_libro": 20,
+    "bib_capitulo": 15,
+    "bib_versiculo": 17,
+    "bib_escritura": " Mejor es la comida de legumbres donde hay amor, Que de buey engordado donde hay odio. "
+  },
+  {
+    "_id": 16810,
+    "bib_libro": 20,
+    "bib_capitulo": 15,
+    "bib_versiculo": 18,
+    "bib_escritura": " El hombre iracundo promueve contiendas; Mas el que tarda en airarse apacigua la rencilla. "
+  },
+  {
+    "_id": 16811,
+    "bib_libro": 20,
+    "bib_capitulo": 15,
+    "bib_versiculo": 19,
+    "bib_escritura": " El camino del perezoso es como seto de espinos; Mas la vereda de los rectos, como una calzada. "
+  },
+  {
+    "_id": 16812,
+    "bib_libro": 20,
+    "bib_capitulo": 15,
+    "bib_versiculo": 20,
+    "bib_escritura": " El hijo sabio alegra al padre; Mas el hombre necio menosprecia a su madre. "
+  },
+  {
+    "_id": 16813,
+    "bib_libro": 20,
+    "bib_capitulo": 15,
+    "bib_versiculo": 21,
+    "bib_escritura": " La necedad es alegría al falto de entendimiento; Mas el hombre entendido endereza sus pasos. "
+  },
+  {
+    "_id": 16814,
+    "bib_libro": 20,
+    "bib_capitulo": 15,
+    "bib_versiculo": 22,
+    "bib_escritura": " Los pensamientos son frustrados donde no hay consejo; Mas en la multitud de consejeros se afirman. "
+  },
+  {
+    "_id": 16815,
+    "bib_libro": 20,
+    "bib_capitulo": 15,
+    "bib_versiculo": 23,
+    "bib_escritura": " El hombre se alegra con la respuesta de su boca; Y la palabra a su tiempo, ¡cuán buena es! "
+  },
+  {
+    "_id": 16816,
+    "bib_libro": 20,
+    "bib_capitulo": 15,
+    "bib_versiculo": 24,
+    "bib_escritura": " El camino de la vida es hacia arriba al entendido, Para apartarse del Seol abajo. "
+  },
+  {
+    "_id": 16817,
+    "bib_libro": 20,
+    "bib_capitulo": 15,
+    "bib_versiculo": 25,
+    "bib_escritura": " Jehová asolará la casa de los soberbios; Pero afirmará la heredad de la viuda. "
+  },
+  {
+    "_id": 16818,
+    "bib_libro": 20,
+    "bib_capitulo": 15,
+    "bib_versiculo": 26,
+    "bib_escritura": " Abominación son a Jehová los pensamientos del malo; Mas las expresiones de los limpios son limpias. "
+  },
+  {
+    "_id": 16819,
+    "bib_libro": 20,
+    "bib_capitulo": 15,
+    "bib_versiculo": 27,
+    "bib_escritura": " Alborota su casa el codicioso; Mas el que aborrece el soborno vivirá. "
+  },
+  {
+    "_id": 16820,
+    "bib_libro": 20,
+    "bib_capitulo": 15,
+    "bib_versiculo": 28,
+    "bib_escritura": " El corazón del justo piensa para responder; Mas la boca de los impíos derrama malas cosas. "
+  },
+  {
+    "_id": 16821,
+    "bib_libro": 20,
+    "bib_capitulo": 15,
+    "bib_versiculo": 29,
+    "bib_escritura": " Jehová está lejos de los impíos; Pero él oye la oración de los justos. "
+  },
+  {
+    "_id": 16822,
+    "bib_libro": 20,
+    "bib_capitulo": 15,
+    "bib_versiculo": 30,
+    "bib_escritura": " La luz de los ojos alegra el corazón, Y la buena nueva conforta los huesos. "
+  },
+  {
+    "_id": 16823,
+    "bib_libro": 20,
+    "bib_capitulo": 15,
+    "bib_versiculo": 31,
+    "bib_escritura": " El oído que escucha las amonestaciones de la vida, Entre los sabios morará. "
+  },
+  {
+    "_id": 16824,
+    "bib_libro": 20,
+    "bib_capitulo": 15,
+    "bib_versiculo": 32,
+    "bib_escritura": " El que tiene en poco la disciplina menosprecia su alma; Mas el que escucha la corrección tiene entendimiento. "
+  },
+  {
+    "_id": 16825,
+    "bib_libro": 20,
+    "bib_capitulo": 15,
+    "bib_versiculo": 33,
+    "bib_escritura": " El temor de Jehová es enseñanza de sabiduría; Y a la honra precede la humildad."
+  },
+  {
+    "_id": 16826,
+    "bib_libro": 20,
+    "bib_capitulo": 16,
+    "bib_versiculo": 1,
+    "bib_escritura": " Del hombre son las disposiciones del corazón; Mas de Jehová es la respuesta de la lengua. "
+  },
+  {
+    "_id": 16827,
+    "bib_libro": 20,
+    "bib_capitulo": 16,
+    "bib_versiculo": 2,
+    "bib_escritura": " Todos los caminos del hombre son limpios en su propia opinión; Pero Jehová pesa los espíritus. "
+  },
+  {
+    "_id": 16828,
+    "bib_libro": 20,
+    "bib_capitulo": 16,
+    "bib_versiculo": 3,
+    "bib_escritura": " Encomienda a Jehová tus obras, Y tus pensamientos serán afirmados. "
+  },
+  {
+    "_id": 16829,
+    "bib_libro": 20,
+    "bib_capitulo": 16,
+    "bib_versiculo": 4,
+    "bib_escritura": " Todas las cosas ha hecho Jehová para sí mismo, Y aun al impío para el día malo. "
+  },
+  {
+    "_id": 16830,
+    "bib_libro": 20,
+    "bib_capitulo": 16,
+    "bib_versiculo": 5,
+    "bib_escritura": " Abominación es a Jehová todo altivo de corazón; Ciertamente no quedará impune. "
+  },
+  {
+    "_id": 16831,
+    "bib_libro": 20,
+    "bib_capitulo": 16,
+    "bib_versiculo": 6,
+    "bib_escritura": " Con misericordia y verdad se corrige el pecado, Y con el temor de Jehová los hombres se apartan del mal. "
+  },
+  {
+    "_id": 16832,
+    "bib_libro": 20,
+    "bib_capitulo": 16,
+    "bib_versiculo": 7,
+    "bib_escritura": " Cuando los caminos del hombre son agradables a Jehová, Aun a sus enemigos hace estar en paz con él. "
+  },
+  {
+    "_id": 16833,
+    "bib_libro": 20,
+    "bib_capitulo": 16,
+    "bib_versiculo": 8,
+    "bib_escritura": " Mejor es lo poco con justiciaQue la muchedumbre de frutos sin derecho. "
+  },
+  {
+    "_id": 16834,
+    "bib_libro": 20,
+    "bib_capitulo": 16,
+    "bib_versiculo": 9,
+    "bib_escritura": " El corazón del hombre piensa su camino; Mas Jehová endereza sus pasos. "
+  },
+  {
+    "_id": 16835,
+    "bib_libro": 20,
+    "bib_capitulo": 16,
+    "bib_versiculo": 10,
+    "bib_escritura": " Oráculo hay en los labios del rey; En juicio no prevaricará su boca. "
+  },
+  {
+    "_id": 16836,
+    "bib_libro": 20,
+    "bib_capitulo": 16,
+    "bib_versiculo": 11,
+    "bib_escritura": " Peso y balanzas justas son de Jehová; Obra suya son todas las pesas de la bolsa. "
+  },
+  {
+    "_id": 16837,
+    "bib_libro": 20,
+    "bib_capitulo": 16,
+    "bib_versiculo": 12,
+    "bib_escritura": " Abominación es a los reyes hacer impiedad, Porque con justicia será afirmado el trono. "
+  },
+  {
+    "_id": 16838,
+    "bib_libro": 20,
+    "bib_capitulo": 16,
+    "bib_versiculo": 13,
+    "bib_escritura": " Los labios justos son el contentamiento de los reyes, Y éstos aman al que habla lo recto. "
+  },
+  {
+    "_id": 16839,
+    "bib_libro": 20,
+    "bib_capitulo": 16,
+    "bib_versiculo": 14,
+    "bib_escritura": " La ira del rey es mensajero de muerte; Mas el hombre sabio la evitará. "
+  },
+  {
+    "_id": 16840,
+    "bib_libro": 20,
+    "bib_capitulo": 16,
+    "bib_versiculo": 15,
+    "bib_escritura": " En la alegría del rostro del rey está la vida, Y su benevolencia es como nube de lluvia tardía. "
+  },
+  {
+    "_id": 16841,
+    "bib_libro": 20,
+    "bib_capitulo": 16,
+    "bib_versiculo": 16,
+    "bib_escritura": " Mejor es adquirir sabiduría que oro preciado; Y adquirir inteligencia vale más que la plata."
+  },
+  {
+    "_id": 16842,
+    "bib_libro": 20,
+    "bib_capitulo": 16,
+    "bib_versiculo": 17,
+    "bib_escritura": " El camino de los rectos se aparta del mal; Su vida guarda el que guarda su camino. "
+  },
+  {
+    "_id": 16843,
+    "bib_libro": 20,
+    "bib_capitulo": 16,
+    "bib_versiculo": 18,
+    "bib_escritura": " Antes del quebrantamiento es la soberbia, Y antes de la caída la altivez de espíritu. "
+  },
+  {
+    "_id": 16844,
+    "bib_libro": 20,
+    "bib_capitulo": 16,
+    "bib_versiculo": 19,
+    "bib_escritura": " Mejor es humillar el espíritu con los humildes Que repartir despojos con los soberbios. "
+  },
+  {
+    "_id": 16845,
+    "bib_libro": 20,
+    "bib_capitulo": 16,
+    "bib_versiculo": 20,
+    "bib_escritura": " El entendido en la palabra hallará el bien, Y el que confía en Jehová es bienaventurado. "
+  },
+  {
+    "_id": 16846,
+    "bib_libro": 20,
+    "bib_capitulo": 16,
+    "bib_versiculo": 21,
+    "bib_escritura": " El sabio de corazón es llamado prudente, Y la dulzura de labios aumenta el saber. "
+  },
+  {
+    "_id": 16847,
+    "bib_libro": 20,
+    "bib_capitulo": 16,
+    "bib_versiculo": 22,
+    "bib_escritura": " Manantial de vida es el entendimiento al que lo posee; Mas la erudición de los necios es necedad. "
+  },
+  {
+    "_id": 16848,
+    "bib_libro": 20,
+    "bib_capitulo": 16,
+    "bib_versiculo": 23,
+    "bib_escritura": " El corazón del sabio hace prudente su boca, Y añade gracia a sus labios. "
+  },
+  {
+    "_id": 16849,
+    "bib_libro": 20,
+    "bib_capitulo": 16,
+    "bib_versiculo": 24,
+    "bib_escritura": " Panal de miel son los dichos suaves; Suavidad al alma y medicina para los huesos. "
+  },
+  {
+    "_id": 16850,
+    "bib_libro": 20,
+    "bib_capitulo": 16,
+    "bib_versiculo": 25,
+    "bib_escritura": " Hay camino que parece derecho al hombre, Pero su fin es camino de muerte."
+  },
+  {
+    "_id": 16851,
+    "bib_libro": 20,
+    "bib_capitulo": 16,
+    "bib_versiculo": 26,
+    "bib_escritura": " El alma del que trabaja, trabaja para sí, Porque su boca le estimula. "
+  },
+  {
+    "_id": 16852,
+    "bib_libro": 20,
+    "bib_capitulo": 16,
+    "bib_versiculo": 27,
+    "bib_escritura": " El hombre perverso cava en busca del mal, Y en sus labios hay como llama de fuego. "
+  },
+  {
+    "_id": 16853,
+    "bib_libro": 20,
+    "bib_capitulo": 16,
+    "bib_versiculo": 28,
+    "bib_escritura": " El hombre perverso levanta contienda, Y el chismoso aparta a los mejores amigos. "
+  },
+  {
+    "_id": 16854,
+    "bib_libro": 20,
+    "bib_capitulo": 16,
+    "bib_versiculo": 29,
+    "bib_escritura": " El hombre malo lisonjea a su prójimo, Y le hace andar por camino no bueno. "
+  },
+  {
+    "_id": 16855,
+    "bib_libro": 20,
+    "bib_capitulo": 16,
+    "bib_versiculo": 30,
+    "bib_escritura": " Cierra sus ojos para pensar perversidades; Mueve sus labios, efectúa el mal. "
+  },
+  {
+    "_id": 16856,
+    "bib_libro": 20,
+    "bib_capitulo": 16,
+    "bib_versiculo": 31,
+    "bib_escritura": " Corona de honra es la vejez Que se halla en el camino de justicia. "
+  },
+  {
+    "_id": 16857,
+    "bib_libro": 20,
+    "bib_capitulo": 16,
+    "bib_versiculo": 32,
+    "bib_escritura": " Mejor es el que tarda en airarse que el fuerte; Y el que se enseñorea de su espíritu, que el que toma una ciudad. "
+  },
+  {
+    "_id": 16858,
+    "bib_libro": 20,
+    "bib_capitulo": 16,
+    "bib_versiculo": 33,
+    "bib_escritura": " La suerte se echa en el regazo; Mas de Jehová es la decisión de ella."
+  },
+  {
+    "_id": 16859,
+    "bib_libro": 20,
+    "bib_capitulo": 17,
+    "bib_versiculo": 1,
+    "bib_escritura": " Mejor es un bocado seco, y en paz, Que casa de contiendas llena de provisiones. "
+  },
+  {
+    "_id": 16860,
+    "bib_libro": 20,
+    "bib_capitulo": 17,
+    "bib_versiculo": 2,
+    "bib_escritura": " El siervo prudente se enseñoreará del hijo que deshonra, Y con los hermanos compartirá la herencia. "
+  },
+  {
+    "_id": 16861,
+    "bib_libro": 20,
+    "bib_capitulo": 17,
+    "bib_versiculo": 3,
+    "bib_escritura": " El crisol para la plata, y la hornaza para el oro; Pero Jehová prueba los corazones. "
+  },
+  {
+    "_id": 16862,
+    "bib_libro": 20,
+    "bib_capitulo": 17,
+    "bib_versiculo": 4,
+    "bib_escritura": " El malo está atento al labio inicuo; Y el mentiroso escucha la lengua detractora. "
+  },
+  {
+    "_id": 16863,
+    "bib_libro": 20,
+    "bib_capitulo": 17,
+    "bib_versiculo": 5,
+    "bib_escritura": " El que escarnece al pobre afrenta a su Hacedor; Y el que se alegra de la calamidad no quedará sin castigo. "
+  },
+  {
+    "_id": 16864,
+    "bib_libro": 20,
+    "bib_capitulo": 17,
+    "bib_versiculo": 6,
+    "bib_escritura": " Corona de los viejos son los nietos, Y la honra de los hijos, sus padres. "
+  },
+  {
+    "_id": 16865,
+    "bib_libro": 20,
+    "bib_capitulo": 17,
+    "bib_versiculo": 7,
+    "bib_escritura": " No conviene al necio la altilocuencia; ¡Cuánto menos al príncipe el labio mentiroso! "
+  },
+  {
+    "_id": 16866,
+    "bib_libro": 20,
+    "bib_capitulo": 17,
+    "bib_versiculo": 8,
+    "bib_escritura": " Piedra preciosa es el soborno para el que lo practica; Adondequiera que se vuelve, halla prosperidad. "
+  },
+  {
+    "_id": 16867,
+    "bib_libro": 20,
+    "bib_capitulo": 17,
+    "bib_versiculo": 9,
+    "bib_escritura": " El que cubre la falta busca amistad; Mas el que la divulga, aparta al amigo. "
+  },
+  {
+    "_id": 16868,
+    "bib_libro": 20,
+    "bib_capitulo": 17,
+    "bib_versiculo": 10,
+    "bib_escritura": " La reprensión aprovecha al entendido, Más que cien azotes al necio. "
+  },
+  {
+    "_id": 16869,
+    "bib_libro": 20,
+    "bib_capitulo": 17,
+    "bib_versiculo": 11,
+    "bib_escritura": " El rebelde no busca sino el mal, Y mensajero cruel será enviado contra él. "
+  },
+  {
+    "_id": 16870,
+    "bib_libro": 20,
+    "bib_capitulo": 17,
+    "bib_versiculo": 12,
+    "bib_escritura": " Mejor es encontrarse con una osa a la cual han robado sus cachorros, Que con un fatuo en su necedad. "
+  },
+  {
+    "_id": 16871,
+    "bib_libro": 20,
+    "bib_capitulo": 17,
+    "bib_versiculo": 13,
+    "bib_escritura": " El que da mal por bien, No se apartará el mal de su casa. "
+  },
+  {
+    "_id": 16872,
+    "bib_libro": 20,
+    "bib_capitulo": 17,
+    "bib_versiculo": 14,
+    "bib_escritura": " El que comienza la discordia es como quien suelta las aguas;Deja, pues, la contienda, antes que se enrede. "
+  },
+  {
+    "_id": 16873,
+    "bib_libro": 20,
+    "bib_capitulo": 17,
+    "bib_versiculo": 15,
+    "bib_escritura": " El que justifica al impío, y el que condena al justo, Ambos son igualmente abominación a Jehová. "
+  },
+  {
+    "_id": 16874,
+    "bib_libro": 20,
+    "bib_capitulo": 17,
+    "bib_versiculo": 16,
+    "bib_escritura": " ¿De qué sirve el precio en la mano del necio para comprar sabiduría, No teniendo entendimiento? "
+  },
+  {
+    "_id": 16875,
+    "bib_libro": 20,
+    "bib_capitulo": 17,
+    "bib_versiculo": 17,
+    "bib_escritura": " En todo tiempo ama el amigo, Y es como un hermano en tiempo de angustia."
+  },
+  {
+    "_id": 16876,
+    "bib_libro": 20,
+    "bib_capitulo": 17,
+    "bib_versiculo": 18,
+    "bib_escritura": " El hombre falto de entendimiento presta fianzas, Y sale por fiador en presencia de su amigo. "
+  },
+  {
+    "_id": 16877,
+    "bib_libro": 20,
+    "bib_capitulo": 17,
+    "bib_versiculo": 19,
+    "bib_escritura": " El que ama la disputa, ama la transgresión; Y el que abre demasiado la puerta busca su ruina. "
+  },
+  {
+    "_id": 16878,
+    "bib_libro": 20,
+    "bib_capitulo": 17,
+    "bib_versiculo": 20,
+    "bib_escritura": " El perverso de corazón nunca hallará el bien, Y el que revuelve con su lengua caerá en el mal. "
+  },
+  {
+    "_id": 16879,
+    "bib_libro": 20,
+    "bib_capitulo": 17,
+    "bib_versiculo": 21,
+    "bib_escritura": " El que engendra al insensato, para su tristeza lo engendra; Y el padre del necio no se alegrará. "
+  },
+  {
+    "_id": 16880,
+    "bib_libro": 20,
+    "bib_capitulo": 17,
+    "bib_versiculo": 22,
+    "bib_escritura": " El corazón alegre constituye buen remedio; Mas el espíritu triste seca los huesos. "
+  },
+  {
+    "_id": 16881,
+    "bib_libro": 20,
+    "bib_capitulo": 17,
+    "bib_versiculo": 23,
+    "bib_escritura": " El impío toma soborno del seno Para pervertir las sendas de la justicia. "
+  },
+  {
+    "_id": 16882,
+    "bib_libro": 20,
+    "bib_capitulo": 17,
+    "bib_versiculo": 24,
+    "bib_escritura": " En el rostro del entendido aparece la sabiduría; Mas los ojos del necio vagan hasta el extremo de la tierra. "
+  },
+  {
+    "_id": 16883,
+    "bib_libro": 20,
+    "bib_capitulo": 17,
+    "bib_versiculo": 25,
+    "bib_escritura": " El hijo necio es pesadumbre de su padre, Y amargura a la que lo dio a luz. "
+  },
+  {
+    "_id": 16884,
+    "bib_libro": 20,
+    "bib_capitulo": 17,
+    "bib_versiculo": 26,
+    "bib_escritura": " Ciertamente no es bueno condenar al justo, Ni herir a los nobles que hacen lo recto. "
+  },
+  {
+    "_id": 16885,
+    "bib_libro": 20,
+    "bib_capitulo": 17,
+    "bib_versiculo": 27,
+    "bib_escritura": " El que ahorra sus palabras tiene sabiduría; De espíritu prudente es el hombre entendido. "
+  },
+  {
+    "_id": 16886,
+    "bib_libro": 20,
+    "bib_capitulo": 17,
+    "bib_versiculo": 28,
+    "bib_escritura": " Aun el necio, cuando calla, es contado por sabio; El que cierra sus labios es entendido."
+  },
+  {
+    "_id": 16887,
+    "bib_libro": 20,
+    "bib_capitulo": 18,
+    "bib_versiculo": 1,
+    "bib_escritura": " Su deseo busca el que se desvía, Y se entremete en todo negocio. "
+  },
+  {
+    "_id": 16888,
+    "bib_libro": 20,
+    "bib_capitulo": 18,
+    "bib_versiculo": 2,
+    "bib_escritura": " No toma placer el necio en la inteligencia, Sino en que su corazón se descubra. "
+  },
+  {
+    "_id": 16889,
+    "bib_libro": 20,
+    "bib_capitulo": 18,
+    "bib_versiculo": 3,
+    "bib_escritura": " Cuando viene el impío, viene también el menosprecio, Y con el deshonrador la afrenta. "
+  },
+  {
+    "_id": 16890,
+    "bib_libro": 20,
+    "bib_capitulo": 18,
+    "bib_versiculo": 4,
+    "bib_escritura": " Aguas profundas son las palabras de la boca del hombre; Y arroyo que rebosa, la fuente de la sabiduría. "
+  },
+  {
+    "_id": 16891,
+    "bib_libro": 20,
+    "bib_capitulo": 18,
+    "bib_versiculo": 5,
+    "bib_escritura": " Tener respeto a la persona del impío, Para pervertir el derecho del justo, no es bueno. "
+  },
+  {
+    "_id": 16892,
+    "bib_libro": 20,
+    "bib_capitulo": 18,
+    "bib_versiculo": 6,
+    "bib_escritura": " Los labios del necio traen contienda;Y su boca los azotes llama. "
+  },
+  {
+    "_id": 16893,
+    "bib_libro": 20,
+    "bib_capitulo": 18,
+    "bib_versiculo": 7,
+    "bib_escritura": " La boca del necio es quebrantamiento para sí, Y sus labios son lazos para su alma. "
+  },
+  {
+    "_id": 16894,
+    "bib_libro": 20,
+    "bib_capitulo": 18,
+    "bib_versiculo": 8,
+    "bib_escritura": " Las palabras del chismoso son como bocados suaves, Y penetran hasta las entrañas. "
+  },
+  {
+    "_id": 16895,
+    "bib_libro": 20,
+    "bib_capitulo": 18,
+    "bib_versiculo": 9,
+    "bib_escritura": " También el que es negligente en su trabajo Es hermano del hombre disipador. "
+  },
+  {
+    "_id": 16896,
+    "bib_libro": 20,
+    "bib_capitulo": 18,
+    "bib_versiculo": 10,
+    "bib_escritura": " Torre fuerte es el nombre de Jehová; A él correrá el justo, y será levantado. "
+  },
+  {
+    "_id": 16897,
+    "bib_libro": 20,
+    "bib_capitulo": 18,
+    "bib_versiculo": 11,
+    "bib_escritura": " Las riquezas del rico son su ciudad fortificada, Y como un muro alto en su imaginación. "
+  },
+  {
+    "_id": 16898,
+    "bib_libro": 20,
+    "bib_capitulo": 18,
+    "bib_versiculo": 12,
+    "bib_escritura": " Antes del quebrantamiento se eleva el corazón del hombre, Y antes de la honra es el abatimiento. "
+  },
+  {
+    "_id": 16899,
+    "bib_libro": 20,
+    "bib_capitulo": 18,
+    "bib_versiculo": 13,
+    "bib_escritura": " Al que responde palabra antes de oír, Le es fatuidad y oprobio. "
+  },
+  {
+    "_id": 16900,
+    "bib_libro": 20,
+    "bib_capitulo": 18,
+    "bib_versiculo": 14,
+    "bib_escritura": " El ánimo del hombre soportará su enfermedad; Mas ¿quién sorportará al ánimo angustiado? "
+  },
+  {
+    "_id": 16901,
+    "bib_libro": 20,
+    "bib_capitulo": 18,
+    "bib_versiculo": 15,
+    "bib_escritura": " El corazón del entendido adquiere sabiduría; Y el oído de los sabios busca la ciencia. "
+  },
+  {
+    "_id": 16902,
+    "bib_libro": 20,
+    "bib_capitulo": 18,
+    "bib_versiculo": 16,
+    "bib_escritura": " La dádiva del hombre le ensancha el camino Y le lleva delante de los grandes. "
+  },
+  {
+    "_id": 16903,
+    "bib_libro": 20,
+    "bib_capitulo": 18,
+    "bib_versiculo": 17,
+    "bib_escritura": " Justo parece el primero que aboga por su causa; Pero viene su adversario, y le descubre. "
+  },
+  {
+    "_id": 16904,
+    "bib_libro": 20,
+    "bib_capitulo": 18,
+    "bib_versiculo": 18,
+    "bib_escritura": " La suerte pone fin a los pleitos, Y decide entre los poderosos. "
+  },
+  {
+    "_id": 16905,
+    "bib_libro": 20,
+    "bib_capitulo": 18,
+    "bib_versiculo": 19,
+    "bib_escritura": " El hermano ofendido es más tenaz que una ciudad fuerte, Y las contiendas de los hermanos son como cerrojos de alcázar. "
+  },
+  {
+    "_id": 16906,
+    "bib_libro": 20,
+    "bib_capitulo": 18,
+    "bib_versiculo": 20,
+    "bib_escritura": " Del fruto de la boca del hombre se llenará su vientre; Se saciará del producto de sus labios. "
+  },
+  {
+    "_id": 16907,
+    "bib_libro": 20,
+    "bib_capitulo": 18,
+    "bib_versiculo": 21,
+    "bib_escritura": " La muerte y la vida están en poder de la lengua, Y el que la ama comerá de sus frutos. "
+  },
+  {
+    "_id": 16908,
+    "bib_libro": 20,
+    "bib_capitulo": 18,
+    "bib_versiculo": 22,
+    "bib_escritura": " El que halla esposa halla el bien, Y alcanza la benevolencia de Jehová. "
+  },
+  {
+    "_id": 16909,
+    "bib_libro": 20,
+    "bib_capitulo": 18,
+    "bib_versiculo": 23,
+    "bib_escritura": " El pobre habla con ruegos, Mas el rico responde durezas. "
+  },
+  {
+    "_id": 16910,
+    "bib_libro": 20,
+    "bib_capitulo": 18,
+    "bib_versiculo": 24,
+    "bib_escritura": " El hombre que tiene amigos ha de mostrarse amigo; Y amigo hay más unido que un hermano. "
+  },
+  {
+    "_id": 16911,
+    "bib_libro": 20,
+    "bib_capitulo": 19,
+    "bib_versiculo": 1,
+    "bib_escritura": " Mejor es el pobre que camina en integridad, Que el de perversos labios y fatuo. "
+  },
+  {
+    "_id": 16912,
+    "bib_libro": 20,
+    "bib_capitulo": 19,
+    "bib_versiculo": 2,
+    "bib_escritura": " El alma sin ciencia no es buena, Y aquel que se apresura con los pies, peca. "
+  },
+  {
+    "_id": 16913,
+    "bib_libro": 20,
+    "bib_capitulo": 19,
+    "bib_versiculo": 3,
+    "bib_escritura": " La insensatez del hombre tuerce su camino, Y luego contra Jehová se irrita su corazón. "
+  },
+  {
+    "_id": 16914,
+    "bib_libro": 20,
+    "bib_capitulo": 19,
+    "bib_versiculo": 4,
+    "bib_escritura": " Las riquezas traen muchos amigos; Mas el pobre es apartado de su amigo. "
+  },
+  {
+    "_id": 16915,
+    "bib_libro": 20,
+    "bib_capitulo": 19,
+    "bib_versiculo": 5,
+    "bib_escritura": " El testigo falso no quedará sin castigo, Y el que habla mentiras no escapará. "
+  },
+  {
+    "_id": 16916,
+    "bib_libro": 20,
+    "bib_capitulo": 19,
+    "bib_versiculo": 6,
+    "bib_escritura": " Muchos buscan el favor del generoso, Y cada uno es amigo del hombre que da. "
+  },
+  {
+    "_id": 16917,
+    "bib_libro": 20,
+    "bib_capitulo": 19,
+    "bib_versiculo": 7,
+    "bib_escritura": " Todos los hermanos del pobre le aborrecen; ¡Cuánto más sus amigos se alejarán de él! Buscará la palabra, y no la hallará. "
+  },
+  {
+    "_id": 16918,
+    "bib_libro": 20,
+    "bib_capitulo": 19,
+    "bib_versiculo": 8,
+    "bib_escritura": " El que posee entendimiento ama su alma; El que guarda la inteligencia hallará el bien. "
+  },
+  {
+    "_id": 16919,
+    "bib_libro": 20,
+    "bib_capitulo": 19,
+    "bib_versiculo": 9,
+    "bib_escritura": " El testigo falso no quedará sin castigo, Y el que habla mentiras perecerá. "
+  },
+  {
+    "_id": 16920,
+    "bib_libro": 20,
+    "bib_capitulo": 19,
+    "bib_versiculo": 10,
+    "bib_escritura": " No conviene al necio el deleite; ¡Cuánto menos al siervo ser señor de los príncipes! "
+  },
+  {
+    "_id": 16921,
+    "bib_libro": 20,
+    "bib_capitulo": 19,
+    "bib_versiculo": 11,
+    "bib_escritura": " La cordura del hombre detiene su furor, Y su honra es pasar por alto la ofensa. "
+  },
+  {
+    "_id": 16922,
+    "bib_libro": 20,
+    "bib_capitulo": 19,
+    "bib_versiculo": 12,
+    "bib_escritura": " Como rugido de cachorro de león es la ira del rey, Y su favor como el rocío sobre la hierba. "
+  },
+  {
+    "_id": 16923,
+    "bib_libro": 20,
+    "bib_capitulo": 19,
+    "bib_versiculo": 13,
+    "bib_escritura": " Dolor es para su padre el hijo necio, Y gotera continua las contiendas de la mujer. "
+  },
+  {
+    "_id": 16924,
+    "bib_libro": 20,
+    "bib_capitulo": 19,
+    "bib_versiculo": 14,
+    "bib_escritura": " La casa y las riquezas son herencia de los padres; Mas de Jehová la mujer prudente. "
+  },
+  {
+    "_id": 16925,
+    "bib_libro": 20,
+    "bib_capitulo": 19,
+    "bib_versiculo": 15,
+    "bib_escritura": " La pereza hace caer en profundo sueño, Y el alma negligente padecerá hambre. "
+  },
+  {
+    "_id": 16926,
+    "bib_libro": 20,
+    "bib_capitulo": 19,
+    "bib_versiculo": 16,
+    "bib_escritura": " El que guarda el mandamiento guarda su alma; Mas el que menosprecia sus caminos morirá. "
+  },
+  {
+    "_id": 16927,
+    "bib_libro": 20,
+    "bib_capitulo": 19,
+    "bib_versiculo": 17,
+    "bib_escritura": " A Jehová presta el que da al pobre, Y el bien que ha hecho, se lo volverá a pagar. "
+  },
+  {
+    "_id": 16928,
+    "bib_libro": 20,
+    "bib_capitulo": 19,
+    "bib_versiculo": 18,
+    "bib_escritura": " Castiga a tu hijo en tanto que hay esperanza;Mas no se apresure tu alma para destruirlo. "
+  },
+  {
+    "_id": 16929,
+    "bib_libro": 20,
+    "bib_capitulo": 19,
+    "bib_versiculo": 19,
+    "bib_escritura": " El de grande ira llevará la pena; Y si usa de violencias, añadirá nuevos males. "
+  },
+  {
+    "_id": 16930,
+    "bib_libro": 20,
+    "bib_capitulo": 19,
+    "bib_versiculo": 20,
+    "bib_escritura": " Escucha el consejo, y recibe la corrección, Para que seas sabio en tu vejez."
+  },
+  {
+    "_id": 16931,
+    "bib_libro": 20,
+    "bib_capitulo": 19,
+    "bib_versiculo": 21,
+    "bib_escritura": " Muchos pensamientos hay en el corazón del hombre; Mas el consejo de Jehová permanecerá."
+  },
+  {
+    "_id": 16932,
+    "bib_libro": 20,
+    "bib_capitulo": 19,
+    "bib_versiculo": 22,
+    "bib_escritura": " Contentamiento es a los hombres hacer misericordia; Pero mejor es el pobre que el mentiroso. "
+  },
+  {
+    "_id": 16933,
+    "bib_libro": 20,
+    "bib_capitulo": 19,
+    "bib_versiculo": 23,
+    "bib_escritura": " El temor de Jehová es para vida, Y con él vivirá lleno de reposo el hombre; No será visitado de mal. "
+  },
+  {
+    "_id": 16934,
+    "bib_libro": 20,
+    "bib_capitulo": 19,
+    "bib_versiculo": 24,
+    "bib_escritura": " El perezoso mete su mano en el plato, Y ni aun a su boca la llevará. "
+  },
+  {
+    "_id": 16935,
+    "bib_libro": 20,
+    "bib_capitulo": 19,
+    "bib_versiculo": 25,
+    "bib_escritura": " Hiere al escarnecedor, y el simple se hará avisado; Y corrigiendo al entendido, entenderá ciencia. "
+  },
+  {
+    "_id": 16936,
+    "bib_libro": 20,
+    "bib_capitulo": 19,
+    "bib_versiculo": 26,
+    "bib_escritura": " El que roba a su padre y ahuyenta a su madre, Es hijo que causa vergüenza y acarrea oprobio. "
+  },
+  {
+    "_id": 16937,
+    "bib_libro": 20,
+    "bib_capitulo": 19,
+    "bib_versiculo": 27,
+    "bib_escritura": " Cesa, hijo mío, de oír las enseñanzas Que te hacen divagar de las razones de sabiduría. "
+  },
+  {
+    "_id": 16938,
+    "bib_libro": 20,
+    "bib_capitulo": 19,
+    "bib_versiculo": 28,
+    "bib_escritura": " El testigo perverso se burlará del juicio, Y la boca de los impíos encubrirá la iniquidad. "
+  },
+  {
+    "_id": 16939,
+    "bib_libro": 20,
+    "bib_capitulo": 19,
+    "bib_versiculo": 29,
+    "bib_escritura": " Preparados están juicios para los escarnecedores, Y azotes para las espaldas de los necios."
+  },
+  {
+    "_id": 16940,
+    "bib_libro": 20,
+    "bib_capitulo": 20,
+    "bib_versiculo": 1,
+    "bib_escritura": " El vino es escarnecedor, la sidra alborotadora, Y cualquiera que por ellos yerra no es sabio. "
+  },
+  {
+    "_id": 16941,
+    "bib_libro": 20,
+    "bib_capitulo": 20,
+    "bib_versiculo": 2,
+    "bib_escritura": " Como rugido de cachorro de león es el terror del rey; El que lo enfurece peca contra sí mismo. "
+  },
+  {
+    "_id": 16942,
+    "bib_libro": 20,
+    "bib_capitulo": 20,
+    "bib_versiculo": 3,
+    "bib_escritura": " Honra es del hombre dejar la contienda; Mas todo insensato se envolverá en ella. "
+  },
+  {
+    "_id": 16943,
+    "bib_libro": 20,
+    "bib_capitulo": 20,
+    "bib_versiculo": 4,
+    "bib_escritura": " El perezoso no ara a causa del invierno; Pedirá, pues, en la siega, y no hallará. "
+  },
+  {
+    "_id": 16944,
+    "bib_libro": 20,
+    "bib_capitulo": 20,
+    "bib_versiculo": 5,
+    "bib_escritura": " Como aguas profundas es el consejo en el corazón del hombre; Mas el hombre entendido lo alcanzará. "
+  },
+  {
+    "_id": 16945,
+    "bib_libro": 20,
+    "bib_capitulo": 20,
+    "bib_versiculo": 6,
+    "bib_escritura": " Muchos hombres proclaman cada uno su propia bondad, Pero hombre de verdad, ¿quién lo hallará? "
+  },
+  {
+    "_id": 16946,
+    "bib_libro": 20,
+    "bib_capitulo": 20,
+    "bib_versiculo": 7,
+    "bib_escritura": " Camina en su integridad el justo; Sus hijos son dichosos después de él. "
+  },
+  {
+    "_id": 16947,
+    "bib_libro": 20,
+    "bib_capitulo": 20,
+    "bib_versiculo": 8,
+    "bib_escritura": " El rey que se sienta en el trono de juicio, Con su mirar disipa todo mal. "
+  },
+  {
+    "_id": 16948,
+    "bib_libro": 20,
+    "bib_capitulo": 20,
+    "bib_versiculo": 9,
+    "bib_escritura": " ¿Quién podrá decir: Yo he limpiado mi corazón, Limpio estoy de mi pecado? "
+  },
+  {
+    "_id": 16949,
+    "bib_libro": 20,
+    "bib_capitulo": 20,
+    "bib_versiculo": 10,
+    "bib_escritura": " Pesa falsa y medida falsa, Ambas cosas son abominación a Jehová. "
+  },
+  {
+    "_id": 16950,
+    "bib_libro": 20,
+    "bib_capitulo": 20,
+    "bib_versiculo": 11,
+    "bib_escritura": " Aun el muchacho es conocido por sus hechos, Si su conducta fuere limpia y recta. "
+  },
+  {
+    "_id": 16951,
+    "bib_libro": 20,
+    "bib_capitulo": 20,
+    "bib_versiculo": 12,
+    "bib_escritura": " El oído que oye, y el ojo que ve, Ambas cosas igualmente ha hecho Jehová. "
+  },
+  {
+    "_id": 16952,
+    "bib_libro": 20,
+    "bib_capitulo": 20,
+    "bib_versiculo": 13,
+    "bib_escritura": " No ames el sueño, para que no te empobrezcas; Abre tus ojos, y te saciarás de pan. "
+  },
+  {
+    "_id": 16953,
+    "bib_libro": 20,
+    "bib_capitulo": 20,
+    "bib_versiculo": 14,
+    "bib_escritura": " El que compra dice: Malo es, malo es; Mas cuando se aparta, se alaba. "
+  },
+  {
+    "_id": 16954,
+    "bib_libro": 20,
+    "bib_capitulo": 20,
+    "bib_versiculo": 15,
+    "bib_escritura": " Hay oro y multitud de piedras preciosas; Mas los labios prudentes son joya preciosa. "
+  },
+  {
+    "_id": 16955,
+    "bib_libro": 20,
+    "bib_capitulo": 20,
+    "bib_versiculo": 16,
+    "bib_escritura": " Quítale su ropa al que salió por fiador del extraño, Y toma prenda del que sale fiador por los extraños. "
+  },
+  {
+    "_id": 16956,
+    "bib_libro": 20,
+    "bib_capitulo": 20,
+    "bib_versiculo": 17,
+    "bib_escritura": " Sabroso es al hombre el pan de mentira; Pero después su boca será llena de cascajo. "
+  },
+  {
+    "_id": 16957,
+    "bib_libro": 20,
+    "bib_capitulo": 20,
+    "bib_versiculo": 18,
+    "bib_escritura": " Los pensamientos con el consejo se ordenan; Y con dirección sabia se hace la guerra. "
+  },
+  {
+    "_id": 16958,
+    "bib_libro": 20,
+    "bib_capitulo": 20,
+    "bib_versiculo": 19,
+    "bib_escritura": " El que anda en chismes descubre el secreto; No te entremetas, pues, con el suelto de lengua. "
+  },
+  {
+    "_id": 16959,
+    "bib_libro": 20,
+    "bib_capitulo": 20,
+    "bib_versiculo": 20,
+    "bib_escritura": " Al que maldice a su padre o a su madre, Se le apagará su lámpara en oscuridad tenebrosa. "
+  },
+  {
+    "_id": 16960,
+    "bib_libro": 20,
+    "bib_capitulo": 20,
+    "bib_versiculo": 21,
+    "bib_escritura": " Los bienes que se adquieren de prisa al principio,No serán al final bendecidos. "
+  },
+  {
+    "_id": 16961,
+    "bib_libro": 20,
+    "bib_capitulo": 20,
+    "bib_versiculo": 22,
+    "bib_escritura": " No digas: Yo me vengaré; Espera a Jehová, y él te salvará. "
+  },
+  {
+    "_id": 16962,
+    "bib_libro": 20,
+    "bib_capitulo": 20,
+    "bib_versiculo": 23,
+    "bib_escritura": " Abominación son a Jehová las pesas falsas, Y la balanza falsa no es buena. "
+  },
+  {
+    "_id": 16963,
+    "bib_libro": 20,
+    "bib_capitulo": 20,
+    "bib_versiculo": 24,
+    "bib_escritura": " De Jehová son los pasos del hombre; ¿Cómo, pues, entenderá el hombre su camino? "
+  },
+  {
+    "_id": 16964,
+    "bib_libro": 20,
+    "bib_capitulo": 20,
+    "bib_versiculo": 25,
+    "bib_escritura": " Lazo es al hombre hacer apresuradamente voto de consagración, Y después de hacerlo, reflexionar. "
+  },
+  {
+    "_id": 16965,
+    "bib_libro": 20,
+    "bib_capitulo": 20,
+    "bib_versiculo": 26,
+    "bib_escritura": " El rey sabio avienta a los impíos, Y sobre ellos hace rodar la rueda. "
+  },
+  {
+    "_id": 16966,
+    "bib_libro": 20,
+    "bib_capitulo": 20,
+    "bib_versiculo": 27,
+    "bib_escritura": " Lámpara de Jehová es el espíritu del hombre, La cual escudriña lo más profundo del corazón. "
+  },
+  {
+    "_id": 16967,
+    "bib_libro": 20,
+    "bib_capitulo": 20,
+    "bib_versiculo": 28,
+    "bib_escritura": " Misericordia y verdad guardan al rey, Y con clemencia se sustenta su trono. "
+  },
+  {
+    "_id": 16968,
+    "bib_libro": 20,
+    "bib_capitulo": 20,
+    "bib_versiculo": 29,
+    "bib_escritura": " La gloria de los jóvenes es su fuerza, Y la hermosura de los ancianos es su vejez. "
+  },
+  {
+    "_id": 16969,
+    "bib_libro": 20,
+    "bib_capitulo": 20,
+    "bib_versiculo": 30,
+    "bib_escritura": " Los azotes que hieren son medicina para el malo, Y el castigo purifica el corazón."
+  },
+  {
+    "_id": 16970,
+    "bib_libro": 20,
+    "bib_capitulo": 21,
+    "bib_versiculo": 1,
+    "bib_escritura": " Como los repartimientos de las aguas, Así está el corazón del rey en la mano de Jehová; A todo lo que quiere lo inclina. "
+  },
+  {
+    "_id": 16971,
+    "bib_libro": 20,
+    "bib_capitulo": 21,
+    "bib_versiculo": 2,
+    "bib_escritura": " Todo camino del hombre es recto en su propia opinión; Pero Jehová pesa los corazones. "
+  },
+  {
+    "_id": 16972,
+    "bib_libro": 20,
+    "bib_capitulo": 21,
+    "bib_versiculo": 3,
+    "bib_escritura": " Hacer justicia y juicio es a Jehová Más agradable que sacrificio. "
+  },
+  {
+    "_id": 16973,
+    "bib_libro": 20,
+    "bib_capitulo": 21,
+    "bib_versiculo": 4,
+    "bib_escritura": " Altivez de ojos, y orgullo de corazón, Y pensamiento de impíos, son pecado. "
+  },
+  {
+    "_id": 16974,
+    "bib_libro": 20,
+    "bib_capitulo": 21,
+    "bib_versiculo": 5,
+    "bib_escritura": " Los pensamientos del diligente ciertamente tienden a la abundancia; Mas todo el que se apresura alocadamente, de cierto va a la pobreza. "
+  },
+  {
+    "_id": 16975,
+    "bib_libro": 20,
+    "bib_capitulo": 21,
+    "bib_versiculo": 6,
+    "bib_escritura": " Amontonar tesoros con lengua mentirosa Es aliento fugaz de aquellos que buscan la muerte. "
+  },
+  {
+    "_id": 16976,
+    "bib_libro": 20,
+    "bib_capitulo": 21,
+    "bib_versiculo": 7,
+    "bib_escritura": " La rapiña de los impíos los destruirá,Por cuanto no quisieron hacer juicio. "
+  },
+  {
+    "_id": 16977,
+    "bib_libro": 20,
+    "bib_capitulo": 21,
+    "bib_versiculo": 8,
+    "bib_escritura": " El camino del hombre perverso es torcido y extraño; Mas los hechos del limpio son rectos. "
+  },
+  {
+    "_id": 16978,
+    "bib_libro": 20,
+    "bib_capitulo": 21,
+    "bib_versiculo": 9,
+    "bib_escritura": " Mejor es vivir en un rincón del terrado Que con mujer rencillosa en casa espaciosa. "
+  },
+  {
+    "_id": 16979,
+    "bib_libro": 20,
+    "bib_capitulo": 21,
+    "bib_versiculo": 10,
+    "bib_escritura": " El alma del impío desea el mal; Su prójimo no halla favor en sus ojos. "
+  },
+  {
+    "_id": 16980,
+    "bib_libro": 20,
+    "bib_capitulo": 21,
+    "bib_versiculo": 11,
+    "bib_escritura": " Cuando el escarnecedor es castigado, el simple se hace sabio; Y cuando se le amonesta al sabio, aprende ciencia. "
+  },
+  {
+    "_id": 16981,
+    "bib_libro": 20,
+    "bib_capitulo": 21,
+    "bib_versiculo": 12,
+    "bib_escritura": " Considera el justo la casa del impío, Cómo los impíos son trastornados por el mal. "
+  },
+  {
+    "_id": 16982,
+    "bib_libro": 20,
+    "bib_capitulo": 21,
+    "bib_versiculo": 13,
+    "bib_escritura": " El que cierra su oído al clamor del pobre, También él clamará, y no será oído. "
+  },
+  {
+    "_id": 16983,
+    "bib_libro": 20,
+    "bib_capitulo": 21,
+    "bib_versiculo": 14,
+    "bib_escritura": "  La dádiva en secreto calma el furor, Y el don en el seno, la fuerte ira. "
+  },
+  {
+    "_id": 16984,
+    "bib_libro": 20,
+    "bib_capitulo": 21,
+    "bib_versiculo": 15,
+    "bib_escritura": " Alegría es para el justo el hacer juicio; Mas destrucción a los que hacen iniquidad. "
+  },
+  {
+    "_id": 16985,
+    "bib_libro": 20,
+    "bib_capitulo": 21,
+    "bib_versiculo": 16,
+    "bib_escritura": " El hombre que se aparta del camino de la sabiduría Vendrá a parar en la compañía de los muertos. "
+  },
+  {
+    "_id": 16986,
+    "bib_libro": 20,
+    "bib_capitulo": 21,
+    "bib_versiculo": 17,
+    "bib_escritura": " Hombre necesitado será el que ama el deleite, Y el que ama el vino y los ungüentos no se enriquecerá."
+  },
+  {
+    "_id": 16987,
+    "bib_libro": 20,
+    "bib_capitulo": 21,
+    "bib_versiculo": 18,
+    "bib_escritura": " Rescate del justo es el impío, Y por los rectos, el prevaricador. "
+  },
+  {
+    "_id": 16988,
+    "bib_libro": 20,
+    "bib_capitulo": 21,
+    "bib_versiculo": 19,
+    "bib_escritura": " Mejor es morar en tierra desierta Que con la mujer rencillosa e iracunda. "
+  },
+  {
+    "_id": 16989,
+    "bib_libro": 20,
+    "bib_capitulo": 21,
+    "bib_versiculo": 20,
+    "bib_escritura": " Tesoro precioso y aceite hay en la casa del sabio; Mas el hombre insensato todo lo disipa. "
+  },
+  {
+    "_id": 16990,
+    "bib_libro": 20,
+    "bib_capitulo": 21,
+    "bib_versiculo": 21,
+    "bib_escritura": " El que sigue la justicia y la misericordia Hallará la vida, la justicia y la honra. "
+  },
+  {
+    "_id": 16991,
+    "bib_libro": 20,
+    "bib_capitulo": 21,
+    "bib_versiculo": 22,
+    "bib_escritura": " Tomó el sabio la ciudad de los fuertes, Y derribó la fuerza en que ella confiaba. "
+  },
+  {
+    "_id": 16992,
+    "bib_libro": 20,
+    "bib_capitulo": 21,
+    "bib_versiculo": 23,
+    "bib_escritura": " El que guarda su boca y su lengua, Su alma guarda de angustias. "
+  },
+  {
+    "_id": 16993,
+    "bib_libro": 20,
+    "bib_capitulo": 21,
+    "bib_versiculo": 24,
+    "bib_escritura": " Escarnecedor es el nombre del soberbio y presuntuoso Que obra en la insolencia de su presunción."
+  },
+  {
+    "_id": 16994,
+    "bib_libro": 20,
+    "bib_capitulo": 21,
+    "bib_versiculo": 25,
+    "bib_escritura": " El deseo del perezoso le mata, Porque sus manos no quieren trabajar. "
+  },
+  {
+    "_id": 16995,
+    "bib_libro": 20,
+    "bib_capitulo": 21,
+    "bib_versiculo": 26,
+    "bib_escritura": " Hay quien todo el día codicia; Pero el justo da, y no detiene su mano. "
+  },
+  {
+    "_id": 16996,
+    "bib_libro": 20,
+    "bib_capitulo": 21,
+    "bib_versiculo": 27,
+    "bib_escritura": " El sacrificio de los impíos es abominación; ¡Cuánto más ofreciéndolo con maldad! "
+  },
+  {
+    "_id": 16997,
+    "bib_libro": 20,
+    "bib_capitulo": 21,
+    "bib_versiculo": 28,
+    "bib_escritura": " El testigo mentiroso perecerá; Mas el hombre que oye, permanecerá en su dicho. "
+  },
+  {
+    "_id": 16998,
+    "bib_libro": 20,
+    "bib_capitulo": 21,
+    "bib_versiculo": 29,
+    "bib_escritura": " El hombre impío endurece su rostro; Mas el recto ordena sus caminos. "
+  },
+  {
+    "_id": 16999,
+    "bib_libro": 20,
+    "bib_capitulo": 21,
+    "bib_versiculo": 30,
+    "bib_escritura": " No hay sabiduría, ni inteligencia, Ni consejo, contra Jehová. "
+  },
+  {
+    "_id": 17000,
+    "bib_libro": 20,
+    "bib_capitulo": 21,
+    "bib_versiculo": 31,
+    "bib_escritura": " El caballo se alista para el día de la batalla; Mas Jehová es el que da la victoria."
+  },
+  {
+    "_id": 17001,
+    "bib_libro": 20,
+    "bib_capitulo": 22,
+    "bib_versiculo": 1,
+    "bib_escritura": " De más estima es el buen nombre que las muchas riquezas, Y la buena fama más que la plata y el oro. "
+  },
+  {
+    "_id": 17002,
+    "bib_libro": 20,
+    "bib_capitulo": 22,
+    "bib_versiculo": 2,
+    "bib_escritura": " El rico y el pobre se encuentran; A ambos los hizo Jehová. "
+  },
+  {
+    "_id": 17003,
+    "bib_libro": 20,
+    "bib_capitulo": 22,
+    "bib_versiculo": 3,
+    "bib_escritura": " El avisado ve el mal y se esconde; Mas los simples pasan y reciben el daño. "
+  },
+  {
+    "_id": 17004,
+    "bib_libro": 20,
+    "bib_capitulo": 22,
+    "bib_versiculo": 4,
+    "bib_escritura": " Riquezas, honra y vida Son la remuneración de la humildad y del temor de Jehová. "
+  },
+  {
+    "_id": 17005,
+    "bib_libro": 20,
+    "bib_capitulo": 22,
+    "bib_versiculo": 5,
+    "bib_escritura": " Espinos y lazos hay en el camino del perverso; El que guarda su alma se alejará de ellos. "
+  },
+  {
+    "_id": 17006,
+    "bib_libro": 20,
+    "bib_capitulo": 22,
+    "bib_versiculo": 6,
+    "bib_escritura": " Instruye al niño en su camino, Y aun cuando fuere viejo no se apartará de él. "
+  },
+  {
+    "_id": 17007,
+    "bib_libro": 20,
+    "bib_capitulo": 22,
+    "bib_versiculo": 7,
+    "bib_escritura": " El rico se enseñorea de los pobres, Y el que toma prestado es siervo del que presta. "
+  },
+  {
+    "_id": 17008,
+    "bib_libro": 20,
+    "bib_capitulo": 22,
+    "bib_versiculo": 8,
+    "bib_escritura": " El que sembrare iniquidad, iniquidad segará, Y la vara de su insolencia se quebrará. "
+  },
+  {
+    "_id": 17009,
+    "bib_libro": 20,
+    "bib_capitulo": 22,
+    "bib_versiculo": 9,
+    "bib_escritura": " El ojo misericordioso será bendito, Porque dio de su pan al indigente. "
+  },
+  {
+    "_id": 17010,
+    "bib_libro": 20,
+    "bib_capitulo": 22,
+    "bib_versiculo": 10,
+    "bib_escritura": " Echa fuera al escarnecedor, y saldrá la contienda, Y cesará el pleito y la afrenta. "
+  },
+  {
+    "_id": 17011,
+    "bib_libro": 20,
+    "bib_capitulo": 22,
+    "bib_versiculo": 11,
+    "bib_escritura": " El que ama la limpieza de corazón, Por la gracia de sus labios tendrá la amistad del rey. "
+  },
+  {
+    "_id": 17012,
+    "bib_libro": 20,
+    "bib_capitulo": 22,
+    "bib_versiculo": 12,
+    "bib_escritura": " Los ojos de Jehová velan por la ciencia; Mas él trastorna las cosas de los prevaricadores. "
+  },
+  {
+    "_id": 17013,
+    "bib_libro": 20,
+    "bib_capitulo": 22,
+    "bib_versiculo": 13,
+    "bib_escritura": " Dice el perezoso: El león está fuera; Seré muerto en la calle. "
+  },
+  {
+    "_id": 17014,
+    "bib_libro": 20,
+    "bib_capitulo": 22,
+    "bib_versiculo": 14,
+    "bib_escritura": " Fosa profunda es la boca de la mujer extraña; Aquel contra el cual Jehová estuviere airado caerá en ella. "
+  },
+  {
+    "_id": 17015,
+    "bib_libro": 20,
+    "bib_capitulo": 22,
+    "bib_versiculo": 15,
+    "bib_escritura": " La necedad está ligada en el corazón del muchacho; Mas la vara de la corrección la alejará de él. "
+  },
+  {
+    "_id": 17016,
+    "bib_libro": 20,
+    "bib_capitulo": 22,
+    "bib_versiculo": 16,
+    "bib_escritura": " El que oprime al pobre para aumentar sus ganancias,O que da al rico, ciertamente se empobrecerá. Preceptos y amonestaciones "
+  },
+  {
+    "_id": 17017,
+    "bib_libro": 20,
+    "bib_capitulo": 22,
+    "bib_versiculo": 17,
+    "bib_escritura": " Inclina tu oído y oye las palabras de los sabios, Y aplica tu corazón a mi sabiduría; "
+  },
+  {
+    "_id": 17018,
+    "bib_libro": 20,
+    "bib_capitulo": 22,
+    "bib_versiculo": 18,
+    "bib_escritura": " Porque es cosa deliciosa, si las guardares dentro de ti; Si juntamente se afirmaren sobre tus labios. "
+  },
+  {
+    "_id": 17019,
+    "bib_libro": 20,
+    "bib_capitulo": 22,
+    "bib_versiculo": 19,
+    "bib_escritura": " Para que tu confianza sea en Jehová, Te las he hecho saber hoy a ti también. "
+  },
+  {
+    "_id": 17020,
+    "bib_libro": 20,
+    "bib_capitulo": 22,
+    "bib_versiculo": 20,
+    "bib_escritura": " ¿No te he escrito tres veces En consejos y en ciencia, "
+  },
+  {
+    "_id": 17021,
+    "bib_libro": 20,
+    "bib_capitulo": 22,
+    "bib_versiculo": 21,
+    "bib_escritura": " Para hacerte saber la certidumbre de las palabras de verdad, A fin de que vuelvas a llevar palabras de verdad a los que te enviaron? "
+  },
+  {
+    "_id": 17022,
+    "bib_libro": 20,
+    "bib_capitulo": 22,
+    "bib_versiculo": 22,
+    "bib_escritura": " No robes al pobre, porque es pobre, Ni quebrantes en la puerta al afligido; "
+  },
+  {
+    "_id": 17023,
+    "bib_libro": 20,
+    "bib_capitulo": 22,
+    "bib_versiculo": 23,
+    "bib_escritura": " Porque Jehová juzgará la causa de ellos, Y despojará el alma de aquellos que los despojaren. "
+  },
+  {
+    "_id": 17024,
+    "bib_libro": 20,
+    "bib_capitulo": 22,
+    "bib_versiculo": 24,
+    "bib_escritura": " No te entremetas con el iracundo, Ni te acompañes con el hombre de enojos, "
+  },
+  {
+    "_id": 17025,
+    "bib_libro": 20,
+    "bib_capitulo": 22,
+    "bib_versiculo": 25,
+    "bib_escritura": " No sea que aprendas sus maneras, Y tomes lazo para tu alma. "
+  },
+  {
+    "_id": 17026,
+    "bib_libro": 20,
+    "bib_capitulo": 22,
+    "bib_versiculo": 26,
+    "bib_escritura": " No seas de aquellos que se comprometen, Ni de los que salen por fiadores de deudas. "
+  },
+  {
+    "_id": 17027,
+    "bib_libro": 20,
+    "bib_capitulo": 22,
+    "bib_versiculo": 27,
+    "bib_escritura": " Si no tuvieres para pagar, ¿Por qué han de quitar tu cama de debajo de ti? "
+  },
+  {
+    "_id": 17028,
+    "bib_libro": 20,
+    "bib_capitulo": 22,
+    "bib_versiculo": 28,
+    "bib_escritura": " No traspases los linderos antiguos Que pusieron tus padres. "
+  },
+  {
+    "_id": 17029,
+    "bib_libro": 20,
+    "bib_capitulo": 22,
+    "bib_versiculo": 29,
+    "bib_escritura": " ¿Has visto hombre solícito en su trabajo? Delante de los reyes estará; No estará delante de los de baja condición."
+  },
+  {
+    "_id": 17030,
+    "bib_libro": 20,
+    "bib_capitulo": 23,
+    "bib_versiculo": 1,
+    "bib_escritura": " Cuando te sientes a comer con algún señor, Considera bien lo que está delante de ti, "
+  },
+  {
+    "_id": 17031,
+    "bib_libro": 20,
+    "bib_capitulo": 23,
+    "bib_versiculo": 2,
+    "bib_escritura": " Y pon cuchillo a tu garganta, Si tienes gran apetito. "
+  },
+  {
+    "_id": 17032,
+    "bib_libro": 20,
+    "bib_capitulo": 23,
+    "bib_versiculo": 3,
+    "bib_escritura": " No codicies sus manjares delicados, Porque es pan engañoso. "
+  },
+  {
+    "_id": 17033,
+    "bib_libro": 20,
+    "bib_capitulo": 23,
+    "bib_versiculo": 4,
+    "bib_escritura": " No te afanes por hacerte rico; Sé prudente, y desiste. "
+  },
+  {
+    "_id": 17034,
+    "bib_libro": 20,
+    "bib_capitulo": 23,
+    "bib_versiculo": 5,
+    "bib_escritura": " ¿Has de poner tus ojos en las riquezas, siendo ningunas? Porque se harán alas Como alas de águila, y volarán al cielo. "
+  },
+  {
+    "_id": 17035,
+    "bib_libro": 20,
+    "bib_capitulo": 23,
+    "bib_versiculo": 6,
+    "bib_escritura": " No comas pan con el avaro, Ni codicies sus manjares; "
+  },
+  {
+    "_id": 17036,
+    "bib_libro": 20,
+    "bib_capitulo": 23,
+    "bib_versiculo": 7,
+    "bib_escritura": " Porque cual es su pensamiento en su corazón, tal es él. Come y bebe, te dirá; Mas su corazón no está contigo. "
+  },
+  {
+    "_id": 17037,
+    "bib_libro": 20,
+    "bib_capitulo": 23,
+    "bib_versiculo": 8,
+    "bib_escritura": " Vomitarás la parte que comiste, Y perderás tus suaves palabras. "
+  },
+  {
+    "_id": 17038,
+    "bib_libro": 20,
+    "bib_capitulo": 23,
+    "bib_versiculo": 9,
+    "bib_escritura": " No hables a oídos del necio, Porque menospreciará la prudencia de tus razones. "
+  },
+  {
+    "_id": 17039,
+    "bib_libro": 20,
+    "bib_capitulo": 23,
+    "bib_versiculo": 10,
+    "bib_escritura": " No traspases el lindero antiguo, Ni entres en la heredad de los huérfanos; "
+  },
+  {
+    "_id": 17040,
+    "bib_libro": 20,
+    "bib_capitulo": 23,
+    "bib_versiculo": 11,
+    "bib_escritura": " Porque el defensor de ellos es el Fuerte, El cual juzgará la causa de ellos contra ti. "
+  },
+  {
+    "_id": 17041,
+    "bib_libro": 20,
+    "bib_capitulo": 23,
+    "bib_versiculo": 12,
+    "bib_escritura": " Aplica tu corazón a la enseñanza, Y tus oídos a las palabras de sabiduría. "
+  },
+  {
+    "_id": 17042,
+    "bib_libro": 20,
+    "bib_capitulo": 23,
+    "bib_versiculo": 13,
+    "bib_escritura": " No rehúses corregir al muchacho; Porque si lo castigas con vara, no morirá. "
+  },
+  {
+    "_id": 17043,
+    "bib_libro": 20,
+    "bib_capitulo": 23,
+    "bib_versiculo": 14,
+    "bib_escritura": " Lo castigarás con vara, Y librarás su alma del Seol. "
+  },
+  {
+    "_id": 17044,
+    "bib_libro": 20,
+    "bib_capitulo": 23,
+    "bib_versiculo": 15,
+    "bib_escritura": " Hijo mío, si tu corazón fuere sabio, También a mí se me alegrará el corazón; "
+  },
+  {
+    "_id": 17045,
+    "bib_libro": 20,
+    "bib_capitulo": 23,
+    "bib_versiculo": 16,
+    "bib_escritura": " Mis entrañas también se alegraránCuando tus labios hablaren cosas rectas. "
+  },
+  {
+    "_id": 17046,
+    "bib_libro": 20,
+    "bib_capitulo": 23,
+    "bib_versiculo": 17,
+    "bib_escritura": " No tenga tu corazón envidia de los pecadores, Antes persevera en el temor de Jehová todo el tiempo; "
+  },
+  {
+    "_id": 17047,
+    "bib_libro": 20,
+    "bib_capitulo": 23,
+    "bib_versiculo": 18,
+    "bib_escritura": " Porque ciertamente hay fin, Y tu esperanza no será cortada. "
+  },
+  {
+    "_id": 17048,
+    "bib_libro": 20,
+    "bib_capitulo": 23,
+    "bib_versiculo": 19,
+    "bib_escritura": " Oye, hijo mío, y sé sabio, Y endereza tu corazón al camino. "
+  },
+  {
+    "_id": 17049,
+    "bib_libro": 20,
+    "bib_capitulo": 23,
+    "bib_versiculo": 20,
+    "bib_escritura": " No estés con los bebedores de vino, Ni con los comedores de carne; "
+  },
+  {
+    "_id": 17050,
+    "bib_libro": 20,
+    "bib_capitulo": 23,
+    "bib_versiculo": 21,
+    "bib_escritura": " Porque el bebedor y el comilón empobrecerán, Y el sueño hará vestir vestidos rotos. "
+  },
+  {
+    "_id": 17051,
+    "bib_libro": 20,
+    "bib_capitulo": 23,
+    "bib_versiculo": 22,
+    "bib_escritura": " Oye a tu padre, a aquel que te engendró; Y cuando tu madre envejeciere, no la menosprecies. "
+  },
+  {
+    "_id": 17052,
+    "bib_libro": 20,
+    "bib_capitulo": 23,
+    "bib_versiculo": 23,
+    "bib_escritura": " Compra la verdad, y no la vendas; La sabiduría, la enseñanza y la inteligencia. "
+  },
+  {
+    "_id": 17053,
+    "bib_libro": 20,
+    "bib_capitulo": 23,
+    "bib_versiculo": 24,
+    "bib_escritura": " Mucho se alegrará el padre del justo, Y el que engendra sabio se gozará con él. "
+  },
+  {
+    "_id": 17054,
+    "bib_libro": 20,
+    "bib_capitulo": 23,
+    "bib_versiculo": 25,
+    "bib_escritura": " Alégrense tu padre y tu madre, Y gócese la que te dio a luz. "
+  },
+  {
+    "_id": 17055,
+    "bib_libro": 20,
+    "bib_capitulo": 23,
+    "bib_versiculo": 26,
+    "bib_escritura": " Dame, hijo mío, tu corazón, Y miren tus ojos por mis caminos. "
+  },
+  {
+    "_id": 17056,
+    "bib_libro": 20,
+    "bib_capitulo": 23,
+    "bib_versiculo": 27,
+    "bib_escritura": " Porque abismo profundo es la ramera, Y pozo angosto la extraña. "
+  },
+  {
+    "_id": 17057,
+    "bib_libro": 20,
+    "bib_capitulo": 23,
+    "bib_versiculo": 28,
+    "bib_escritura": " También ella, como robador, acecha, Y multiplica entre los hombres los prevaricadores. "
+  },
+  {
+    "_id": 17058,
+    "bib_libro": 20,
+    "bib_capitulo": 23,
+    "bib_versiculo": 29,
+    "bib_escritura": " ¿Para quién será el ay? ¿Para quién el dolor? ¿Para quién las rencillas? ¿Para quién las quejas? ¿Para quién las heridas en balde? ¿Para quién lo amoratado de los ojos? "
+  },
+  {
+    "_id": 17059,
+    "bib_libro": 20,
+    "bib_capitulo": 23,
+    "bib_versiculo": 30,
+    "bib_escritura": " Para los que se detienen mucho en el vino, Para los que van buscando la mistura. "
+  },
+  {
+    "_id": 17060,
+    "bib_libro": 20,
+    "bib_capitulo": 23,
+    "bib_versiculo": 31,
+    "bib_escritura": " No mires al vino cuando rojea, Cuando resplandece su color en la copa. Se entra suavemente; "
+  },
+  {
+    "_id": 17061,
+    "bib_libro": 20,
+    "bib_capitulo": 23,
+    "bib_versiculo": 32,
+    "bib_escritura": " Mas al fin como serpiente morderá, Y como áspid dará dolor. "
+  },
+  {
+    "_id": 17062,
+    "bib_libro": 20,
+    "bib_capitulo": 23,
+    "bib_versiculo": 33,
+    "bib_escritura": " Tus ojos mirarán cosas extrañas, Y tu corazón hablará perversidades. "
+  },
+  {
+    "_id": 17063,
+    "bib_libro": 20,
+    "bib_capitulo": 23,
+    "bib_versiculo": 34,
+    "bib_escritura": " Serás como el que yace en medio del mar, O como el que está en la punta de un mastelero. "
+  },
+  {
+    "_id": 17064,
+    "bib_libro": 20,
+    "bib_capitulo": 23,
+    "bib_versiculo": 35,
+    "bib_escritura": " Y dirás: Me hirieron, mas no me dolió; Me azotaron, mas no lo sentí; Cuando despertare, aún lo volveré a buscar."
+  },
+  {
+    "_id": 17065,
+    "bib_libro": 20,
+    "bib_capitulo": 24,
+    "bib_versiculo": 1,
+    "bib_escritura": " No tengas envidia de los hombres malos, Ni desees estar con ellos; "
+  },
+  {
+    "_id": 17066,
+    "bib_libro": 20,
+    "bib_capitulo": 24,
+    "bib_versiculo": 2,
+    "bib_escritura": " Porque su corazón piensa en robar, E iniquidad hablan sus labios. "
+  },
+  {
+    "_id": 17067,
+    "bib_libro": 20,
+    "bib_capitulo": 24,
+    "bib_versiculo": 3,
+    "bib_escritura": " Con sabiduría se edificará la casa, Y con prudencia se afirmará; "
+  },
+  {
+    "_id": 17068,
+    "bib_libro": 20,
+    "bib_capitulo": 24,
+    "bib_versiculo": 4,
+    "bib_escritura": " Y con ciencia se llenarán las cámaras De todo bien preciado y agradable. "
+  },
+  {
+    "_id": 17069,
+    "bib_libro": 20,
+    "bib_capitulo": 24,
+    "bib_versiculo": 5,
+    "bib_escritura": " El hombre sabio es fuerte, Y de pujante vigor el hombre docto. "
+  },
+  {
+    "_id": 17070,
+    "bib_libro": 20,
+    "bib_capitulo": 24,
+    "bib_versiculo": 6,
+    "bib_escritura": " Porque con ingenio harás la guerra, Y en la multitud de consejeros está la victoria. "
+  },
+  {
+    "_id": 17071,
+    "bib_libro": 20,
+    "bib_capitulo": 24,
+    "bib_versiculo": 7,
+    "bib_escritura": " Alta está para el insensato la sabiduría; En la puerta no abrirá él su boca. "
+  },
+  {
+    "_id": 17072,
+    "bib_libro": 20,
+    "bib_capitulo": 24,
+    "bib_versiculo": 8,
+    "bib_escritura": " Al que piensa hacer el mal, Le llamarán hombre de malos pensamientos. "
+  },
+  {
+    "_id": 17073,
+    "bib_libro": 20,
+    "bib_capitulo": 24,
+    "bib_versiculo": 9,
+    "bib_escritura": " El pensamiento del necio es pecado, Y abominación a los hombres el escarnecedor. "
+  },
+  {
+    "_id": 17074,
+    "bib_libro": 20,
+    "bib_capitulo": 24,
+    "bib_versiculo": 10,
+    "bib_escritura": " Si fueres flojo en el día de trabajo, Tu fuerza será reducida. "
+  },
+  {
+    "_id": 17075,
+    "bib_libro": 20,
+    "bib_capitulo": 24,
+    "bib_versiculo": 11,
+    "bib_escritura": " Libra a los que son llevados a la muerte; Salva a los que están en peligro de muerte. "
+  },
+  {
+    "_id": 17076,
+    "bib_libro": 20,
+    "bib_capitulo": 24,
+    "bib_versiculo": 12,
+    "bib_escritura": " Porque si dijeres: Ciertamente no lo supimos, ¿Acaso no lo entenderá el que pesa los corazones? El que mira por tu alma, él lo conocerá, Y dará al hombre según sus obras. "
+  },
+  {
+    "_id": 17077,
+    "bib_libro": 20,
+    "bib_capitulo": 24,
+    "bib_versiculo": 13,
+    "bib_escritura": " Come, hijo mío, de la miel, porque es buena, Y el panal es dulce a tu paladar. "
+  },
+  {
+    "_id": 17078,
+    "bib_libro": 20,
+    "bib_capitulo": 24,
+    "bib_versiculo": 14,
+    "bib_escritura": " Así será a tu alma el conocimiento de la sabiduría; Si la hallares tendrás recompensa, Y al fin tu esperanza no será cortada. "
+  },
+  {
+    "_id": 17079,
+    "bib_libro": 20,
+    "bib_capitulo": 24,
+    "bib_versiculo": 15,
+    "bib_escritura": " Oh impío, no aceches la tienda del justo, No saquees su cámara; "
+  },
+  {
+    "_id": 17080,
+    "bib_libro": 20,
+    "bib_capitulo": 24,
+    "bib_versiculo": 16,
+    "bib_escritura": " Porque siete veces cae el justo, y vuelve a levantarse; Mas los impíos caerán en el mal. "
+  },
+  {
+    "_id": 17081,
+    "bib_libro": 20,
+    "bib_capitulo": 24,
+    "bib_versiculo": 17,
+    "bib_escritura": " Cuando cayere tu enemigo, no te regocijes, Y cuando tropezare, no se alegre tu corazón; "
+  },
+  {
+    "_id": 17082,
+    "bib_libro": 20,
+    "bib_capitulo": 24,
+    "bib_versiculo": 18,
+    "bib_escritura": " No sea que Jehová lo mire, y le desagrade, Y aparte de sobre él su enojo. "
+  },
+  {
+    "_id": 17083,
+    "bib_libro": 20,
+    "bib_capitulo": 24,
+    "bib_versiculo": 19,
+    "bib_escritura": " No te entremetas con los malignos, Ni tengas envidia de los impíos; "
+  },
+  {
+    "_id": 17084,
+    "bib_libro": 20,
+    "bib_capitulo": 24,
+    "bib_versiculo": 20,
+    "bib_escritura": " Porque para el malo no habrá buen fin, Y la lámpara de los impíos será apagada. "
+  },
+  {
+    "_id": 17085,
+    "bib_libro": 20,
+    "bib_capitulo": 24,
+    "bib_versiculo": 21,
+    "bib_escritura": " Teme a Jehová, hijo mío, y al rey; No te entremetas con los veleidosos; "
+  },
+  {
+    "_id": 17086,
+    "bib_libro": 20,
+    "bib_capitulo": 24,
+    "bib_versiculo": 22,
+    "bib_escritura": " Porque su quebrantamiento vendrá de repente; Y el quebrantamiento de ambos, ¿quién lo comprende? "
+  },
+  {
+    "_id": 17087,
+    "bib_libro": 20,
+    "bib_capitulo": 24,
+    "bib_versiculo": 23,
+    "bib_escritura": " También estos son dichos de los sabios: Hacer acepción de personas en el juicio no es bueno. "
+  },
+  {
+    "_id": 17088,
+    "bib_libro": 20,
+    "bib_capitulo": 24,
+    "bib_versiculo": 24,
+    "bib_escritura": " El que dijere al malo: Justo eres, Los pueblos lo maldecirán, y le detestarán las naciones; "
+  },
+  {
+    "_id": 17089,
+    "bib_libro": 20,
+    "bib_capitulo": 24,
+    "bib_versiculo": 25,
+    "bib_escritura": " Mas los que lo reprendieren tendrán felicidad, Y sobre ellos vendrá gran bendición. "
+  },
+  {
+    "_id": 17090,
+    "bib_libro": 20,
+    "bib_capitulo": 24,
+    "bib_versiculo": 26,
+    "bib_escritura": " Besados serán los labios Del que responde palabras rectas. "
+  },
+  {
+    "_id": 17091,
+    "bib_libro": 20,
+    "bib_capitulo": 24,
+    "bib_versiculo": 27,
+    "bib_escritura": " Prepara tus labores fuera, Y disponlas en tus campos, Y después edificarás tu casa. "
+  },
+  {
+    "_id": 17092,
+    "bib_libro": 20,
+    "bib_capitulo": 24,
+    "bib_versiculo": 28,
+    "bib_escritura": " No seas sin causa testigo contra tu prójimo, Y no lisonjees con tus labios. "
+  },
+  {
+    "_id": 17093,
+    "bib_libro": 20,
+    "bib_capitulo": 24,
+    "bib_versiculo": 29,
+    "bib_escritura": " No digas: Como me hizo, así le haré; Daré el pago al hombre según su obra. "
+  },
+  {
+    "_id": 17094,
+    "bib_libro": 20,
+    "bib_capitulo": 24,
+    "bib_versiculo": 30,
+    "bib_escritura": " Pasé junto al campo del hombre perezoso, Y junto a la viña del hombre falto de entendimiento; "
+  },
+  {
+    "_id": 17095,
+    "bib_libro": 20,
+    "bib_capitulo": 24,
+    "bib_versiculo": 31,
+    "bib_escritura": " Y he aquí que por toda ella habían crecido los espinos, Ortigas habían ya cubierto su faz, Y su cerca de piedra estaba ya destruida. "
+  },
+  {
+    "_id": 17096,
+    "bib_libro": 20,
+    "bib_capitulo": 24,
+    "bib_versiculo": 32,
+    "bib_escritura": " Miré, y lo puse en mi corazón; Lo vi, y tomé consejo. "
+  },
+  {
+    "_id": 17097,
+    "bib_libro": 20,
+    "bib_capitulo": 24,
+    "bib_versiculo": 33,
+    "bib_escritura": " Un poco de sueño, cabeceando otro poco, Poniendo mano sobre mano otro poco para dormir; "
+  },
+  {
+    "_id": 17098,
+    "bib_libro": 20,
+    "bib_capitulo": 24,
+    "bib_versiculo": 34,
+    "bib_escritura": " Así vendrá como caminante tu necesidad, Y tu pobreza como hombre armado."
+  },
+  {
+    "_id": 17099,
+    "bib_libro": 20,
+    "bib_capitulo": 25,
+    "bib_versiculo": 1,
+    "bib_escritura": " También estos son proverbios de Salomón, los cuales copiaron los varones de Ezequías, rey de Judá:"
+  },
+  {
+    "_id": 17100,
+    "bib_libro": 20,
+    "bib_capitulo": 25,
+    "bib_versiculo": 2,
+    "bib_escritura": " Gloria de Dios es encubrir un asunto; Pero honra del rey es escudriñarlo. "
+  },
+  {
+    "_id": 17101,
+    "bib_libro": 20,
+    "bib_capitulo": 25,
+    "bib_versiculo": 3,
+    "bib_escritura": " Para la altura de los cielos, y para la profundidad de la tierra, Y para el corazón de los reyes, no hay investigación. "
+  },
+  {
+    "_id": 17102,
+    "bib_libro": 20,
+    "bib_capitulo": 25,
+    "bib_versiculo": 4,
+    "bib_escritura": " Quita las escorias de la plata, Y saldrá alhaja al fundidor. "
+  },
+  {
+    "_id": 17103,
+    "bib_libro": 20,
+    "bib_capitulo": 25,
+    "bib_versiculo": 5,
+    "bib_escritura": " Aparta al impío de la presencia del rey, Y su trono se afirmará en justicia. "
+  },
+  {
+    "_id": 17104,
+    "bib_libro": 20,
+    "bib_capitulo": 25,
+    "bib_versiculo": 6,
+    "bib_escritura": " No te alabes delante del rey, Ni estés en el lugar de los grandes; "
+  },
+  {
+    "_id": 17105,
+    "bib_libro": 20,
+    "bib_capitulo": 25,
+    "bib_versiculo": 7,
+    "bib_escritura": " Porque mejor es que se te diga: Sube acá, Y no que seas humillado delante del príncipe A quien han mirado tus ojos."
+  },
+  {
+    "_id": 17106,
+    "bib_libro": 20,
+    "bib_capitulo": 25,
+    "bib_versiculo": 8,
+    "bib_escritura": " No entres apresuradamente en pleito, No sea que no sepas qué hacer al fin, Después que tu prójimo te haya avergonzado. "
+  },
+  {
+    "_id": 17107,
+    "bib_libro": 20,
+    "bib_capitulo": 25,
+    "bib_versiculo": 9,
+    "bib_escritura": " Trata tu causa con tu compañero, Y no descubras el secreto a otro, "
+  },
+  {
+    "_id": 17108,
+    "bib_libro": 20,
+    "bib_capitulo": 25,
+    "bib_versiculo": 10,
+    "bib_escritura": " No sea que te deshonre el que lo oyere, Y tu infamia no pueda repararse. "
+  },
+  {
+    "_id": 17109,
+    "bib_libro": 20,
+    "bib_capitulo": 25,
+    "bib_versiculo": 11,
+    "bib_escritura": " Manzana de oro con figuras de plata Es la palabra dicha como conviene. "
+  },
+  {
+    "_id": 17110,
+    "bib_libro": 20,
+    "bib_capitulo": 25,
+    "bib_versiculo": 12,
+    "bib_escritura": " Como zarcillo de oro y joyel de oro fino Es el que reprende al sabio que tiene oído dócil. "
+  },
+  {
+    "_id": 17111,
+    "bib_libro": 20,
+    "bib_capitulo": 25,
+    "bib_versiculo": 13,
+    "bib_escritura": " Como frío de nieve en tiempo de la siega, Así es el mensajero fiel a los que lo envían, Pues al alma de su señor da refrigerio. "
+  },
+  {
+    "_id": 17112,
+    "bib_libro": 20,
+    "bib_capitulo": 25,
+    "bib_versiculo": 14,
+    "bib_escritura": " Como nubes y vientos sin lluvia, Así es el hombre que se jacta de falsa liberalidad. "
+  },
+  {
+    "_id": 17113,
+    "bib_libro": 20,
+    "bib_capitulo": 25,
+    "bib_versiculo": 15,
+    "bib_escritura": " Con larga paciencia se aplaca el príncipe, Y la lengua blanda quebranta los huesos. "
+  },
+  {
+    "_id": 17114,
+    "bib_libro": 20,
+    "bib_capitulo": 25,
+    "bib_versiculo": 16,
+    "bib_escritura": " ¿Hallaste miel? Come lo que te basta, No sea que hastiado de ella la vomites. "
+  },
+  {
+    "_id": 17115,
+    "bib_libro": 20,
+    "bib_capitulo": 25,
+    "bib_versiculo": 17,
+    "bib_escritura": " Detén tu pie de la casa de tu vecino, No sea que hastiado de ti te aborrezca. "
+  },
+  {
+    "_id": 17116,
+    "bib_libro": 20,
+    "bib_capitulo": 25,
+    "bib_versiculo": 18,
+    "bib_escritura": " Martillo y cuchillo y saeta aguda Es el hombre que habla contra su prójimo falso testimonio. "
+  },
+  {
+    "_id": 17117,
+    "bib_libro": 20,
+    "bib_capitulo": 25,
+    "bib_versiculo": 19,
+    "bib_escritura": " Como diente roto y pie descoyuntado Es la confianza en el prevaricador en tiempo de angustia. "
+  },
+  {
+    "_id": 17118,
+    "bib_libro": 20,
+    "bib_capitulo": 25,
+    "bib_versiculo": 20,
+    "bib_escritura": " El que canta canciones al corazón afligido Es como el que quita la ropa en tiempo de frío, o el que sobre el jabón echa vinagre. "
+  },
+  {
+    "_id": 17119,
+    "bib_libro": 20,
+    "bib_capitulo": 25,
+    "bib_versiculo": 21,
+    "bib_escritura": " Si el que te aborrece tuviere hambre, dale de comer pan, Y si tuviere sed, dale de beber agua; "
+  },
+  {
+    "_id": 17120,
+    "bib_libro": 20,
+    "bib_capitulo": 25,
+    "bib_versiculo": 22,
+    "bib_escritura": " Porque ascuas amontonarás sobre su cabeza,Y Jehová te lo pagará. "
+  },
+  {
+    "_id": 17121,
+    "bib_libro": 20,
+    "bib_capitulo": 25,
+    "bib_versiculo": 23,
+    "bib_escritura": " El viento del norte ahuyenta la lluvia, Y el rostro airado la lengua detractora. "
+  },
+  {
+    "_id": 17122,
+    "bib_libro": 20,
+    "bib_capitulo": 25,
+    "bib_versiculo": 24,
+    "bib_escritura": " Mejor es estar en un rincón del terrado, Que con mujer rencillosa en casa espaciosa. "
+  },
+  {
+    "_id": 17123,
+    "bib_libro": 20,
+    "bib_capitulo": 25,
+    "bib_versiculo": 25,
+    "bib_escritura": " Como el agua fría al alma sedienta, Así son las buenas nuevas de lejanas tierras. "
+  },
+  {
+    "_id": 17124,
+    "bib_libro": 20,
+    "bib_capitulo": 25,
+    "bib_versiculo": 26,
+    "bib_escritura": " Como fuente turbia y manantial corrompido, Es el justo que cae delante del impío. "
+  },
+  {
+    "_id": 17125,
+    "bib_libro": 20,
+    "bib_capitulo": 25,
+    "bib_versiculo": 27,
+    "bib_escritura": " Comer mucha miel no es bueno, Ni el buscar la propia gloria es gloria. "
+  },
+  {
+    "_id": 17126,
+    "bib_libro": 20,
+    "bib_capitulo": 25,
+    "bib_versiculo": 28,
+    "bib_escritura": " Como ciudad derribada y sin muro Es el hombre cuyo espíritu no tiene rienda."
+  },
+  {
+    "_id": 17127,
+    "bib_libro": 20,
+    "bib_capitulo": 26,
+    "bib_versiculo": 1,
+    "bib_escritura": " Como no conviene la nieve en el verano, ni la lluvia en la siega, Así no conviene al necio la honra. "
+  },
+  {
+    "_id": 17128,
+    "bib_libro": 20,
+    "bib_capitulo": 26,
+    "bib_versiculo": 2,
+    "bib_escritura": " Como el gorrión en su vagar, y como la golondrina en su vuelo, Así la maldición nunca vendrá sin causa. "
+  },
+  {
+    "_id": 17129,
+    "bib_libro": 20,
+    "bib_capitulo": 26,
+    "bib_versiculo": 3,
+    "bib_escritura": " El látigo para el caballo, el cabestro para el asno, Y la vara para la espalda del necio. "
+  },
+  {
+    "_id": 17130,
+    "bib_libro": 20,
+    "bib_capitulo": 26,
+    "bib_versiculo": 4,
+    "bib_escritura": " Nunca respondas al necio de acuerdo con su necedad, Para que no seas tú también como él. "
+  },
+  {
+    "_id": 17131,
+    "bib_libro": 20,
+    "bib_capitulo": 26,
+    "bib_versiculo": 5,
+    "bib_escritura": " Responde al necio como merece su necedad, Para que no se estime sabio en su propia opinión. "
+  },
+  {
+    "_id": 17132,
+    "bib_libro": 20,
+    "bib_capitulo": 26,
+    "bib_versiculo": 6,
+    "bib_escritura": " Como el que se corta los pies y bebe su daño, Así es el que envía recado por mano de un necio. "
+  },
+  {
+    "_id": 17133,
+    "bib_libro": 20,
+    "bib_capitulo": 26,
+    "bib_versiculo": 7,
+    "bib_escritura": " Las piernas del cojo penden inútiles; Así es el proverbio en la boca del necio. "
+  },
+  {
+    "_id": 17134,
+    "bib_libro": 20,
+    "bib_capitulo": 26,
+    "bib_versiculo": 8,
+    "bib_escritura": " Como quien liga la piedra en la honda, Así hace el que da honra al necio. "
+  },
+  {
+    "_id": 17135,
+    "bib_libro": 20,
+    "bib_capitulo": 26,
+    "bib_versiculo": 9,
+    "bib_escritura": " Espinas hincadas en mano del embriagado, Tal es el proverbio en la boca de los necios. "
+  },
+  {
+    "_id": 17136,
+    "bib_libro": 20,
+    "bib_capitulo": 26,
+    "bib_versiculo": 10,
+    "bib_escritura": " Como arquero que a todos hiere, Es el que toma a sueldo insensatos y vagabundos. "
+  },
+  {
+    "_id": 17137,
+    "bib_libro": 20,
+    "bib_capitulo": 26,
+    "bib_versiculo": 11,
+    "bib_escritura": " Como perro que vuelve a su vómito,Así es el necio que repite su necedad. "
+  },
+  {
+    "_id": 17138,
+    "bib_libro": 20,
+    "bib_capitulo": 26,
+    "bib_versiculo": 12,
+    "bib_escritura": " ¿Has visto hombre sabio en su propia opinión? Más esperanza hay del necio que de él. "
+  },
+  {
+    "_id": 17139,
+    "bib_libro": 20,
+    "bib_capitulo": 26,
+    "bib_versiculo": 13,
+    "bib_escritura": " Dice el perezoso: El león está en el camino; El león está en las calles. "
+  },
+  {
+    "_id": 17140,
+    "bib_libro": 20,
+    "bib_capitulo": 26,
+    "bib_versiculo": 14,
+    "bib_escritura": " Como la puerta gira sobre sus quicios, Así el perezoso se vuelve en su cama. "
+  },
+  {
+    "_id": 17141,
+    "bib_libro": 20,
+    "bib_capitulo": 26,
+    "bib_versiculo": 15,
+    "bib_escritura": " Mete el perezoso su mano en el plato; Se cansa de llevarla a su boca. "
+  },
+  {
+    "_id": 17142,
+    "bib_libro": 20,
+    "bib_capitulo": 26,
+    "bib_versiculo": 16,
+    "bib_escritura": " En su propia opinión el perezoso es más sabio Que siete que sepan aconsejar. "
+  },
+  {
+    "_id": 17143,
+    "bib_libro": 20,
+    "bib_capitulo": 26,
+    "bib_versiculo": 17,
+    "bib_escritura": " El que pasando se deja llevar de la ira en pleito ajeno Es como el que toma al perro por las orejas. "
+  },
+  {
+    "_id": 17144,
+    "bib_libro": 20,
+    "bib_capitulo": 26,
+    "bib_versiculo": 18,
+    "bib_escritura": " Como el que enloquece, y echa llamas Y saetas y muerte, "
+  },
+  {
+    "_id": 17145,
+    "bib_libro": 20,
+    "bib_capitulo": 26,
+    "bib_versiculo": 19,
+    "bib_escritura": " Tal es el hombre que engaña a su amigo, Y dice: Ciertamente lo hice por broma. "
+  },
+  {
+    "_id": 17146,
+    "bib_libro": 20,
+    "bib_capitulo": 26,
+    "bib_versiculo": 20,
+    "bib_escritura": " Sin leña se apaga el fuego, Y donde no hay chismoso, cesa la contienda. "
+  },
+  {
+    "_id": 17147,
+    "bib_libro": 20,
+    "bib_capitulo": 26,
+    "bib_versiculo": 21,
+    "bib_escritura": " El carbón para brasas, y la leña para el fuego; Y el hombre rencilloso para encender contienda. "
+  },
+  {
+    "_id": 17148,
+    "bib_libro": 20,
+    "bib_capitulo": 26,
+    "bib_versiculo": 22,
+    "bib_escritura": " Las palabras del chismoso son como bocados suaves, Y penetran hasta las entrañas. "
+  },
+  {
+    "_id": 17149,
+    "bib_libro": 20,
+    "bib_capitulo": 26,
+    "bib_versiculo": 23,
+    "bib_escritura": " Como escoria de plata echada sobre el tiesto Son los labios lisonjeros y el corazón malo. "
+  },
+  {
+    "_id": 17150,
+    "bib_libro": 20,
+    "bib_capitulo": 26,
+    "bib_versiculo": 24,
+    "bib_escritura": " El que odia disimula con sus labios; Mas en su interior maquina engaño. "
+  },
+  {
+    "_id": 17151,
+    "bib_libro": 20,
+    "bib_capitulo": 26,
+    "bib_versiculo": 25,
+    "bib_escritura": " Cuando hablare amigablemente, no le creas; Porque siete abominaciones hay en su corazón. "
+  },
+  {
+    "_id": 17152,
+    "bib_libro": 20,
+    "bib_capitulo": 26,
+    "bib_versiculo": 26,
+    "bib_escritura": " Aunque su odio se cubra con disimulo, Su maldad será descubierta en la congregación. "
+  },
+  {
+    "_id": 17153,
+    "bib_libro": 20,
+    "bib_capitulo": 26,
+    "bib_versiculo": 27,
+    "bib_escritura": " El que cava foso caerá en él; Y al que revuelve la piedra, sobre él le volverá. "
+  },
+  {
+    "_id": 17154,
+    "bib_libro": 20,
+    "bib_capitulo": 26,
+    "bib_versiculo": 28,
+    "bib_escritura": " La lengua falsa atormenta al que ha lastimado, Y la boca lisonjera hace resbalar. "
+  },
+  {
+    "_id": 17155,
+    "bib_libro": 20,
+    "bib_capitulo": 27,
+    "bib_versiculo": 1,
+    "bib_escritura": " No te jactes del día de mañana; Porque no sabes qué dará de sí el día."
+  },
+  {
+    "_id": 17156,
+    "bib_libro": 20,
+    "bib_capitulo": 27,
+    "bib_versiculo": 2,
+    "bib_escritura": " Alábete el extraño, y no tu propia boca; El ajeno, y no los labios tuyos. "
+  },
+  {
+    "_id": 17157,
+    "bib_libro": 20,
+    "bib_capitulo": 27,
+    "bib_versiculo": 3,
+    "bib_escritura": " Pesada es la piedra, y la arena pesa; Mas la ira del necio es más pesada que ambas. "
+  },
+  {
+    "_id": 17158,
+    "bib_libro": 20,
+    "bib_capitulo": 27,
+    "bib_versiculo": 4,
+    "bib_escritura": " Cruel es la ira, e impetuoso el furor; Mas ¿quién podrá sostenerse delante de la envidia? "
+  },
+  {
+    "_id": 17159,
+    "bib_libro": 20,
+    "bib_capitulo": 27,
+    "bib_versiculo": 5,
+    "bib_escritura": " Mejor es reprensión manifiesta Que amor oculto. "
+  },
+  {
+    "_id": 17160,
+    "bib_libro": 20,
+    "bib_capitulo": 27,
+    "bib_versiculo": 6,
+    "bib_escritura": " Fieles son las heridas del que ama; Pero importunos los besos del que aborrece. "
+  },
+  {
+    "_id": 17161,
+    "bib_libro": 20,
+    "bib_capitulo": 27,
+    "bib_versiculo": 7,
+    "bib_escritura": " El hombre saciado desprecia el panal de miel; Pero al hambriento todo lo amargo es dulce. "
+  },
+  {
+    "_id": 17162,
+    "bib_libro": 20,
+    "bib_capitulo": 27,
+    "bib_versiculo": 8,
+    "bib_escritura": " Cual ave que se va de su nido, Tal es el hombre que se va de su lugar. "
+  },
+  {
+    "_id": 17163,
+    "bib_libro": 20,
+    "bib_capitulo": 27,
+    "bib_versiculo": 9,
+    "bib_escritura": " El ungüento y el perfume alegran el corazón, Y el cordial consejo del amigo, al hombre. "
+  },
+  {
+    "_id": 17164,
+    "bib_libro": 20,
+    "bib_capitulo": 27,
+    "bib_versiculo": 10,
+    "bib_escritura": " No dejes a tu amigo, ni al amigo de tu padre; Ni vayas a la casa de tu hermano en el día de tu aflicción. Mejor es el vecino cerca que el hermano lejos. "
+  },
+  {
+    "_id": 17165,
+    "bib_libro": 20,
+    "bib_capitulo": 27,
+    "bib_versiculo": 11,
+    "bib_escritura": " Sé sabio, hijo mío, y alegra mi corazón, Y tendré qué responder al que me agravie. "
+  },
+  {
+    "_id": 17166,
+    "bib_libro": 20,
+    "bib_capitulo": 27,
+    "bib_versiculo": 12,
+    "bib_escritura": " El avisado ve el mal y se esconde; Mas los simples pasan y llevan el daño. "
+  },
+  {
+    "_id": 17167,
+    "bib_libro": 20,
+    "bib_capitulo": 27,
+    "bib_versiculo": 13,
+    "bib_escritura": " Quítale su ropa al que salió fiador por el extraño; Y al que fía a la extraña, tómale prenda. "
+  },
+  {
+    "_id": 17168,
+    "bib_libro": 20,
+    "bib_capitulo": 27,
+    "bib_versiculo": 14,
+    "bib_escritura": " El que bendice a su amigo en alta voz, madrugando de mañana, Por maldición se le contará. "
+  },
+  {
+    "_id": 17169,
+    "bib_libro": 20,
+    "bib_capitulo": 27,
+    "bib_versiculo": 15,
+    "bib_escritura": " Gotera continua en tiempo de lluvia Y la mujer rencillosa, son semejantes; "
+  },
+  {
+    "_id": 17170,
+    "bib_libro": 20,
+    "bib_capitulo": 27,
+    "bib_versiculo": 16,
+    "bib_escritura": " Pretender contenerla es como refrenar el viento, O sujetar el aceite en la mano derecha. "
+  },
+  {
+    "_id": 17171,
+    "bib_libro": 20,
+    "bib_capitulo": 27,
+    "bib_versiculo": 17,
+    "bib_escritura": " Hierro con hierro se aguza; Y así el hombre aguza el rostro de su amigo. "
+  },
+  {
+    "_id": 17172,
+    "bib_libro": 20,
+    "bib_capitulo": 27,
+    "bib_versiculo": 18,
+    "bib_escritura": " Quien cuida la higuera comerá su fruto, Y el que mira por los intereses de su señor, tendrá honra. "
+  },
+  {
+    "_id": 17173,
+    "bib_libro": 20,
+    "bib_capitulo": 27,
+    "bib_versiculo": 19,
+    "bib_escritura": " Como en el agua el rostro corresponde al rostro, Así el corazón del hombre al del hombre. "
+  },
+  {
+    "_id": 17174,
+    "bib_libro": 20,
+    "bib_capitulo": 27,
+    "bib_versiculo": 20,
+    "bib_escritura": " El Seol y el Abadón nunca se sacian; Así los ojos del hombre nunca están satisfechos. "
+  },
+  {
+    "_id": 17175,
+    "bib_libro": 20,
+    "bib_capitulo": 27,
+    "bib_versiculo": 21,
+    "bib_escritura": " El crisol prueba la plata, y la hornaza el oro, Y al hombre la boca del que lo alaba."
+  },
+  {
+    "_id": 17176,
+    "bib_libro": 20,
+    "bib_capitulo": 27,
+    "bib_versiculo": 22,
+    "bib_escritura": " Aunque majes al necio en un mortero entre granos de trigo majados con el pisón, No se apartará de él su necedad. "
+  },
+  {
+    "_id": 17177,
+    "bib_libro": 20,
+    "bib_capitulo": 27,
+    "bib_versiculo": 23,
+    "bib_escritura": " Sé diligente en conocer el estado de tus ovejas, Y mira con cuidado por tus rebaños; "
+  },
+  {
+    "_id": 17178,
+    "bib_libro": 20,
+    "bib_capitulo": 27,
+    "bib_versiculo": 24,
+    "bib_escritura": " Porque las riquezas no duran para siempre; ¿Y será la corona para perpetuas generaciones? "
+  },
+  {
+    "_id": 17179,
+    "bib_libro": 20,
+    "bib_capitulo": 27,
+    "bib_versiculo": 25,
+    "bib_escritura": " Saldrá la grama, aparecerá la hierba, Y se segarán las hierbas de los montes. "
+  },
+  {
+    "_id": 17180,
+    "bib_libro": 20,
+    "bib_capitulo": 27,
+    "bib_versiculo": 26,
+    "bib_escritura": " Los corderos son para tus vestidos, Y los cabritos para el precio del campo; "
+  },
+  {
+    "_id": 17181,
+    "bib_libro": 20,
+    "bib_capitulo": 27,
+    "bib_versiculo": 27,
+    "bib_escritura": " Y abundancia de leche de las cabras para tu mantenimiento, para mantenimiento de tu casa, Y para sustento de tus criadas."
+  },
+  {
+    "_id": 17182,
+    "bib_libro": 20,
+    "bib_capitulo": 28,
+    "bib_versiculo": 1,
+    "bib_escritura": " Huye el impío sin que nadie lo persiga; Mas el justo está confiado como un león. "
+  },
+  {
+    "_id": 17183,
+    "bib_libro": 20,
+    "bib_capitulo": 28,
+    "bib_versiculo": 2,
+    "bib_escritura": " Por la rebelión de la tierra sus príncipes son muchos; Mas por el hombre entendido y sabio permanece estable. "
+  },
+  {
+    "_id": 17184,
+    "bib_libro": 20,
+    "bib_capitulo": 28,
+    "bib_versiculo": 3,
+    "bib_escritura": " El hombre pobre y robador de los pobres Es como lluvia torrencial que deja sin pan. "
+  },
+  {
+    "_id": 17185,
+    "bib_libro": 20,
+    "bib_capitulo": 28,
+    "bib_versiculo": 4,
+    "bib_escritura": " Los que dejan la ley alaban a los impíos;Mas los que la guardan contenderán con ellos. "
+  },
+  {
+    "_id": 17186,
+    "bib_libro": 20,
+    "bib_capitulo": 28,
+    "bib_versiculo": 5,
+    "bib_escritura": " Los hombres malos no entienden el juicio; Mas los que buscan a Jehová entienden todas las cosas. "
+  },
+  {
+    "_id": 17187,
+    "bib_libro": 20,
+    "bib_capitulo": 28,
+    "bib_versiculo": 6,
+    "bib_escritura": " Mejor es el pobre que camina en su integridad, Que el de perversos caminos y rico. "
+  },
+  {
+    "_id": 17188,
+    "bib_libro": 20,
+    "bib_capitulo": 28,
+    "bib_versiculo": 7,
+    "bib_escritura": " El que guarda la ley es hijo prudente; Mas el que es compañero de glotones avergüenza a su padre. "
+  },
+  {
+    "_id": 17189,
+    "bib_libro": 20,
+    "bib_capitulo": 28,
+    "bib_versiculo": 8,
+    "bib_escritura": " El que aumenta sus riquezas con usura y crecido interés, Para aquel que se compadece de los pobres las aumenta. "
+  },
+  {
+    "_id": 17190,
+    "bib_libro": 20,
+    "bib_capitulo": 28,
+    "bib_versiculo": 9,
+    "bib_escritura": " El que aparta su oído para no oír la ley, Su oración también es abominable. "
+  },
+  {
+    "_id": 17191,
+    "bib_libro": 20,
+    "bib_capitulo": 28,
+    "bib_versiculo": 10,
+    "bib_escritura": " El que hace errar a los rectos por el mal camino, El caerá en su misma fosa; Mas los perfectos heredarán el bien. "
+  },
+  {
+    "_id": 17192,
+    "bib_libro": 20,
+    "bib_capitulo": 28,
+    "bib_versiculo": 11,
+    "bib_escritura": " El hombre rico es sabio en su propia opinión; Mas el pobre entendido lo escudriña. "
+  },
+  {
+    "_id": 17193,
+    "bib_libro": 20,
+    "bib_capitulo": 28,
+    "bib_versiculo": 12,
+    "bib_escritura": " Cuando los justos se alegran, grande es la gloria; Mas cuando se levantan los impíos, tienen que esconderse los hombres. "
+  },
+  {
+    "_id": 17194,
+    "bib_libro": 20,
+    "bib_capitulo": 28,
+    "bib_versiculo": 13,
+    "bib_escritura": " El que encubre sus pecados no prosperará; Mas el que los confiesa y se aparta alcanzará misericordia. "
+  },
+  {
+    "_id": 17195,
+    "bib_libro": 20,
+    "bib_capitulo": 28,
+    "bib_versiculo": 14,
+    "bib_escritura": " Bienaventurado el hombre que siempre teme a Dios; Mas el que endurece su corazón caerá en el mal. "
+  },
+  {
+    "_id": 17196,
+    "bib_libro": 20,
+    "bib_capitulo": 28,
+    "bib_versiculo": 15,
+    "bib_escritura": " León rugiente y oso hambriento Es el príncipe impío sobre el pueblo pobre. "
+  },
+  {
+    "_id": 17197,
+    "bib_libro": 20,
+    "bib_capitulo": 28,
+    "bib_versiculo": 16,
+    "bib_escritura": " El príncipe falto de entendimiento multiplicará la extorsión; Mas el que aborrece la avaricia prolongará sus días. "
+  },
+  {
+    "_id": 17198,
+    "bib_libro": 20,
+    "bib_capitulo": 28,
+    "bib_versiculo": 17,
+    "bib_escritura": " El hombre cargado de la sangre de alguno Huirá hasta el sepulcro, y nadie le detendrá. "
+  },
+  {
+    "_id": 17199,
+    "bib_libro": 20,
+    "bib_capitulo": 28,
+    "bib_versiculo": 18,
+    "bib_escritura": " El que en integridad camina será salvo; Mas el de perversos caminos caerá en alguno. "
+  },
+  {
+    "_id": 17200,
+    "bib_libro": 20,
+    "bib_capitulo": 28,
+    "bib_versiculo": 19,
+    "bib_escritura": " El que labra su tierra se saciará de pan; Mas el que sigue a los ociosos se llenará de pobreza. "
+  },
+  {
+    "_id": 17201,
+    "bib_libro": 20,
+    "bib_capitulo": 28,
+    "bib_versiculo": 20,
+    "bib_escritura": " El hombre de verdad tendrá muchas bendiciones; Mas el que se apresura a enriquecerse no será sin culpa. "
+  },
+  {
+    "_id": 17202,
+    "bib_libro": 20,
+    "bib_capitulo": 28,
+    "bib_versiculo": 21,
+    "bib_escritura": " Hacer acepción de personas no es bueno; Hasta por un bocado de pan prevaricará el hombre. "
+  },
+  {
+    "_id": 17203,
+    "bib_libro": 20,
+    "bib_capitulo": 28,
+    "bib_versiculo": 22,
+    "bib_escritura": " Se apresura a ser rico el avaro, Y no sabe que le ha de venir pobreza. "
+  },
+  {
+    "_id": 17204,
+    "bib_libro": 20,
+    "bib_capitulo": 28,
+    "bib_versiculo": 23,
+    "bib_escritura": " El que reprende al hombre, hallará después mayor gracia Que el que lisonjea con la lengua. "
+  },
+  {
+    "_id": 17205,
+    "bib_libro": 20,
+    "bib_capitulo": 28,
+    "bib_versiculo": 24,
+    "bib_escritura": " El que roba a su padre o a su madre, y dice que no es maldad, Compañero es del hombre destruidor. "
+  },
+  {
+    "_id": 17206,
+    "bib_libro": 20,
+    "bib_capitulo": 28,
+    "bib_versiculo": 25,
+    "bib_escritura": " El altivo de ánimo suscita contiendas; Mas el que confía en Jehová prosperará. "
+  },
+  {
+    "_id": 17207,
+    "bib_libro": 20,
+    "bib_capitulo": 28,
+    "bib_versiculo": 26,
+    "bib_escritura": " El que confía en su propio corazón es necio; Mas el que camina en sabiduría será librado. "
+  },
+  {
+    "_id": 17208,
+    "bib_libro": 20,
+    "bib_capitulo": 28,
+    "bib_versiculo": 27,
+    "bib_escritura": " El que da al pobre no tendrá pobreza; Mas el que aparta sus ojos tendrá muchas maldiciones. "
+  },
+  {
+    "_id": 17209,
+    "bib_libro": 20,
+    "bib_capitulo": 28,
+    "bib_versiculo": 28,
+    "bib_escritura": " Cuando los impíos son levantados se esconde el hombre; Mas cuando perecen, los justos se multiplican."
+  },
+  {
+    "_id": 17210,
+    "bib_libro": 20,
+    "bib_capitulo": 29,
+    "bib_versiculo": 1,
+    "bib_escritura": " El hombre que reprendido endurece la cerviz, De repente será quebrantado, y no habrá para él medicina. "
+  },
+  {
+    "_id": 17211,
+    "bib_libro": 20,
+    "bib_capitulo": 29,
+    "bib_versiculo": 2,
+    "bib_escritura": " Cuando los justos dominan, el pueblo se alegra; Mas cuando domina el impío, el pueblo gime. "
+  },
+  {
+    "_id": 17212,
+    "bib_libro": 20,
+    "bib_capitulo": 29,
+    "bib_versiculo": 3,
+    "bib_escritura": " El hombre que ama la sabiduría alegra a su padre; Mas el que frecuenta rameras perderá los bienes. "
+  },
+  {
+    "_id": 17213,
+    "bib_libro": 20,
+    "bib_capitulo": 29,
+    "bib_versiculo": 4,
+    "bib_escritura": " El rey con el juicio afirma la tierra; Mas el que exige presentes la destruye. "
+  },
+  {
+    "_id": 17214,
+    "bib_libro": 20,
+    "bib_capitulo": 29,
+    "bib_versiculo": 5,
+    "bib_escritura": " El hombre que lisonjea a su prójimo, Red tiende delante de sus pasos. "
+  },
+  {
+    "_id": 17215,
+    "bib_libro": 20,
+    "bib_capitulo": 29,
+    "bib_versiculo": 6,
+    "bib_escritura": " En la transgresión del hombre malo hay lazo; Mas el justo cantará y se alegrará. "
+  },
+  {
+    "_id": 17216,
+    "bib_libro": 20,
+    "bib_capitulo": 29,
+    "bib_versiculo": 7,
+    "bib_escritura": " Conoce el justo la causa de los pobres; Mas el impío no entiende sabiduría. "
+  },
+  {
+    "_id": 17217,
+    "bib_libro": 20,
+    "bib_capitulo": 29,
+    "bib_versiculo": 8,
+    "bib_escritura": " Los hombres escarnecedores ponen la ciudad en llamas; Mas los sabios apartan la ira. "
+  },
+  {
+    "_id": 17218,
+    "bib_libro": 20,
+    "bib_capitulo": 29,
+    "bib_versiculo": 9,
+    "bib_escritura": " Si el hombre sabio contendiere con el necio, Que se enoje o que se ría, no tendrá reposo. "
+  },
+  {
+    "_id": 17219,
+    "bib_libro": 20,
+    "bib_capitulo": 29,
+    "bib_versiculo": 10,
+    "bib_escritura": " Los hombres sanguinarios aborrecen al perfecto, Mas los rectos buscan su contentamiento. "
+  },
+  {
+    "_id": 17220,
+    "bib_libro": 20,
+    "bib_capitulo": 29,
+    "bib_versiculo": 11,
+    "bib_escritura": " El necio da rienda suelta a toda su ira, Mas el sabio al fin la sosiega. "
+  },
+  {
+    "_id": 17221,
+    "bib_libro": 20,
+    "bib_capitulo": 29,
+    "bib_versiculo": 12,
+    "bib_escritura": " Si un gobernante atiende la palabra mentirosa, Todos sus servidores serán impíos. "
+  },
+  {
+    "_id": 17222,
+    "bib_libro": 20,
+    "bib_capitulo": 29,
+    "bib_versiculo": 13,
+    "bib_escritura": " El pobre y el usurero se encuentran; Jehová alumbra los ojos de ambos. "
+  },
+  {
+    "_id": 17223,
+    "bib_libro": 20,
+    "bib_capitulo": 29,
+    "bib_versiculo": 14,
+    "bib_escritura": " Del rey que juzga con verdad a los pobres, El trono será firme para siempre. "
+  },
+  {
+    "_id": 17224,
+    "bib_libro": 20,
+    "bib_capitulo": 29,
+    "bib_versiculo": 15,
+    "bib_escritura": " La vara y la corrección dan sabiduría; Mas el muchacho consentido avergonzará a su madre. "
+  },
+  {
+    "_id": 17225,
+    "bib_libro": 20,
+    "bib_capitulo": 29,
+    "bib_versiculo": 16,
+    "bib_escritura": " Cuando los impíos son muchos, mucha es la transgresión; Mas los justos verán la ruina de ellos. "
+  },
+  {
+    "_id": 17226,
+    "bib_libro": 20,
+    "bib_capitulo": 29,
+    "bib_versiculo": 17,
+    "bib_escritura": " Corrige a tu hijo, y te dará descanso, Y dará alegría a tu alma. "
+  },
+  {
+    "_id": 17227,
+    "bib_libro": 20,
+    "bib_capitulo": 29,
+    "bib_versiculo": 18,
+    "bib_escritura": " Sin profecía el pueblo se desenfrena; Mas el que guarda la ley es bienaventurado. "
+  },
+  {
+    "_id": 17228,
+    "bib_libro": 20,
+    "bib_capitulo": 29,
+    "bib_versiculo": 19,
+    "bib_escritura": " El siervo no se corrige con palabras; Porque entiende, mas no hace caso. "
+  },
+  {
+    "_id": 17229,
+    "bib_libro": 20,
+    "bib_capitulo": 29,
+    "bib_versiculo": 20,
+    "bib_escritura": " ¿Has visto hombre ligero en sus palabras? Más esperanza hay del necio que de él. "
+  },
+  {
+    "_id": 17230,
+    "bib_libro": 20,
+    "bib_capitulo": 29,
+    "bib_versiculo": 21,
+    "bib_escritura": " El siervo mimado desde la niñez por su amo, A la postre será su heredero. "
+  },
+  {
+    "_id": 17231,
+    "bib_libro": 20,
+    "bib_capitulo": 29,
+    "bib_versiculo": 22,
+    "bib_escritura": " El hombre iracundo levanta contiendas, Y el furioso muchas veces peca. "
+  },
+  {
+    "_id": 17232,
+    "bib_libro": 20,
+    "bib_capitulo": 29,
+    "bib_versiculo": 23,
+    "bib_escritura": " La soberbia del hombre le abate; Pero al humilde de espíritu sustenta la honra. "
+  },
+  {
+    "_id": 17233,
+    "bib_libro": 20,
+    "bib_capitulo": 29,
+    "bib_versiculo": 24,
+    "bib_escritura": " El cómplice del ladrón aborrece su propia alma; Pues oye la imprecación y no dice nada. "
+  },
+  {
+    "_id": 17234,
+    "bib_libro": 20,
+    "bib_capitulo": 29,
+    "bib_versiculo": 25,
+    "bib_escritura": " El temor del hombre pondrá lazo; Mas el que confía en Jehová será exaltado. "
+  },
+  {
+    "_id": 17235,
+    "bib_libro": 20,
+    "bib_capitulo": 29,
+    "bib_versiculo": 26,
+    "bib_escritura": " Muchos buscan el favor del príncipe; Mas de Jehová viene el juicio de cada uno. "
+  },
+  {
+    "_id": 17236,
+    "bib_libro": 20,
+    "bib_capitulo": 29,
+    "bib_versiculo": 27,
+    "bib_escritura": " Abominación es a los justos el hombre inicuo; Y abominación es al impío el de caminos rectos."
+  },
+  {
+    "_id": 17237,
+    "bib_libro": 20,
+    "bib_capitulo": 30,
+    "bib_versiculo": 1,
+    "bib_escritura": " Palabras de Agur, hijo de Jaqué; la profecía que dijo el varón a Itiel, a Itiel y a Ucal. "
+  },
+  {
+    "_id": 17238,
+    "bib_libro": 20,
+    "bib_capitulo": 30,
+    "bib_versiculo": 2,
+    "bib_escritura": " Ciertamente más rudo soy yo que ninguno, Ni tengo entendimiento de hombre. "
+  },
+  {
+    "_id": 17239,
+    "bib_libro": 20,
+    "bib_capitulo": 30,
+    "bib_versiculo": 3,
+    "bib_escritura": " Yo ni aprendí sabiduría,Ni conozco la ciencia del Santo. "
+  },
+  {
+    "_id": 17240,
+    "bib_libro": 20,
+    "bib_capitulo": 30,
+    "bib_versiculo": 4,
+    "bib_escritura": " ¿Quién subió al cielo, y descendió? ¿Quién encerró los vientos en sus puños? ¿Quién ató las aguas en un paño? ¿Quién afirmó todos los términos de la tierra? ¿Cuál es su nombre, y el nombre de su hijo, si sabes? "
+  },
+  {
+    "_id": 17241,
+    "bib_libro": 20,
+    "bib_capitulo": 30,
+    "bib_versiculo": 5,
+    "bib_escritura": " Toda palabra de Dios es limpia; El es escudo a los que en él esperan. "
+  },
+  {
+    "_id": 17242,
+    "bib_libro": 20,
+    "bib_capitulo": 30,
+    "bib_versiculo": 6,
+    "bib_escritura": " No añadas a sus palabras, para que no te reprenda, Y seas hallado mentiroso. "
+  },
+  {
+    "_id": 17243,
+    "bib_libro": 20,
+    "bib_capitulo": 30,
+    "bib_versiculo": 7,
+    "bib_escritura": " Dos cosas te he demandado; No me las niegues antes que muera: "
+  },
+  {
+    "_id": 17244,
+    "bib_libro": 20,
+    "bib_capitulo": 30,
+    "bib_versiculo": 8,
+    "bib_escritura": " Vanidad y palabra mentirosa aparta de mí; No me des pobreza ni riquezas; Manténme del pan necesario; "
+  },
+  {
+    "_id": 17245,
+    "bib_libro": 20,
+    "bib_capitulo": 30,
+    "bib_versiculo": 9,
+    "bib_escritura": " No sea que me sacie, y te niegue, y diga: ¿Quién es Jehová? O que siendo pobre, hurte, Y blasfeme el nombre de mi Dios. "
+  },
+  {
+    "_id": 17246,
+    "bib_libro": 20,
+    "bib_capitulo": 30,
+    "bib_versiculo": 10,
+    "bib_escritura": " No acuses al siervo ante su señor,No sea que te maldiga, y lleves el castigo. "
+  },
+  {
+    "_id": 17247,
+    "bib_libro": 20,
+    "bib_capitulo": 30,
+    "bib_versiculo": 11,
+    "bib_escritura": " Hay generación que maldice a su padre Y a su madre no bendice. "
+  },
+  {
+    "_id": 17248,
+    "bib_libro": 20,
+    "bib_capitulo": 30,
+    "bib_versiculo": 12,
+    "bib_escritura": " Hay generación limpia en su propia opinión, Si bien no se ha limpiado de su inmundicia. "
+  },
+  {
+    "_id": 17249,
+    "bib_libro": 20,
+    "bib_capitulo": 30,
+    "bib_versiculo": 13,
+    "bib_escritura": " Hay generación cuyos ojos son altivos Y cuyos párpados están levantados en alto. "
+  },
+  {
+    "_id": 17250,
+    "bib_libro": 20,
+    "bib_capitulo": 30,
+    "bib_versiculo": 14,
+    "bib_escritura": " Hay generación cuyos dientes son espadas, y sus muelas cuchillos, Para devorar a los pobres de la tierra, y a los menesterosos de entre los hombres. "
+  },
+  {
+    "_id": 17251,
+    "bib_libro": 20,
+    "bib_capitulo": 30,
+    "bib_versiculo": 15,
+    "bib_escritura": " La sanguijuela tiene dos hijas que dicen: ¡Dame! ¡dame! Tres cosas hay que nunca se sacian; Aun la cuarta nunca dice: ¡Basta! "
+  },
+  {
+    "_id": 17252,
+    "bib_libro": 20,
+    "bib_capitulo": 30,
+    "bib_versiculo": 16,
+    "bib_escritura": " El Seol, la matriz estéril, La tierra que no se sacia de aguas, Y el fuego que jamás dice: ¡Basta! "
+  },
+  {
+    "_id": 17253,
+    "bib_libro": 20,
+    "bib_capitulo": 30,
+    "bib_versiculo": 17,
+    "bib_escritura": " El ojo que escarnece a su padre Y menosprecia la enseñanza de la madre, Los cuervos de la cañada lo saquen, Y lo devoren los hijos del águila. "
+  },
+  {
+    "_id": 17254,
+    "bib_libro": 20,
+    "bib_capitulo": 30,
+    "bib_versiculo": 18,
+    "bib_escritura": " Tres cosas me son ocultas; Aun tampoco sé la cuarta: "
+  },
+  {
+    "_id": 17255,
+    "bib_libro": 20,
+    "bib_capitulo": 30,
+    "bib_versiculo": 19,
+    "bib_escritura": " El rastro del águila en el aire; El rastro de la culebra sobre la peña; El rastro de la nave en medio del mar; Y el rastro del hombre en la doncella. "
+  },
+  {
+    "_id": 17256,
+    "bib_libro": 20,
+    "bib_capitulo": 30,
+    "bib_versiculo": 20,
+    "bib_escritura": " El proceder de la mujer adúltera es así: Come, y limpia su boca Y dice: No he hecho maldad. "
+  },
+  {
+    "_id": 17257,
+    "bib_libro": 20,
+    "bib_capitulo": 30,
+    "bib_versiculo": 21,
+    "bib_escritura": " Por tres cosas se alborota la tierra, Y la cuarta ella no puede sufrir: "
+  },
+  {
+    "_id": 17258,
+    "bib_libro": 20,
+    "bib_capitulo": 30,
+    "bib_versiculo": 22,
+    "bib_escritura": " Por el siervo cuando reina; Por el necio cuando se sacia de pan; "
+  },
+  {
+    "_id": 17259,
+    "bib_libro": 20,
+    "bib_capitulo": 30,
+    "bib_versiculo": 23,
+    "bib_escritura": " Por la mujer odiada cuando se casa; Y por la sierva cuando hereda a su señora. "
+  },
+  {
+    "_id": 17260,
+    "bib_libro": 20,
+    "bib_capitulo": 30,
+    "bib_versiculo": 24,
+    "bib_escritura": " Cuatro cosas son de las más pequeñas de la tierra, Y las mismas son más sabias que los sabios: "
+  },
+  {
+    "_id": 17261,
+    "bib_libro": 20,
+    "bib_capitulo": 30,
+    "bib_versiculo": 25,
+    "bib_escritura": " Las hormigas, pueblo no fuerte, Y en el verano preparan su comida; "
+  },
+  {
+    "_id": 17262,
+    "bib_libro": 20,
+    "bib_capitulo": 30,
+    "bib_versiculo": 26,
+    "bib_escritura": " Los conejos, pueblo nada esforzado, Y ponen su casa en la piedra; "
+  },
+  {
+    "_id": 17263,
+    "bib_libro": 20,
+    "bib_capitulo": 30,
+    "bib_versiculo": 27,
+    "bib_escritura": " Las langostas, que no tienen rey, Y salen todas por cuadrillas;"
+  },
+  {
+    "_id": 17264,
+    "bib_libro": 20,
+    "bib_capitulo": 30,
+    "bib_versiculo": 28,
+    "bib_escritura": " La araña que atrapas con la mano, Y está en palacios de rey. "
+  },
+  {
+    "_id": 17265,
+    "bib_libro": 20,
+    "bib_capitulo": 30,
+    "bib_versiculo": 29,
+    "bib_escritura": " Tres cosas hay de hermoso andar, Y la cuarta pasea muy bien:"
+  },
+  {
+    "_id": 17266,
+    "bib_libro": 20,
+    "bib_capitulo": 30,
+    "bib_versiculo": 30,
+    "bib_escritura": " El león, fuerte entre todos los animales, Que no vuelve atrás por nada; "
+  },
+  {
+    "_id": 17267,
+    "bib_libro": 20,
+    "bib_capitulo": 30,
+    "bib_versiculo": 31,
+    "bib_escritura": " El ceñido de lomos; asimismo el macho cabrío; Y el rey, a quien nadie resiste. "
+  },
+  {
+    "_id": 17268,
+    "bib_libro": 20,
+    "bib_capitulo": 30,
+    "bib_versiculo": 32,
+    "bib_escritura": " Si neciamente has procurado enaltecerte, O si has pensado hacer mal, Pon el dedo sobre tu boca. "
+  },
+  {
+    "_id": 17269,
+    "bib_libro": 20,
+    "bib_capitulo": 30,
+    "bib_versiculo": 33,
+    "bib_escritura": " Ciertamente el que bate la leche sacará mantequilla, Y el que recio se suena las narices sacará sangre; Y el que provoca la ira causará contienda."
+  },
+  {
+    "_id": 17270,
+    "bib_libro": 20,
+    "bib_capitulo": 31,
+    "bib_versiculo": 1,
+    "bib_escritura": " Palabras del rey Lemuel; la profecía con que le enseñó su madre. "
+  },
+  {
+    "_id": 17271,
+    "bib_libro": 20,
+    "bib_capitulo": 31,
+    "bib_versiculo": 2,
+    "bib_escritura": " ¿Qué, hijo mío? ¿y qué, hijo de mi vientre? ¿Y qué, hijo de mis deseos? "
+  },
+  {
+    "_id": 17272,
+    "bib_libro": 20,
+    "bib_capitulo": 31,
+    "bib_versiculo": 3,
+    "bib_escritura": " No des a las mujeres tu fuerza, Ni tus caminos a lo que destruye a los reyes. "
+  },
+  {
+    "_id": 17273,
+    "bib_libro": 20,
+    "bib_capitulo": 31,
+    "bib_versiculo": 4,
+    "bib_escritura": " No es de los reyes, oh Lemuel, no es de los reyes beber vino, Ni de los príncipes la sidra; "
+  },
+  {
+    "_id": 17274,
+    "bib_libro": 20,
+    "bib_capitulo": 31,
+    "bib_versiculo": 5,
+    "bib_escritura": " No sea que bebiendo olviden la ley, Y perviertan el derecho de todos los afligidos. "
+  },
+  {
+    "_id": 17275,
+    "bib_libro": 20,
+    "bib_capitulo": 31,
+    "bib_versiculo": 6,
+    "bib_escritura": " Dad la sidra al desfallecido, Y el vino a los de amargado ánimo. "
+  },
+  {
+    "_id": 17276,
+    "bib_libro": 20,
+    "bib_capitulo": 31,
+    "bib_versiculo": 7,
+    "bib_escritura": " Beban, y olvídense de su necesidad, Y de su miseria no se acuerden más. "
+  },
+  {
+    "_id": 17277,
+    "bib_libro": 20,
+    "bib_capitulo": 31,
+    "bib_versiculo": 8,
+    "bib_escritura": " Abre tu boca por el mudo En el juicio de todos los desvalidos. "
+  },
+  {
+    "_id": 17278,
+    "bib_libro": 20,
+    "bib_capitulo": 31,
+    "bib_versiculo": 9,
+    "bib_escritura": " Abre tu boca, juzga con justicia, Y defiende la causa del pobre y del menesteroso. Elogio de la mujer virtuosa"
+  },
+  {
+    "_id": 17279,
+    "bib_libro": 20,
+    "bib_capitulo": 31,
+    "bib_versiculo": 10,
+    "bib_escritura": " Mujer virtuosa, ¿quién la hallará? Porque su estima sobrepasa largamente a la de las piedras preciosas. "
+  },
+  {
+    "_id": 17280,
+    "bib_libro": 20,
+    "bib_capitulo": 31,
+    "bib_versiculo": 11,
+    "bib_escritura": " El corazón de su marido está en ella confiado, Y no carecerá de ganancias. "
+  },
+  {
+    "_id": 17281,
+    "bib_libro": 20,
+    "bib_capitulo": 31,
+    "bib_versiculo": 12,
+    "bib_escritura": " Le da ella bien y no mal Todos los días de su vida. "
+  },
+  {
+    "_id": 17282,
+    "bib_libro": 20,
+    "bib_capitulo": 31,
+    "bib_versiculo": 13,
+    "bib_escritura": " Busca lana y lino, Y con voluntad trabaja con sus manos. "
+  },
+  {
+    "_id": 17283,
+    "bib_libro": 20,
+    "bib_capitulo": 31,
+    "bib_versiculo": 14,
+    "bib_escritura": " Es como nave de mercader; Trae su pan de lejos. "
+  },
+  {
+    "_id": 17284,
+    "bib_libro": 20,
+    "bib_capitulo": 31,
+    "bib_versiculo": 15,
+    "bib_escritura": " Se levanta aun de noche Y da comida a su familia Y ración a sus criadas. "
+  },
+  {
+    "_id": 17285,
+    "bib_libro": 20,
+    "bib_capitulo": 31,
+    "bib_versiculo": 16,
+    "bib_escritura": " Considera la heredad, y la compra, Y planta viña del fruto de sus manos. "
+  },
+  {
+    "_id": 17286,
+    "bib_libro": 20,
+    "bib_capitulo": 31,
+    "bib_versiculo": 17,
+    "bib_escritura": " Ciñe de fuerza sus lomos, Y esfuerza sus brazos. "
+  },
+  {
+    "_id": 17287,
+    "bib_libro": 20,
+    "bib_capitulo": 31,
+    "bib_versiculo": 18,
+    "bib_escritura": " Ve que van bien sus negocios; Su lámpara no se apaga de noche. "
+  },
+  {
+    "_id": 17288,
+    "bib_libro": 20,
+    "bib_capitulo": 31,
+    "bib_versiculo": 19,
+    "bib_escritura": " Aplica su mano al huso, Y sus manos a la rueca. "
+  },
+  {
+    "_id": 17289,
+    "bib_libro": 20,
+    "bib_capitulo": 31,
+    "bib_versiculo": 20,
+    "bib_escritura": " Alarga su mano al pobre, Y extiende sus manos al menesteroso. "
+  },
+  {
+    "_id": 17290,
+    "bib_libro": 20,
+    "bib_capitulo": 31,
+    "bib_versiculo": 21,
+    "bib_escritura": " No tiene temor de la nieve por su familia, Porque toda su familia está vestida de ropas dobles. "
+  },
+  {
+    "_id": 17291,
+    "bib_libro": 20,
+    "bib_capitulo": 31,
+    "bib_versiculo": 22,
+    "bib_escritura": " Ella se hace tapices; De lino fino y púrpura es su vestido. "
+  },
+  {
+    "_id": 17292,
+    "bib_libro": 20,
+    "bib_capitulo": 31,
+    "bib_versiculo": 23,
+    "bib_escritura": " Su marido es conocido en las puertas, Cuando se sienta con los ancianos de la tierra. "
+  },
+  {
+    "_id": 17293,
+    "bib_libro": 20,
+    "bib_capitulo": 31,
+    "bib_versiculo": 24,
+    "bib_escritura": " Hace telas, y vende, Y da cintas al mercader. "
+  },
+  {
+    "_id": 17294,
+    "bib_libro": 20,
+    "bib_capitulo": 31,
+    "bib_versiculo": 25,
+    "bib_escritura": " Fuerza y honor son su vestidura; Y se ríe de lo por venir. "
+  },
+  {
+    "_id": 17295,
+    "bib_libro": 20,
+    "bib_capitulo": 31,
+    "bib_versiculo": 26,
+    "bib_escritura": " Abre su boca con sabiduría,Y la ley de clemencia está en su lengua."
+  },
+  {
+    "_id": 17296,
+    "bib_libro": 20,
+    "bib_capitulo": 31,
+    "bib_versiculo": 27,
+    "bib_escritura": " Considera los caminos de su casa, Y no come el pan de balde. "
+  },
+  {
+    "_id": 17297,
+    "bib_libro": 20,
+    "bib_capitulo": 31,
+    "bib_versiculo": 28,
+    "bib_escritura": " Se levantan sus hijos y la llaman bienaventurada;Y su marido también la alaba: "
+  },
+  {
+    "_id": 17298,
+    "bib_libro": 20,
+    "bib_capitulo": 31,
+    "bib_versiculo": 29,
+    "bib_escritura": " Muchas mujeres hicieron el bien; Mas tú sobrepasas a todas. "
+  },
+  {
+    "_id": 17299,
+    "bib_libro": 20,
+    "bib_capitulo": 31,
+    "bib_versiculo": 30,
+    "bib_escritura": " Engañosa es la gracia, y vana la hermosura; La mujer que teme a Jehová, ésa será alabada. "
+  },
+  {
+    "_id": 17300,
+    "bib_libro": 20,
+    "bib_capitulo": 31,
+    "bib_versiculo": 31,
+    "bib_escritura": " Dadle del fruto de sus manos, Y alábenla en las puertas sus hechos."
+  },
+  {
+    "_id": 17301,
+    "bib_libro": 20,
+    "bib_capitulo": 2,
+    "bib_versiculo": 7,
+    "bib_escritura": "El provee de sana sabiduría a los rectos; Es escudo a los que caminan rectamente."
+  },
+  {
+    "_id": 17302,
+    "bib_libro": 20,
+    "bib_capitulo": 2,
+    "bib_versiculo": 8,
+    "bib_escritura": "Es el que guarda las veredas del juicio, Y preserva el camino de sus santos."
+  },
+  {
+    "_id": 17303,
+    "bib_libro": 20,
+    "bib_capitulo": 2,
+    "bib_versiculo": 9,
+    "bib_escritura": "Entonces entenderás justicia, juicio Y equidad, y todo buen camino."
+  },
+  {
+    "_id": 17304,
+    "bib_libro": 20,
+    "bib_capitulo": 2,
+    "bib_versiculo": 10,
+    "bib_escritura": "Cuando la sabiduría entrare en tu corazón, Y la ciencia fuere grata a tu alma,"
+  },
+  {
+    "_id": 17305,
+    "bib_libro": 20,
+    "bib_capitulo": 2,
+    "bib_versiculo": 11,
+    "bib_escritura": "La discreción te guardará; Te preservará la inteligencia,"
+  },
+  {
+    "_id": 17306,
+    "bib_libro": 20,
+    "bib_capitulo": 2,
+    "bib_versiculo": 12,
+    "bib_escritura": "Para librarte del mal camino, De los hombres que hablan perversidades,"
+  },
+  {
+    "_id": 17307,
+    "bib_libro": 20,
+    "bib_capitulo": 2,
+    "bib_versiculo": 13,
+    "bib_escritura": "Que dejan los caminos derechos, Para andar por sendas tenebrosas;"
+  },
+  {
+    "_id": 17308,
+    "bib_libro": 20,
+    "bib_capitulo": 2,
+    "bib_versiculo": 14,
+    "bib_escritura": "Que se alegran haciendo el mal, Que se huelgan en las perversidades del vicio;"
+  },
+  {
+    "_id": 17309,
+    "bib_libro": 20,
+    "bib_capitulo": 2,
+    "bib_versiculo": 15,
+    "bib_escritura": "Cuyas veredas son torcidas, Y torcidos sus caminos."
+  },
+  {
+    "_id": 17310,
+    "bib_libro": 20,
+    "bib_capitulo": 2,
+    "bib_versiculo": 16,
+    "bib_escritura": "Serás librado de la mujer extraña,\tDe la ajena que halaga con sus palabras,"
+  },
+  {
+    "_id": 17311,
+    "bib_libro": 20,
+    "bib_capitulo": 2,
+    "bib_versiculo": 17,
+    "bib_escritura": "La cual abandona al compañero de su juventud, Y se olvida del pacto de su Dios."
+  },
+  {
+    "_id": 17312,
+    "bib_libro": 20,
+    "bib_capitulo": 2,
+    "bib_versiculo": 18,
+    "bib_escritura": "Por lo cual su casa está inclinada a la muerte, Y sus veredas hacia los muertos;"
+  },
+  {
+    "_id": 17313,
+    "bib_libro": 20,
+    "bib_capitulo": 2,
+    "bib_versiculo": 19,
+    "bib_escritura": "Todos los que a ella se lleguen, no volverán, Ni seguirán otra vez los senderos de la vida."
+  },
+  {
+    "_id": 17314,
+    "bib_libro": 20,
+    "bib_capitulo": 2,
+    "bib_versiculo": 20,
+    "bib_escritura": "Así andarás por el camino de los buenos, Y seguirás las veredas de los justos;"
+  },
+  {
+    "_id": 17315,
+    "bib_libro": 20,
+    "bib_capitulo": 2,
+    "bib_versiculo": 21,
+    "bib_escritura": "Porque los rectos habitarán la tierra, Y los perfectos permanecerán en ella,"
+  },
+  {
+    "_id": 17316,
+    "bib_libro": 20,
+    "bib_capitulo": 2,
+    "bib_versiculo": 22,
+    "bib_escritura": "Mas los impíos serán cortados de la tierra, Y los prevaricadores serán de ella desarraigados."
+  },
+  {
+    "_id": 17317,
+    "bib_libro": 20,
+    "bib_capitulo": 11,
+    "bib_versiculo": 31,
+    "bib_escritura": "Ciertamente el justo será recompensado en la tierra; ¡Cuánto más el impío y el pecador!"
+  }
+]

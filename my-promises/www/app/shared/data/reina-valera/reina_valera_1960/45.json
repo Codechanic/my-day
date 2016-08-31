@@ -1,0 +1,3033 @@
+[
+  {
+    "_id": 27933,
+    "bib_libro": 45,
+    "bib_capitulo": 1,
+    "bib_versiculo": 1,
+    "bib_escritura": " Pablo, siervo de Jesucristo, llamado a ser apóstol, apartado para el evangelio de Dios, "
+  },
+  {
+    "_id": 27934,
+    "bib_libro": 45,
+    "bib_capitulo": 1,
+    "bib_versiculo": 2,
+    "bib_escritura": " que él había prometido antes por sus profetas en las santas Escrituras, "
+  },
+  {
+    "_id": 27935,
+    "bib_libro": 45,
+    "bib_capitulo": 1,
+    "bib_versiculo": 3,
+    "bib_escritura": " acerca de su Hijo, nuestro Señor Jesucristo, que era del linaje de David según la carne, "
+  },
+  {
+    "_id": 27936,
+    "bib_libro": 45,
+    "bib_capitulo": 1,
+    "bib_versiculo": 4,
+    "bib_escritura": " que fue declarado Hijo de Dios con poder, según el Espíritu de santidad, por la resurrección de entre los muertos, "
+  },
+  {
+    "_id": 27937,
+    "bib_libro": 45,
+    "bib_capitulo": 1,
+    "bib_versiculo": 5,
+    "bib_escritura": " y por quien recibimos la gracia y el apostolado, para la obediencia a la fe en todas las naciones por amor de su nombre; "
+  },
+  {
+    "_id": 27938,
+    "bib_libro": 45,
+    "bib_capitulo": 1,
+    "bib_versiculo": 6,
+    "bib_escritura": " entre las cuales estáis también vosotros, llamados a ser de Jesucristo; "
+  },
+  {
+    "_id": 27939,
+    "bib_libro": 45,
+    "bib_capitulo": 1,
+    "bib_versiculo": 7,
+    "bib_escritura": " a todos los que estáis en Roma, amados de Dios, llamados a ser santos: Gracia y paz a vosotros, de Dios nuestro Padre y del Señor Jesucristo."
+  },
+  {
+    "_id": 27940,
+    "bib_libro": 45,
+    "bib_capitulo": 1,
+    "bib_versiculo": 8,
+    "bib_escritura": " Primeramente doy gracias a mi Dios mediante Jesucristo con respecto a todos vosotros, de que vuestra fe se divulga por todo el mundo. "
+  },
+  {
+    "_id": 27941,
+    "bib_libro": 45,
+    "bib_capitulo": 1,
+    "bib_versiculo": 9,
+    "bib_escritura": " Porque testigo me es Dios, a quien sirvo en mi espíritu en el evangelio de su Hijo, de que sin cesar hago mención de vosotros siempre en mis oraciones, "
+  },
+  {
+    "_id": 27942,
+    "bib_libro": 45,
+    "bib_capitulo": 1,
+    "bib_versiculo": 10,
+    "bib_escritura": " rogando que de alguna manera tenga al fin, por la voluntad de Dios, un próspero viaje para ir a vosotros. "
+  },
+  {
+    "_id": 27943,
+    "bib_libro": 45,
+    "bib_capitulo": 1,
+    "bib_versiculo": 11,
+    "bib_escritura": " Porque deseo veros, para comunicaros algún don espiritual, a fin de que seáis confirmados; "
+  },
+  {
+    "_id": 27944,
+    "bib_libro": 45,
+    "bib_capitulo": 1,
+    "bib_versiculo": 12,
+    "bib_escritura": " esto es, para ser mutuamente confortados por la fe que nos es común a vosotros y a mí. "
+  },
+  {
+    "_id": 27945,
+    "bib_libro": 45,
+    "bib_capitulo": 1,
+    "bib_versiculo": 13,
+    "bib_escritura": " Pero no quiero, hermanos, que ignoréis que muchas veces me he propuesto ir a vosotros (pero hasta ahora he sido estorbado), para tener también entre vosotros algún fruto, como entre los demás gentiles. "
+  },
+  {
+    "_id": 27946,
+    "bib_libro": 45,
+    "bib_capitulo": 1,
+    "bib_versiculo": 14,
+    "bib_escritura": " A griegos y a no griegos, a sabios y a no sabios soy deudor. "
+  },
+  {
+    "_id": 27947,
+    "bib_libro": 45,
+    "bib_capitulo": 1,
+    "bib_versiculo": 15,
+    "bib_escritura": " Así que, en cuanto a mí, pronto estoy a anunciaros el evangelio también a vosotros que estáis en Roma."
+  },
+  {
+    "_id": 27948,
+    "bib_libro": 45,
+    "bib_capitulo": 1,
+    "bib_versiculo": 16,
+    "bib_escritura": " Porque no me avergüenzo del evangelio, porque es poder de Dios para salvación a todo aquel que cree; al judío primeramente, y también al griego. "
+  },
+  {
+    "_id": 27949,
+    "bib_libro": 45,
+    "bib_capitulo": 1,
+    "bib_versiculo": 17,
+    "bib_escritura": " Porque en el evangelio la justicia de Dios se revela por fe y para fe, como está escrito: Mas el justo por la fe vivirá."
+  },
+  {
+    "_id": 27950,
+    "bib_libro": 45,
+    "bib_capitulo": 1,
+    "bib_versiculo": 18,
+    "bib_escritura": " Porque la ira de Dios se revela desde el cielo contra toda impiedad e injusticia de los hombres que detienen con injusticia la verdad; "
+  },
+  {
+    "_id": 27951,
+    "bib_libro": 45,
+    "bib_capitulo": 1,
+    "bib_versiculo": 19,
+    "bib_escritura": " porque lo que de Dios se conoce les es manifiesto, pues Dios se lo manifestó. "
+  },
+  {
+    "_id": 27952,
+    "bib_libro": 45,
+    "bib_capitulo": 1,
+    "bib_versiculo": 20,
+    "bib_escritura": " Porque las cosas invisibles de él, su eterno poder y deidad, se hacen claramente visibles desde la creación del mundo, siendo entendidas por medio de las cosas hechas, de modo que no tienen excusa. "
+  },
+  {
+    "_id": 27953,
+    "bib_libro": 45,
+    "bib_capitulo": 1,
+    "bib_versiculo": 21,
+    "bib_escritura": " Pues habiendo conocido a Dios, no le glorificaron como a Dios, ni le dieron gracias, sino que se envanecieron en sus razonamientos, y su necio corazón fue entenebrecido. "
+  },
+  {
+    "_id": 27954,
+    "bib_libro": 45,
+    "bib_capitulo": 1,
+    "bib_versiculo": 22,
+    "bib_escritura": " Profesando ser sabios, se hicieron necios, "
+  },
+  {
+    "_id": 27955,
+    "bib_libro": 45,
+    "bib_capitulo": 1,
+    "bib_versiculo": 23,
+    "bib_escritura": " y cambiaron la gloria del Dios incorruptible en semejanza de imagen de hombre corruptible, de aves, de cuadrúpedos y de reptiles. "
+  },
+  {
+    "_id": 27956,
+    "bib_libro": 45,
+    "bib_capitulo": 1,
+    "bib_versiculo": 24,
+    "bib_escritura": " Por lo cual también Dios los entregó a la inmundicia, en las concupiscencias de sus corazones, de modo que deshonraron entre sí sus propios cuerpos, "
+  },
+  {
+    "_id": 27957,
+    "bib_libro": 45,
+    "bib_capitulo": 1,
+    "bib_versiculo": 25,
+    "bib_escritura": " ya que cambiaron la verdad de Dios por la mentira, honrando y dando culto a las criaturas antes que al Creador, el cual es bendito por los siglos. Amén. "
+  },
+  {
+    "_id": 27958,
+    "bib_libro": 45,
+    "bib_capitulo": 1,
+    "bib_versiculo": 26,
+    "bib_escritura": " Por esto Dios los entregó a pasiones vergonzosas; pues aun sus mujeres cambiaron el uso natural por el que es contra naturaleza, "
+  },
+  {
+    "_id": 27959,
+    "bib_libro": 45,
+    "bib_capitulo": 1,
+    "bib_versiculo": 27,
+    "bib_escritura": " y de igual modo también los hombres, dejando el uso natural de la mujer, se encendieron en su lascivia unos con otros, cometiendo hechos vergonzosos hombres con hombres, y recibiendo en sí mismos la retribución debida a su extravío. "
+  },
+  {
+    "_id": 27960,
+    "bib_libro": 45,
+    "bib_capitulo": 1,
+    "bib_versiculo": 28,
+    "bib_escritura": " Y como ellos no aprobaron tener en cuenta a Dios, Dios los entregó a una mente reprobada, para hacer cosas que no convienen; "
+  },
+  {
+    "_id": 27961,
+    "bib_libro": 45,
+    "bib_capitulo": 1,
+    "bib_versiculo": 29,
+    "bib_escritura": " estando atestados de toda injusticia, fornicación, perversidad, avaricia, maldad; llenos de envidia, homicidios, contiendas, engaños y malignidades; "
+  },
+  {
+    "_id": 27962,
+    "bib_libro": 45,
+    "bib_capitulo": 1,
+    "bib_versiculo": 30,
+    "bib_escritura": " murmuradores, detractores, aborrecedores de Dios, injuriosos, soberbios, altivos, inventores de males, desobedientes a los padres, "
+  },
+  {
+    "_id": 27963,
+    "bib_libro": 45,
+    "bib_capitulo": 1,
+    "bib_versiculo": 31,
+    "bib_escritura": " necios, desleales, sin afecto natural, implacables, sin misericordia; "
+  },
+  {
+    "_id": 27964,
+    "bib_libro": 45,
+    "bib_capitulo": 1,
+    "bib_versiculo": 32,
+    "bib_escritura": " quienes habiendo entendido el juicio de Dios, que los que practican tales cosas son dignos de muerte, no sólo las hacen, sino que también se complacen con los que las practican. "
+  },
+  {
+    "_id": 27965,
+    "bib_libro": 45,
+    "bib_capitulo": 2,
+    "bib_versiculo": 1,
+    "bib_escritura": " Por lo cual eres inexcusable, oh hombre, quienquiera que seas tú que juzgas; pues en lo que juzgas a otro, te condenas a ti mismo; porque tú que juzgas haces lo mismo. "
+  },
+  {
+    "_id": 27966,
+    "bib_libro": 45,
+    "bib_capitulo": 2,
+    "bib_versiculo": 2,
+    "bib_escritura": " Mas sabemos que el juicio de Dios contra los que practican tales cosas es según verdad. "
+  },
+  {
+    "_id": 27967,
+    "bib_libro": 45,
+    "bib_capitulo": 2,
+    "bib_versiculo": 3,
+    "bib_escritura": " ¿Y piensas esto, oh hombre, tú que juzgas a los que tal hacen, y haces lo mismo, que tú escaparás del juicio de Dios? "
+  },
+  {
+    "_id": 27968,
+    "bib_libro": 45,
+    "bib_capitulo": 2,
+    "bib_versiculo": 4,
+    "bib_escritura": " ¿O menosprecias las riquezas de su benignidad, paciencia y longanimidad, ignorando que su benignidad te guía al arrepentimiento? "
+  },
+  {
+    "_id": 27969,
+    "bib_libro": 45,
+    "bib_capitulo": 2,
+    "bib_versiculo": 5,
+    "bib_escritura": " Pero por tu dureza y por tu corazón no arrepentido, atesoras para ti mismo ira para el día de la ira y de la revelación del justo juicio de Dios, "
+  },
+  {
+    "_id": 27970,
+    "bib_libro": 45,
+    "bib_capitulo": 2,
+    "bib_versiculo": 6,
+    "bib_escritura": " el cual pagará a cada uno conforme a sus obras:"
+  },
+  {
+    "_id": 27971,
+    "bib_libro": 45,
+    "bib_capitulo": 2,
+    "bib_versiculo": 7,
+    "bib_escritura": " vida eterna a los que, perseverando en bien hacer, buscan gloria y honra e inmortalidad, "
+  },
+  {
+    "_id": 27972,
+    "bib_libro": 45,
+    "bib_capitulo": 2,
+    "bib_versiculo": 8,
+    "bib_escritura": " pero ira y enojo a los que son contenciosos y no obedecen a la verdad, sino que obedecen a la injusticia;"
+  },
+  {
+    "_id": 27973,
+    "bib_libro": 45,
+    "bib_capitulo": 2,
+    "bib_versiculo": 9,
+    "bib_escritura": " tribulación y angustia sobre todo ser humano que hace lo malo, el judío primeramente y también el griego, "
+  },
+  {
+    "_id": 27974,
+    "bib_libro": 45,
+    "bib_capitulo": 2,
+    "bib_versiculo": 10,
+    "bib_escritura": " pero gloria y honra y paz a todo el que hace lo bueno, al judío primeramente y también al griego; "
+  },
+  {
+    "_id": 27975,
+    "bib_libro": 45,
+    "bib_capitulo": 2,
+    "bib_versiculo": 11,
+    "bib_escritura": " porque no hay acepción de personas para con Dios."
+  },
+  {
+    "_id": 27976,
+    "bib_libro": 45,
+    "bib_capitulo": 2,
+    "bib_versiculo": 12,
+    "bib_escritura": " Porque todos los que sin ley han pecado, sin ley también perecerán; y todos los que bajo la ley han pecado, por la ley serán juzgados; "
+  },
+  {
+    "_id": 27977,
+    "bib_libro": 45,
+    "bib_capitulo": 2,
+    "bib_versiculo": 13,
+    "bib_escritura": " porque no son los oidores de la ley los justos ante Dios, sino los hacedores de la ley serán justificados. "
+  },
+  {
+    "_id": 27978,
+    "bib_libro": 45,
+    "bib_capitulo": 2,
+    "bib_versiculo": 14,
+    "bib_escritura": " Porque cuando los gentiles que no tienen ley, hacen por naturaleza lo que es de la ley, éstos, aunque no tengan ley, son ley para sí mismos, "
+  },
+  {
+    "_id": 27979,
+    "bib_libro": 45,
+    "bib_capitulo": 2,
+    "bib_versiculo": 15,
+    "bib_escritura": " mostrando la obra de la ley escrita en sus corazones, dando testimonio su conciencia, y acusándoles o defendiéndoles sus razonamientos, "
+  },
+  {
+    "_id": 27980,
+    "bib_libro": 45,
+    "bib_capitulo": 2,
+    "bib_versiculo": 16,
+    "bib_escritura": " en el día en que Dios juzgará por Jesucristo los secretos de los hombres, conforme a mi evangelio."
+  },
+  {
+    "_id": 27981,
+    "bib_libro": 45,
+    "bib_capitulo": 2,
+    "bib_versiculo": 17,
+    "bib_escritura": " He aquí, tú tienes el sobrenombre de judío, y te apoyas en la ley, y te glorías en Dios, "
+  },
+  {
+    "_id": 27982,
+    "bib_libro": 45,
+    "bib_capitulo": 2,
+    "bib_versiculo": 18,
+    "bib_escritura": " y conoces su voluntad, e instruido por la ley apruebas lo mejor, "
+  },
+  {
+    "_id": 27983,
+    "bib_libro": 45,
+    "bib_capitulo": 2,
+    "bib_versiculo": 19,
+    "bib_escritura": " y confías en que eres guía de los ciegos, luz de los que están en tinieblas, "
+  },
+  {
+    "_id": 27984,
+    "bib_libro": 45,
+    "bib_capitulo": 2,
+    "bib_versiculo": 20,
+    "bib_escritura": " instructor de los indoctos, maestro de niños, que tienes en la ley la forma de la ciencia y de la verdad. "
+  },
+  {
+    "_id": 27985,
+    "bib_libro": 45,
+    "bib_capitulo": 2,
+    "bib_versiculo": 21,
+    "bib_escritura": " Tú, pues, que enseñas a otro, ¿no te enseñas a ti mismo? Tú que predicas que no se ha de hurtar, ¿hurtas? "
+  },
+  {
+    "_id": 27986,
+    "bib_libro": 45,
+    "bib_capitulo": 2,
+    "bib_versiculo": 22,
+    "bib_escritura": " Tú que dices que no se ha de adulterar, ¿adulteras? Tú que abominas de los ídolos, ¿cometes sacrilegio? "
+  },
+  {
+    "_id": 27987,
+    "bib_libro": 45,
+    "bib_capitulo": 2,
+    "bib_versiculo": 23,
+    "bib_escritura": " Tú que te jactas de la ley, ¿con infracción de la ley deshonras a Dios? "
+  },
+  {
+    "_id": 27988,
+    "bib_libro": 45,
+    "bib_capitulo": 2,
+    "bib_versiculo": 24,
+    "bib_escritura": " Porque como está escrito, el nombre de Dios es blasfemado entre los gentiles por causa de vosotros."
+  },
+  {
+    "_id": 27989,
+    "bib_libro": 45,
+    "bib_capitulo": 2,
+    "bib_versiculo": 25,
+    "bib_escritura": " Pues en verdad la circuncisión aprovecha, si guardas la ley; pero si eres transgresor de la ley, tu circuncisión viene a ser incircuncisión. "
+  },
+  {
+    "_id": 27990,
+    "bib_libro": 45,
+    "bib_capitulo": 2,
+    "bib_versiculo": 26,
+    "bib_escritura": " Si, pues, el incircunciso guardare las ordenanzas de la ley, ¿no será tenida su incircuncisión como circuncisión? "
+  },
+  {
+    "_id": 27991,
+    "bib_libro": 45,
+    "bib_capitulo": 2,
+    "bib_versiculo": 27,
+    "bib_escritura": " Y el que físicamente es incircunciso, pero guarda perfectamente la ley, te condenará a ti, que con la letra de la ley y con la circuncisión eres transgresor de la ley. "
+  },
+  {
+    "_id": 27992,
+    "bib_libro": 45,
+    "bib_capitulo": 2,
+    "bib_versiculo": 28,
+    "bib_escritura": " Pues no es judío el que lo es exteriormente, ni es la circuncisión la que se hace exteriormente en la carne; "
+  },
+  {
+    "_id": 27993,
+    "bib_libro": 45,
+    "bib_capitulo": 2,
+    "bib_versiculo": 29,
+    "bib_escritura": " sino que es judío el que lo es en lo interior, y la circuncisión es la del corazón, en espíritu, no en letra; la alabanza del cual no viene de los hombres, sino de Dios. "
+  },
+  {
+    "_id": 27994,
+    "bib_libro": 45,
+    "bib_capitulo": 3,
+    "bib_versiculo": 1,
+    "bib_escritura": " ¿Qué ventaja tiene, pues, el judío? ¿o de qué aprovecha la circuncisión? "
+  },
+  {
+    "_id": 27995,
+    "bib_libro": 45,
+    "bib_capitulo": 3,
+    "bib_versiculo": 2,
+    "bib_escritura": " Mucho, en todas maneras. Primero, ciertamente, que les ha sido confiada la palabra de Dios. "
+  },
+  {
+    "_id": 27996,
+    "bib_libro": 45,
+    "bib_capitulo": 3,
+    "bib_versiculo": 3,
+    "bib_escritura": " ¿Pues qué, si algunos de ellos han sido incrédulos? ¿Su incredulidad habrá hecho nula la fidelidad de Dios? "
+  },
+  {
+    "_id": 27997,
+    "bib_libro": 45,
+    "bib_capitulo": 3,
+    "bib_versiculo": 4,
+    "bib_escritura": " De ninguna manera; antes bien sea Dios veraz, y todo hombre mentiroso; como está escrito: Para que seas justificado en tus palabras, Y venzas cuando fueres juzgado."
+  },
+  {
+    "_id": 27998,
+    "bib_libro": 45,
+    "bib_capitulo": 3,
+    "bib_versiculo": 5,
+    "bib_escritura": " Y si nuestra injusticia hace resaltar la justicia de Dios, ¿qué diremos? ¿Será injusto Dios que da castigo? (Hablo como hombre.) "
+  },
+  {
+    "_id": 27999,
+    "bib_libro": 45,
+    "bib_capitulo": 3,
+    "bib_versiculo": 6,
+    "bib_escritura": " En ningua manera; de otro modo, ¿cómo juzgaría Dios al mundo?"
+  },
+  {
+    "_id": 28000,
+    "bib_libro": 45,
+    "bib_capitulo": 3,
+    "bib_versiculo": 7,
+    "bib_escritura": " Pero si por mi mentira la verdad de Dios abundó para su gloria, ¿por qué aún soy juzgado como pecador? "
+  },
+  {
+    "_id": 28001,
+    "bib_libro": 45,
+    "bib_capitulo": 3,
+    "bib_versiculo": 8,
+    "bib_escritura": " ¿Y por qué no decir (como se nos calumnia, y como algunos, cuya condenación es justa, afirma que nosotros decimos): Hagamos males para que vengan bienes?"
+  },
+  {
+    "_id": 28002,
+    "bib_libro": 45,
+    "bib_capitulo": 3,
+    "bib_versiculo": 9,
+    "bib_escritura": " ¿Qué, pues? Somos nosotros mejores que ellos? En ninguna manera; pues ya hemos acusado a judíos y a gentiles, que todos están bajo pecado. "
+  },
+  {
+    "_id": 28003,
+    "bib_libro": 45,
+    "bib_capitulo": 3,
+    "bib_versiculo": 10,
+    "bib_escritura": " Como está escrito: No hay justo, ni aun uno;"
+  },
+  {
+    "_id": 28004,
+    "bib_libro": 45,
+    "bib_capitulo": 3,
+    "bib_versiculo": 11,
+    "bib_escritura": "  No hay quien entienda. No hay quien busque a Dios."
+  },
+  {
+    "_id": 28005,
+    "bib_libro": 45,
+    "bib_capitulo": 3,
+    "bib_versiculo": 12,
+    "bib_escritura": "  Todos se desviaron, a una se hicieron inútiles; No hay quien haga lo bueno, no hay ni siquiera uno."
+  },
+  {
+    "_id": 28006,
+    "bib_libro": 45,
+    "bib_capitulo": 3,
+    "bib_versiculo": 13,
+    "bib_escritura": "  Sepulcro abierto es su garganta; Con su lengua engañan.Veneno de áspides hay debajo de sus labios; "
+  },
+  {
+    "_id": 28007,
+    "bib_libro": 45,
+    "bib_capitulo": 3,
+    "bib_versiculo": 14,
+    "bib_escritura": "  Su boca está llena de maldición y de amargura."
+  },
+  {
+    "_id": 28008,
+    "bib_libro": 45,
+    "bib_capitulo": 3,
+    "bib_versiculo": 15,
+    "bib_escritura": "  Sus pies se apresuran para derramar sangre; "
+  },
+  {
+    "_id": 28009,
+    "bib_libro": 45,
+    "bib_capitulo": 3,
+    "bib_versiculo": 16,
+    "bib_escritura": "  Quebranto y desventura hay en sus caminos; "
+  },
+  {
+    "_id": 28010,
+    "bib_libro": 45,
+    "bib_capitulo": 3,
+    "bib_versiculo": 17,
+    "bib_escritura": "  Y no conocieron camino de paz."
+  },
+  {
+    "_id": 28011,
+    "bib_libro": 45,
+    "bib_capitulo": 3,
+    "bib_versiculo": 18,
+    "bib_escritura": "  No hay temor de Dios delante de sus ojos."
+  },
+  {
+    "_id": 28012,
+    "bib_libro": 45,
+    "bib_capitulo": 3,
+    "bib_versiculo": 19,
+    "bib_escritura": " Pero sabemos que todo lo que la ley dice, lo dice a los que están bajo la ley, para que toda boca se cierre y todo el mundo quede bajo el juicio de Dios; "
+  },
+  {
+    "_id": 28013,
+    "bib_libro": 45,
+    "bib_capitulo": 3,
+    "bib_versiculo": 20,
+    "bib_escritura": " ya que por las obras de la ley ningún ser humano será justificado delante de él; porque por medio de la ley es el conocimiento del pecado."
+  },
+  {
+    "_id": 28014,
+    "bib_libro": 45,
+    "bib_capitulo": 3,
+    "bib_versiculo": 21,
+    "bib_escritura": " Pero ahora, aparte de la ley, se ha manifestado la justicia de Dios, testificada por la ley y por los profetas; "
+  },
+  {
+    "_id": 28015,
+    "bib_libro": 45,
+    "bib_capitulo": 3,
+    "bib_versiculo": 22,
+    "bib_escritura": " la justicia de Dios por medio de la fe en Jesucristo, para todos los que creen en él. Porque no hay diferencia, "
+  },
+  {
+    "_id": 28016,
+    "bib_libro": 45,
+    "bib_capitulo": 3,
+    "bib_versiculo": 23,
+    "bib_escritura": " por cuanto todos pecaron, y están destituidos de la gloria de Dios, "
+  },
+  {
+    "_id": 28017,
+    "bib_libro": 45,
+    "bib_capitulo": 3,
+    "bib_versiculo": 24,
+    "bib_escritura": " siendo justificados gratuitamente por su gracia, mediante la redención que es en Cristo Jesús, "
+  },
+  {
+    "_id": 28018,
+    "bib_libro": 45,
+    "bib_capitulo": 3,
+    "bib_versiculo": 25,
+    "bib_escritura": " a quien Dios puso como propiciación por medio de la fe en su sangre, para manifestar su justicia, a causa de haber pasado por alto, en su paciencia, los pecados pasados, "
+  },
+  {
+    "_id": 28019,
+    "bib_libro": 45,
+    "bib_capitulo": 3,
+    "bib_versiculo": 26,
+    "bib_escritura": " con la mira de manifestar en este tiempo su justicia, a fin de que él sea el justo, y el que justifica al que es de la fe de Jesús. "
+  },
+  {
+    "_id": 28020,
+    "bib_libro": 45,
+    "bib_capitulo": 3,
+    "bib_versiculo": 27,
+    "bib_escritura": " ¿Dónde, pues, está la jactancia? Queda excluida. ¿Por cuál ley? ¿Por la de las obras? No, sino por la ley de la fe. "
+  },
+  {
+    "_id": 28021,
+    "bib_libro": 45,
+    "bib_capitulo": 3,
+    "bib_versiculo": 28,
+    "bib_escritura": " Concluimos, pues, que el hombre es justificado por fe sin las obras de la ley. "
+  },
+  {
+    "_id": 28022,
+    "bib_libro": 45,
+    "bib_capitulo": 3,
+    "bib_versiculo": 29,
+    "bib_escritura": " ¿Es Dios solamente Dios de los judíos? ¿No es también Dios de los gentiles? Ciertamente, también de los gentiles. "
+  },
+  {
+    "_id": 28023,
+    "bib_libro": 45,
+    "bib_capitulo": 3,
+    "bib_versiculo": 30,
+    "bib_escritura": " Porque Dios es uno, y él justificará por la fe a los de la circuncisión, y por medio de la fe a los de la incircuncisión. "
+  },
+  {
+    "_id": 28024,
+    "bib_libro": 45,
+    "bib_capitulo": 3,
+    "bib_versiculo": 31,
+    "bib_escritura": " ¿Luego por la fe invalidamos la ley? En ninguna manera, sino que confirmamos la ley. "
+  },
+  {
+    "_id": 28025,
+    "bib_libro": 45,
+    "bib_capitulo": 4,
+    "bib_versiculo": 1,
+    "bib_escritura": " ¿Qué, pues, diremos que halló Abraham, nuestro padre según la carne? "
+  },
+  {
+    "_id": 28026,
+    "bib_libro": 45,
+    "bib_capitulo": 4,
+    "bib_versiculo": 2,
+    "bib_escritura": " Porque si Abraham fue justificado por las obras, tiene de qué gloriarse, pero no para con Dios. "
+  },
+  {
+    "_id": 28027,
+    "bib_libro": 45,
+    "bib_capitulo": 4,
+    "bib_versiculo": 3,
+    "bib_escritura": " Porque ¿qué dice la Escritura? Creyó Abraham a Dios, y le fue contado por justicia."
+  },
+  {
+    "_id": 28028,
+    "bib_libro": 45,
+    "bib_capitulo": 4,
+    "bib_versiculo": 4,
+    "bib_escritura": " Pero al que obra, no se le cuenta el salario como gracia, sino como deuda; "
+  },
+  {
+    "_id": 28029,
+    "bib_libro": 45,
+    "bib_capitulo": 4,
+    "bib_versiculo": 5,
+    "bib_escritura": " mas al que no obra, sino cree en aquel que justifica al impío, su fe le es contada por justicia. "
+  },
+  {
+    "_id": 28030,
+    "bib_libro": 45,
+    "bib_capitulo": 4,
+    "bib_versiculo": 6,
+    "bib_escritura": " Como también David habla de la bienaventuranza del hombre a quien Dios atribuye justicia sin obras, "
+  },
+  {
+    "_id": 28031,
+    "bib_libro": 45,
+    "bib_capitulo": 4,
+    "bib_versiculo": 7,
+    "bib_escritura": " diciendo: Bienaventurados aquellos cuyas iniquidades son perdonadas, Y cuyos pecados son cubiertos. "
+  },
+  {
+    "_id": 28032,
+    "bib_libro": 45,
+    "bib_capitulo": 4,
+    "bib_versiculo": 8,
+    "bib_escritura": " Bienaventurado el varón a quien el Señor no inculpa de pecado."
+  },
+  {
+    "_id": 28033,
+    "bib_libro": 45,
+    "bib_capitulo": 4,
+    "bib_versiculo": 9,
+    "bib_escritura": " ¿Es, pues, esta bienaventuranza solamente para los de la circuncisión, o también para los de la incircuncisión? Porque decimos que a Abraham le fue contada la fe por justicia. "
+  },
+  {
+    "_id": 28034,
+    "bib_libro": 45,
+    "bib_capitulo": 4,
+    "bib_versiculo": 10,
+    "bib_escritura": " ¿Cómo, pues, le fue contada? ¿Estando en la circuncisión, o en la incircuncisión? No en la circuncisión, sino en la incircuncisión. "
+  },
+  {
+    "_id": 28035,
+    "bib_libro": 45,
+    "bib_capitulo": 4,
+    "bib_versiculo": 11,
+    "bib_escritura": " Y recibió la circuncisión como señal, como sello de la justicia de la fe que tuvo estando aún incircunciso; para que fuese padre de todos los creyentes no circuncidados, a fin de que también a ellos la fe les sea contada por justicia; "
+  },
+  {
+    "_id": 28036,
+    "bib_libro": 45,
+    "bib_capitulo": 4,
+    "bib_versiculo": 12,
+    "bib_escritura": " y padre de la circuncisión, para los que no solamente son de la circuncisión, sino que también siguen las pisadas de la fe que tuvo nuestro padre Abraham antes de ser circuncidado."
+  },
+  {
+    "_id": 28037,
+    "bib_libro": 45,
+    "bib_capitulo": 4,
+    "bib_versiculo": 13,
+    "bib_escritura": " Porque no por la ley fue dada a Abraham o a su descendencia la promesa de que sería heredero del mundo, sino por la justicia de la fe. "
+  },
+  {
+    "_id": 28038,
+    "bib_libro": 45,
+    "bib_capitulo": 4,
+    "bib_versiculo": 14,
+    "bib_escritura": " Porque si los que son de la ley son los herederos, vana resulta la fe, y anulada la promesa."
+  },
+  {
+    "_id": 28039,
+    "bib_libro": 45,
+    "bib_capitulo": 4,
+    "bib_versiculo": 15,
+    "bib_escritura": " Pues la ley produce ira; pero donde no hay ley, tampoco hay transgresión. "
+  },
+  {
+    "_id": 28040,
+    "bib_libro": 45,
+    "bib_capitulo": 4,
+    "bib_versiculo": 16,
+    "bib_escritura": " Por tanto, es por fe, para que sea por gracia, a fin de que la promesa sea firme para toda su descendencia; no solamente para la que es de la ley, sino también para la que es de la fe de Abraham, el cual es padre de todos nosotros."
+  },
+  {
+    "_id": 28041,
+    "bib_libro": 45,
+    "bib_capitulo": 4,
+    "bib_versiculo": 17,
+    "bib_escritura": " (como está escrito: Te he puesto por padre de muchas gentes) delante de Dios, a quien creyó, el cual da vida a los muertos, y llama las cosas que no son, como si fuesen."
+  },
+  {
+    "_id": 28042,
+    "bib_libro": 45,
+    "bib_capitulo": 4,
+    "bib_versiculo": 18,
+    "bib_escritura": " El creyó en esperanza contra esperanza, para llegar a ser padre de muchas gentes, conforme a lo que se le había dicho: Así será tu descendencia."
+  },
+  {
+    "_id": 28043,
+    "bib_libro": 45,
+    "bib_capitulo": 4,
+    "bib_versiculo": 19,
+    "bib_escritura": " Y no se debilitó en la fe al considerar su cuerpo, que estaba ya como muerto (siendo de casi cien años), o la esterilidad de la matriz de Sara. "
+  },
+  {
+    "_id": 28044,
+    "bib_libro": 45,
+    "bib_capitulo": 4,
+    "bib_versiculo": 20,
+    "bib_escritura": " Tampoco dudó, por incredulidad, de la promesa de Dios, sino que se fortaleció en fe, dando gloria a Dios, "
+  },
+  {
+    "_id": 28045,
+    "bib_libro": 45,
+    "bib_capitulo": 4,
+    "bib_versiculo": 21,
+    "bib_escritura": " plenamente convencido de que era también poderoso para hacer todo lo que había prometido; "
+  },
+  {
+    "_id": 28046,
+    "bib_libro": 45,
+    "bib_capitulo": 4,
+    "bib_versiculo": 22,
+    "bib_escritura": " por lo cual también su fe le fue contada por justicia. "
+  },
+  {
+    "_id": 28047,
+    "bib_libro": 45,
+    "bib_capitulo": 4,
+    "bib_versiculo": 23,
+    "bib_escritura": " Y no solamente con respecto a él se escribió que le fue contada, "
+  },
+  {
+    "_id": 28048,
+    "bib_libro": 45,
+    "bib_capitulo": 4,
+    "bib_versiculo": 24,
+    "bib_escritura": " sino también con respecto a nosotros a quienes ha de ser contada, esto es, a los que creemos en el que levantó de los muertos a Jesús, Señor nuestro, "
+  },
+  {
+    "_id": 28049,
+    "bib_libro": 45,
+    "bib_capitulo": 4,
+    "bib_versiculo": 25,
+    "bib_escritura": " el cual fue entregado por nuestras transgresiones, y resucitado para nuestra justificación.  "
+  },
+  {
+    "_id": 28050,
+    "bib_libro": 45,
+    "bib_capitulo": 5,
+    "bib_versiculo": 1,
+    "bib_escritura": " Justificados, pues, por la fe, tenemos paz para con Dios por medio de nuestro Señor Jesucristo; "
+  },
+  {
+    "_id": 28051,
+    "bib_libro": 45,
+    "bib_capitulo": 5,
+    "bib_versiculo": 2,
+    "bib_escritura": " por quien también tenemos entrada por la fe a esta gracia en la cual estamos firmes, y nos gloriamos en la esperanza de la gloria de Dios. "
+  },
+  {
+    "_id": 28052,
+    "bib_libro": 45,
+    "bib_capitulo": 5,
+    "bib_versiculo": 3,
+    "bib_escritura": " Y no sólo esto, sino que también nos gloriamos en las tribulaciones, sabiendo que la tribulación produce paciencia; "
+  },
+  {
+    "_id": 28053,
+    "bib_libro": 45,
+    "bib_capitulo": 5,
+    "bib_versiculo": 4,
+    "bib_escritura": " y la paciencia, prueba; y la prueba, esperanza; "
+  },
+  {
+    "_id": 28054,
+    "bib_libro": 45,
+    "bib_capitulo": 5,
+    "bib_versiculo": 5,
+    "bib_escritura": " y la esperanza no avergüenza; porque el amor de Dios ha sido derramado en nuestros corazones por el Espíritu Santo que nos fue dado. "
+  },
+  {
+    "_id": 28055,
+    "bib_libro": 45,
+    "bib_capitulo": 5,
+    "bib_versiculo": 6,
+    "bib_escritura": " Porque Cristo, cuando aún éramos débiles, a su tiempo murió por los impíos. "
+  },
+  {
+    "_id": 28056,
+    "bib_libro": 45,
+    "bib_capitulo": 5,
+    "bib_versiculo": 7,
+    "bib_escritura": " Ciertamente, apenas morirá alguno por un justo; con todo, pudiera ser que alguno osara morir por el bueno. "
+  },
+  {
+    "_id": 28057,
+    "bib_libro": 45,
+    "bib_capitulo": 5,
+    "bib_versiculo": 8,
+    "bib_escritura": " Mas Dios muestra su amor para con nosotros, en que siendo aún pecadores, Cristo murió por nosotros. "
+  },
+  {
+    "_id": 28058,
+    "bib_libro": 45,
+    "bib_capitulo": 5,
+    "bib_versiculo": 9,
+    "bib_escritura": " Pues mucho más, estando ya justificados en su sangre, por él seremos salvos de la ira."
+  },
+  {
+    "_id": 28059,
+    "bib_libro": 45,
+    "bib_capitulo": 5,
+    "bib_versiculo": 10,
+    "bib_escritura": " Porque si siendo enemigos, fuimos reconciliados con Dios por la muerte de su Hijo, mucho más, estando reconciliados, seremos salvos por su vida. "
+  },
+  {
+    "_id": 28060,
+    "bib_libro": 45,
+    "bib_capitulo": 5,
+    "bib_versiculo": 11,
+    "bib_escritura": " Y no sólo esto, sino que también nos gloriamos en Dios por el Señor nuestro Jesucristo, por quien hemos recibido ahora la reconciliación."
+  },
+  {
+    "_id": 28061,
+    "bib_libro": 45,
+    "bib_capitulo": 5,
+    "bib_versiculo": 12,
+    "bib_escritura": " Por tanto, como el pecado entró en el mundo por un hombre, y por el pecado la muerte, así la muerte pasó a todos los hombres, por cuanto todos pecaron. "
+  },
+  {
+    "_id": 28062,
+    "bib_libro": 45,
+    "bib_capitulo": 5,
+    "bib_versiculo": 13,
+    "bib_escritura": " Pues antes de la ley, había pecado en el mundo; pero donde no hay ley, no se inculpa de pecado. "
+  },
+  {
+    "_id": 28063,
+    "bib_libro": 45,
+    "bib_capitulo": 5,
+    "bib_versiculo": 14,
+    "bib_escritura": " No obstante, reinó la muerte desde Adán hasta Moisés, aun en los que no pecaron a la manera de la transgresión de Adán, el cual es figura del que había de venir. "
+  },
+  {
+    "_id": 28064,
+    "bib_libro": 45,
+    "bib_capitulo": 5,
+    "bib_versiculo": 15,
+    "bib_escritura": " Pero el don no fue como la transgresión; porque si por la transgresión de aquel uno murieron los muchos, abundaron mucho más para los muchos la gracia y el don de Dios por la gracia de un hombre, Jesucristo. "
+  },
+  {
+    "_id": 28065,
+    "bib_libro": 45,
+    "bib_capitulo": 5,
+    "bib_versiculo": 16,
+    "bib_escritura": " Y con el don no sucede como en el caso de aquel uno que pecó; porque ciertamente el juicio vino a causa de un solo pecado para condenación, pero el don vino a causa de muchas transgresiones para justificación. "
+  },
+  {
+    "_id": 28066,
+    "bib_libro": 45,
+    "bib_capitulo": 5,
+    "bib_versiculo": 17,
+    "bib_escritura": " Pues si por la transgresión de uno solo reinó la muerte, mucho más reinarán en vida por uno solo, Jesucristo, los que reciben la abundancia de la gracia y del don de la justicia. "
+  },
+  {
+    "_id": 28067,
+    "bib_libro": 45,
+    "bib_capitulo": 5,
+    "bib_versiculo": 18,
+    "bib_escritura": " Así que, como por la transgresión de uno vino la condenación a todos los hombres, de la misma manera por la justicia de uno vino a todos los hombres la justificación de vida. "
+  },
+  {
+    "_id": 28068,
+    "bib_libro": 45,
+    "bib_capitulo": 5,
+    "bib_versiculo": 19,
+    "bib_escritura": " Porque así como por la desobediencia de un hombre los muchos fueron constituidos pecadores, así también por la obediencia de uno, los muchos serán constituidos justos. "
+  },
+  {
+    "_id": 28069,
+    "bib_libro": 45,
+    "bib_capitulo": 5,
+    "bib_versiculo": 20,
+    "bib_escritura": " Pero la ley se introdujo para que el pecado abundase; mas cuando el pecado abundó, sobreabundó la gracia; "
+  },
+  {
+    "_id": 28070,
+    "bib_libro": 45,
+    "bib_capitulo": 5,
+    "bib_versiculo": 21,
+    "bib_escritura": " para que así como el pecado reinó para muerte, así también la gracia reine por la justicia para vida eterna mediante Jesucristo, Señor nuestro. "
+  },
+  {
+    "_id": 28071,
+    "bib_libro": 45,
+    "bib_capitulo": 6,
+    "bib_versiculo": 1,
+    "bib_escritura": " ¿Qué, pues, diremos? ¿Perseveraremos en el pecado para que la gracia abunde? "
+  },
+  {
+    "_id": 28072,
+    "bib_libro": 45,
+    "bib_capitulo": 6,
+    "bib_versiculo": 2,
+    "bib_escritura": " En ninguna manera. Porque los que hemos muerto al pecado, ¿cómo viviremos aún en él? "
+  },
+  {
+    "_id": 28073,
+    "bib_libro": 45,
+    "bib_capitulo": 6,
+    "bib_versiculo": 3,
+    "bib_escritura": " ¿O no sabéis que todos los que hemos sido bautizados en Cristo Jesús, hemos sido bautizados en su muerte? "
+  },
+  {
+    "_id": 28074,
+    "bib_libro": 45,
+    "bib_capitulo": 6,
+    "bib_versiculo": 4,
+    "bib_escritura": " Porque somos sepultados juntamente con él para muerte por el bautismo, a fin de que como Cristo resucitó de los muertos por la gloria del Padre, así también nosotros andemos en vida nueva."
+  },
+  {
+    "_id": 28075,
+    "bib_libro": 45,
+    "bib_capitulo": 6,
+    "bib_versiculo": 5,
+    "bib_escritura": " Porque si fuimos plantados juntamente con él en la semejanza de su muerte, así también lo seremos en la de su resurrección; "
+  },
+  {
+    "_id": 28076,
+    "bib_libro": 45,
+    "bib_capitulo": 6,
+    "bib_versiculo": 6,
+    "bib_escritura": " sabiendo esto, que nuestro viejo hombre fue crucificado juntamente con él, para que el cuerpo del pecado sea destruido, a fin de que no sirvamos más al pecado. "
+  },
+  {
+    "_id": 28077,
+    "bib_libro": 45,
+    "bib_capitulo": 6,
+    "bib_versiculo": 7,
+    "bib_escritura": " Porque el que ha muerto, ha sido justificado del pecado. "
+  },
+  {
+    "_id": 28078,
+    "bib_libro": 45,
+    "bib_capitulo": 6,
+    "bib_versiculo": 8,
+    "bib_escritura": " Y si morimos con Cristo, creemos que también viviremos con él; "
+  },
+  {
+    "_id": 28079,
+    "bib_libro": 45,
+    "bib_capitulo": 6,
+    "bib_versiculo": 9,
+    "bib_escritura": " sabiendo que Cristo, habiendo resucitado de los muertos, ya no muere; la muerte no se enseñorea más de él. "
+  },
+  {
+    "_id": 28080,
+    "bib_libro": 45,
+    "bib_capitulo": 6,
+    "bib_versiculo": 10,
+    "bib_escritura": " Porque en cuanto murió, al pecado murió una vez por todas; mas en cuanto vive, para Dios vive. "
+  },
+  {
+    "_id": 28081,
+    "bib_libro": 45,
+    "bib_capitulo": 6,
+    "bib_versiculo": 11,
+    "bib_escritura": " Así también vosotros consideraos muertos al pecado, pero vivos para Dios en Cristo Jesús, Señor nuestro. "
+  },
+  {
+    "_id": 28082,
+    "bib_libro": 45,
+    "bib_capitulo": 6,
+    "bib_versiculo": 12,
+    "bib_escritura": " No reine, pues, el pecado en vuestro cuerpo mortal, de modo que lo obedezcáis en sus concupiscencias; "
+  },
+  {
+    "_id": 28083,
+    "bib_libro": 45,
+    "bib_capitulo": 6,
+    "bib_versiculo": 13,
+    "bib_escritura": " ni tampoco presentéis vuestros miembros al pecado como instrumentos de iniquidad, sino presentaos vosotros mismos a Dios como vivos de entre los muertos, y vuestros miembros a Dios como instrumentos de justicia. "
+  },
+  {
+    "_id": 28084,
+    "bib_libro": 45,
+    "bib_capitulo": 6,
+    "bib_versiculo": 14,
+    "bib_escritura": " Porque el pecado no se enseñoreará de vosotros; pues no estáis bajo la ley, sino bajo la gracia."
+  },
+  {
+    "_id": 28085,
+    "bib_libro": 45,
+    "bib_capitulo": 6,
+    "bib_versiculo": 15,
+    "bib_escritura": " ¿Qué, pues? ¿Pecaremos, porque no estamos bajo la ley, sino bajo la gracia? En ninguna manera. "
+  },
+  {
+    "_id": 28086,
+    "bib_libro": 45,
+    "bib_capitulo": 6,
+    "bib_versiculo": 16,
+    "bib_escritura": " ¿No sabéis que si os sometéis a alguien como esclavos para obedecerle, sois esclavos de aquel a quien obedecéis, sea del pecado para muerte, o sea de la obediencia para justicia? "
+  },
+  {
+    "_id": 28087,
+    "bib_libro": 45,
+    "bib_capitulo": 6,
+    "bib_versiculo": 17,
+    "bib_escritura": " Pero gracias a Dios, que aunque erais esclavos del pecado, habéis obedecido de corazón a aquella forma de doctrina a la cual fuisteis entregados; "
+  },
+  {
+    "_id": 28088,
+    "bib_libro": 45,
+    "bib_capitulo": 6,
+    "bib_versiculo": 18,
+    "bib_escritura": " y libertados del pecado, vinisteis a ser siervos de la justicia. "
+  },
+  {
+    "_id": 28089,
+    "bib_libro": 45,
+    "bib_capitulo": 6,
+    "bib_versiculo": 19,
+    "bib_escritura": " Hablo como humano, por vuestra humana debilidad; que así como para iniquidad presentasteis vuestros miembros para servir a la inmundicia y a la iniquidad, así ahora para santificación presentad vuestros miembros para servir a la justicia. "
+  },
+  {
+    "_id": 28090,
+    "bib_libro": 45,
+    "bib_capitulo": 6,
+    "bib_versiculo": 20,
+    "bib_escritura": " Porque cuando erais esclavos del pecado, erais libres acerca de la justicia. "
+  },
+  {
+    "_id": 28091,
+    "bib_libro": 45,
+    "bib_capitulo": 6,
+    "bib_versiculo": 21,
+    "bib_escritura": " ¿Pero qué fruto teníais de aquellas cosas de las cuales ahora os avergonzáis? Porque el fin de ellas es muerte. "
+  },
+  {
+    "_id": 28092,
+    "bib_libro": 45,
+    "bib_capitulo": 6,
+    "bib_versiculo": 22,
+    "bib_escritura": " Mas ahora que habéis sido libertados del pecado y hechos siervos de Dios, tenéis por vuestro fruto la santificación, y como fin, la vida eterna. "
+  },
+  {
+    "_id": 28093,
+    "bib_libro": 45,
+    "bib_capitulo": 6,
+    "bib_versiculo": 23,
+    "bib_escritura": " Porque la paga del pecado es muerte, mas la dádiva de Dios es vida eterna en Cristo Jesús Señor nuestro. "
+  },
+  {
+    "_id": 28094,
+    "bib_libro": 45,
+    "bib_capitulo": 7,
+    "bib_versiculo": 1,
+    "bib_escritura": " ¿Acaso ignoráis, hermanos (pues hablo con los que conocen la ley), que la ley se enseñorea del hombre entre tanto que éste vive? "
+  },
+  {
+    "_id": 28095,
+    "bib_libro": 45,
+    "bib_capitulo": 7,
+    "bib_versiculo": 2,
+    "bib_escritura": " Porque la mujer casada está sujeta por la ley al marido mientras éste vive; pero si el marido muere, ella queda libre de la ley del marido. "
+  },
+  {
+    "_id": 28096,
+    "bib_libro": 45,
+    "bib_capitulo": 7,
+    "bib_versiculo": 3,
+    "bib_escritura": " Así que, si en vida del marido se uniere a otro varón, será llamada adúltera; pero si su marido muriere, es libre de esa ley, de tal manera que si se uniere a otro marido, no será adúltera. "
+  },
+  {
+    "_id": 28097,
+    "bib_libro": 45,
+    "bib_capitulo": 7,
+    "bib_versiculo": 4,
+    "bib_escritura": " Así también vosotros, hermanos míos, habéis muerto a la ley mediante el cuerpo de Cristo, para que seáis de otro, del que resucitó de los muertos, a fin de que llevemos fruto para Dios. "
+  },
+  {
+    "_id": 28098,
+    "bib_libro": 45,
+    "bib_capitulo": 7,
+    "bib_versiculo": 5,
+    "bib_escritura": " Porque mientras estábamos en la carne, las pasiones pecaminosas que eran por la ley obraban en nuestros miembros llevando fruto para muerte. "
+  },
+  {
+    "_id": 28099,
+    "bib_libro": 45,
+    "bib_capitulo": 7,
+    "bib_versiculo": 6,
+    "bib_escritura": " Pero ahora estamos libres de la ley, por haber muerto para aquella en que estábamos sujetos, de modo que sirvamos bajo el régimen nuevo del Espíritu y no bajo el régimen viejo de la letra."
+  },
+  {
+    "_id": 28100,
+    "bib_libro": 45,
+    "bib_capitulo": 7,
+    "bib_versiculo": 7,
+    "bib_escritura": " ¿Qué diremos, pues? ¿La ley es pecado? En ninguna manera. Pero yo no conocí el pecado sino por la ley; porque tampoco conociera la codicia, si la ley no dijera: No codiciarás."
+  },
+  {
+    "_id": 28101,
+    "bib_libro": 45,
+    "bib_capitulo": 7,
+    "bib_versiculo": 8,
+    "bib_escritura": " Mas el pecado, tomando ocasión por el mandamiento, produjo en mí toda codicia; porque sin la ley el pecado está muerto. "
+  },
+  {
+    "_id": 28102,
+    "bib_libro": 45,
+    "bib_capitulo": 7,
+    "bib_versiculo": 9,
+    "bib_escritura": " Y yo sin la ley vivía en un tiempo; pero venido el mandamiento, el pecado revivió y yo morí. "
+  },
+  {
+    "_id": 28103,
+    "bib_libro": 45,
+    "bib_capitulo": 7,
+    "bib_versiculo": 10,
+    "bib_escritura": " Y hallé que el mismo mandamiento que era para vida, a mí me resultó para muerte; "
+  },
+  {
+    "_id": 28104,
+    "bib_libro": 45,
+    "bib_capitulo": 7,
+    "bib_versiculo": 11,
+    "bib_escritura": " porque el pecado, tomando ocasión por el mandamiento, me engañó, y por él me mató."
+  },
+  {
+    "_id": 28105,
+    "bib_libro": 45,
+    "bib_capitulo": 7,
+    "bib_versiculo": 12,
+    "bib_escritura": " De manera que la ley a la verdad es santa, y el mandamiento santo, justo y bueno. "
+  },
+  {
+    "_id": 28106,
+    "bib_libro": 45,
+    "bib_capitulo": 7,
+    "bib_versiculo": 13,
+    "bib_escritura": " ¿Luego lo que es bueno, vino a ser muerte para mí? En ninguna manera; sino que el pecado, para mostrarse pecado, produjo en mí la muerte por medio de lo que es bueno, a fin de que por el mandamiento el pecado llegase a ser sobremanera pecaminoso. "
+  },
+  {
+    "_id": 28107,
+    "bib_libro": 45,
+    "bib_capitulo": 7,
+    "bib_versiculo": 14,
+    "bib_escritura": " Porque sabemos que la ley es espiritual; mas yo soy carnal, vendido al pecado. "
+  },
+  {
+    "_id": 28108,
+    "bib_libro": 45,
+    "bib_capitulo": 7,
+    "bib_versiculo": 15,
+    "bib_escritura": " Porque lo que hago, no lo entiendo; pues no hago lo que quiero, sino lo que aborrezco, eso hago."
+  },
+  {
+    "_id": 28109,
+    "bib_libro": 45,
+    "bib_capitulo": 7,
+    "bib_versiculo": 16,
+    "bib_escritura": " Y si lo que no quiero, esto hago, apruebo que la ley es buena. "
+  },
+  {
+    "_id": 28110,
+    "bib_libro": 45,
+    "bib_capitulo": 7,
+    "bib_versiculo": 17,
+    "bib_escritura": " De manera que ya no soy yo quien hace aquello, sino el pecado que mora en mí. "
+  },
+  {
+    "_id": 28111,
+    "bib_libro": 45,
+    "bib_capitulo": 7,
+    "bib_versiculo": 18,
+    "bib_escritura": " Y yo sé que en mí, esto es, en mi carne, no mora el bien; porque el querer el bien está en mí, pero no el hacerlo. "
+  },
+  {
+    "_id": 28112,
+    "bib_libro": 45,
+    "bib_capitulo": 7,
+    "bib_versiculo": 19,
+    "bib_escritura": " Porque no hago el bien que quiero, sino el mal que no quiero, eso hago. "
+  },
+  {
+    "_id": 28113,
+    "bib_libro": 45,
+    "bib_capitulo": 7,
+    "bib_versiculo": 20,
+    "bib_escritura": " Y si hago lo que no quiero, ya no lo hago yo, sino el pecado que mora en mí. "
+  },
+  {
+    "_id": 28114,
+    "bib_libro": 45,
+    "bib_capitulo": 7,
+    "bib_versiculo": 21,
+    "bib_escritura": " Así que, queriendo yo hacer el bien, hallo esta ley: que el mal está en mí. "
+  },
+  {
+    "_id": 28115,
+    "bib_libro": 45,
+    "bib_capitulo": 7,
+    "bib_versiculo": 22,
+    "bib_escritura": " Porque según el hombre interior, me deleito en la ley de Dios; "
+  },
+  {
+    "_id": 28116,
+    "bib_libro": 45,
+    "bib_capitulo": 7,
+    "bib_versiculo": 23,
+    "bib_escritura": " pero veo otra ley en mis miembros, que se rebela contra la ley de mi mente, y que me lleva cautivo a la ley del pecado que está en mis miembros. "
+  },
+  {
+    "_id": 28117,
+    "bib_libro": 45,
+    "bib_capitulo": 7,
+    "bib_versiculo": 24,
+    "bib_escritura": " ¡Miserable de mí! ¿quién me librará de este cuerpo de muerte? "
+  },
+  {
+    "_id": 28118,
+    "bib_libro": 45,
+    "bib_capitulo": 7,
+    "bib_versiculo": 25,
+    "bib_escritura": " Gracias doy a Dios, por Jesucristo Señor nuestro. Así que, yo mismo con la mente sirvo a la ley de Dios, mas con la carne a la ley del pecado. "
+  },
+  {
+    "_id": 28119,
+    "bib_libro": 45,
+    "bib_capitulo": 8,
+    "bib_versiculo": 1,
+    "bib_escritura": " Ahora, pues, ninguna condenación hay para los que están en Cristo Jesús, los que no andan conforme a la carne, sino conforme al Espíritu. "
+  },
+  {
+    "_id": 28120,
+    "bib_libro": 45,
+    "bib_capitulo": 8,
+    "bib_versiculo": 2,
+    "bib_escritura": " Porque la ley del Espíritu de vida en Cristo Jesús me ha librado de la ley del pecado y de la muerte. "
+  },
+  {
+    "_id": 28121,
+    "bib_libro": 45,
+    "bib_capitulo": 8,
+    "bib_versiculo": 3,
+    "bib_escritura": " Porque lo que era imposible para la ley, por cuanto era débil por la carne, Dios, enviando a su Hijo en semejanza de carne de pecado y a causa del pecado, condenó al pecado en la carne; "
+  },
+  {
+    "_id": 28122,
+    "bib_libro": 45,
+    "bib_capitulo": 8,
+    "bib_versiculo": 4,
+    "bib_escritura": " para que la justicia de la ley se cumpliese en nosotros, que no andamos conforme a la carne, sino conforme al Espíritu. "
+  },
+  {
+    "_id": 28123,
+    "bib_libro": 45,
+    "bib_capitulo": 8,
+    "bib_versiculo": 5,
+    "bib_escritura": " Porque los que son de la carne piensan en las cosas de la carne; pero los que son del Espíritu, en las cosas del Espíritu. "
+  },
+  {
+    "_id": 28124,
+    "bib_libro": 45,
+    "bib_capitulo": 8,
+    "bib_versiculo": 6,
+    "bib_escritura": " Porque el ocuparse de la carne es muerte, pero el ocuparse del Espíritu es vida y paz. "
+  },
+  {
+    "_id": 28125,
+    "bib_libro": 45,
+    "bib_capitulo": 8,
+    "bib_versiculo": 7,
+    "bib_escritura": " Por cuanto los designios de la carne son enemistad contra Dios; porque no se sujetan a la ley de Dios, ni tampoco pueden; "
+  },
+  {
+    "_id": 28126,
+    "bib_libro": 45,
+    "bib_capitulo": 8,
+    "bib_versiculo": 8,
+    "bib_escritura": " y los que viven según la carne no pueden agradar a Dios. "
+  },
+  {
+    "_id": 28127,
+    "bib_libro": 45,
+    "bib_capitulo": 8,
+    "bib_versiculo": 9,
+    "bib_escritura": " Mas vosotros no vivís según la carne, sino según el Espíritu, si es que el Espíritu de Dios mora en vosotros. Y si alguno no tiene el Espíritu de Cristo, no es de él. "
+  },
+  {
+    "_id": 28128,
+    "bib_libro": 45,
+    "bib_capitulo": 8,
+    "bib_versiculo": 10,
+    "bib_escritura": " Pero si Cristo está en vosotros, el cuerpo en verdad está muerto a causa del pecado, mas el espíritu vive a causa de la justicia. "
+  },
+  {
+    "_id": 28129,
+    "bib_libro": 45,
+    "bib_capitulo": 8,
+    "bib_versiculo": 11,
+    "bib_escritura": " Y si el Espíritu de aquel que levantó de los muertos a Jesús mora en vosotros, el que levantó de los muertos a Cristo Jesús vivificará también vuestros cuerpos mortales por su Espíritu que mora en vosotros. "
+  },
+  {
+    "_id": 28130,
+    "bib_libro": 45,
+    "bib_capitulo": 8,
+    "bib_versiculo": 12,
+    "bib_escritura": " Así que, hermanos, deudores somos, no a la carne, para que vivamos conforme a la carne; "
+  },
+  {
+    "_id": 28131,
+    "bib_libro": 45,
+    "bib_capitulo": 8,
+    "bib_versiculo": 13,
+    "bib_escritura": " porque si vivís conforme a la carne, moriréis; mas si por el Espíritu hacéis morir las obras de la carne, viviréis."
+  },
+  {
+    "_id": 28132,
+    "bib_libro": 45,
+    "bib_capitulo": 8,
+    "bib_versiculo": 14,
+    "bib_escritura": " Porque todos los que son guiados por el Espíritu de Dios, éstos son hijos de Dios. "
+  },
+  {
+    "_id": 28133,
+    "bib_libro": 45,
+    "bib_capitulo": 8,
+    "bib_versiculo": 15,
+    "bib_escritura": " Pues no habéis recibido el espíritu de esclavitud para estar otra vez en temor, sino que habéis recibido el espíritu de adopción, por el cual clamamos: ¡Abba, Padre! "
+  },
+  {
+    "_id": 28134,
+    "bib_libro": 45,
+    "bib_capitulo": 8,
+    "bib_versiculo": 16,
+    "bib_escritura": " El Espíritu mismo da testimonio a nuestro espíritu, de que somos hijos de Dios. "
+  },
+  {
+    "_id": 28135,
+    "bib_libro": 45,
+    "bib_capitulo": 8,
+    "bib_versiculo": 17,
+    "bib_escritura": " Y si hijos, también herederos; herederos de Dios y coherederos con Cristo, si es que padecemos juntamente con él, para que juntamente con él seamos glorificados. "
+  },
+  {
+    "_id": 28136,
+    "bib_libro": 45,
+    "bib_capitulo": 8,
+    "bib_versiculo": 18,
+    "bib_escritura": " Pues tengo por cierto que las aflicciones del tiempo presente no son comparables con la gloria venidera que en nosotros ha de manifestarse. "
+  },
+  {
+    "_id": 28137,
+    "bib_libro": 45,
+    "bib_capitulo": 8,
+    "bib_versiculo": 19,
+    "bib_escritura": " Porque el anhelo ardiente de la creación es el aguardar la manifestación de los hijos de Dios. "
+  },
+  {
+    "_id": 28138,
+    "bib_libro": 45,
+    "bib_capitulo": 8,
+    "bib_versiculo": 20,
+    "bib_escritura": " Porque la creación fue sujetada a vanidad, no por su propia voluntad, sino por causa del que la sujetó en esperanza; "
+  },
+  {
+    "_id": 28139,
+    "bib_libro": 45,
+    "bib_capitulo": 8,
+    "bib_versiculo": 21,
+    "bib_escritura": " porque también la creación misma será libertada de la esclavitud de corrupción, a la libertad gloriosa de los hijos de Dios. "
+  },
+  {
+    "_id": 28140,
+    "bib_libro": 45,
+    "bib_capitulo": 8,
+    "bib_versiculo": 22,
+    "bib_escritura": " Porque sabemos que toda la creación gime a una, y a una está con dolores de parto hasta ahora; "
+  },
+  {
+    "_id": 28141,
+    "bib_libro": 45,
+    "bib_capitulo": 8,
+    "bib_versiculo": 23,
+    "bib_escritura": " y no sólo ella, sino que también nosotros mismos, que tenemos las primicias del Espíritu, nosotros también gemimos dentro de nosotros mismos, esperando la adopción, la redención de nuestro cuerpo. "
+  },
+  {
+    "_id": 28142,
+    "bib_libro": 45,
+    "bib_capitulo": 8,
+    "bib_versiculo": 24,
+    "bib_escritura": " Porque en esperanza fuimos salvos; pero la esperanza que se ve, no es esperanza; porque lo que alguno ve, ¿a qué esperarlo? "
+  },
+  {
+    "_id": 28143,
+    "bib_libro": 45,
+    "bib_capitulo": 8,
+    "bib_versiculo": 25,
+    "bib_escritura": " Pero si esperamos lo que no vemos, con paciencia lo aguardamos. "
+  },
+  {
+    "_id": 28144,
+    "bib_libro": 45,
+    "bib_capitulo": 8,
+    "bib_versiculo": 26,
+    "bib_escritura": " Y de igual manera el Espíritu nos ayuda en nuestra debilidad; pues qué hemos de pedir como conviene, no lo sabemos, pero el Espíritu mismo intercede por nosotros con gemidos indecibles. "
+  },
+  {
+    "_id": 28145,
+    "bib_libro": 45,
+    "bib_capitulo": 8,
+    "bib_versiculo": 27,
+    "bib_escritura": " Mas el que escudriña los corazones sabe cuál es la intención del Espíritu, porque conforme a la voluntad de Dios intercede por los santos."
+  },
+  {
+    "_id": 28146,
+    "bib_libro": 45,
+    "bib_capitulo": 8,
+    "bib_versiculo": 28,
+    "bib_escritura": " Y sabemos que a los que aman a Dios, todas las cosas les ayudan a bien, esto es, a los que conforme a su propósito son llamados. "
+  },
+  {
+    "_id": 28147,
+    "bib_libro": 45,
+    "bib_capitulo": 8,
+    "bib_versiculo": 29,
+    "bib_escritura": " Porque a los que antes conoció, también los predestinó para que fuesen hechos conformes a la imagen de su Hijo, para que él sea el primogénito entre muchos hermanos. "
+  },
+  {
+    "_id": 28148,
+    "bib_libro": 45,
+    "bib_capitulo": 8,
+    "bib_versiculo": 30,
+    "bib_escritura": " Y a los que predestinó, a éstos también llamó; y a los que llamó, a éstos también justificó; y a los que justificó, a éstos también glorificó. "
+  },
+  {
+    "_id": 28149,
+    "bib_libro": 45,
+    "bib_capitulo": 8,
+    "bib_versiculo": 31,
+    "bib_escritura": " ¿Qué, pues, diremos a esto? Si Dios es por nosotros, ¿quién contra nosotros? "
+  },
+  {
+    "_id": 28150,
+    "bib_libro": 45,
+    "bib_capitulo": 8,
+    "bib_versiculo": 32,
+    "bib_escritura": " El que no escatimó ni a su propio Hijo, sino que lo entregó por todos nosotros, ¿cómo no nos dará también con él todas las cosas? "
+  },
+  {
+    "_id": 28151,
+    "bib_libro": 45,
+    "bib_capitulo": 8,
+    "bib_versiculo": 33,
+    "bib_escritura": " ¿Quién acusará a los escogidos de Dios? Dios es el que justifica. "
+  },
+  {
+    "_id": 28152,
+    "bib_libro": 45,
+    "bib_capitulo": 8,
+    "bib_versiculo": 34,
+    "bib_escritura": " ¿Quién es el que condenará? Cristo es el que murió; más aun, el que también resucitó, el que además está a la diestra de Dios, el que también intercede por nosotros."
+  },
+  {
+    "_id": 28153,
+    "bib_libro": 45,
+    "bib_capitulo": 8,
+    "bib_versiculo": 35,
+    "bib_escritura": " ¿Quién nos separará del amor de Cristo? ¿Tribulación, o angustia, o persecución, o hambre, o desnudez, o peligro, o espada? "
+  },
+  {
+    "_id": 28154,
+    "bib_libro": 45,
+    "bib_capitulo": 8,
+    "bib_versiculo": 36,
+    "bib_escritura": " Como está escrito: Por causa de ti somos muertos todo el tiempo; Somos contados como ovejas de matadero."
+  },
+  {
+    "_id": 28155,
+    "bib_libro": 45,
+    "bib_capitulo": 8,
+    "bib_versiculo": 37,
+    "bib_escritura": " Antes, en todas estas cosas somos más que vencedores por medio de aquel que nos amó. "
+  },
+  {
+    "_id": 28156,
+    "bib_libro": 45,
+    "bib_capitulo": 8,
+    "bib_versiculo": 38,
+    "bib_escritura": " Por lo cual estoy seguro de que ni la muerte, ni la vida, ni ángeles, ni principados, ni potestades, ni lo presente, ni lo por venir, "
+  },
+  {
+    "_id": 28157,
+    "bib_libro": 45,
+    "bib_capitulo": 8,
+    "bib_versiculo": 39,
+    "bib_escritura": " ni lo alto, ni lo profundo, ni ninguna otra cosa creada nos podrá separar del amor de Dios, que es en Cristo Jesús Señor nuestro. "
+  },
+  {
+    "_id": 28158,
+    "bib_libro": 45,
+    "bib_capitulo": 9,
+    "bib_versiculo": 1,
+    "bib_escritura": " Verdad digo en Cristo, no miento, y mi conciencia me da testimonio en el Espíritu Santo, "
+  },
+  {
+    "_id": 28159,
+    "bib_libro": 45,
+    "bib_capitulo": 9,
+    "bib_versiculo": 2,
+    "bib_escritura": " que tengo gran tristeza y continuo dolor en mi corazón. "
+  },
+  {
+    "_id": 28160,
+    "bib_libro": 45,
+    "bib_capitulo": 9,
+    "bib_versiculo": 3,
+    "bib_escritura": " Porque deseara yo mismo ser anatema, separado de Cristo, por amor a mis hermanos, los que son mis parientes según la carne; "
+  },
+  {
+    "_id": 28161,
+    "bib_libro": 45,
+    "bib_capitulo": 9,
+    "bib_versiculo": 4,
+    "bib_escritura": " que son israelitas, de los cuales son la adopción, la gloria, el pacto, la promulgación de la ley, el culto y las promesas; "
+  },
+  {
+    "_id": 28162,
+    "bib_libro": 45,
+    "bib_capitulo": 9,
+    "bib_versiculo": 5,
+    "bib_escritura": " de quienes son los patriarcas, y de los cuales, según la carne, vino Cristo, el cual es Dios sobre todas las cosas, bendito por los siglos. Amén. "
+  },
+  {
+    "_id": 28163,
+    "bib_libro": 45,
+    "bib_capitulo": 9,
+    "bib_versiculo": 6,
+    "bib_escritura": " No que la palabra de Dios haya fallado; porque no todos los que descienden de Israel son israelitas, "
+  },
+  {
+    "_id": 28164,
+    "bib_libro": 45,
+    "bib_capitulo": 9,
+    "bib_versiculo": 7,
+    "bib_escritura": " ni por ser descendientes de Abraham, son todos hijos; sino: En Isaac te será llamada descendencia."
+  },
+  {
+    "_id": 28165,
+    "bib_libro": 45,
+    "bib_capitulo": 9,
+    "bib_versiculo": 8,
+    "bib_escritura": " Esto es: No los que son hijos según la carne son los hijos de Dios, sino que los que son hijos según la promesa son contados como descendientes. "
+  },
+  {
+    "_id": 28166,
+    "bib_libro": 45,
+    "bib_capitulo": 9,
+    "bib_versiculo": 9,
+    "bib_escritura": " Porque la palabra de la promesa es esta: Por este tiempo vendré, y Sara tendrá un hijo."
+  },
+  {
+    "_id": 28167,
+    "bib_libro": 45,
+    "bib_capitulo": 9,
+    "bib_versiculo": 10,
+    "bib_escritura": " Y no sólo esto, sino también cuando Rebeca concibió de uno, de Isaac nuestro padre "
+  },
+  {
+    "_id": 28168,
+    "bib_libro": 45,
+    "bib_capitulo": 9,
+    "bib_versiculo": 11,
+    "bib_escritura": " (pues no habían aún nacido, ni habían hecho aún ni bien ni mal, para que el propósito de Dios conforme a la elección permaneciese, no por las obras sino por el que llama), "
+  },
+  {
+    "_id": 28169,
+    "bib_libro": 45,
+    "bib_capitulo": 9,
+    "bib_versiculo": 12,
+    "bib_escritura": " se le dijo: El mayor servirá al menor."
+  },
+  {
+    "_id": 28170,
+    "bib_libro": 45,
+    "bib_capitulo": 9,
+    "bib_versiculo": 13,
+    "bib_escritura": " Como está escrito: A Jacob amé, mas a Esaú aborrecí."
+  },
+  {
+    "_id": 28171,
+    "bib_libro": 45,
+    "bib_capitulo": 9,
+    "bib_versiculo": 14,
+    "bib_escritura": " ¿Qué, pues, diremos? ¿Que hay injusticia en Dios? En ninguna manera. "
+  },
+  {
+    "_id": 28172,
+    "bib_libro": 45,
+    "bib_capitulo": 9,
+    "bib_versiculo": 15,
+    "bib_escritura": " Pues a Moisés dice: Tendré misericordia del que yo tenga misericordia, y me compadeceré del que yo me compadezca."
+  },
+  {
+    "_id": 28173,
+    "bib_libro": 45,
+    "bib_capitulo": 9,
+    "bib_versiculo": 16,
+    "bib_escritura": " Así que no depende del que quiere, ni del que corre, sino de Dios que tiene misericordia. "
+  },
+  {
+    "_id": 28174,
+    "bib_libro": 45,
+    "bib_capitulo": 9,
+    "bib_versiculo": 17,
+    "bib_escritura": " Porque la Escritura dice a Faraón: Para esto mismo te he levantado, para mostrar en ti mi poder, y para que mi nombre sea anunciado por toda la tierra."
+  },
+  {
+    "_id": 28175,
+    "bib_libro": 45,
+    "bib_capitulo": 9,
+    "bib_versiculo": 18,
+    "bib_escritura": " De manera que de quien quiere, tiene misericordia, y al que quiere endurecer, endurece. "
+  },
+  {
+    "_id": 28176,
+    "bib_libro": 45,
+    "bib_capitulo": 9,
+    "bib_versiculo": 19,
+    "bib_escritura": " Pero me dirás: ¿Por qué, pues, inculpa? porque ¿quién ha resistido a su voluntad? "
+  },
+  {
+    "_id": 28177,
+    "bib_libro": 45,
+    "bib_capitulo": 9,
+    "bib_versiculo": 20,
+    "bib_escritura": " Mas antes, oh hombre, ¿quién eres tú, para que alterques con Dios? ¿Dirá el vaso de barro al que lo formó: ¿Por qué me has hecho así?"
+  },
+  {
+    "_id": 28178,
+    "bib_libro": 45,
+    "bib_capitulo": 9,
+    "bib_versiculo": 21,
+    "bib_escritura": " ¿O no tiene potestad el alfarero sobre el barro, para hacer de la misma masa un vaso para honra y otro para deshonra? "
+  },
+  {
+    "_id": 28179,
+    "bib_libro": 45,
+    "bib_capitulo": 9,
+    "bib_versiculo": 22,
+    "bib_escritura": " ¿Y qué, si Dios, queriendo mostrar su ira y hacer notorio su poder, soportó con mucha paciencia los vasos de ira preparados para destrucción, "
+  },
+  {
+    "_id": 28180,
+    "bib_libro": 45,
+    "bib_capitulo": 9,
+    "bib_versiculo": 23,
+    "bib_escritura": " y para hacer notorias las riquezas de su gloria, las mostró para con los vasos de misericordia que él preparó de antemano para gloria, "
+  },
+  {
+    "_id": 28181,
+    "bib_libro": 45,
+    "bib_capitulo": 9,
+    "bib_versiculo": 24,
+    "bib_escritura": " a los cuales también ha llamado, esto es, a nosotros, no sólo de los judíos, sino también de los gentiles? "
+  },
+  {
+    "_id": 28182,
+    "bib_libro": 45,
+    "bib_capitulo": 9,
+    "bib_versiculo": 25,
+    "bib_escritura": " Como también en Oseas dice: Llamaré pueblo mío al que no era mi pueblo, Y a la no amada, amada."
+  },
+  {
+    "_id": 28183,
+    "bib_libro": 45,
+    "bib_capitulo": 9,
+    "bib_versiculo": 26,
+    "bib_escritura": " Y en el lugar donde se les dijo: Vosotros no sois pueblo mío, Allí serán llamados hijos del Dios viviente."
+  },
+  {
+    "_id": 28184,
+    "bib_libro": 45,
+    "bib_capitulo": 9,
+    "bib_versiculo": 27,
+    "bib_escritura": " También Isaías clama tocante a Israel: Si fuere el número de los hijos de Israel como la arena del mar, tan sólo el remanente será salvo; "
+  },
+  {
+    "_id": 28185,
+    "bib_libro": 45,
+    "bib_capitulo": 9,
+    "bib_versiculo": 28,
+    "bib_escritura": " porque el Señor ejecutará su sentencia sobre la tierra en justicia y con prontitud."
+  },
+  {
+    "_id": 28186,
+    "bib_libro": 45,
+    "bib_capitulo": 9,
+    "bib_versiculo": 29,
+    "bib_escritura": " Y como antes dijo Isaías: Si el Señor de los ejércitos no nos hubiera dejado descendencia, Como Sodoma habríamos venido a ser, y a Gomorra seríamos semejantes."
+  },
+  {
+    "_id": 28187,
+    "bib_libro": 45,
+    "bib_capitulo": 9,
+    "bib_versiculo": 30,
+    "bib_escritura": " ¿Qué, pues, diremos? Que los gentiles, que no iban tras la justicia, han alcanzado la justicia, es decir, la justicia que es por fe; "
+  },
+  {
+    "_id": 28188,
+    "bib_libro": 45,
+    "bib_capitulo": 9,
+    "bib_versiculo": 31,
+    "bib_escritura": " mas Israel, que iba tras una ley de justicia, no la alcanzó. "
+  },
+  {
+    "_id": 28189,
+    "bib_libro": 45,
+    "bib_capitulo": 9,
+    "bib_versiculo": 32,
+    "bib_escritura": " ¿Por qué? Porque iban tras ella no por fe, sino como por obras de la ley, pues tropezaron en la piedra de tropiezo, "
+  },
+  {
+    "_id": 28190,
+    "bib_libro": 45,
+    "bib_capitulo": 9,
+    "bib_versiculo": 33,
+    "bib_escritura": " como está escrito: He aquí pongo en Sion piedra de tropiezo y roca de caída; Y el que creyere en él, no será avergonzado. "
+  },
+  {
+    "_id": 28191,
+    "bib_libro": 45,
+    "bib_capitulo": 10,
+    "bib_versiculo": 1,
+    "bib_escritura": " Hermanos, ciertamente el anhelo de mi corazón, y mi oración a Dios por Israel, es para salvación."
+  },
+  {
+    "_id": 28192,
+    "bib_libro": 45,
+    "bib_capitulo": 10,
+    "bib_versiculo": 2,
+    "bib_escritura": " Porque yo les doy testimonio de que tienen celo de Dios, pero no conforme a ciencia. "
+  },
+  {
+    "_id": 28193,
+    "bib_libro": 45,
+    "bib_capitulo": 10,
+    "bib_versiculo": 3,
+    "bib_escritura": " Porque ignorando la justicia de Dios, y procurando establecer la suya propia, no se han sujetado a la justicia de Dios; "
+  },
+  {
+    "_id": 28194,
+    "bib_libro": 45,
+    "bib_capitulo": 10,
+    "bib_versiculo": 4,
+    "bib_escritura": " porque el fin de la ley es Cristo, para justicia a todo aquel que cree. "
+  },
+  {
+    "_id": 28195,
+    "bib_libro": 45,
+    "bib_capitulo": 10,
+    "bib_versiculo": 5,
+    "bib_escritura": " Porque de la justicia que es por la ley Moisés escribe así: El hombre que haga estas cosas, vivirá por ellas."
+  },
+  {
+    "_id": 28196,
+    "bib_libro": 45,
+    "bib_capitulo": 10,
+    "bib_versiculo": 6,
+    "bib_escritura": " Pero la justicia que es por la fe dice así: No digas en tu corazón: ¿Quién subirá al cielo? (esto es, para traer abajo a Cristo); "
+  },
+  {
+    "_id": 28197,
+    "bib_libro": 45,
+    "bib_capitulo": 10,
+    "bib_versiculo": 7,
+    "bib_escritura": " o, ¿quién descenderá al abismo? (esto es, para hacer subir a Cristo de entre los muertos). "
+  },
+  {
+    "_id": 28198,
+    "bib_libro": 45,
+    "bib_capitulo": 10,
+    "bib_versiculo": 8,
+    "bib_escritura": " Mas ¿qué dice? Cerca de ti está la palabra, en tu boca y en tu corazón. Esta es la palabra de fe que predicamos: "
+  },
+  {
+    "_id": 28199,
+    "bib_libro": 45,
+    "bib_capitulo": 10,
+    "bib_versiculo": 9,
+    "bib_escritura": " que si confesares con tu boca que Jesús es el Señor, y creyeres en tu corazón que Dios le levantó de los muertos, serás salvo. "
+  },
+  {
+    "_id": 28200,
+    "bib_libro": 45,
+    "bib_capitulo": 10,
+    "bib_versiculo": 10,
+    "bib_escritura": " Porque con el corazón se cree para justicia, pero con la boca se confiesa para salvación. "
+  },
+  {
+    "_id": 28201,
+    "bib_libro": 45,
+    "bib_capitulo": 10,
+    "bib_versiculo": 11,
+    "bib_escritura": " Pues la Escritura dice: Todo aquel que en él creyere, no será avergonzado."
+  },
+  {
+    "_id": 28202,
+    "bib_libro": 45,
+    "bib_capitulo": 10,
+    "bib_versiculo": 12,
+    "bib_escritura": " Porque no hay diferencia entre judío y griego, pues el mismo que es Señor de todos, es rico para con todos los que le invocan; "
+  },
+  {
+    "_id": 28203,
+    "bib_libro": 45,
+    "bib_capitulo": 10,
+    "bib_versiculo": 13,
+    "bib_escritura": " porque todo aquel que invocare el nombre del Señor, será salvo."
+  },
+  {
+    "_id": 28204,
+    "bib_libro": 45,
+    "bib_capitulo": 10,
+    "bib_versiculo": 14,
+    "bib_escritura": " ¿Cómo, pues, invocarán a aquel en el cual no han creído? ¿Y cómo creerán en aquel de quien no han oído? ¿Y cómo oirán sin haber quien les predique? "
+  },
+  {
+    "_id": 28205,
+    "bib_libro": 45,
+    "bib_capitulo": 10,
+    "bib_versiculo": 15,
+    "bib_escritura": " ¿Y cómo predicarán si no fueren enviados? Como está escrito: ¡Cuán hermosos son los pies de los que anuncian la paz, de los que anuncian buenas nuevas!"
+  },
+  {
+    "_id": 28206,
+    "bib_libro": 45,
+    "bib_capitulo": 10,
+    "bib_versiculo": 16,
+    "bib_escritura": " Mas no todos obedecieron al evangelio; pues Isaías dice: Señor, ¿quién ha creído a nuestro anuncio?"
+  },
+  {
+    "_id": 28207,
+    "bib_libro": 45,
+    "bib_capitulo": 10,
+    "bib_versiculo": 17,
+    "bib_escritura": " Así que la fe es por el oír, y el oír, por la palabra de Dios. "
+  },
+  {
+    "_id": 28208,
+    "bib_libro": 45,
+    "bib_capitulo": 10,
+    "bib_versiculo": 18,
+    "bib_escritura": " Pero digo: ¿No han oído? Antes bien, Por toda la tierra ha salido la voz de ellos, Y hasta los fines de la tierra sus palabras."
+  },
+  {
+    "_id": 28209,
+    "bib_libro": 45,
+    "bib_capitulo": 10,
+    "bib_versiculo": 19,
+    "bib_escritura": " También digo: ¿No ha conocido esto Israel? Primeramente Moisés dice: Yo os provocaré a celos con un pueblo que no es pueblo; Con pueblo insensato os provocaré a ira."
+  },
+  {
+    "_id": 28210,
+    "bib_libro": 45,
+    "bib_capitulo": 10,
+    "bib_versiculo": 20,
+    "bib_escritura": " E Isaías dice resueltamente: Fui hallado de los que no me buscaban; Me manifesté a los que no preguntaban por mí."
+  },
+  {
+    "_id": 28211,
+    "bib_libro": 45,
+    "bib_capitulo": 10,
+    "bib_versiculo": 21,
+    "bib_escritura": " Pero acerca de Israel dice: Todo el día extendí mis manos a un puebo rebelde y contradictor."
+  },
+  {
+    "_id": 28212,
+    "bib_libro": 45,
+    "bib_capitulo": 11,
+    "bib_versiculo": 1,
+    "bib_escritura": " Digo, pues: ¿Ha desechado Dios a su pueblo? En ninguna manera. Porque también yo soy israelita, de la descendencia de Abraham, de la tribu de Benjamín."
+  },
+  {
+    "_id": 28213,
+    "bib_libro": 45,
+    "bib_capitulo": 11,
+    "bib_versiculo": 2,
+    "bib_escritura": " No ha desechado Dios a su pueblo, al cual desde antes conoció. ¿O no sabéis qué dice de Elías la Escritura, cómo invoca a Dios contra Israel, diciendo: "
+  },
+  {
+    "_id": 28214,
+    "bib_libro": 45,
+    "bib_capitulo": 11,
+    "bib_versiculo": 3,
+    "bib_escritura": " Señor, a tus profetas han dado muerte, y tus altares han derribado; y sólo yo he quedado, y procuran matarme?"
+  },
+  {
+    "_id": 28215,
+    "bib_libro": 45,
+    "bib_capitulo": 11,
+    "bib_versiculo": 4,
+    "bib_escritura": " Pero ¿qué le dice la divina respuesta? Me he reservado siete mil hombres, que no han doblado la rodilla delante de Baal."
+  },
+  {
+    "_id": 28216,
+    "bib_libro": 45,
+    "bib_capitulo": 11,
+    "bib_versiculo": 5,
+    "bib_escritura": " Así también aun en este tiempo ha quedado un remanente escogido por gracia. "
+  },
+  {
+    "_id": 28217,
+    "bib_libro": 45,
+    "bib_capitulo": 11,
+    "bib_versiculo": 6,
+    "bib_escritura": " Y si por gracia, ya no es por obras; de otra manera la gracia ya no es gracia. Y si por obras, ya no es gracia; de otra manera la obra ya no es obra. "
+  },
+  {
+    "_id": 28218,
+    "bib_libro": 45,
+    "bib_capitulo": 11,
+    "bib_versiculo": 7,
+    "bib_escritura": " ¿Qué pues? Lo que buscaba Israel, no lo ha alcanzado; pero los escogidos sí lo han alcanzado, y los demás fueron endurecidos; "
+  },
+  {
+    "_id": 28219,
+    "bib_libro": 45,
+    "bib_capitulo": 11,
+    "bib_versiculo": 8,
+    "bib_escritura": " como está escrito: Dios les dio espíritu de estupor, ojos con que no vean y oídos con que no oigan, hasta el día de hoy."
+  },
+  {
+    "_id": 28220,
+    "bib_libro": 45,
+    "bib_capitulo": 11,
+    "bib_versiculo": 9,
+    "bib_escritura": " Y David dice: Sea vuelto su convite en trampa y en red, En tropezadero y en retribución; "
+  },
+  {
+    "_id": 28221,
+    "bib_libro": 45,
+    "bib_capitulo": 11,
+    "bib_versiculo": 10,
+    "bib_escritura": " Sean oscurecidos sus ojos para que no vean, Y agóbiales la espalda para siempre."
+  },
+  {
+    "_id": 28222,
+    "bib_libro": 45,
+    "bib_capitulo": 11,
+    "bib_versiculo": 11,
+    "bib_escritura": " Digo, pues: ¿Han tropezado los de Israel para que cayesen? En ninguna manera; pero por su transgresión vino la salvación a los gentiles, para provocarles a celos. "
+  },
+  {
+    "_id": 28223,
+    "bib_libro": 45,
+    "bib_capitulo": 11,
+    "bib_versiculo": 12,
+    "bib_escritura": " Y si su transgresión es la riqueza del mundo, y su defección la riqueza de los gentiles, ¿cuánto más su plena restauración? "
+  },
+  {
+    "_id": 28224,
+    "bib_libro": 45,
+    "bib_capitulo": 11,
+    "bib_versiculo": 13,
+    "bib_escritura": " Porque a vosotros hablo, gentiles. Por cuanto yo soy apóstol a los gentiles, honro mi ministerio, "
+  },
+  {
+    "_id": 28225,
+    "bib_libro": 45,
+    "bib_capitulo": 11,
+    "bib_versiculo": 14,
+    "bib_escritura": " por si en alguna manera pueda provocar a celos a los de mi sangre, y hacer salvos a algunos de ellos. "
+  },
+  {
+    "_id": 28226,
+    "bib_libro": 45,
+    "bib_capitulo": 11,
+    "bib_versiculo": 15,
+    "bib_escritura": " Porque si su exclusión es la reconciliación del mundo, ¿qué será su admisión, sino vida de entre los muertos? "
+  },
+  {
+    "_id": 28227,
+    "bib_libro": 45,
+    "bib_capitulo": 11,
+    "bib_versiculo": 16,
+    "bib_escritura": " Si las primicias son santas, también lo es la masa restante; y si la raíz es santa, también lo son las ramas. "
+  },
+  {
+    "_id": 28228,
+    "bib_libro": 45,
+    "bib_capitulo": 11,
+    "bib_versiculo": 17,
+    "bib_escritura": " Pues si algunas de las ramas fueron desgajadas, y tú, siendo olivo silvestre, has sido injertado en lugar de ellas, y has sido hecho participante de la raíz y de la rica savia del olivo, "
+  },
+  {
+    "_id": 28229,
+    "bib_libro": 45,
+    "bib_capitulo": 11,
+    "bib_versiculo": 18,
+    "bib_escritura": " no te jactes contra las ramas; y si te jactas, sabe que no sustentas tú a la raíz, sino la raíz a ti. "
+  },
+  {
+    "_id": 28230,
+    "bib_libro": 45,
+    "bib_capitulo": 11,
+    "bib_versiculo": 19,
+    "bib_escritura": " Pues las ramas, dirás, fueron desgajadas para que yo fuese injertado. "
+  },
+  {
+    "_id": 28231,
+    "bib_libro": 45,
+    "bib_capitulo": 11,
+    "bib_versiculo": 20,
+    "bib_escritura": " Bien; por su incredulidad fueron desgajadas, pero tú por la fe estás en pie. No te ensoberbezcas, sino teme. "
+  },
+  {
+    "_id": 28232,
+    "bib_libro": 45,
+    "bib_capitulo": 11,
+    "bib_versiculo": 21,
+    "bib_escritura": " Porque si Dios no perdonó a las ramas naturales, a ti tampoco te perdonará. "
+  },
+  {
+    "_id": 28233,
+    "bib_libro": 45,
+    "bib_capitulo": 11,
+    "bib_versiculo": 22,
+    "bib_escritura": " Mira, pues, la bondad y la severidad de Dios; la severidad ciertamente para con los que cayeron, pero la bondad para contigo, si permaneces en esa bondad; pues de otra manera tú también serás cortado. "
+  },
+  {
+    "_id": 28234,
+    "bib_libro": 45,
+    "bib_capitulo": 11,
+    "bib_versiculo": 23,
+    "bib_escritura": " Y aun ellos, si no permanecieren en incredulidad, serán injertados, pues poderoso es Dios para volverlos a injertar. "
+  },
+  {
+    "_id": 28235,
+    "bib_libro": 45,
+    "bib_capitulo": 11,
+    "bib_versiculo": 24,
+    "bib_escritura": " Porque si tú fuiste cortado del que por naturaleza es olivo silvestre, y contra naturaleza fuiste injertado en el buen olivo, ¿cuánto más éstos, que son las ramas naturales, serán injertados en su propio olivo? "
+  },
+  {
+    "_id": 28236,
+    "bib_libro": 45,
+    "bib_capitulo": 11,
+    "bib_versiculo": 25,
+    "bib_escritura": " Porque no quiero, hermanos, que ignoréis este misterio, para que no seáis arrogantes en cuanto a vosotros mismos: que ha acontecido a Israel endurecimiento en parte, hasta que haya entrado la plenitud de los gentiles; "
+  },
+  {
+    "_id": 28237,
+    "bib_libro": 45,
+    "bib_capitulo": 11,
+    "bib_versiculo": 26,
+    "bib_escritura": " y luego todo Israel será salvo, como está escrito: Vendrá de Sion el Libertador, Que apartará de Jacob la impiedad."
+  },
+  {
+    "_id": 28238,
+    "bib_libro": 45,
+    "bib_capitulo": 11,
+    "bib_versiculo": 27,
+    "bib_escritura": " Y este será mi pacto con ellos, Cuando yo quite sus pecados."
+  },
+  {
+    "_id": 28239,
+    "bib_libro": 45,
+    "bib_capitulo": 11,
+    "bib_versiculo": 28,
+    "bib_escritura": " Así que en cuanto al evangelio, son enemigos por causa de vosotros; pero en cuanto a la elección, son amados por causa de los padres. "
+  },
+  {
+    "_id": 28240,
+    "bib_libro": 45,
+    "bib_capitulo": 11,
+    "bib_versiculo": 29,
+    "bib_escritura": " Porque irrevocables son los dones y el llamamiento de Dios. "
+  },
+  {
+    "_id": 28241,
+    "bib_libro": 45,
+    "bib_capitulo": 11,
+    "bib_versiculo": 30,
+    "bib_escritura": " Pues como vosotros también en otro tiempo erais desobedientes a Dios, pero ahora habéis alcanzado misericordia por la desobediencia de ellos, "
+  },
+  {
+    "_id": 28242,
+    "bib_libro": 45,
+    "bib_capitulo": 11,
+    "bib_versiculo": 31,
+    "bib_escritura": " así también éstos ahora han sido desobedientes, para que por la misericordia concedida a vosotros, ellos también alcancen misericordia. "
+  },
+  {
+    "_id": 28243,
+    "bib_libro": 45,
+    "bib_capitulo": 11,
+    "bib_versiculo": 32,
+    "bib_escritura": " Porque Dios sujetó a todos en desobediencia, para tener misericordia de todos. "
+  },
+  {
+    "_id": 28244,
+    "bib_libro": 45,
+    "bib_capitulo": 11,
+    "bib_versiculo": 33,
+    "bib_escritura": " ¡Oh profundidad de las riquezas de la sabiduría y de la ciencia de Dios! ¡Cuán insondables son sus juicios, e inescrutables sus caminos! "
+  },
+  {
+    "_id": 28245,
+    "bib_libro": 45,
+    "bib_capitulo": 11,
+    "bib_versiculo": 34,
+    "bib_escritura": " Porque ¿quién entendió la mente del Señor? ¿O quién fue su consejero?"
+  },
+  {
+    "_id": 28246,
+    "bib_libro": 45,
+    "bib_capitulo": 11,
+    "bib_versiculo": 35,
+    "bib_escritura": " ¿O quién le dio a él primero, para que le fuese recompensado?"
+  },
+  {
+    "_id": 28247,
+    "bib_libro": 45,
+    "bib_capitulo": 11,
+    "bib_versiculo": 36,
+    "bib_escritura": " Porque de él, y por él, y para él, son todas las cosas. A él sea la gloria por los siglos. Amén. "
+  },
+  {
+    "_id": 28248,
+    "bib_libro": 45,
+    "bib_capitulo": 12,
+    "bib_versiculo": 1,
+    "bib_escritura": " Así que, hermanos, os ruego por las misericordias de Dios, que presentéis vuestros cuerpos en sacrificio vivo, santo, agradable a Dios, que es vuestro culto racional. "
+  },
+  {
+    "_id": 28249,
+    "bib_libro": 45,
+    "bib_capitulo": 12,
+    "bib_versiculo": 2,
+    "bib_escritura": " No os conforméis a este siglo, sino transformaos por medio de la renovación de vuestro entendimiento, para que comprobéis cuál sea la buena voluntad de Dios, agradable y perfecta. "
+  },
+  {
+    "_id": 28250,
+    "bib_libro": 45,
+    "bib_capitulo": 12,
+    "bib_versiculo": 3,
+    "bib_escritura": " Digo, pues, por la gracia que me es dada, a cada cual que está entre vosotros, que no tenga más alto concepto de sí que el que debe tener, sino que piense de sí con cordura, conforme a la medida de fe que Dios repartió a cada uno. "
+  },
+  {
+    "_id": 28251,
+    "bib_libro": 45,
+    "bib_capitulo": 12,
+    "bib_versiculo": 4,
+    "bib_escritura": " Porque de la manera que en un cuerpo tenemos muchos miembros, pero no todos los miembros tienen la misma función, "
+  },
+  {
+    "_id": 28252,
+    "bib_libro": 45,
+    "bib_capitulo": 12,
+    "bib_versiculo": 5,
+    "bib_escritura": " así nosotros, siendo muchos, somos un cuerpo en Cristo, y todos miembros los unos de los otros. "
+  },
+  {
+    "_id": 28253,
+    "bib_libro": 45,
+    "bib_capitulo": 12,
+    "bib_versiculo": 6,
+    "bib_escritura": " De manera que, teniendo diferentes dones, según la gracia que nos es dada, si el de profecía, úsese conforme a la medida de la fe; "
+  },
+  {
+    "_id": 28254,
+    "bib_libro": 45,
+    "bib_capitulo": 12,
+    "bib_versiculo": 7,
+    "bib_escritura": " o si de servicio, en servir; o el que enseña, en la enseñanza; "
+  },
+  {
+    "_id": 28255,
+    "bib_libro": 45,
+    "bib_capitulo": 12,
+    "bib_versiculo": 8,
+    "bib_escritura": " el que exhorta, en la exhortación; el que reparte, con liberalidad; el que preside, con solicitud; el que hace misericordia, con alegría. "
+  },
+  {
+    "_id": 28256,
+    "bib_libro": 45,
+    "bib_capitulo": 12,
+    "bib_versiculo": 9,
+    "bib_escritura": " El amor sea sin fingimiento. Aborreced lo malo, seguid lo bueno. "
+  },
+  {
+    "_id": 28257,
+    "bib_libro": 45,
+    "bib_capitulo": 12,
+    "bib_versiculo": 10,
+    "bib_escritura": " Amaos los unos a los otros con amor fraternal; en cuanto a honra, prefiriéndoos los unos a los otros. "
+  },
+  {
+    "_id": 28258,
+    "bib_libro": 45,
+    "bib_capitulo": 12,
+    "bib_versiculo": 11,
+    "bib_escritura": " En lo que requiere diligencia, no perezosos; fervientes en espíritu, sirviendo al Señor; "
+  },
+  {
+    "_id": 28259,
+    "bib_libro": 45,
+    "bib_capitulo": 12,
+    "bib_versiculo": 12,
+    "bib_escritura": " gozosos en la esperanza; sufridos en la tribulación; constantes en la oración; "
+  },
+  {
+    "_id": 28260,
+    "bib_libro": 45,
+    "bib_capitulo": 12,
+    "bib_versiculo": 13,
+    "bib_escritura": " compartiendo para las necesidades de los santos; practicando la hospitalidad. "
+  },
+  {
+    "_id": 28261,
+    "bib_libro": 45,
+    "bib_capitulo": 12,
+    "bib_versiculo": 14,
+    "bib_escritura": " Bendecid a los que os persiguen; bendecid, y no maldigáis. "
+  },
+  {
+    "_id": 28262,
+    "bib_libro": 45,
+    "bib_capitulo": 12,
+    "bib_versiculo": 15,
+    "bib_escritura": " Gozaos con los que se gozan; llorad con los que lloran."
+  },
+  {
+    "_id": 28263,
+    "bib_libro": 45,
+    "bib_capitulo": 12,
+    "bib_versiculo": 16,
+    "bib_escritura": " Unánimes entre vosotros; no altivos, sino asociándoos con los humildes. No seáis sabios en vuestra propia opinión."
+  },
+  {
+    "_id": 28264,
+    "bib_libro": 45,
+    "bib_capitulo": 12,
+    "bib_versiculo": 17,
+    "bib_escritura": " No paguéis a nadie mal por mal; procurad lo bueno delante de todos los hombres. "
+  },
+  {
+    "_id": 28265,
+    "bib_libro": 45,
+    "bib_capitulo": 12,
+    "bib_versiculo": 18,
+    "bib_escritura": " Si es posible, en cuanto dependa de vosotros, estad en paz con todos los hombres. "
+  },
+  {
+    "_id": 28266,
+    "bib_libro": 45,
+    "bib_capitulo": 12,
+    "bib_versiculo": 19,
+    "bib_escritura": " No os venguéis vosotros mismos, amados míos, sino dejad lugar a la ira de Dios; porque escrito está: Mía es la venganza, yo pagaré, dice el Señor."
+  },
+  {
+    "_id": 28267,
+    "bib_libro": 45,
+    "bib_capitulo": 12,
+    "bib_versiculo": 20,
+    "bib_escritura": " Así que, si tu enemigo tuviere hambre, dale de comer; si tuviere sed, dale de beber; pues haciendo esto, ascuas de fuego amontonarás sobre su cabeza."
+  },
+  {
+    "_id": 28268,
+    "bib_libro": 45,
+    "bib_capitulo": 12,
+    "bib_versiculo": 21,
+    "bib_escritura": " No seas vencido de lo malo, sino vence con el bien el mal. "
+  },
+  {
+    "_id": 28269,
+    "bib_libro": 45,
+    "bib_capitulo": 13,
+    "bib_versiculo": 1,
+    "bib_escritura": " Sométase toda persona a las autoridades superiores; porque no hay autoridad sino de parte de Dios, y las que hay, por Dios han sido establecidas. "
+  },
+  {
+    "_id": 28270,
+    "bib_libro": 45,
+    "bib_capitulo": 13,
+    "bib_versiculo": 2,
+    "bib_escritura": " De modo que quien se opone a la autoridad, a lo establecido por Dios resiste; y los que resisten, acarrean condenación para sí mismos. "
+  },
+  {
+    "_id": 28271,
+    "bib_libro": 45,
+    "bib_capitulo": 13,
+    "bib_versiculo": 3,
+    "bib_escritura": " Porque los magistrados no están para infundir temor al que hace el bien, sino al malo. ¿Quieres, pues, no temer la autoridad? Haz lo bueno, y tendrás alabanza de ella; "
+  },
+  {
+    "_id": 28272,
+    "bib_libro": 45,
+    "bib_capitulo": 13,
+    "bib_versiculo": 4,
+    "bib_escritura": " porque es servidor de Dios para tu bien. Pero si haces lo malo, teme; porque no en vano lleva la espada, pues es servidor de Dios, vengador para castigar al que hace lo malo. "
+  },
+  {
+    "_id": 28273,
+    "bib_libro": 45,
+    "bib_capitulo": 13,
+    "bib_versiculo": 5,
+    "bib_escritura": " Por lo cual es necesario estarle sujetos, no solamente por razón del castigo, sino también por causa de la conciencia. "
+  },
+  {
+    "_id": 28274,
+    "bib_libro": 45,
+    "bib_capitulo": 13,
+    "bib_versiculo": 6,
+    "bib_escritura": " Pues por esto pagáis también los tributos, porque son servidores de Dios que atienden continuamente a esto mismo. "
+  },
+  {
+    "_id": 28275,
+    "bib_libro": 45,
+    "bib_capitulo": 13,
+    "bib_versiculo": 7,
+    "bib_escritura": " Pagad a todos lo que debéis: al que tributo, tributo; al que impuesto, impuesto; al que respeto, respeto; al que honra, honra."
+  },
+  {
+    "_id": 28276,
+    "bib_libro": 45,
+    "bib_capitulo": 13,
+    "bib_versiculo": 8,
+    "bib_escritura": " No debáis a nadie nada, sino el amaros unos a otros; porque el que ama al prójimo, ha cumplido la ley."
+  },
+  {
+    "_id": 28277,
+    "bib_libro": 45,
+    "bib_capitulo": 13,
+    "bib_versiculo": 9,
+    "bib_escritura": " Porque: No adulterarás, no matarás, no hurtarás, no dirás falso testimonio, no codiciarás, y cualquier otro mandamiento, en esta sentencia se resume: Amarás a tu prójimo como a ti mismo."
+  },
+  {
+    "_id": 28278,
+    "bib_libro": 45,
+    "bib_capitulo": 13,
+    "bib_versiculo": 10,
+    "bib_escritura": " El amor no hace mal al prójimo; así que el cumplimiento de la ley es el amor. "
+  },
+  {
+    "_id": 28279,
+    "bib_libro": 45,
+    "bib_capitulo": 13,
+    "bib_versiculo": 11,
+    "bib_escritura": " Y esto, conociendo el tiempo, que es ya hora de levantarnos del sueño; porque ahora está más cerca de nosotros nuestra salvación que cuando creímos. "
+  },
+  {
+    "_id": 28280,
+    "bib_libro": 45,
+    "bib_capitulo": 13,
+    "bib_versiculo": 12,
+    "bib_escritura": " La noche está avanzada, y se acerca el día. Desechemos, pues, las obras de las tinieblas, y vistámonos las armas de la luz. "
+  },
+  {
+    "_id": 28281,
+    "bib_libro": 45,
+    "bib_capitulo": 13,
+    "bib_versiculo": 13,
+    "bib_escritura": " Andemos como de día, honestamente; no en glotonerías y borracheras, no en lujurias y lascivias, no en contiendas y envidia, "
+  },
+  {
+    "_id": 28282,
+    "bib_libro": 45,
+    "bib_capitulo": 13,
+    "bib_versiculo": 14,
+    "bib_escritura": " sino vestíos del Señor Jesucristo, y no proveáis para los deseos de la carne."
+  },
+  {
+    "_id": 28283,
+    "bib_libro": 45,
+    "bib_capitulo": 14,
+    "bib_versiculo": 1,
+    "bib_escritura": " Recibid al débil en la fe, pero no para contender sobre opiniones. "
+  },
+  {
+    "_id": 28284,
+    "bib_libro": 45,
+    "bib_capitulo": 14,
+    "bib_versiculo": 2,
+    "bib_escritura": " Porque uno cree que se ha de comer de todo; otro, que es débil, come legumbres. "
+  },
+  {
+    "_id": 28285,
+    "bib_libro": 45,
+    "bib_capitulo": 14,
+    "bib_versiculo": 3,
+    "bib_escritura": " El que come, no menosprecie al que no come, y el que no come, no juzgue al que come; porque Dios le ha recibido. "
+  },
+  {
+    "_id": 28286,
+    "bib_libro": 45,
+    "bib_capitulo": 14,
+    "bib_versiculo": 4,
+    "bib_escritura": " ¿Tú quién eres, que juzgas al criado ajeno? Para su propio señor está en pie, o cae; pero estará firme, porque poderoso es el Señor para hacerle estar firme. "
+  },
+  {
+    "_id": 28287,
+    "bib_libro": 45,
+    "bib_capitulo": 14,
+    "bib_versiculo": 5,
+    "bib_escritura": " Uno hace diferencia entre día y día; otro juzga iguales todos los días. Cada uno esté plenamente convencido en su propia mente."
+  },
+  {
+    "_id": 28288,
+    "bib_libro": 45,
+    "bib_capitulo": 14,
+    "bib_versiculo": 6,
+    "bib_escritura": " El que hace caso del día, lo hace para el Señor; y el que no hace caso del día, para el Señor no lo hace. El que come, para el Señor come, porque da gracias a Dios; y el que no come, para el Señor no come, y da gracias a Dios."
+  },
+  {
+    "_id": 28289,
+    "bib_libro": 45,
+    "bib_capitulo": 14,
+    "bib_versiculo": 7,
+    "bib_escritura": " Porque ninguno de nosotros vive para sí, y ninguno muere para sí. "
+  },
+  {
+    "_id": 28290,
+    "bib_libro": 45,
+    "bib_capitulo": 14,
+    "bib_versiculo": 8,
+    "bib_escritura": " Pues si vivimos, para el Señor vivimos; y si morimos, para el Señor morimos. Así pues, sea que vivamos, o que muramos, del Señor somos. "
+  },
+  {
+    "_id": 28291,
+    "bib_libro": 45,
+    "bib_capitulo": 14,
+    "bib_versiculo": 9,
+    "bib_escritura": " Porque Cristo para esto murió y resucitó, y volvió a vivir, para ser Señor así de los muertos como de los que viven. "
+  },
+  {
+    "_id": 28292,
+    "bib_libro": 45,
+    "bib_capitulo": 14,
+    "bib_versiculo": 10,
+    "bib_escritura": " Pero tú, ¿por qué juzgas a tu hermano? O tú también, ¿por qué menosprecias a tu hermano? Porque todos compareceremos ante el tribunal de Cristo."
+  },
+  {
+    "_id": 28293,
+    "bib_libro": 45,
+    "bib_capitulo": 14,
+    "bib_versiculo": 11,
+    "bib_escritura": " Porque escrito está: Vivo yo, dice el Señor, que ante mí se doblará toda rodilla, Y toda lengua confesará a Dios."
+  },
+  {
+    "_id": 28294,
+    "bib_libro": 45,
+    "bib_capitulo": 14,
+    "bib_versiculo": 12,
+    "bib_escritura": " De manera que cada uno de nosotros dará a Dios cuenta de sí. "
+  },
+  {
+    "_id": 28295,
+    "bib_libro": 45,
+    "bib_capitulo": 14,
+    "bib_versiculo": 13,
+    "bib_escritura": " Así que, ya no nos juzguemos más los unos a los otros, sino más bien decidid no poner tropiezo u ocasión de caer al hermano. "
+  },
+  {
+    "_id": 28296,
+    "bib_libro": 45,
+    "bib_capitulo": 14,
+    "bib_versiculo": 14,
+    "bib_escritura": " Yo sé, y confío en el Señor Jesús, que nada es inmundo en sí mismo; mas para el que piensa que algo es inmundo, para él lo es. "
+  },
+  {
+    "_id": 28297,
+    "bib_libro": 45,
+    "bib_capitulo": 14,
+    "bib_versiculo": 15,
+    "bib_escritura": " Pero si por causa de la comida tu hermano es contristado, ya no andas conforme al amor. No hagas que por la comida tuya se pierda aquel por quien Cristo murió. "
+  },
+  {
+    "_id": 28298,
+    "bib_libro": 45,
+    "bib_capitulo": 14,
+    "bib_versiculo": 16,
+    "bib_escritura": " No sea, pues, vituperado vuestro bien; "
+  },
+  {
+    "_id": 28299,
+    "bib_libro": 45,
+    "bib_capitulo": 14,
+    "bib_versiculo": 17,
+    "bib_escritura": " porque el reino de Dios no es comida ni bebida, sino justicia, paz y gozo en el Espíritu Santo. "
+  },
+  {
+    "_id": 28300,
+    "bib_libro": 45,
+    "bib_capitulo": 14,
+    "bib_versiculo": 18,
+    "bib_escritura": " Porque el que en esto sirve a Cristo, agrada a Dios, y es aprobado por los hombres. "
+  },
+  {
+    "_id": 28301,
+    "bib_libro": 45,
+    "bib_capitulo": 14,
+    "bib_versiculo": 19,
+    "bib_escritura": " Así que, sigamos lo que contribuye a la paz y a la mutua edificación. "
+  },
+  {
+    "_id": 28302,
+    "bib_libro": 45,
+    "bib_capitulo": 14,
+    "bib_versiculo": 20,
+    "bib_escritura": " No destruyas la obra de Dios por causa de la comida. Todas las cosas a la verdad son limpias; pero es malo que el hombre haga tropezar a otros con lo que come. "
+  },
+  {
+    "_id": 28303,
+    "bib_libro": 45,
+    "bib_capitulo": 14,
+    "bib_versiculo": 21,
+    "bib_escritura": " Bueno es no comer carne, ni beber vino, ni nada en que tu hermano tropiece, o se ofenda, o se debilite. "
+  },
+  {
+    "_id": 28304,
+    "bib_libro": 45,
+    "bib_capitulo": 14,
+    "bib_versiculo": 22,
+    "bib_escritura": " ¿Tienes tú fe? Tenla para contigo delante de Dios. Bienaventurado el que no se condena a sí mismo en lo que aprueba. "
+  },
+  {
+    "_id": 28305,
+    "bib_libro": 45,
+    "bib_capitulo": 14,
+    "bib_versiculo": 23,
+    "bib_escritura": " Pero el que duda sobre lo que come, es condenado, porque no lo hace con fe; y todo lo que no proviene de fe, es pecado."
+  },
+  {
+    "_id": 28306,
+    "bib_libro": 45,
+    "bib_capitulo": 15,
+    "bib_versiculo": 1,
+    "bib_escritura": " Así que, los que somos fuertes debemos soportar las flaquezas de los débiles, y no agradarnos a nosotros mismos. "
+  },
+  {
+    "_id": 28307,
+    "bib_libro": 45,
+    "bib_capitulo": 15,
+    "bib_versiculo": 2,
+    "bib_escritura": " Cada uno de nosotros agrade a su prójimo en lo que es bueno, para edificación. "
+  },
+  {
+    "_id": 28308,
+    "bib_libro": 45,
+    "bib_capitulo": 15,
+    "bib_versiculo": 3,
+    "bib_escritura": " Porque ni aun Cristo se agradó a sí mismo; antes bien, como está escrito: Los vituperios de los que te vituperaban, cayeron sobre mí."
+  },
+  {
+    "_id": 28309,
+    "bib_libro": 45,
+    "bib_capitulo": 15,
+    "bib_versiculo": 4,
+    "bib_escritura": " Porque las cosas que se escribieron antes, para nuestra enseñanza se escribieron, a fin de que por la paciencia y la consolación de las Escrituras, tengamos esperanza. "
+  },
+  {
+    "_id": 28310,
+    "bib_libro": 45,
+    "bib_capitulo": 15,
+    "bib_versiculo": 5,
+    "bib_escritura": " Pero el Dios de la paciencia y de la consolación os dé entre vosotros un mismo sentir según Cristo Jesús, "
+  },
+  {
+    "_id": 28311,
+    "bib_libro": 45,
+    "bib_capitulo": 15,
+    "bib_versiculo": 6,
+    "bib_escritura": " para que unánimes, a una voz, glorifiquéis al Dios y Padre de nuestro Señor Jesucristo."
+  },
+  {
+    "_id": 28312,
+    "bib_libro": 45,
+    "bib_capitulo": 15,
+    "bib_versiculo": 7,
+    "bib_escritura": " Por tanto, recibíos los unos a los otros, como también Cristo nos recibió, para gloria de Dios. "
+  },
+  {
+    "_id": 28313,
+    "bib_libro": 45,
+    "bib_capitulo": 15,
+    "bib_versiculo": 8,
+    "bib_escritura": " Pues os digo, que Cristo Jesús vino a ser siervo de la circuncisión para mostrar la verdad de Dios, para confirmar las promesas hechas a los padres, "
+  },
+  {
+    "_id": 28314,
+    "bib_libro": 45,
+    "bib_capitulo": 15,
+    "bib_versiculo": 9,
+    "bib_escritura": " y para que los gentiles glorifiquen a Dios por su misericordia, como está escrito: Por tanto, yo te confesaré entre los gentiles,Y cantaré a tu nombre. "
+  },
+  {
+    "_id": 28315,
+    "bib_libro": 45,
+    "bib_capitulo": 15,
+    "bib_versiculo": 10,
+    "bib_escritura": " Y otra vez dice: Alegraos, gentiles, con su pueblo."
+  },
+  {
+    "_id": 28316,
+    "bib_libro": 45,
+    "bib_capitulo": 15,
+    "bib_versiculo": 11,
+    "bib_escritura": " Y otra vez: Alabad al Señor todos los gentiles, Y magnificadle todos los pueblos."
+  },
+  {
+    "_id": 28317,
+    "bib_libro": 45,
+    "bib_capitulo": 15,
+    "bib_versiculo": 12,
+    "bib_escritura": " Y otra vez dice Isaías: Estará la raíz de Isaí, Y el que se levantará a regir los gentiles; Los gentiles esperarán en él."
+  },
+  {
+    "_id": 28318,
+    "bib_libro": 45,
+    "bib_capitulo": 15,
+    "bib_versiculo": 13,
+    "bib_escritura": " Y el Dios de esperanza os llene de todo gozo y paz en el creer, para que abundéis en esperanza por el poder del Espíritu Santo. "
+  },
+  {
+    "_id": 28319,
+    "bib_libro": 45,
+    "bib_capitulo": 15,
+    "bib_versiculo": 14,
+    "bib_escritura": " Pero estoy seguro de vosotros, hermanos míos, de que vosotros mismos estáis llenos de bondad, llenos de todo conocimiento, de tal manera que podéis amonestaros los unos a los otros. "
+  },
+  {
+    "_id": 28320,
+    "bib_libro": 45,
+    "bib_capitulo": 15,
+    "bib_versiculo": 15,
+    "bib_escritura": " Mas os he escrito, hermanos, en parte con atrevimiento, como para haceros recordar, por la gracia que de Dios me es dada "
+  },
+  {
+    "_id": 28321,
+    "bib_libro": 45,
+    "bib_capitulo": 15,
+    "bib_versiculo": 16,
+    "bib_escritura": " para ser ministro de Jesucristo a los gentiles, ministrando el evangelio de Dios, para que los gentiles le sean ofrenda agradable, santificada por el Espíritu Santo. "
+  },
+  {
+    "_id": 28322,
+    "bib_libro": 45,
+    "bib_capitulo": 15,
+    "bib_versiculo": 17,
+    "bib_escritura": " Tengo, pues, de qué gloriarme en Cristo Jesús en lo que a Dios se refiere. "
+  },
+  {
+    "_id": 28323,
+    "bib_libro": 45,
+    "bib_capitulo": 15,
+    "bib_versiculo": 18,
+    "bib_escritura": " Porque no osaría hablar sino de lo que Cristo ha hecho por medio de mí para la obediencia de los gentiles, con la palabra y con las obras, "
+  },
+  {
+    "_id": 28324,
+    "bib_libro": 45,
+    "bib_capitulo": 15,
+    "bib_versiculo": 19,
+    "bib_escritura": " con potencia de señales y prodigios, en el poder del Espíritu de Dios; de manera que desde Jerusalén, y por los alrededores hasta Ilírico, todo lo he llenado del evangelio de Cristo. "
+  },
+  {
+    "_id": 28325,
+    "bib_libro": 45,
+    "bib_capitulo": 15,
+    "bib_versiculo": 20,
+    "bib_escritura": " Y de esta manera me esforcé a predicar el evangelio, no donde Cristo ya hubiese sido nombrado, para no edificar sobre fundamento ajeno, "
+  },
+  {
+    "_id": 28326,
+    "bib_libro": 45,
+    "bib_capitulo": 15,
+    "bib_versiculo": 21,
+    "bib_escritura": " sino, como está escrito: Aquellos a quienes nunca les fue anunciado acerca de él, verán; Y los que nunca han oído de él, entenderán."
+  },
+  {
+    "_id": 28327,
+    "bib_libro": 45,
+    "bib_capitulo": 15,
+    "bib_versiculo": 22,
+    "bib_escritura": " Por esta causa me he visto impedido muchas veces de ir a vosotros."
+  },
+  {
+    "_id": 28328,
+    "bib_libro": 45,
+    "bib_capitulo": 15,
+    "bib_versiculo": 23,
+    "bib_escritura": " Pero ahora, no teniendo más campo en estas regiones, y deseando desde hace muchos años ir a vosotros, "
+  },
+  {
+    "_id": 28329,
+    "bib_libro": 45,
+    "bib_capitulo": 15,
+    "bib_versiculo": 24,
+    "bib_escritura": " cuando vaya a España, iré a vosotros; porque espero veros al pasar, y ser encaminado allá por vosotros, una vez que haya gozado con vosotros. "
+  },
+  {
+    "_id": 28330,
+    "bib_libro": 45,
+    "bib_capitulo": 15,
+    "bib_versiculo": 25,
+    "bib_escritura": " Mas ahora voy a Jerusalén para ministrar a los santos. "
+  },
+  {
+    "_id": 28331,
+    "bib_libro": 45,
+    "bib_capitulo": 15,
+    "bib_versiculo": 26,
+    "bib_escritura": " Porque Macedonia y Acaya tuvieron a bien hacer una ofrenda para los pobres que hay entre los santos que están en Jerusalén."
+  },
+  {
+    "_id": 28332,
+    "bib_libro": 45,
+    "bib_capitulo": 15,
+    "bib_versiculo": 27,
+    "bib_escritura": " Pues les pareció bueno, y son deudores a ellos; porque si los gentiles han sido hechos participantes de sus bienes espirituales, deben también ellos ministrarles de los materiales."
+  },
+  {
+    "_id": 28333,
+    "bib_libro": 45,
+    "bib_capitulo": 15,
+    "bib_versiculo": 28,
+    "bib_escritura": " Así que, cuando haya concluido esto, y les haya entregado este fruto, pasaré entre vosotros rumbo a España."
+  },
+  {
+    "_id": 28334,
+    "bib_libro": 45,
+    "bib_capitulo": 15,
+    "bib_versiculo": 29,
+    "bib_escritura": " Y sé que cuando vaya a vosotros, llegaré con abundancia de la bendición del evangelio de Cristo. "
+  },
+  {
+    "_id": 28335,
+    "bib_libro": 45,
+    "bib_capitulo": 15,
+    "bib_versiculo": 30,
+    "bib_escritura": " Pero os ruego, hermanos, por nuestro Señor Jesucristo y por el amor del Espíritu, que me ayudéis orando por mí a Dios, "
+  },
+  {
+    "_id": 28336,
+    "bib_libro": 45,
+    "bib_capitulo": 15,
+    "bib_versiculo": 31,
+    "bib_escritura": " para que sea librado de los rebeldes que están en Judea, y que la ofrenda de mi servicio a los santos en Jerusalén sea acepta; "
+  },
+  {
+    "_id": 28337,
+    "bib_libro": 45,
+    "bib_capitulo": 15,
+    "bib_versiculo": 32,
+    "bib_escritura": " para que con gozo llegue a vosotros por la voluntad de Dios, y que sea recreado juntamente con vosotros. "
+  },
+  {
+    "_id": 28338,
+    "bib_libro": 45,
+    "bib_capitulo": 15,
+    "bib_versiculo": 33,
+    "bib_escritura": " Y el Dios de paz sea con todos vosotros. Amén. "
+  },
+  {
+    "_id": 28339,
+    "bib_libro": 45,
+    "bib_capitulo": 16,
+    "bib_versiculo": 1,
+    "bib_escritura": " Os recomiendo además nuestra hermana Febe, la cual es diaconisa de la iglesia en Cencrea; "
+  },
+  {
+    "_id": 28340,
+    "bib_libro": 45,
+    "bib_capitulo": 16,
+    "bib_versiculo": 2,
+    "bib_escritura": " que la recibáis en el Señor, como es digno de los santos, y que la ayudéis en cualquier cosa en que necesite de vosotros; porque ella ha ayudado a muchos, y a mí mismo. "
+  },
+  {
+    "_id": 28341,
+    "bib_libro": 45,
+    "bib_capitulo": 16,
+    "bib_versiculo": 3,
+    "bib_escritura": " Saludad a Priscila y a Aquila, mis colaboradores en Cristo Jesús, "
+  },
+  {
+    "_id": 28342,
+    "bib_libro": 45,
+    "bib_capitulo": 16,
+    "bib_versiculo": 4,
+    "bib_escritura": " que expusieron su vida por mí; a los cuales no sólo yo doy gracias, sino también todas las iglesias de los gentiles. "
+  },
+  {
+    "_id": 28343,
+    "bib_libro": 45,
+    "bib_capitulo": 16,
+    "bib_versiculo": 5,
+    "bib_escritura": " Saludad también a la iglesia de su casa. Saludad a Epeneto, amado mío, que es el primer fruto de Acaya para Cristo. "
+  },
+  {
+    "_id": 28344,
+    "bib_libro": 45,
+    "bib_capitulo": 16,
+    "bib_versiculo": 6,
+    "bib_escritura": " Saludad a María, la cual ha trabajado mucho entre vosotros. "
+  },
+  {
+    "_id": 28345,
+    "bib_libro": 45,
+    "bib_capitulo": 16,
+    "bib_versiculo": 7,
+    "bib_escritura": " Saludad a Andrónico y a Junias, mis parientes y mis compañeros de prisiones, los cuales son muy estimados entre los apóstoles, y que también fueron antes de mí en Cristo. "
+  },
+  {
+    "_id": 28346,
+    "bib_libro": 45,
+    "bib_capitulo": 16,
+    "bib_versiculo": 8,
+    "bib_escritura": " Saludad a Amplias, amado mío en el Señor. "
+  },
+  {
+    "_id": 28347,
+    "bib_libro": 45,
+    "bib_capitulo": 16,
+    "bib_versiculo": 9,
+    "bib_escritura": " Saludad a Urbano, nuestro colaborador en Cristo Jesús, y a Estaquis, amado mío. "
+  },
+  {
+    "_id": 28348,
+    "bib_libro": 45,
+    "bib_capitulo": 16,
+    "bib_versiculo": 10,
+    "bib_escritura": " Saludad a Apeles, aprobado en Cristo. Saludad a los de la casa de Aristóbulo. "
+  },
+  {
+    "_id": 28349,
+    "bib_libro": 45,
+    "bib_capitulo": 16,
+    "bib_versiculo": 11,
+    "bib_escritura": " Saludad a Herodión, mi pariente. Saludad a los de la casa de Narciso, los cuales están en el Señor."
+  },
+  {
+    "_id": 28350,
+    "bib_libro": 45,
+    "bib_capitulo": 16,
+    "bib_versiculo": 12,
+    "bib_escritura": " Saludad a Trifena y a Trifosa, las cuales trabajan en el Señor. Saludad a la amada Pérsida, la cual ha trabajado mucho en el Señor. "
+  },
+  {
+    "_id": 28351,
+    "bib_libro": 45,
+    "bib_capitulo": 16,
+    "bib_versiculo": 13,
+    "bib_escritura": " Saludad a Rufo, escogido en el Señor, y a su madre y mía. "
+  },
+  {
+    "_id": 28352,
+    "bib_libro": 45,
+    "bib_capitulo": 16,
+    "bib_versiculo": 14,
+    "bib_escritura": " Saludad a Asíncrito, a Flegonte, a Hermas, a Patrobas, a Hermes y a los hermanos que están con ellos. "
+  },
+  {
+    "_id": 28353,
+    "bib_libro": 45,
+    "bib_capitulo": 16,
+    "bib_versiculo": 15,
+    "bib_escritura": " Saludad a Filólogo, a Julia, a Nereo y a su hermana, a Olimpas y a todos los santos que están con ellos. "
+  },
+  {
+    "_id": 28354,
+    "bib_libro": 45,
+    "bib_capitulo": 16,
+    "bib_versiculo": 16,
+    "bib_escritura": " Saludaos los unos a los otros con ósculo santo. Os saludan todas las iglesias de Cristo. "
+  },
+  {
+    "_id": 28355,
+    "bib_libro": 45,
+    "bib_capitulo": 16,
+    "bib_versiculo": 17,
+    "bib_escritura": " Mas os ruego, hermanos, que os fijéis en los que causan divisiones y tropiezos en contra de la doctrina que vosotros habéis aprendido, y que os apartéis de ellos. "
+  },
+  {
+    "_id": 28356,
+    "bib_libro": 45,
+    "bib_capitulo": 16,
+    "bib_versiculo": 18,
+    "bib_escritura": " Porque tales personas no sirven a nuestro Señor Jesucristo, sino a sus propios vientres, y con suaves palabras y lisonjas engañan los corazones de los ingenuos. "
+  },
+  {
+    "_id": 28357,
+    "bib_libro": 45,
+    "bib_capitulo": 16,
+    "bib_versiculo": 19,
+    "bib_escritura": " Porque vuestra obediencia ha venido a ser notoria a todos, así que me gozo de vosotros; pero quiero que seáis sabios para el bien, e ingenuos para el mal. "
+  },
+  {
+    "_id": 28358,
+    "bib_libro": 45,
+    "bib_capitulo": 16,
+    "bib_versiculo": 20,
+    "bib_escritura": " Y el Dios de paz aplastará en breve a Satanás bajo vuestros pies. La gracia de nuestro Señor Jesucristo sea con vosotros. "
+  },
+  {
+    "_id": 28359,
+    "bib_libro": 45,
+    "bib_capitulo": 16,
+    "bib_versiculo": 21,
+    "bib_escritura": " Os saludan Timoteo mi colaborador, y Lucio, Jasón y Sosípater, mis parientes. "
+  },
+  {
+    "_id": 28360,
+    "bib_libro": 45,
+    "bib_capitulo": 16,
+    "bib_versiculo": 22,
+    "bib_escritura": " Yo Tercio, que escribí la epístola, os saludo en el Señor. "
+  },
+  {
+    "_id": 28361,
+    "bib_libro": 45,
+    "bib_capitulo": 16,
+    "bib_versiculo": 23,
+    "bib_escritura": " Os saluda Gayo, hospedador mío y de toda la iglesia. Os saluda Erasto, tesorero de la ciudad, y el hermano Cuarto. "
+  },
+  {
+    "_id": 28362,
+    "bib_libro": 45,
+    "bib_capitulo": 16,
+    "bib_versiculo": 24,
+    "bib_escritura": " La gracia de nuestro Señor Jesucristo sea con todos vosotros. Amén."
+  },
+  {
+    "_id": 28363,
+    "bib_libro": 45,
+    "bib_capitulo": 16,
+    "bib_versiculo": 25,
+    "bib_escritura": " Y al que puede confirmaros según mi evangelio y la predicación de Jesucristo, según la revelación del misterio que se ha mantenido oculto desde tiempos eternos, "
+  },
+  {
+    "_id": 28364,
+    "bib_libro": 45,
+    "bib_capitulo": 16,
+    "bib_versiculo": 26,
+    "bib_escritura": " pero que ha sido manifestado ahora, y que por las Escrituras de los profetas, según el mandamiento del Dios eterno, se ha dado a conocer a todas las gentes para que obedezcan a la fe, "
+  },
+  {
+    "_id": 28365,
+    "bib_libro": 45,
+    "bib_capitulo": 16,
+    "bib_versiculo": 27,
+    "bib_escritura": " al único y sabio Dios, sea gloria mediante Jesucristo para siempre. Amén. "
+  }
+]

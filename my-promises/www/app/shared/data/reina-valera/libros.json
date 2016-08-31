@@ -1,0 +1,398 @@
+[
+  {
+    "_id": 1,
+    "lib_num_capitulos": 50,
+    "lib_num_testamento": 1,
+    "lib_nombre": "Génesis"
+  },
+  {
+    "_id": 2,
+    "lib_num_capitulos": 40,
+    "lib_num_testamento": 1,
+    "lib_nombre": "Éxodo"
+  },
+  {
+    "_id": 3,
+    "lib_num_capitulos": 27,
+    "lib_num_testamento": 1,
+    "lib_nombre": "Levítico"
+  },
+  {
+    "_id": 4,
+    "lib_num_capitulos": 36,
+    "lib_num_testamento": 1,
+    "lib_nombre": "Números"
+  },
+  {
+    "_id": 5,
+    "lib_num_capitulos": 34,
+    "lib_num_testamento": 1,
+    "lib_nombre": "Deuteronomio"
+  },
+  {
+    "_id": 6,
+    "lib_num_capitulos": 24,
+    "lib_num_testamento": 1,
+    "lib_nombre": "Josué"
+  },
+  {
+    "_id": 7,
+    "lib_num_capitulos": 21,
+    "lib_num_testamento": 1,
+    "lib_nombre": "Jueces"
+  },
+  {
+    "_id": 8,
+    "lib_num_capitulos": 4,
+    "lib_num_testamento": 1,
+    "lib_nombre": "Rut"
+  },
+  {
+    "_id": 9,
+    "lib_num_capitulos": 31,
+    "lib_num_testamento": 1,
+    "lib_nombre": "1 Samuel"
+  },
+  {
+    "_id": 10,
+    "lib_num_capitulos": 24,
+    "lib_num_testamento": 1,
+    "lib_nombre": "2 Samuel"
+  },
+  {
+    "_id": 11,
+    "lib_num_capitulos": 22,
+    "lib_num_testamento": 1,
+    "lib_nombre": "1 Reyes"
+  },
+  {
+    "_id": 12,
+    "lib_num_capitulos": 25,
+    "lib_num_testamento": 1,
+    "lib_nombre": "2 Reyes"
+  },
+  {
+    "_id": 13,
+    "lib_num_capitulos": 29,
+    "lib_num_testamento": 1,
+    "lib_nombre": "1 Crónicas"
+  },
+  {
+    "_id": 14,
+    "lib_num_capitulos": 36,
+    "lib_num_testamento": 1,
+    "lib_nombre": "2 Crónicas"
+  },
+  {
+    "_id": 15,
+    "lib_num_capitulos": 10,
+    "lib_num_testamento": 1,
+    "lib_nombre": "Esdras"
+  },
+  {
+    "_id": 16,
+    "lib_num_capitulos": 13,
+    "lib_num_testamento": 1,
+    "lib_nombre": "Nehemías"
+  },
+  {
+    "_id": 17,
+    "lib_num_capitulos": 10,
+    "lib_num_testamento": 1,
+    "lib_nombre": "Ester"
+  },
+  {
+    "_id": 18,
+    "lib_num_capitulos": 42,
+    "lib_num_testamento": 1,
+    "lib_nombre": "Job"
+  },
+  {
+    "_id": 19,
+    "lib_num_capitulos": 150,
+    "lib_num_testamento": 1,
+    "lib_nombre": "Salmos"
+  },
+  {
+    "_id": 20,
+    "lib_num_capitulos": 31,
+    "lib_num_testamento": 1,
+    "lib_nombre": "Proverbios"
+  },
+  {
+    "_id": 21,
+    "lib_num_capitulos": 12,
+    "lib_num_testamento": 1,
+    "lib_nombre": "Eclesiastés"
+  },
+  {
+    "_id": 22,
+    "lib_num_capitulos": 8,
+    "lib_num_testamento": 1,
+    "lib_nombre": "Cantares"
+  },
+  {
+    "_id": 23,
+    "lib_num_capitulos": 66,
+    "lib_num_testamento": 1,
+    "lib_nombre": "Isaías"
+  },
+  {
+    "_id": 24,
+    "lib_num_capitulos": 52,
+    "lib_num_testamento": 1,
+    "lib_nombre": "Jeremías"
+  },
+  {
+    "_id": 25,
+    "lib_num_capitulos": 5,
+    "lib_num_testamento": 1,
+    "lib_nombre": "Lamentaciones"
+  },
+  {
+    "_id": 26,
+    "lib_num_capitulos": 48,
+    "lib_num_testamento": 1,
+    "lib_nombre": "Ezequiel"
+  },
+  {
+    "_id": 27,
+    "lib_num_capitulos": 12,
+    "lib_num_testamento": 1,
+    "lib_nombre": "Daniel"
+  },
+  {
+    "_id": 28,
+    "lib_num_capitulos": 14,
+    "lib_num_testamento": 1,
+    "lib_nombre": "Oseas"
+  },
+  {
+    "_id": 29,
+    "lib_num_capitulos": 3,
+    "lib_num_testamento": 1,
+    "lib_nombre": "Joel"
+  },
+  {
+    "_id": 30,
+    "lib_num_capitulos": 9,
+    "lib_num_testamento": 1,
+    "lib_nombre": "Amós"
+  },
+  {
+    "_id": 31,
+    "lib_num_capitulos": 1,
+    "lib_num_testamento": 1,
+    "lib_nombre": "Abdías"
+  },
+  {
+    "_id": 32,
+    "lib_num_capitulos": 4,
+    "lib_num_testamento": 1,
+    "lib_nombre": "Jonás"
+  },
+  {
+    "_id": 33,
+    "lib_num_capitulos": 7,
+    "lib_num_testamento": 1,
+    "lib_nombre": "Miqueas"
+  },
+  {
+    "_id": 34,
+    "lib_num_capitulos": 3,
+    "lib_num_testamento": 1,
+    "lib_nombre": "Nahúm"
+  },
+  {
+    "_id": 35,
+    "lib_num_capitulos": 3,
+    "lib_num_testamento": 1,
+    "lib_nombre": "Habacuc"
+  },
+  {
+    "_id": 36,
+    "lib_num_capitulos": 3,
+    "lib_num_testamento": 1,
+    "lib_nombre": "Sofonías"
+  },
+  {
+    "_id": 37,
+    "lib_num_capitulos": 2,
+    "lib_num_testamento": 1,
+    "lib_nombre": "Hageo"
+  },
+  {
+    "_id": 38,
+    "lib_num_capitulos": 14,
+    "lib_num_testamento": 1,
+    "lib_nombre": "Zacarías"
+  },
+  {
+    "_id": 39,
+    "lib_num_capitulos": 4,
+    "lib_num_testamento": 1,
+    "lib_nombre": "Malaquías"
+  },
+  {
+    "_id": 40,
+    "lib_num_capitulos": 28,
+    "lib_num_testamento": 2,
+    "lib_nombre": "Mateo"
+  },
+  {
+    "_id": 41,
+    "lib_num_capitulos": 16,
+    "lib_num_testamento": 2,
+    "lib_nombre": "Marcos"
+  },
+  {
+    "_id": 42,
+    "lib_num_capitulos": 24,
+    "lib_num_testamento": 2,
+    "lib_nombre": "Lucas"
+  },
+  {
+    "_id": 43,
+    "lib_num_capitulos": 21,
+    "lib_num_testamento": 2,
+    "lib_nombre": "Juan"
+  },
+  {
+    "_id": 44,
+    "lib_num_capitulos": 28,
+    "lib_num_testamento": 2,
+    "lib_nombre": "Hechos"
+  },
+  {
+    "_id": 45,
+    "lib_num_capitulos": 16,
+    "lib_num_testamento": 2,
+    "lib_nombre": "Romanos"
+  },
+  {
+    "_id": 46,
+    "lib_num_capitulos": 16,
+    "lib_num_testamento": 2,
+    "lib_nombre": "1 Corintios"
+  },
+  {
+    "_id": 47,
+    "lib_num_capitulos": 13,
+    "lib_num_testamento": 2,
+    "lib_nombre": "2 Corintios"
+  },
+  {
+    "_id": 48,
+    "lib_num_capitulos": 6,
+    "lib_num_testamento": 2,
+    "lib_nombre": "Gálatas"
+  },
+  {
+    "_id": 49,
+    "lib_num_capitulos": 6,
+    "lib_num_testamento": 2,
+    "lib_nombre": "Efesios"
+  },
+  {
+    "_id": 50,
+    "lib_num_capitulos": 4,
+    "lib_num_testamento": 2,
+    "lib_nombre": "Filipenses"
+  },
+  {
+    "_id": 51,
+    "lib_num_capitulos": 4,
+    "lib_num_testamento": 2,
+    "lib_nombre": "Colosenses"
+  },
+  {
+    "_id": 52,
+    "lib_num_capitulos": 5,
+    "lib_num_testamento": 2,
+    "lib_nombre": "1 Tesalonicenses"
+  },
+  {
+    "_id": 53,
+    "lib_num_capitulos": 3,
+    "lib_num_testamento": 2,
+    "lib_nombre": "2 Tesalonicenses"
+  },
+  {
+    "_id": 54,
+    "lib_num_capitulos": 6,
+    "lib_num_testamento": 2,
+    "lib_nombre": "1 Timoteo"
+  },
+  {
+    "_id": 55,
+    "lib_num_capitulos": 4,
+    "lib_num_testamento": 2,
+    "lib_nombre": "2 Timoteo"
+  },
+  {
+    "_id": 56,
+    "lib_num_capitulos": 3,
+    "lib_num_testamento": 2,
+    "lib_nombre": "Tito"
+  },
+  {
+    "_id": 57,
+    "lib_num_capitulos": 1,
+    "lib_num_testamento": 2,
+    "lib_nombre": "Filemón"
+  },
+  {
+    "_id": 58,
+    "lib_num_capitulos": 13,
+    "lib_num_testamento": 2,
+    "lib_nombre": "Hebreos"
+  },
+  {
+    "_id": 59,
+    "lib_num_capitulos": 5,
+    "lib_num_testamento": 2,
+    "lib_nombre": "Santiago"
+  },
+  {
+    "_id": 60,
+    "lib_num_capitulos": 5,
+    "lib_num_testamento": 2,
+    "lib_nombre": "1 Pedro"
+  },
+  {
+    "_id": 61,
+    "lib_num_capitulos": 3,
+    "lib_num_testamento": 2,
+    "lib_nombre": "2 Pedro"
+  },
+  {
+    "_id": 62,
+    "lib_num_capitulos": 5,
+    "lib_num_testamento": 2,
+    "lib_nombre": "1 Juan"
+  },
+  {
+    "_id": 63,
+    "lib_num_capitulos": 1,
+    "lib_num_testamento": 2,
+    "lib_nombre": "2 Juan"
+  },
+  {
+    "_id": 64,
+    "lib_num_capitulos": 1,
+    "lib_num_testamento": 2,
+    "lib_nombre": "3 Juan"
+  },
+  {
+    "_id": 65,
+    "lib_num_capitulos": 1,
+    "lib_num_testamento": 2,
+    "lib_nombre": "Judas"
+  },
+  {
+    "_id": 66,
+    "lib_num_capitulos": 22,
+    "lib_num_testamento": 2,
+    "lib_nombre": "Apocalipsis"
+  }
+]

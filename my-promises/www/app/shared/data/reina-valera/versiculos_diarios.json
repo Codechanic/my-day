@@ -1,0 +1,440 @@
+[
+  {
+    "_id": 1,
+    "vdi_id_biblia": 17837,
+    "vdi_versos": "6",
+    "vdi_contador": 0
+  },
+  {
+    "_id": 2,
+    "vdi_id_biblia": 18449,
+    "vdi_versos": "28",
+    "vdi_contador": 0
+  },
+  {
+    "_id": 3,
+    "vdi_id_biblia": 1,
+    "vdi_versos": "1",
+    "vdi_contador": 0
+  },
+  {
+    "_id": 4,
+    "vdi_id_biblia": 26138,
+    "vdi_versos": "16-17",
+    "vdi_contador": 0
+  },
+  {
+    "_id": 5,
+    "vdi_id_biblia": 28016,
+    "vdi_versos": "23",
+    "vdi_contador": 0
+  },
+  {
+    "_id": 6,
+    "vdi_id_biblia": 28093,
+    "vdi_versos": "23",
+    "vdi_contador": 0
+  },
+  {
+    "_id": 7,
+    "vdi_id_biblia": 30769,
+    "vdi_versos": "20",
+    "vdi_contador": 0
+  },
+  {
+    "_id": 8,
+    "vdi_id_biblia": 26676,
+    "vdi_versos": "6",
+    "vdi_contador": 0
+  },
+  {
+    "_id": 9,
+    "vdi_id_biblia": 29239,
+    "vdi_versos": "8-9",
+    "vdi_contador": 0
+  },
+  {
+    "_id": 10,
+    "vdi_id_biblia": 28896,
+    "vdi_versos": "17",
+    "vdi_contador": 0
+  },
+  {
+    "_id": 11,
+    "vdi_id_biblia": 28146,
+    "vdi_versos": "28",
+    "vdi_contador": 0
+  },
+  {
+    "_id": 12,
+    "vdi_id_biblia": 18451,
+    "vdi_versos": "30-31",
+    "vdi_contador": 0
+  },
+  {
+    "_id": 13,
+    "vdi_id_biblia": 28156,
+    "vdi_versos": "38-39",
+    "vdi_contador": 0
+  },
+  {
+    "_id": 14,
+    "vdi_id_biblia": 23489,
+    "vdi_versos": "28-30",
+    "vdi_contador": 0
+  },
+  {
+    "_id": 15,
+    "vdi_id_biblia": 14287,
+    "vdi_versos": "1",
+    "vdi_contador": 0
+  },
+  {
+    "_id": 16,
+    "vdi_id_biblia": 19648,
+    "vdi_versos": "11",
+    "vdi_contador": 0
+  },
+  {
+    "_id": 17,
+    "vdi_id_biblia": 30222,
+    "vdi_versos": "8",
+    "vdi_contador": 0
+  },
+  {
+    "_id": 18,
+    "vdi_id_biblia": 30533,
+    "vdi_versos": "9",
+    "vdi_contador": 0
+  },
+  {
+    "_id": 19,
+    "vdi_id_biblia": 20378,
+    "vdi_versos": "22-23",
+    "vdi_contador": 0
+  },
+  {
+    "_id": 20,
+    "vdi_id_biblia": 29033,
+    "vdi_versos": "9",
+    "vdi_contador": 0
+  },
+  {
+    "_id": 21,
+    "vdi_id_biblia": 28879,
+    "vdi_versos": "18",
+    "vdi_contador": 0
+  },
+  {
+    "_id": 22,
+    "vdi_id_biblia": 14455,
+    "vdi_versos": "4-5",
+    "vdi_contador": 0
+  },
+  {
+    "_id": 23,
+    "vdi_id_biblia": 16446,
+    "vdi_versos": "5-7",
+    "vdi_contador": 0
+  },
+  {
+    "_id": 24,
+    "vdi_id_biblia": 29457,
+    "vdi_versos": "13",
+    "vdi_contador": 0
+  },
+  {
+    "_id": 25,
+    "vdi_id_biblia": 29103,
+    "vdi_versos": "20",
+    "vdi_contador": 0
+  },
+  {
+    "_id": 26,
+    "vdi_id_biblia": 30290,
+    "vdi_versos": "22",
+    "vdi_contador": 0
+  },
+  {
+    "_id": 27,
+    "vdi_id_biblia": 29542,
+    "vdi_versos": "23",
+    "vdi_contador": 0
+  },
+  {
+    "_id": 28,
+    "vdi_id_biblia": 28778,
+    "vdi_versos": "58",
+    "vdi_contador": 0
+  },
+  {
+    "_id": 29,
+    "vdi_id_biblia": 30346,
+    "vdi_versos": "7",
+    "vdi_contador": 0
+  },
+  {
+    "_id": 30,
+    "vdi_id_biblia": 25635,
+    "vdi_versos": "13",
+    "vdi_contador": 0
+  },
+  {
+    "_id": 31,
+    "vdi_id_biblia": 26165,
+    "vdi_versos": "7-8",
+    "vdi_contador": 0
+  },
+  {
+    "_id": 32,
+    "vdi_id_biblia": 29186,
+    "vdi_versos": "22-23",
+    "vdi_contador": 0
+  },
+  {
+    "_id": 33,
+    "vdi_id_biblia": 30215,
+    "vdi_versos": "1-2",
+    "vdi_contador": 0
+  },
+  {
+    "_id": 34,
+    "vdi_id_biblia": 26933,
+    "vdi_versos": "8",
+    "vdi_contador": 0
+  },
+  {
+    "_id": 35,
+    "vdi_id_biblia": 28248,
+    "vdi_versos": "1-2",
+    "vdi_contador": 0
+  },
+  {
+    "_id": 36,
+    "vdi_id_biblia": 29641,
+    "vdi_versos": "18",
+    "vdi_contador": 0
+  },
+  {
+    "_id": 37,
+    "vdi_id_biblia": 14183,
+    "vdi_versos": "14",
+    "vdi_contador": 0
+  },
+  {
+    "_id": 38,
+    "vdi_id_biblia": 29450,
+    "vdi_versos": "6-7",
+    "vdi_contador": 0
+  },
+  {
+    "_id": 39,
+    "vdi_id_biblia": 29871,
+    "vdi_versos": "16",
+    "vdi_contador": 0
+  },
+  {
+    "_id": 40,
+    "vdi_id_biblia": 16005,
+    "vdi_versos": "105",
+    "vdi_contador": 0
+  },
+  {
+    "_id": 41,
+    "vdi_id_biblia": 15911,
+    "vdi_versos": "11",
+    "vdi_contador": 0
+  },
+  {
+    "_id": 42,
+    "vdi_id_biblia": 30032,
+    "vdi_versos": "16",
+    "vdi_contador": 0
+  },
+  {
+    "_id": 43,
+    "vdi_id_biblia": 30551,
+    "vdi_versos": "9",
+    "vdi_contador": 0
+  },
+  {
+    "_id": 44,
+    "vdi_id_biblia": 30372,
+    "vdi_versos": "16",
+    "vdi_contador": 0
+  },
+  {
+    "_id": 45,
+    "vdi_id_biblia": 28582,
+    "vdi_versos": "13",
+    "vdi_contador": 0
+  },
+  {
+    "_id": 46,
+    "vdi_id_biblia": 22658,
+    "vdi_versos": "8",
+    "vdi_contador": 0
+  },
+  {
+    "_id": 47,
+    "vdi_id_biblia": 24050,
+    "vdi_versos": "40",
+    "vdi_contador": 0
+  },
+  {
+    "_id": 48,
+    "vdi_id_biblia": 24216,
+    "vdi_versos": "19-20",
+    "vdi_contador": 0
+  },
+  {
+    "_id": 49,
+    "vdi_id_biblia": 23252,
+    "vdi_versos": "16",
+    "vdi_contador": 0
+  },
+  {
+    "_id": 50,
+    "vdi_id_biblia": 29351,
+    "vdi_versos": "12",
+    "vdi_contador": 0
+  },
+  {
+    "_id": 51,
+    "vdi_id_biblia": 19780,
+    "vdi_versos": "3",
+    "vdi_contador": 0
+  },
+  {
+    "_id": 52,
+    "vdi_id_biblia": 18462,
+    "vdi_versos": "10",
+    "vdi_contador": 0
+  },
+  {
+    "_id": 53,
+    "vdi_id_biblia": 14242,
+    "vdi_versos": "6",
+    "vdi_contador": 0
+  },
+  {
+    "_id": 54,
+    "vdi_id_biblia": 19783,
+    "vdi_versos": "6",
+    "vdi_contador": 0
+  },
+  {
+    "_id": 55,
+    "vdi_id_biblia": 14287,
+    "vdi_versos": "1",
+    "vdi_contador": 0
+  },
+  {
+    "_id": 56,
+    "vdi_id_biblia": 14237,
+    "vdi_versos": "1",
+    "vdi_contador": 0
+  },
+  {
+    "_id": 57,
+    "vdi_id_biblia": 23132,
+    "vdi_versos": "10",
+    "vdi_contador": 0
+  },
+  {
+    "_id": 58,
+    "vdi_id_biblia": 23133,
+    "vdi_versos": "11",
+    "vdi_contador": 0
+  },
+  {
+    "_id": 59,
+    "vdi_id_biblia": 15411,
+    "vdi_versos": "14-16",
+    "vdi_contador": 0
+  },
+  {
+    "_id": 60,
+    "vdi_id_biblia": 30060,
+    "vdi_versos": "14",
+    "vdi_contador": 0
+  },
+  {
+    "_id": 61,
+    "vdi_id_biblia": 24563,
+    "vdi_versos": "23",
+    "vdi_contador": 0
+  },
+  {
+    "_id": 62,
+    "vdi_id_biblia": 14475,
+    "vdi_versos": "24",
+    "vdi_contador": 0
+  },
+  {
+    "_id": 63,
+    "vdi_id_biblia": 25717,
+    "vdi_versos": "27",
+    "vdi_contador": 0
+  },
+  {
+    "_id": 64,
+    "vdi_id_biblia": 1614,
+    "vdi_versos": "12",
+    "vdi_contador": 0
+  },
+  {
+    "_id": 65,
+    "vdi_id_biblia": 29818,
+    "vdi_versos": "7",
+    "vdi_contador": 0
+  },
+  {
+    "_id": 66,
+    "vdi_id_biblia": 18465,
+    "vdi_versos": "13",
+    "vdi_contador": 0
+  },
+  {
+    "_id": 67,
+    "vdi_id_biblia": 16241,
+    "vdi_versos": "8",
+    "vdi_contador": 0
+  },
+  {
+    "_id": 68,
+    "vdi_id_biblia": 30248,
+    "vdi_versos": "5",
+    "vdi_contador": 0
+  },
+  {
+    "_id": 69,
+    "vdi_id_biblia": 18452,
+    "vdi_versos": "31",
+    "vdi_contador": 0
+  },
+  {
+    "_id": 70,
+    "vdi_id_biblia": 30031,
+    "vdi_versos": "15",
+    "vdi_contador": 0
+  },
+  {
+    "_id": 71,
+    "vdi_id_biblia": 26667,
+    "vdi_versos": "35",
+    "vdi_contador": 0
+  },
+  {
+    "_id": 72,
+    "vdi_id_biblia": 18749,
+    "vdi_versos": "8",
+    "vdi_contador": 0
+  },
+  {
+    "_id": 73,
+    "vdi_id_biblia": 23911,
+    "vdi_versos": "37",
+    "vdi_contador": 0
+  }
+]
