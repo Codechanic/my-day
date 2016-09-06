@@ -3,7 +3,7 @@
  */
 angular.module('app.controllers').controller('PsalmController',PsalmController);
 
-function PsalmController($scope,PsalmsTree,Book) {
+function PsalmController($scope,PsalmsTree,Book, Valera) {
     $scope.PsalmTree = PsalmsTree;
     $scope.category= {};
     $scope.chapter= {};
@@ -46,6 +46,10 @@ function PsalmController($scope,PsalmsTree,Book) {
             $scope.chapter = Book.chapters[$scope.psalm-1];
             $scope.chapter.verses = $scope.chapter.verses.map(function (el) {
                return Object.keys(el)[0] +"-" +  el[Object.keys(el)[0]];
+            });
+            
+            $scope.versos = Valera.chapters.filter(function (el) {
+                return el.bib_capitulo==psalm;
             });
         }
     }

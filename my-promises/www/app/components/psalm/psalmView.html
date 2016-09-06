@@ -35,9 +35,10 @@
         </ons-list-item>
     </ons-list>
     <ons-list class="person-list" data-ng-show="showPsalm()==true">
-        <ons-list-header class="person-list-header">Psalm {{psalm}}</ons-list-header>
-        <ons-list-item class="person" data-ng-repeat="verse in chapter.verses track by $index">
-            {{verse}}
+        <ons-list-header class="person-list-header">Salmo {{psalm}}</ons-list-header>
+        <!--<ons-list-item class="person" data-ng-repeat="verse in chapter.verses track by $index">-->
+        <ons-list-item class="person" data-ng-repeat="verse in versos track by $index">
+           <em>{{verse.bib_versiculo}} - </em> {{verse.bib_escritura}}
         </ons-list-item>
     </ons-list>
 </ons-page>
